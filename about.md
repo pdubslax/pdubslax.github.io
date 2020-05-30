@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title:
 permalink: /about/
 ---
 
-Some information about you!
+<img src="{{ site.baseurl }}/images/profile-pic.png" class="site-avatar" >
 
-### More Information
+Welcome to the blog! Here, you may find ramblings on a number of topics including cycling/triathlon, technology, music production, philosophy, sports, and more. I created this space to have an outlet to exchange thoughts, conversation, and learnings with the world and to encourage myself to continue creating.
 
-A place to include any other types of information that you'd like to include about yourself.
+Professionally, I'm a full-stack software engineer actively seeking new opportunities (bay area or remote). I find my greatest strengths to be at the boundary of product and engineering and enjoy immersing myself in new problem spaces.  
 
-### Contact me
+Learn more about my most recent work at [Samsara](https://www.samsara.com/fleet/equipment-tracking) or [Pocket Gems](https://pocketgems.com/episode/) in my [resume]({{ site.baseurl }}/resume.pdf).
 
-[email@domain.com](mailto:email@domain.com)
+Contact me at [me@pdubslax.com](https://mail.google.com/mail/?view=cm&fs=1&to=me@pdubslax.com) or find me on [Github](https://github.com/pdubslax) or [LinkedIn](https://www.linkedin.com/in/pdubslax/)
