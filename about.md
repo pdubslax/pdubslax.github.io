@@ -8,7 +8,7 @@ permalink: /about/
 
 Welcome to the blog! Here, you may find ramblings on a number of topics including cycling/triathlon, technology, music production, philosophy, sports, and more. I created this space to have an outlet to exchange thoughts, conversation, and learnings with the world and to encourage myself to continue creating.
 
-Professionally, I'm a software engineer working in the trucking industry. I find my greatest strengths to be at the boundary of product and engineering and enjoy immersing myself in new problem spaces.  
+Professionally, I'm a software engineer working in the trucking industry and am always down to talk technology, and how it can be leveraged to improve logistic paradigms. I find my greatest strengths to be at the boundary of product and engineering and enjoy immersing myself in new problem spaces.  
 
 Learn more about my most recent work at [Samsara](https://www.samsara.com/fleet/equipment-tracking) or [Pocket Gems](https://pocketgems.com/episode/) in my [resume]({{ site.baseurl }}/resume.pdf).
 
