@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Monday/Tuesday Night Football - Fantasy Preview - Week 5
+title: Monday Night Football - Fantasy Preview - Week 5
 ---
 
 A weekly newsletter for members of the Harry Koch Memorial Cup Fantasy Football league - all others will have their **TONSILS REINSERTED**
