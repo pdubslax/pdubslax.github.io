@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Rethinking NCAA Football CFP Rankings using PageRank Adaptations
-published: true
+visible: 1
 ---
 
 The current system of determining College Football Playoff Rankings is potentially subject to a number of biases, and Google’s PageRank algorithm may offer a fix.
