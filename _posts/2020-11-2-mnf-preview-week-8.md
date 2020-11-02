@@ -9,11 +9,11 @@ A weekly newsletter for members of the Harry Koch Memorial Cup Fantasy Football 
 
 ## Koch Safari League Preview Watch Guide for Tonight
 
-Sponsored by [Halloween Superstore USA](https://i.somethingawful.com/u/bobservo/hsp/HalloweenHeader.jpg) - Remember, it's totally normal and ok to always wear costumes and hand out candy!  
+Sponsored by [Halloween Superstore USA](https://i.somethingawful.com/u/bobservo/hsp/HalloweenHeader.jpg) - Remember, it's totally normal and ok to always wear costumes and hand out candy during any point in the calendar year!  
 
 ### Forward
 
-7 slots across 5 matchups remain in tonight's showdown between the Tompa Bay Cuckaneers and the Goo Spork Clients. Yahoo currently has only a single matchup sitting at less than 98% decided but our calculations tell us that there are really 3 matchups that have a true chance of the favorite being upset. This week in the league saw fairly average scoring with an average team score of ~100 and a single historic performance from Dalvin Cook - reaching the max points this year from a single player at 47.6. 4 of the league's top 5 will likely see victory this week making the battle for the 5 and 6 playoff slots extra important. With the closing trade deadline on Nov 14th, look for deals to be pushed through in the upcoming weeks as teams jockey for playoff position and eternal glory. Tune in tonight to see if anything XXXtra funky happens to your matchup or others, and remember, never accept loose candy in a plastic bag, unless you are in a VERY affluent neighborhood (message paid for by your Mom).
+7 slots across 5 matchups remain in tonight's showdown between the Tompa Bay Cuckaneers and the Goo Spork Clients. Yahoo currently has only a single matchup sitting at less than 98% decided but our calculations tell us that there are really 3 matchups that have a true chance of the favorite being upset. This week in the league saw fairly average scoring with an average team score of ~100 and a single historic performance from Dalvin Cook - reaching the max points this year from a single player at 47.6. 4 of the league's top 5 will likely see victory this week making the battle for the 6th playoff slots extra important. With the closing trade deadline on Nov 14th, look for deals to be pushed through in the upcoming weeks as teams jockey for playoff position and eternal glory. Tune in tonight to see if anything XXXtra funky happens to your matchup or others, and remember, never accept loose candy in a plastic bag, unless you are in a VERY affluent neighborhood (message paid for by your well intended but slightly ignorant Mom and her surrounding Moms coalition).
 
 <br/>
 
@@ -27,7 +27,7 @@ Sponsored by [Halloween Superstore USA](https://i.somethingawful.com/u/bobservo/
 ### Matchups
 **✅ Matt #1 (5-2) v Keith (3-4) aka "Chief Keith - Love Bosa"**
 
-This one did not go as planned for Keith and Sorry Ms. Jackson, as he saw only two players go for double figures in this 43 point power thumping courtesy of Matt #2's gracious offensive onslaught from rising center piece Corey Davis, Chief's big white guy Travis Kelce and Russ "cool last name and unreal fantasy QB" Wilson. Matt is all but guaranteed to be the deliverer of this week's BUILT FORD TOUGH - OUCHY OUCHY POWER THRASH of the week ONE WEEK after receiving the very honor himself. Talk about turning tables ~ Keith on the other hand, will suffer his second thrash in 3 weeks as his team appears in need of life support - or at the very least [life ALERT](http://www.lifealert.com/).
+This one did not go as planned for Keith and Sorry Ms. Jackson, as he saw only two players go for double figures in this 43 point power thumping courtesy of Matt #1's gracious offensive onslaught from rising center piece Corey Davis, Chief's big white guy Travis Kelce and Russ "cool last name and unreal fantasy QB" Wilson. Matt is all but guaranteed to be the deliverer of this week's BUILT FORD TOUGH - OUCHY OUCHY POWER THRASH of the week ONE WEEK after receiving the very honor himself. Talk about turning tables ~ Keith on the other hand, will suffer his second thrash in 3 weeks as his team appears in need of life support - or at the very least [life ALERT](http://www.lifealert.com/).
 
 **99% Diego (1-6) v Cam #1 (3-4) aka "Bunglology 101"**
 
