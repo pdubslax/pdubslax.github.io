@@ -23,9 +23,9 @@ Monday
 * 8:15 PM EST
 * Line: SEA -6.5
 
-Tuesday
+Wednesday
 (6-4) [Baltimore Ravens](https://www.gannett-cdn.com/presto/2020/11/27/NTEG/38dfba5c-fdaa-4347-9c3d-6f71f8ffe545-AP20317629764258.jpg?width=660&height=741&fit=crop&format=pjpg&auto=webp) @ (10-0) [Pittsburg Steelers](https://liber.post-gazette.com/images3/20051212lf_fbn_sno_scoreboardPJ_450.jpg)
-* 8:00 PM EST
+* 5:00 PM EST
 * Line: PIT -10
 
 <br/>
