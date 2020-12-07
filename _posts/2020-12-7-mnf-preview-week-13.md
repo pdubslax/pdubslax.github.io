@@ -19,6 +19,7 @@ Despite having 19 additional starters to take the field across the leagues 6 mat
 
 ### Games
 Monday
+
 (4-7) [Washington Football Team](https://memeguy.com/photos/images/i-visited-the-washington-monument-once-when-i-was-in-middle-school-234579.jpg) @ (11-0) [Pittsburgh Steelers](https://archive.triblive.com/wp-content/uploads/2018/11/PTRBettis020214.jpg)
 * 5 PM EST
 * Line: PIT -6.5
@@ -28,6 +29,7 @@ Monday
 * Line: SF -1.0
 
 Tuesday
+
 (3-8) [Dallas Cowboys](https://i.ytimg.com/vi/Zy8Fwnm9yTs/maxresdefault.jpg) @ (6-5) [Baltimore Ravens](https://shepherdexpress.com/downloads/46198/download/Film_TheBirds.jpg?cb=dea61a7260459366c334c87f293798d6&w=640)
 * 8:05 PM EST
 * Line: BAL -8.5
