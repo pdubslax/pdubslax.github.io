@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introducing: The 2021 Ay Bay Bay Fondo
+title: Introducing - The 2021 Ay Bay Bay Fondo
 visible: 1
 ---
 
