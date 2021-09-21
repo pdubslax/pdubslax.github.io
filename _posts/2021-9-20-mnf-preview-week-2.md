@@ -25,27 +25,27 @@ Wellllllll folks, the therapists all said we shouldn't do it. Loved ones pleaded
 <br/>
 
 ### Matchups
-**✅  Hy (0-1) v Matt #2 (1-0) aka ""**
+**✅  Hy (0-1) v Matt #2 (1-0) aka "Big Oil Energy"**
 
 On paper, Matt #2 is the better man. He is selfless, empathetic, slow to anger and has a kind heart. On the gridiron however, the hedonist from down under, spawn of bezos and perennial texan desert fowl Hy Doan made light work of the cordial custodian of columbus OH. 35 pts from (s)Kyler and Lucie had some splainnin to do! Pats defense also came in with 19 points after 4 sacks and 4 picks off Zach "super soaker" Wilson.   
 
-**✅  Keith (1-0) v Diego (0-1) aka ""**
+**✅  Keith (1-0) v Diego (0-1) aka "Dora's cousin and the search for the first win"**
 
 Bomb outs from Joe "3 picks in 3 throws" Burrow and George Kittle hurt the Ceo entrepreneur in this one, as TBs and TDs delivered a 37 pt power washing to Diego's dirty little squad. The likely winner of our new season sponsors honor of our first FINGER LICKIN GOOD - CHICKEN N' GRAVY POWER DUNKING of the week. Ooooo yea that's real good. 
 
-**99% Jam (0-1) v Alex (0-1) aka ""**
+**99% Jam (0-1) v Alex (0-1) aka "Mr. Brightside"**
 
 Alex is going to need the green bay defense to go for negative 13 tonight to make this one interesting. Chief 0-2 showed patches of brightness but could not hang with Jam's firepower across Mahomes, Julio, Lockett, and Dalvin Cook - It is moments like this where Alex has to be asking himself, is it time to move Courtland Sutton for PENNIES on the dollar to a deserving team in the Richmond district of the bay area of California?    
 
-**96% Dan (1-0) v Scott (0-1) aka ""**
+**96% Dan (1-0) v Scott (0-1) aka "GB Slackers"**
 
 Dan "does he even have access to his fantasy account" Wilson holds a 22 pt lead over Scott heading into MNF. The task at hand is simple for the big FAAB spender -- Big bad bruiser TE Robert Tonyan needs to outscore Aaron Jones by 22. Anything can happen though, as Tonyan is coming off of a blistering 1.8 pt week one in which his QB was benched while his team was mutilated by the Crab Leg King himself Famous "Amos" Jameis Winston. 
 
-**86% Matt #1 (1-0) v Skylark (1-0) aka ""**
+**86% Matt #1 (1-0) v Skylark (1-0) aka "Hunger Gains"**
 
 Skylar wants a career day from Aaron "friend of Miles Teller, that guy from Whiplash, they went to hawaii together in the off season" Rodgers and Pride of Iowa, T.J. HOCK BLOCK COCKENSON. The lead is 52 points (the age of a decent amount of people on earth), not impossible, and will likely require Aaron besting his week 1 total of 3.3 points. If skylar pulls this off, Matt has vowed to go to bed a little upset and consider skipping the brushing his teeth. 
 
-**64% Patrick (0-1) v Nick (1-0) aka ""**
+**64% Patrick (0-1) v Nick (1-0) aka "Big Bic Nick"**
 
 The incredibly not fun to type DDD-Davanters D'Andrins & Davs had us in the first half, [I'm NOT GONNA LIE](https://www.youtube.com/watch?v=ScGhFwyKaUA)! But the inspiring, resilient contagion from the Tush Paddlers Anonymous continued to infect the scoreboard, delta (SARS-CoV-2) style (this means derick henry scoring 44 points), and has run out to a 41 point lead. Two big vicked woofer dogs still remain in this fight however, with Swift and Adams taking to the field tonight. Spirit of the bottle nose dolphin - PRAY FOR PATRICK. Great time for our disclaimer and promise to you, the reader. We will always strive to be 100% unbiased, even in the face of discrimination or persecution. For our texas readers, please please, and I cannot stress this enough, forcibly enter nick's home and sub out a few players for tonight, any two will do.     
 
