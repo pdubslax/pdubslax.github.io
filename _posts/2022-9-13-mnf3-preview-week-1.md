@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Monday Night Football - Fantasy Preview - Week 2
+title: Monday Night Football - Fantasy Preview - Week 1
 ---
 
 A weekly newsletter for members of the Harry Koch Memorial Cup Fantasy Football league - all others will have their **VAX CARD TATTED ON THEIR RUMP WAGON**
