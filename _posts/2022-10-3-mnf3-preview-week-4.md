@@ -3,7 +3,7 @@ layout: post
 title: Monday Night Football - Fantasy Preview - Week 4
 ---
 
-A weekly newsletter for members of the Harry Koch Memorial Cup Fantasy Football league - all others will ****
+A weekly newsletter for members of the Harry Koch Memorial Cup Fantasy Football league - all others will **HAVE THEIR CHILI COOK OFF FAMILY RECIPE OPPENLY MOCKED IN THE TOWN SQUARE**
 
 <br/>
 
@@ -52,6 +52,7 @@ For this first time in a while, there are multiple matchups with a legitimate sh
 - Scott: 22.52 (locked barring stat corrections)
 - Dan: 21.17
 - Nick: 15.99
+
 We have never had a week with all the matchups this close. Tune in tonight to see who comes away with the "OHHHHHH YEA THATS GOOD - Burlap Bandicoot Ida Potato BIGGEST SACK OF THE WEEK" and don't you DARE forget to text your Mom and tell her that you love her this Mother's day - only 223 days away.
 
 <br/>
