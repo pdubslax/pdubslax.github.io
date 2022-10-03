@@ -41,7 +41,7 @@ Matt #2 needs the big bad D boys from SF to go for 28+ tonight in order to make 
 
 In one of the bad blood grudge matchups of the week - the bloody leaky cauldron british prime minister manager from across the pond finally found the breakout game from his team namesake TJ Hockenson and blasted to a 50 point lead over Jam heading into MNF. James will need Deeboo and the LA Rams to somehow allow each other to score a lot of points. Lamar failed jam in this one, I reckon he might want to orchestrate a trade for a mariota type if he wisens up to it. Possible that Alex moves into sole posession of third place after this one, an honor that I would imagine could embolden him to run for mayor of royal oak. 
 
-**59% Matt #1 (1-2) v Skylar (2-1)**
+**71% Matt #1 (1-2) v Skylar (2-1)**
 
 IT'S THE MAIN EVENT - in one corner: with a 20 point lead and Jeff Wilson Jr. at RB 2 .... IT'S DR PENDANSKIS NEMISIS - MR I LIKE DIGGIN HOLES HECTOR ZERONI HIMSELF ... MATT. And in this west wing... THE TEAM THE TEAM THE TEAM mr #4 in the nation and $5 in the league.. SKYLAR DIGGINS and Cooper KUPPPPPPPP. It is going to need to be all kupp all the time for Skylar to make this one interesting tonight. Will Skylar's Kupp overfloweth? Or will it biodegrade like an unsealed jar of sploosh - TUNE IN TONIGHT TO FIND OUT 
 
