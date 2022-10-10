@@ -23,7 +23,7 @@ We must be reporting live from the Iowa caucasus because tonight, we have 3 pote
 ### Matchups
 **✅  Skylar (2-2) v Jam (1-3)**
 
-The culo gobbling king himself, got his culo handed to him by the big bad Brady bunch. No idea how Jam keeps losing with his start studded lineup. We are talking about having two of the top 5 rbs in the league + Lamar and receiving the "OHHHHHH YEA THATS GOOD - Burlap Bandicoot Ida Potato BIGGEST SACK OF THE WEEK" twice in a row. Ouch much, bad job much? 
+The culo gobbling king himself, got his culo handed to him by the big bad Brady bunch. No idea how Jam keeps losing with his star studded lineup. We are talking about having two of the top 5 rbs in the league + Lamar and receiving the "OHHHHHH YEA THATS GOOD - Burlap Bandicoot Ida Potato BIGGEST SACK OF THE WEEK" twice in a row. Ouch much, bad job much? 
 
 **99%  Alex (3-1) v Keith (2-2)**
 
