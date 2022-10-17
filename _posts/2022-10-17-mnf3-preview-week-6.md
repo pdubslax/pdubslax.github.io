@@ -3,13 +3,13 @@ layout: post
 title: Monday Night Football - Fantasy Preview - Week 6
 ---
 
-A weekly newsletter for members of the Harry Koch Memorial Cup Fantasy Football league - all others will **HAVE RECIEVE PRIMARILY DENTAL TYPE GOODIES FOR HALLOWEEN**
+A weekly newsletter for members of the Harry Koch Memorial Cup Fantasy Football league - all others will **RECEIVE PRIMARILY DENTAL TYPE GOODIES FOR HALLOWEEN**
 
 <br/>
 
 ## Koch Safari League Preview Watch Guide for Tonight
 
-Some of yall havn't been letting Russ cook and it shows. We are wrapping up week 6 of the 14 week regular season and the league is starting to take shape. No matter what your current record, championship aspirations are still in play for all. I highly encourage you to take a look under the nearest rock and see what sort of value you might find. Perhaps, it's Will Fuller, coming back to the league - or maybe Hy drops Saquan in a feverish ACL bender. Whatever the case may be - believe in yourself, because the world is TaylorMade to ensure you fail. With no matchups < 88% certainty heading into MNF, I ask of the football gods. Deliver us chaos tonight - deliver us any sort of reason to continue to numb the harsh burden of existance with this sport and accompanying game of skill that is FF. Help us to remember what is important in life - not being eliminated from playoff contention with FAAB still in hand etc.. and most of all - LET RUSS COOK   
+Some of yall haven't been letting Russ cook and it shows. We are wrapping up week 6 of the 14 week regular season and the league is starting to take shape. No matter what your current record, championship aspirations are still in play for all. I highly encourage you to take a look under the nearest rock and see what sort of value you might find. Perhaps, it's Will Fuller, coming back to the league - or maybe Hy drops Saquan in a feverish ACL bender. Whatever the case may be - believe in yourself, because the world is TaylorMade to ensure you fail. With no matchups < 88% certainty heading into MNF, I ask of the football gods. Deliver us chaos tonight - deliver us any sort of reason to continue to numb the harsh burden of existance with this sport and accompanying game of skill that is FF. Help us to remember what is important in life - not being eliminated from playoff contention with FAAB still in hand etc.. and most of all - LET RUSS COOK   
 
 <br/>
 
