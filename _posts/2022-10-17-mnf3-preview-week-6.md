@@ -32,7 +32,7 @@ Im begging you to stop the violence. League juggernaut Scott "ubermensch" Ringwe
 
 **99%  Dan (2-3) v Hy (4-1)**
 
-Bolton vs Danforth and this one GOT UGLY. Dan, on his tired to 500 in the league, depleted Hy of the majority of his mana in this one, as he holds a 36 pt lead heading into MNF with Sutton as Hy "princess leia" Doan's only hope. Crazier things have happened as again, we have to question Yahoo's algorithmic certainty. Will Russ cook? Almost certainly not. A loss here would solidify Hy as a midpack marsupial on a 2 game losing streak. Sloth is a sin.  
+Bolton vs Danforth and this one GOT UGLY. Dan, on his tirade to 500 in the league, depleted Hy of the majority of his mana in this one, as he holds a 36 pt lead heading into MNF with Sutton as Hy "princess leia" Doan's only hope. Crazier things have happened as again, we have to question Yahoo's algorithmic certainty. Will Russ cook? Almost certainly not. A loss here would solidify Hy as a midpack marsupial on a 2 game losing streak. Sloth is a sin.  
 
 **93%  Patrick (2-3) v Keith (2-3)**
 
