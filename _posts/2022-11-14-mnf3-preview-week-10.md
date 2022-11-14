@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Monday Night Football - Fantasy Preview - Week 10
