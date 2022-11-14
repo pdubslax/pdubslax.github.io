@@ -9,7 +9,7 @@ A weekly newsletter for members of the Harry Koch Memorial Cup Fantasy Football 
 
 ## Koch Safari League Preview Watch Guide for Tonight
 
-No it is not I SPY week. If you notice any subtle changes to this weeks MNFP, you are delusional and an AI is DEFINITELY NOT writing this MNFP as we squeak. Moving on, before Elon sets his sites on our bloated engineering staff! It's the stain of the nation COMMANDERS vs the Eagles from the city of brotherly love. We have a real treat tonight, as we have 3 games still projected to finish within 15 pts of eachother. That means fathers kissing their sons, sons dating their pets, and the Manning brothers hollering until the cows come home.    
+No it is not I SPY week. If you notice any subtle changes to this weeks MNFP, you are delusional and an AI is DEFINITELY NOT writing this MNFP as we squeak. Nah, but this is the first preview seeded by a crawler that creeps the intaglement of yahoo sports. As the product manager of pdubslax.com, we anticipate immeasureable quality of life improvements for our beat writers. They may even now be able to attend their dentist appointments. Moving on, before Elon sets his sites on our bloated engineering staff! It's the stain of the nation COMMANDERS vs the Eagles from the city of brotherly love. We have a real treat tonight, as we have 3 games still projected to finish within 15 pts of eachother. That means fathers kissing their sons, sons dating their pets, and the Manning brothers hollering until the cows come home.    
 
 <br/>
 
@@ -21,6 +21,7 @@ No it is not I SPY week. If you notice any subtle changes to this weeks MNFP, yo
 <br/>
 
 ### Matchups
+***`Leader's win liklihood` - `Projected margin of victory`***
 
 ***✅ - 37.38 pts: Club PED (7-2) v SMH (3-6)***
 
@@ -32,7 +33,7 @@ It's the current leading contender for this week's "OHHHHHH YEA THATS GOOD - Bur
 
 ***90% - 22.48 pts: Do the pollard waddle (8-1) v FUCK IT UP KENNETH (8-1)***
 
-HOLD THE PRESSSSES, HOLD THE PRESSES! This one is not over yet. The battle of the league's elite and pompus still features a WR duel that Alex hopes will ignite his tele - as he needs A"ntonio"J Brown and Scary Larry McLaurin to wrastle up 47 pts - gator style. Someone will need to go ballistic jelly donuts to prevent Scott from sitting squarely and solely atop the iron basement quant throne. This may prove to be cosmic "brownie" karma to Alex for unleashing a damaging swear in his public team name, when he knows full well about the army of tweens that subscribes to this blog, as former followers of Episoide Coder Pat back at Pocket Gems circa 2018.
+HOLD THE PRESSSSES, HOLD THE PRESSES! This one is not over yet. The battle of the league's elite and pompus still features a WR duel that Alex hopes will ignite his tele - as he needs A"ntonio"J Brown and Scary Larry McLaurin to wrastle up 47 pts - gator style. Someone will need to go ballistic jelly donuts to prevent Scott from sitting squarely and solely atop the iron basement quant throne. This may prove to be cosmic "special brownie" karma to Alex for unleashing a damaging swear in his public team name, when he knows full well about the army of tweens that subscribes to this blog, as former followers of Episoide Coder Pat back at Pocket Gems circa 2018. Loser hear gets a full blown flouride treatment - dental style. 
 
 ***82% - 14.16 pts: Fantasizing in mom’s basement (3-6) v Your mom goes to basement (5-4)***
 
@@ -48,6 +49,6 @@ No longer may he cook
 
 ***69% - 5.11 pts: We're going streaking (4-5) v Bo Yo? No. Bo Bad! (3-6)***
 
-Devonta Smith - needs 5.2 for Dan to win. Last week, he scored 3.2. The week before: 4.8. The week before that: BYE. This guy can't score 5.2 to save his life! In classic "were going streaking" fashion, Dan looks to lock up the dub and move to 500 after racking up a whopping 0 pts from his RB core - by starting an injured Zeke, and lowering the hammer by starting that SF fullback beefboy, a part of an absolutely stacked backfield. Skylar may not have all the mucho gusto in the cantina, but he does have the most rostered QBs in the league - at a healthy 3. It is Monday night - LET'S PLAY FOOTBALL!  
+Devonta Smith - needs 5.2 for Dan to win. Last week, he scored 3.2. The week before: 4.8. The week before that: BYE. This guy can't score 5.2 to save his life! In classic "were going streaking" fashion, Dan looks to lock up the dub and move to 500 after racking up a whopping 0 pts from his RB core - by starting an injured Zeke, and lowering the hammer by starting that SF fullback beefboy, a part of an absolutely stacked norcal backfield. Skylar may not have all the mucho gusto in the cantina, but he does have the most rostered QBs in the league - at a healthy 3. It is Monday night - LET'S PLAY DENTIST!  
 
 <br/>
