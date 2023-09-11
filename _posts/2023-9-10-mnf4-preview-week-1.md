@@ -4,7 +4,7 @@ layout: post
 title: Monday Night Football - 2023 Fantasy Preview - Week 1
 ---
 
-A weekly newsletter for members of the Harry Koch Memorial Cup Fantasy Football league - all others will **NO LONGER BE ELIGIBLE FOR THEN GENEROUS BIDEN EV TAX CREDIT**
+A weekly newsletter for members of the Harry Koch Memorial Cup Fantasy Football league - all others will **NO LONGER BE ELIGIBLE FOR THE GENEROUS BIDEN EV TAX CREDIT**
 
 <br/>
 
