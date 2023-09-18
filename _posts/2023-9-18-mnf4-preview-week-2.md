@@ -9,16 +9,16 @@ A weekly newsletter for members of the Harry Koch Memorial Cup Fantasy Football 
 
 ## Koch Safari League Preview Watch Guide for Tonight
 
-It's week 2 of the MNFP, in person league meetup week, and matchups are mostly closer than last weeks with 5/6 projected margins of victory < 28 pts. The one notable exception, of course, being the weekly above ground burial of Skylar's squad at the hands of our honorable, yet problematic, commissioner. We also have the introduction of a second MNF game this week, which helps squeeze an additional 1.5 dollops of intrigue and purpose into our otherwise mundane monday evening. I am writing this while actively on the stand, being tried to war crimes / treason, giving testimony for going over 3x the projected budget for our league's new (Ace hardware)[https://youtu.be/YYYgGGNlZoU]. Presenting - the Harry Koch Memorial Cup Fantasy Football League's MNFP!
+It's week 2 of the MNFP, in person league meetup week, and matchups are mostly closer than last weeks with 5/6 projected margins of victory < 28 pts. The one notable exception, of course, being the weekly above ground burial of Skylar's squad at the hands of our honorable, yet problematic, commissioner. We also have the introduction of a second MNF game this week, which helps squeeze an additional 1.5 dollops of intrigue and purpose into our otherwise mundane monday evening. I am writing this while actively on the stand, being tried to war crimes / treason, giving testimony for going over 3x the projected budget for our league's new [Ace hardware](https://youtu.be/YYYgGGNlZoU). Presenting - the Harry Koch Memorial Cup Fantasy Football League's MNFP!
 
 <br/>
 
 ### Games
-(1-0) New Orleans (Saints)[https://s3.amazonaws.com/cdn.monasteryicons.com/images/popup/st-francis-icon-411.jpg] @ (0-1) Carolina (Panthers)[https://advancelocal-adapter-image-uploads.s3.amazonaws.com/image.mlive.com/home/mlive-media/width2048/img/annarbornews_impact/photo/university-of-michigan-buildings-under-construction-before-fall-2018-semester-begins-1fbd540bb3c5de25.jpg]
+(1-0) New Orleans [Saints](https://s3.amazonaws.com/cdn.monasteryicons.com/images/popup/st-francis-icon-411.jpg) @ (0-1) Carolina [Panthers](https://advancelocal-adapter-image-uploads.s3.amazonaws.com/image.mlive.com/home/mlive-media/width2048/img/annarbornews_impact/photo/university-of-michigan-buildings-under-construction-before-fall-2018-semester-begins-1fbd540bb3c5de25.jpg)
 * 7:15 PM EST
 * Line: NO -3.0
 
-(1-0) Pittsburg (Steelers)[https://static.wikia.nocookie.net/sportsmascots/images/1/1f/Steely.jpg/revision/latest?cb=20160214191023] @ (0-1) Cleveland (Browns)[https://htmlcolorcodes.com/assets/images/colors/dark-brown-color-solid-background-1920x1080.png]
+(1-0) Pittsburg [Steelers](https://static.wikia.nocookie.net/sportsmascots/images/1/1f/Steely.jpg/revision/latest?cb=20160214191023) @ (0-1) Cleveland [Browns](https://htmlcolorcodes.com/assets/images/colors/dark-brown-color-solid-background-1920x1080.png)
 * 8:15 PM EST
 * Line: CLE -2.0
 
@@ -32,7 +32,7 @@ THE proudest boy stepped up to the plate BIG time this week - and gave the wiffl
 
 **98% - 27.89 pts: Rubba' Dub Chubb (1-0) v nate's Unmatched Team (1-0)**
 
-I guess yahoo thinks there is roughly a 2% chance Chubb goes for -11 in this one, but in an early battle of unbeatens, Matt should have this one locked up. Rubba' Dub followed up his week one annihilation with another STRONG week 2 - despite having Aaron Jones out. What is there to say about this one? Matt good, Nate fine? Nate left roughly(21)[https://i.kym-cdn.com/entries/icons/original/000/016/998/You_stupid_vine_(what's_9_10)_0-2_screenshot.jpg] or so pts on the bench here, so its not full rebuild mode yet. Big dog convention next week with Matt and Nick going head to head, (Pachycephalosaurus)[https://i0.wp.com/www.natureartists.com/art/resized/1062_3727_0021_021.jpg] style.
+I guess yahoo thinks there is roughly a 2% chance Chubb goes for -11 in this one, but in an early battle of unbeatens, Matt should have this one locked up. Rubba' Dub followed up his week one annihilation with another STRONG week 2 - despite having Aaron Jones out. What is there to say about this one? Matt good, Nate fine? Nate left roughly[21](https://i.kym-cdn.com/entries/icons/original/000/016/998/You_stupid_vine_(what's_9_10)_0-2_screenshot.jpg) or so pts on the bench here, so its not full rebuild mode yet. Big dog convention next week with Matt and Nick going head to head, [Pachycephalosaurus](https://i0.wp.com/www.natureartists.com/art/resized/1062_3727_0021_021.jpg) style.
 
 **99% - 25.28 pts: The Doorman (1-0) v Goon Squad (0-1)**
 
