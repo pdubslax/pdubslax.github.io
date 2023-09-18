@@ -18,7 +18,7 @@ It's week 2 of the MNFP, in person league meetup week, and matchups are mostly c
 * 7:15 PM EST
 * Line: NO -3.0
 
-(1-0) Pittsburg [Steelers]([https://static.wikia.nocookie.net/sportsmascots/images/1/1f/Steely.jpg/revision/latest?cb=20160214191023](https://ewscripps.brightspotcdn.com/dims4/default/dcba585/2147483647/strip/true/crop/1024x1024+0+0/resize/1024x1024!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fb9%2F58%2F7a78c2684d8fa5f59b410dca7ba7%2Fpittsburgh-steelers.png)) @ (0-1) Cleveland [Browns](https://htmlcolorcodes.com/assets/images/colors/dark-brown-color-solid-background-1920x1080.png)
+(1-0) Pittsburg [Steelers](https://ewscripps.brightspotcdn.com/dims4/default/dcba585/2147483647/strip/true/crop/1024x1024+0+0/resize/1024x1024!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fb9%2F58%2F7a78c2684d8fa5f59b410dca7ba7%2Fpittsburgh-steelers.png) @ (0-1) Cleveland [Browns](https://htmlcolorcodes.com/assets/images/colors/dark-brown-color-solid-background-1920x1080.png)
 * 8:15 PM EST
 * Line: CLE -2.0
 
