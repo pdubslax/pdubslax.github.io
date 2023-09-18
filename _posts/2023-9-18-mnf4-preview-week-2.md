@@ -32,7 +32,7 @@ THE proudest boy stepped up to the plate BIG time this week - and gave the wiffl
 
 **98% - 27.89 pts: Rubba' Dub Chubb (1-0) v nate's Unmatched Team (1-0)**
 
-I guess yahoo thinks there is roughly a 2% chance Chubb goes for -11 in this one, but in an early battle of unbeatens, Matt should have this one locked up. Rubba' Dub followed up his week one annihilation with another STRONG week 2 - despite having Aaron Jones out. What is there to say about this one? Matt good, Nate fine? Nate left roughly[21](https://i.kym-cdn.com/entries/icons/original/000/016/998/You_stupid_vine_(what's_9_10)_0-2_screenshot.jpg) or so pts on the bench here, so its not full rebuild mode yet. Big dog convention next week with Matt and Nick going head to head, [Pachycephalosaurus](https://i0.wp.com/www.natureartists.com/art/resized/1062_3727_0021_021.jpg) style.
+I guess yahoo thinks there is roughly a 2% chance Chubb goes for -11 in this one, but in an early battle of unbeatens, Matt should have this one locked up. Rubba' Dub followed up his week one annihilation with another STRONG week 2 - despite having Aaron Jones out. What is there to say about this one? Matt good, Nate fine? Nate left roughly [21](https://i.kym-cdn.com/entries/icons/original/000/016/998/You_stupid_vine_(what's_9_10)_0-2_screenshot.jpg) or so pts on the bench here, so its not full rebuild mode yet. Big dog convention next week with Matt and Nick going head to head, [Pachycephalosaurus](https://i0.wp.com/www.natureartists.com/art/resized/1062_3727_0021_021.jpg) style.
 
 **99% - 25.28 pts: The Doorman (1-0) v Goon Squad (0-1)**
 
