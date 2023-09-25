@@ -40,7 +40,7 @@ It's trench warfare as Dan currently sits 40 down heading into the MNF games - w
 
 **86% - 22.43 pts: Quad Squad (2-0) v Sad Chubby (2-0)**
 
-In the clash of the unbeaten titans, Nick sits up 9 heading with 2 additional WRs vs Matt's Mike Evans still to take the field tonight. If Puka "shell" Nacua and Kyren Williams have trouble, the sad chubby could turn to a happier to see you chubby. Mike "30 piece mcnugget" Evans has the potential as Bakers primary target in TB. If Nick is able to hold Matt off, he will move to 3-0, which I would presume is also his age, and the average amount of guns a Texas residence typically keeps in their kitchen (one of the lesser fortified rooms in the typical household). 
+In the clash of the unbeaten titans, Nick sits up 9 heading with 2 additional fantasy units vs Matt's Mike Evans still to take the field tonight. If Puka "shell" Nacua and Kyren Williams have trouble, the sad chubby could turn to a happier to see you chubby. Mike "30 piece mcnugget" Evans has the potential as Bakers primary target in TB. If Nick is able to hold Matt off, he will move to 3-0, which I would presume is also his age, and the average amount of guns a Texas residence typically keeps in their kitchen (one of the lesser fortified rooms in the typical household). 
 
 **75% - 16.48 pts: Robotripping Gardener (2-0) v nate's Unmatched Team (1-1)**
 
