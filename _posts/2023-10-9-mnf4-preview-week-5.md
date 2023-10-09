@@ -14,7 +14,7 @@ It is as if there are two wolves inside me - one is angry because to live is to 
 <br/>
 
 ### Games
-(2-2) Green Bay Packers @ (1-3) Las Vegas Raiders
+(2-2) Green Bay [Packers](https://i.ytimg.com/vi/8y4Cg-ijDRA/hqdefault.jpg) @ (1-3) Las Vegas [Raiders](https://i.ytimg.com/vi/Oax_kndPhZ4/maxresdefault.jpg)
 * 2:15 AM CEST
 * Line: LV -2.0
 
@@ -28,7 +28,7 @@ Blood was shed in the battle of the winless - as Dan rode 22+ pt performances fr
 
 **99% - 50.88 pts: Fantasizing in mom’s basement (2-2) v tushy pushy (2-2)**
 
-It was two-two vs two-two and the loser could have used TD scoring tutu atwell as Dora's cousin Diego is poised to hang a 50 pence piece on the [former tax collector ](https://www.christianity.com/wiki/people/matthew-the-tax-collector.html). Matt will need an even 60 from the [judge](https://s.yimg.com/ny/api/res/1.2/O3Lb5fZZai_kzdZRN2K0hg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD0xMTQ3/https://s.yimg.com/os/creatr-uploaded-images/2021-06/a1c70bd0-c3dc-11eb-bfeb-0689c27adfd0) - AJ Dillon to bring this one within striking distance. At least Matt can look to his total bench scoring of 1.2 pts as confidence inspiring for the future. Diego appears to be ramping up for another one of his signature late season pushes in this one - as he looks ahead to a showdown with league heaviweight Nick next week.  
+It was two-two vs two-two and the loser could have used TD scoring tutu atwell as Dora's cousin Diego is poised to hang a 50 pence piece on the [former tax collector ](https://www.christianity.com/wiki/people/matthew-the-tax-collector.html). Matt will need an even 60 from the [judge](https://s.yimg.com/ny/api/res/1.2/O3Lb5fZZai_kzdZRN2K0hg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD0xMTQ3/https://s.yimg.com/os/creatr-uploaded-images/2021-06/a1c70bd0-c3dc-11eb-bfeb-0689c27adfd0) - AJ Dillon to bring this one within striking distance. At least Matt can look to his total bench scoring of 1.2 pts as confidence inspiring for the future. Diego appears to be ramping up for another one of his signature late season pushes in this one - as he looks ahead to a showdown with league heavyweight Nick next week.  
 
 **✅ - 20.69 pts: Go lions (1-3) v Baby Toy (1-3)**
 
@@ -40,7 +40,7 @@ I cant find Molly (in the W column), where is she? Jakobi Meyers needs 31 pts to
 
 **75% - 13.03 pts: Butt to Cock (4-0) v Quad Squad (4-0)**
 
-It is #2 vs #1 with the league's most problematiccally named squad currently enjoying a 14 pt lead. Nick's hobbled starchild Davante Adams will hope to recreate his 39 pt afair from two weeks ago, against the tandem of fudgepacker Jayden Reed, and the green ~g~bay defense. Quad Squad hopes to regain his momentum with the return of half namesake Saquan in week 6 while Hy Doan "ist" butt to cock looks poised to take over #1 overall into his matchup with the incredibly high scoring, little communicating, and underperforming nate's Unmatched Team.  
+It is #2 vs #1 with the league's most problematically named squad currently enjoying a 14 pt lead. Nick's hobbled starchild Davante Adams will hope to recreate his 39 pt afair from two weeks ago, against the tandem of fudgepacker Jayden Reed, and the green ~g~bay defense. Quad Squad hopes to regain his momentum with the return of half namesake Saquan in week 6 while Hy Doan "ist" butt to cock looks poised to take over #1 overall into his matchup with the incredibly high scoring, little communicating, and under performing, and very much matched or better, nate's Unmatched Team.  
 
 **65% - 6.65 pts: Bow to Queen Stella (2-2) v nate's Unmatched Team (1-3)**
 
