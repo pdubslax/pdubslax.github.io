@@ -32,7 +32,7 @@ It was two-two vs two-two and the loser could have used TD scoring tutu atwell a
 
 **✅ - 20.69 pts: Go lions (1-3) v Baby Toy (1-3)**
 
-Alex will be shaking in his boots, awaiting stat corrections to drop to see if there was over a 20pt miscalculation in this meeting of the ex tween 1-3 year old titans. Go lions rode an absolutely bohemian 46 pt effort from DJ "less is" Moore. Skylar is building something, that much is clear. What it is that is is being built however, is very much unclear. The 125 pt outing is showing a positive trajectory, but the soft and supple rubber baby toy has fallen to 1-4, without the future promise of quinceañera wallet photos and spirit buttons around the corner.  
+Alex will be shaking in his boots, awaiting stat corrections to drop to see if there was over a 20pt miscalculation in this meeting of the ex tween 1-3 year old titans. Go lions rode an absolutely bohemian 46 pt effort from DJ "less is" Moore. Skylar is building something, that much is clear. What it is that is being built however, is very much unclear. The 125 pt outing is showing a positive trajectory, but the soft and supple rubber baby toy has fallen to 1-4, without the future promise of quinceañera wallet photos and spirit buttons around the corner.  
 
 **96% - 19.77 pts: Taylor Swift's Chilidog Napkin (4-0) v Molly (3-1)**
 
