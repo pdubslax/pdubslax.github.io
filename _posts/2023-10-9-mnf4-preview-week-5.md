@@ -40,7 +40,7 @@ I cant find Molly (in the W column), where is she? Jakobi Meyers needs 31 pts to
 
 **75% - 13.03 pts: Butt to Cock (4-0) v Quad Squad (4-0)**
 
-It is #2 vs #1 with the league's most problematically named squad currently enjoying a 14 pt lead. Nick's hobbled starchild Davante Adams will hope to recreate his 39 pt afair from two weeks ago, against the tandem of fudgepacker Jayden Reed, and the green ~g~bay defense. Quad Squad hopes to regain his momentum with the return of half namesake Saquan in week 6 while Hy Doan "ist" butt to cock looks poised to take over #1 overall into his matchup with the incredibly high scoring, little communicating, and under performing, and very much matched or better, nate's Unmatched Team.  
+It is #2 vs #1 with the league's most problematically named squad currently enjoying a 14 pt lead. Nick's hobbled starchild Davante Adams will hope to recreate his 39 pt afair from two weeks ago, against the tandem of fudgepacker Jayden Reed, and the green G̶bay defense. Quad Squad hopes to regain his momentum with the return of half namesake Saquan in week 6 while Hy Doan "ist" butt to cock looks poised to take over #1 overall into his matchup with the incredibly high scoring, little communicating, and under performing, and very much matched or better, nate's Unmatched Team.  
 
 **65% - 6.65 pts: Bow to Queen Stella (2-2) v nate's Unmatched Team (1-3)**
 
