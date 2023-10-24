@@ -9,7 +9,7 @@ A weekly newsletter for members of the Harry Koch Memorial Cup Fantasy Football 
 
 ## Koch Safari League Preview Watch Guide for Tonight
 
-3 matchups with a >- 30% chance for the underdog heading into MNF has be fully bricked up in Calabasas - and i'm not a mason (free or otherwise) - figure that one out. It is WEEK 7, and 7 is heaven if you are one of the managers at the helm of a favorited team heading into tonight's clash between the weirdly conservative pocket of bay area [gold mining 1849ers](https://en.wikipedia.org/wiki/California_Gold_Rush) and the wheaties plain, church going, family men getting KIRKED UP in Minneapolis skoll Vikings. Keeping this one short and sweet - like the period of time I thought Najee was a steal in the third round or my confidence that the Falcons would disclose if Bijan had a crippling migraine before taking the field. ITS THE MNFP 
+3 matchups with a >= 30% chance for the underdog heading into MNF has be fully bricked up in Calabasas - and i'm not a mason (free or otherwise) - figure that one out. It is WEEK 7, and 7 is heaven if you are one of the managers at the helm of a favorited team heading into tonight's clash between the weirdly conservative pocket of bay area [gold mining 1849ers](https://en.wikipedia.org/wiki/California_Gold_Rush) and the wheaties plain, church going, family men getting KIRKED UP in Minneapolis skoll Vikings. Keeping this one short and sweet - like the period of time I thought Najee was a steal in the third round or my confidence that the Falcons would disclose if Bijan had a crippling migraine before taking the field. ITS THE MNFP 
 
 <br/>
 
