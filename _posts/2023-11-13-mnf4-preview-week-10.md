@@ -28,7 +28,7 @@ There, but by the grace of chubb, go I. Molly just got a proper whoppin' as Matt
 
 **99% - 47.18 pts: BIG Problem (4-5) v Fantasizing in mom’s basement (6-3)**
 
-In the closest contender for this week's HONEY, DON'T WAIT UP - WE JUST HIT AN EMERALD VEIN, IM DRIPPING YOU DOWN IN MINK THIS CHRISTMAS AFTER ALL biggest windfall of the week sponsored by Celebrity fur trappers R Us - Dan is hoping James Book fumbles the bag and allows him to hit diego with a silly name change. Powered by a 41 point DakAttack - Dan looks primed to keep this momenetum going into his clash with Alex next week. Note, dan and matt both make significant strides towards Nate's most points of non playoff contention lead. 
+In the closest contender for this week's HONEY, DON'T WAIT UP - WE JUST HIT AN EMERALD VEIN, IM DRIPPING YOU DOWN IN MINK THIS CHRISTMAS AFTER ALL biggest windfall of the week sponsored by Celebrity fur trappers R Us - Dan is hoping James Cook fumbles the bag and allows him to hit Diego with a silly name change. Powered by a 41 point DakAttack - Dan looks primed to keep this momenetum going into his clash with Alex next week. Note, dan and matt both make significant strides towards Nate's most points of non playoff contention lead. 
 
 **✅ - 38.15 pts: Robotripping Gardener (7-2) v The denver swap was good deal (6-3)**
 
