@@ -48,34 +48,56 @@ IT'S THE MAINNNNNNN EVENT - and this one is about to get [CAROLINA REAPER](https
 
 <br/>
 
-**--- Projected standings after MNF ---**
+**Projected standings after MNF**
 
 9-2  -  1507.6  -  Quad Squad
+
 9-2  -  1400.03  -  Robotripping Gardener
+
 7-4  -  1458.37  -  Butt to Cock is Back
+
 6-5  -  1400.02  -  Fantasizing in mom’s basement
+
 6-5  -  1347.33  -  BIG Problem
+
 6-5  -  1319.4  -  By Chubb's Grace
+
 5-6  -  1247.56  -  Go lions
+
 4-7  -  1353.28  -  Nathan 4 moo x2
+
 4-7  -  1317.26  -  Chubbs Revenge
+
 4-7  -  1270.57  -  (1) Hungry hippo
+
 3-8  -  1230.21  -  Collusion buster
+
 3-8  -  1110.06  -  Baby Toy
 
-**--- Points for rankings after MNF ---**
+**Points for rankings after MNF**
 
 * 1507.6  -  Quad Squad
+
 * 1458.37  -  Butt to Cock is Back
+
 * 1400.03  -  Robotripping Gardener
+
 * 1400.02  -  Fantasizing in mom’s basement
+
 1353.28  -  Nathan 4 moo x2
+
 * 1347.33  -  BIG Problem
+
 1319.4  -  By Chubb's Grace
+
 1317.26  -  Chubbs Revenge
+
 1270.57  -  (1) Hungry hippo
+
 1247.56  -  Go lions
+
 1230.21  -  Collusion buster
+
 1110.06  -  Baby Toy
 
 <br/>
