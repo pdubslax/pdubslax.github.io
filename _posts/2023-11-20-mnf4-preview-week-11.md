@@ -48,7 +48,7 @@ IT'S THE MAINNNNNNN EVENT - and this one is about to get [CAROLINA REAPER](https
 
 <br/>
 
---- Projected standings after MNF ---
+**--- Projected standings after MNF ---**
 9-2  -  1507.6  -  Quad Squad
 9-2  -  1400.03  -  Robotripping Gardener
 7-4  -  1458.37  -  Butt to Cock is Back
@@ -62,7 +62,7 @@ IT'S THE MAINNNNNNN EVENT - and this one is about to get [CAROLINA REAPER](https
 3-8  -  1230.21  -  Collusion buster
 3-8  -  1110.06  -  Baby Toy
 
---- Points for rankings after MNF ---
+**--- Points for rankings after MNF ---**
 * 1507.6  -  Quad Squad
 * 1458.37  -  Butt to Cock is Back
 * 1400.03  -  Robotripping Gardener
