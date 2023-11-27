@@ -73,6 +73,8 @@ Seems like every week that Matt is featured in the BIGGEST NAILBITER (sponsored 
 
 3-9  -  1219.74  -  Baby Toy
 
+<br/>
+
 ### Points for rankings after MNF
 **1663.84  -  Quad Squad**
 
