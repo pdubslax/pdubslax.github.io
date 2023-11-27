@@ -50,28 +50,52 @@ Seems like every week that Matt is featured in the BIGGEST NAILBITER (sponsored 
 
 ### Projected standings after MNF
 10-2  -  1663.84  -  Quad Squad
+
 10-2  -  1519.56  -  Robotripping Gardener
+
 8-4  -  1632.11  -  Butt to Cock is Back
+
 7-5  -  1490.46  -  BIG Problem
+
 7-5  -  1438.13  -  By Chubb's Grace
+
 6-6  -  1536.37  -  Fantasizing in mom’s basement
+
 5-7  -  1421.08  -  Charbonnet region of France
+
 5-7  -  1344.31  -  Go lions
+
 4-8  -  1449.49  -  Nathan 4 moo x2
+
 4-8  -  1422.64  -  Jackson Mahomes r best bro
+
 3-9  -  1360.15  -  Collusion buster
+
 3-9  -  1219.74  -  Baby Toy
 
 ### Points for rankings after MNF
 **1663.84  -  Quad Squad**
+
 **1632.11  -  Butt to Cock is Back**
+
 1536.37  -  Fantasizing in mom’s basement
+
 **1519.56  -  Robotripping Gardener**
+
 **1490.46  -  BIG Problem**
+
 1449.49  -  Nathan 4 moo x2
+
 **1438.13  -  By Chubb's Grace**
+
 1422.64  -  Jackson Mahomes r best bro
+
 1421.08  -  Charbonnet region of France
+
 1360.15  -  Collusion buster
+
 1344.31  -  Go lions
+
 1219.74  -  Baby Toy
+
+<br/>
