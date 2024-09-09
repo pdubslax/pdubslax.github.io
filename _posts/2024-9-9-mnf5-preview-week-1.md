@@ -51,31 +51,53 @@ Finally, in tonight's marquee match up of the week - it's America and God's Team
 ### Projected standings after MNF
 
 1-0  -  154.56  -  Nabers? I hardly know hers
+
 1-0  -  140.78  -  💦💦💦
+
 1-0  -  131.23  -  Ja’Marr Ja’Marr Binks
+
 1-0  -  129.31  -  GFC Fan
+
 1-0  -  114.75  -  Swag Surfin White Boys
+
 1-0  -  113.66  -  B Robinson Crusoe
+
 0-1  -  117.74  -  Robotripping Gardener
+
 0-1  -  116.12  -  Fantasizing in mom’s basement
+
 0-1  -  103.1  -  America and God's Team
+
 0-1  -  101.31  -  Matt Stephano's Boss Team
+
 0-1  -  88.87  -  Mulch Gang for Life
+
 0-1  -  84.39  -  No this is patrick!
 
 ### Projected "points for" rankings after MNF (current playoff seeds in bold)
 
 ** 154.56  -  Nabers? I hardly know hers **
+
 ** 140.78  -  💦💦💦 **
+
 ** 131.23  -  Ja’Marr Ja’Marr Binks **
+
 ** 129.31  -  GFC Fan **
+
 117.74  -  Robotripping Gardener
+
 116.12  -  Fantasizing in mom’s basement
+
 ** 114.75  -  Swag Surfin White Boys **
+
 113.66  -  B Robinson Crusoe
+
 103.1  -  America and God's Team
+
 101.31  -  Matt Stephano's Boss Team
+
 88.87  -  Mulch Gang for Life
+
 84.39  -  No this is patrick!
 
 
