@@ -9,7 +9,7 @@ A weekly newsletter for members of the Harry Koch Memorial Cup Fantasy Football 
 
 ## Koch Safari League Preview Watch Guide for Tonight
 
-It's the season's first MNF DOUBLE HEADER which you would have thought would yield a few more closer matchups. BUT FOR SHAME - we have but one matchup less than 90% certain. 
+It's the season's first MNF DOUBLE HEADER which you would have thought would have yielded a few more closer matchups. BUT FOR SHAME - we have but one matchup less than 90% certain. That being said, close or not, we still Epcot. That's right, it's an all expenses paid, single magical night in the fantasy suite with the EPCOT ball on the line in week 3 - sponsored by TSMC Taiwan, leader in semiconductor technology. 
 
 <br/>
 
