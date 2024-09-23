@@ -14,11 +14,11 @@ It's the season's first MNF DOUBLE HEADER which you would have thought would hav
 <br/>
 
 ### Games
-(0-2) Jacksonville [Jaguars]() @ (2-0) Buffalo [Bills]()
+(0-2) Jacksonville [Jaguars](https://res.cloudinary.com/teepublic/image/private/s--qwpifG8Y--/t_Resized%20Artwork/c_crop,x_10,y_10/c_fit,w_470/c_crop,g_north_west,h_626,w_470,x_0,y_0/g_north_west,u_upload:v1571669491:production:blanks:wrrzmmnvfbf1nk8hcfhh,x_-395,y_-325/b_rgb:eeeeee/c_limit,f_auto,h_630,q_auto:good:420,w_630/v1516989361/production/designs/2311783_0.jpg) @ (2-0) Buffalo [Bills](https://www.firstcomcu.org/content/images/original/ccbills_blog_600x400.jpg)
 * 4:30 PM PST
 * Line: SF -5.5, 45.5 O/U
 
-(1-1) Washington [Commanders]() @ (1-1) Cincinnati [Bengals]()
+(1-1) Washington [Commanders](https://images05.military.com/sites/default/files/2021-06/mil-joint-chiefs-portrait-2021-1800.jpg) @ (1-1) Cincinnati [Bengals](https://celt.indiana.edu/portal/Bengali/Geographic_distribution_of_Bengali_language.png)
 * 5:15 PM PST
 * Line: CIN -7.5, 47 O/U
 
@@ -28,7 +28,7 @@ It's the season's first MNF DOUBLE HEADER which you would have thought would hav
 
 **99% - 84.09: Welcome Back Mr. Poop (0-2) vs Year of the 🔗(2-0)**
 
-Matt finally hit on the two headed monster of JTaylor and Saquon en route to nearly matching his first two week pt total in a single week. This one is dangerously close to breaking our leagues ALL TIME margin of victory record, that currently stands at 84.70 delivered by Nick. Set back in week 17 of 2022 when Scott already had his playoff seat secured, and started a number of players on their bye week. If Matt #2 is able to get enough out of his home state Joe Shiesty and Tyler Bassmaster pro shop - Doan could be looking at one of the sharpest falls from grace since Umich president Mark Schlissel sent those emails to a staffer about being lonely. Also, just watched the 10 things I had about you, and Welcome Back Mr. Poop and [a young heath ledger](https://preview.redd.it/ylroyskfuye61.png?auto=webp&s=f7d041211f1bbba081ef5383c3f27e5dc0a9a10f) have an uncanny resemblance.
+Matt finally hit on the two headed monster of JTaylor and Saquon en route to nearly matching his first two week pt total in a single week. This one is dangerously close to breaking our leagues ALL TIME margin of victory record, that currently stands at 84.70 delivered by Nick. Set back in week 17 of 2022 when Scott already had his playoff seat secured, and started a number of players on their bye week. If Matt #2 is able to get enough out of his home state Joe Shiesty and Tyler Bassmaster pro shop - Doan could be looking at one of the sharpest falls from grace since Umich president Mark Schlissel sent those emails to a staffer about being lonely. Also, just watched the 10 things I hate about you, and Welcome Back Mr. Poop and [a young heath ledger](https://preview.redd.it/ylroyskfuye61.png?auto=webp&s=f7d041211f1bbba081ef5383c3f27e5dc0a9a10f) have an uncanny resemblance.
 
 **99% - 81.76: Nabers? I hardly know hers (2-0) vs Fantasizing in mom’s basement (1-1)**
 
