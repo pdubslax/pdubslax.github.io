@@ -45,7 +45,7 @@ Dan is going to need Justin "Friar" Tucker to outpace Derrick Henry and Harrison
 
 **76% - 11.08: Amon with Aplon (4-2) vs Slop (2-4)**
 
-Current state of affairs: Slop - down 42, kyler still on sidelines, binky in, james conner also there, much larger than Kyler, someone thought james was kyler's legal guardian. Scott: Kimani Vidal - 4 carries on the year, essentially good for 0 points, no idea how we couldn't find someone better than this. Whats the spell? A potential NAILBITER if the speed waddler is able to start zinging out a few tuddies to james. Hy's commitment to the multi year bit of thinking Kyler is a cornerstone worth building his team around may finally reach its expiration if he catches another sloppy L here. 
+Current state of affairs: Slop - down 42, kyler still on sidelines, binky in, james conner also there, much larger than Kyler, someone thought james was kyler's legal guardian. Scott: Kimani Vidal - 4 carries on the year, essentially good for 0 points, no idea how we couldn't find someone better than this. What's that spell? A potential NAILBITER if the speed waddler is able to start zinging out a few tuddies to james. Hy's commitment to the multi year bit of thinking Kyler is a cornerstone worth building his team around may finally reach its expiration if he catches another sloppy L here. 
 
 **52% - 0.85: Nabers? I hardly know hers (5-1) vs The Caledonian Creamer (2-4)**
 
