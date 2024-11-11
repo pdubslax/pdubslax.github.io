@@ -51,7 +51,7 @@ It's the main event, with Jumbo K currently holding a 24 pt lead over dan with W
 
 <br/>
 
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+<div style="display: flex; justify-content: center; margin-top: 20px;">
     <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" 
         data-name="bmc-button" data-slug="pdubslax" data-color="#40DCA5" 
         data-emoji="🏈" data-font="Bree" data-text="Buy me a coffee" 
