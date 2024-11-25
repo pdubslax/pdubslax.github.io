@@ -55,16 +55,18 @@ In this week's reverse Robin Hood closest matchup of the week, the Caledonian Cr
 <div style="display: flex; justify-content: center; margin-top: 20px;">
     <style>
         .bmc-button-container {
-            max-width: 100%; /* Ensures the button doesn't exceed the container width */
-            text-align: center; /* Centers the text */
-            overflow-wrap: break-word; /* Allows the text to wrap properly */
-            word-break: break-word; /* Ensures long words break correctly */
+            max-width: 100%; /* Ensure the container adjusts to screen size */
+            text-align: center;
         }
         .bmc-button {
-            display: inline-block; /* Allows the button to scale */
-            white-space: normal; /* Ensures the text wraps instead of staying on one line */
-            font-size: 16px; /* Adjust font size for mobile */
-            padding: 10px 20px; /* Adds spacing around the text */
+            display: block; /* Makes the button take the full width */
+            max-width: 100%; /* Prevents it from exceeding the parent container */
+            white-space: normal; /* Allows text to wrap to the next line */
+            overflow-wrap: break-word; /* Ensures long text breaks properly */
+            word-break: break-word;
+            padding: 15px 20px; /* Adds space around the text for readability */
+            font-size: 16px; /* Adjust font size for readability */
+            line-height: 1.5; /* Adds spacing between lines */
         }
     </style>
     <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" 
