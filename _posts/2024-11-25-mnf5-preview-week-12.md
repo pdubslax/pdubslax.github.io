@@ -9,8 +9,7 @@ A weekly newsletter for members of the Harry Koch Memorial Cup Fantasy Football 
 
 ## Koch Safari League Preview Watch Guide for Tonight
 
-It is Monday in week 12 and tensions are at an all time high, largely due to Saquan's monster ~50 pt Sunday night that flipped the league's on the bubble playoff implications [on their head](https://img.asmedia.epimg.net/resizer/v2/VK7RT2DTADVW64X2VVHBOHRYGM.jpg?auth=448e5683d732db66da543ca314a438ed81764efe2e4bd32ade907fd715732bef&width=644&height=362&smart=true).  
-Due to the depraved 6th seed qualifying on points for rule, it appears as though we will have chaos and uncertainty down to the final whistle of week 14. If projections hold true thoughout the rest of the night, standings should look something like what is pictured below. Though what is truth, really? For truth cannot be interpreted – it can only be experienced. 
+It is Monday in week 12 and tensions are at an all time high, largely due to Saquan's monster ~50 pt Sunday night that flipped the league's on the bubble playoff implications [on their head](https://img.asmedia.epimg.net/resizer/v2/VK7RT2DTADVW64X2VVHBOHRYGM.jpg?auth=448e5683d732db66da543ca314a438ed81764efe2e4bd32ade907fd715732bef&width=644&height=362&smart=true).  Due to the depraved 6th seed qualifying on points for rule, it appears as though we will have chaos and uncertainty down to the final whistle of week 14. If projections hold true thoughout the rest of the night, standings should look something like what is pictured below. Though what is truth, really? For truth cannot be interpreted – it can only be experienced. 
 
 <p style="text-align: center;">
   <img src="{{ site.baseurl }}/images/standings12.jpg" alt="Image Description">
