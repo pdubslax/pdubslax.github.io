@@ -53,25 +53,9 @@ In this week's reverse Robin Hood closest matchup of the week, the Caledonian Cr
 <br/>
 
 <div style="display: flex; justify-content: center; margin-top: 20px;">
-    <style>
-        .bmc-button-container {
-            max-width: 100%; /* Ensure the container adjusts to screen size */
-            text-align: center;
-        }
-        .bmc-button {
-            display: block; /* Makes the button take the full width */
-            max-width: 100%; /* Prevents it from exceeding the parent container */
-            white-space: normal; /* Allows text to wrap to the next line */
-            overflow-wrap: break-word; /* Ensures long text breaks properly */
-            word-break: break-word;
-            padding: 15px 20px; /* Adds space around the text for readability */
-            font-size: 16px; /* Adjust font size for readability */
-            line-height: 1.5; /* Adds spacing between lines */
-        }
-    </style>
     <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" 
         data-name="bmc-button" data-slug="pdubslax" data-color="#40DCA5" 
-        data-emoji="🏈" data-font="Bree" data-text="The duck may swim on the lake, but my Daddy owns the lake" 
+        data-emoji="🏈" data-font="Bree" data-text="I give up. For now.." 
         data-outline-color="#000000" data-font-color="#ffffff" 
         data-coffee-color="#FFDD00">
     </script>
