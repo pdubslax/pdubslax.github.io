@@ -11,7 +11,7 @@ A weekly newsletter for members of the Harry Koch Memorial Cup Fantasy Football 
 
 Projected standings heading into week 13 if AI was correct about everything 
 
-<img src="{{ site.baseurl }}/images/standings12.png">
+<img src="{{ site.baseurl }}/images/standings12.jpg">
 
 <br/>
 
