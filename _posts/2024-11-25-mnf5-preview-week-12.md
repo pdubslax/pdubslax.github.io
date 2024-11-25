@@ -52,7 +52,21 @@ In this week's reverse Robin Hood closest matchup of the week, the Caledonian Cr
 
 <br/>
 
-<div style="display: flex; justify-content: center; margin-top: 20px; flex-wrap: wrap; padding: 10px; text-align: center;">
+<div style="display: flex; justify-content: center; margin-top: 20px;">
+    <style>
+        .bmc-button-container {
+            max-width: 100%; /* Ensures the button doesn't exceed the container width */
+            text-align: center; /* Centers the text */
+            overflow-wrap: break-word; /* Allows the text to wrap properly */
+            word-break: break-word; /* Ensures long words break correctly */
+        }
+        .bmc-button {
+            display: inline-block; /* Allows the button to scale */
+            white-space: normal; /* Ensures the text wraps instead of staying on one line */
+            font-size: 16px; /* Adjust font size for mobile */
+            padding: 10px 20px; /* Adds spacing around the text */
+        }
+    </style>
     <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" 
         data-name="bmc-button" data-slug="pdubslax" data-color="#40DCA5" 
         data-emoji="🏈" data-font="Bree" data-text="The duck may swim on the lake, but my Daddy owns the lake" 
@@ -60,6 +74,7 @@ In this week's reverse Robin Hood closest matchup of the week, the Caledonian Cr
         data-coffee-color="#FFDD00">
     </script>
 </div>
+
 
 
 
