@@ -53,3 +53,7 @@ An unfortunate early injury to Joe Burrow set off a butterfly effect that eventu
 IT'S TONIGHTS CLOSEST MATCHUP OF THE WEEK sponsored by the California Dairy Association. In one corner - it's Diego and Baker Mayfield. They are both doing viral [dances](https://media.tenor.com/5xN8Xf1ioNsAAAAM/baker-dance.gif) in a circle, and its flirting precariously close to the edge of being cringe - but for the time being, it's actually pretty tight - and I'm coming off as a hater. And in the other corner - it's the mystical milker himself, the lactose tolerant leche leader - commissioner of the free world, but personally enslaved to collecting league dues every midsommar - IT'S NICK. Down just 10.8, his two headed monster Dicker Bucky combo will require a very particular game script to unleash [Bucky - super deep cut from 5th grade](https://palmdb.net/app/bucky-palm) without triggering a Baker blowout. Can he do it? Make like a bursting bertha and prime your udders for a proper milkin' to find out - it's Monday Night Football.  
 
 <br/>
+
+[Buy me a coffee](https://buymeacoffee.com/pdubslax), NOW!
+
+<br/>
