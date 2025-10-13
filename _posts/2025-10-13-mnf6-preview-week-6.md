@@ -16,7 +16,7 @@ With 4 of 6 matchups projected to finish within 10 points, tonight's double head
 
 ### Games
 
-(4–1) Buffalo [Bills](https://i.sstatic.net/ZH0OQ.jpg) @ (2–2) Atlanta [Falcons](https://www.thescottishsun.co.uk/wp-content/uploads/sites/2/2019/04/NINTCHDBPICT000482651120.jpg?strip=all&w=701)  
+(4–1) Buffalo [Bills](https://cdn11.bigcommerce.com/s-ogi6pvpbr6/product_images/uploaded_images/parts-big-head-caps.jpg) @ (2–2) Atlanta [Falcons](https://www.thescottishsun.co.uk/wp-content/uploads/sites/2/2019/04/NINTCHDBPICT000482651120.jpg?strip=all&w=701)  
 * 7:15 PM ET / 4:15 PM PT  
 * Line: BUF –4.5, O/U 49.5  
 
