@@ -49,7 +49,6 @@ Scott will need Xavier Worthy + Harrison "marriage is between a man and woman" B
 
 **99% – 40.10 points: Half Broccked (4–3) vs Mulch Is NOT Yummy (4–3)**
 
-Also down 65, Matt #2 is relying on Rashee "did nothing wrong" Rice and Isiah Pacheco to save some face against Keith and his Half Brocked team. CHIEFS DOMINATION SCENARIO. If you've read this far... damn you really will read anything. Comment which scenario you think is least likely to happen in chat. It's time for some football.
-
+Also down 65, Matt #2 is relying on Rashee "did nothing wrong" Rice and Isiah Pacheco to save some face against Keith and his Half Brocked team. HIGH SPEED CHASE SCENARIO. If you've read this far... damn you really will read anything. Comment which scenario you think is least likely to happen in chat. It's time for some football.
 
 <br/>
