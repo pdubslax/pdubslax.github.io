@@ -11,6 +11,7 @@ A weekly newsletter for members of the Harry Koch Memorial Cup Fantasy Football 
 
 It’s Monday night, which means the nation is once again being held hostage by the Dallas Cowboys in prime time. We got NickelDak Prescott vs Jacoby "Banished to the wire" [Brisset](https://tenor.com/view/peacock-let-me-fly-free-mark-wahlberg-other-guys-gif-17908346). Everyone is hoping for an all-time shootout. Except for "injured" Kyler Murray. With records so meh, I'm not even sure if this game matters. If the insulae cares to chime in today, know that I will have [clocked out](https://youtu.be/7rTJtVyQhN0?si=VFkS_6gC_qMrSrdf&t=12) by the time you are reading this.
 
+<br/>
 
 ### Games
 
