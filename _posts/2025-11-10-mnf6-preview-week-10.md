@@ -3,7 +3,7 @@ layout: post
 title: Monday Night Football - 2025 Fantasy Preview - Week 10
 ---
 
-A weekly newsletter for members of the Harry Koch Memorial Cup Fantasy Football league - all others will **HAVE TO EAT A W FROM WHEN YOU AREN'T REALLY IN THE MOOD**
+A weekly newsletter for members of the Harry Koch Memorial Cup Fantasy Football league - all others will **HAVE TO EAT A W WHEN YOU AREN'T REALLY IN THE MOOD**
 
 <br/>
 
