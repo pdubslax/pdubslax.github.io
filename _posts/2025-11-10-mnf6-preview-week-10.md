@@ -46,3 +46,5 @@ Dan playing a curious OOPS! ALL PACKERS loadout this week, and Nick doing someth
 IT'S THE OOOO - 🎵i like it when you do it like that🫚 Ed Sheeran insta classic of the week - as Hy leads Robo by 11 heading into tonight's tilt. It will be solely up to Saquan to outscore AJ "moody boi" Brown enough to close the gap. This very scenario happened 3 of the first 7 weeks of the season so it is anyone's game. If Hy is to complete the most improbable championship run, he needs to win NOW. If Patrick is to avoid yet another week of melancholy, he needs a dub, a week of clean eating, good sleep and a HEALTHY dose of therapy. All that to say - these two teams' records combined currently form a palindrome - and that isn't likely to change after tonight. Text your Mom, it's time for MNF.
 
 <br/>
+
+[Buy me a coffee](https://buymeacoffee.com/pdubslax) if you think we don't actually need air traffic control 😎
