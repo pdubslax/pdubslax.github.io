@@ -4,7 +4,7 @@ title: Monday Night Football - 2026 Fantasy Preview - Week 1
 published: false
 ---
 
-A weekly newsletter for members of the Harry Koch Memorial Cup Fantasy Football league - all others will **...**
+A weekly newsletter for members of the Harry Koch Memorial Cup Fantasy Football league - all others will **BE FORCED TO DEAL WITH THE HOME DYNAMIC WHERE YOU HAVE ONE MAGICAL AND ONE MUGGLE CHILD**
 
 <br/>
 
@@ -15,8 +15,8 @@ A weekly newsletter for members of the Harry Koch Memorial Cup Fantasy Football 
 <br/>
 
 ### Games
-(0-0) Denver Broncos @ (0-0) Kansas City Chiefs
-* 8:15 PM EST / 5:15 PM PST / 2:15 PM HST
+(0-0) [Denver Broncos]() @ (0-0) [Kansas City Chiefs]()
+* 8:15 PM EST / 5:15 PM PST / 4:15 PM AKDT / 12:15 PM NZST (Tuesday)
 * Line: KC -2.5, O/U 43.5
 
 <br/>
