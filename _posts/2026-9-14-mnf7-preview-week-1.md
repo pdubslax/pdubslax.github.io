@@ -23,15 +23,15 @@ A weekly newsletter for members of the Harry Koch Memorial Cup Fantasy Football 
 
 ### Matchups
 
-**99% - 82.27 points: one sec I'm COOKing (0-0) vs RosterMogged (0-0)**  
+**99% - 62.60 points: one sec I'm COOKing (0-0) vs RosterMogged (0-0)**  
 
 
 
-**99% - 51.51 points: Rub a dub lost the Chubb (0-0) vs 🥝🥝🥝 lol i luv kiwi 🥝 🥝🥝 (0-0)**  
+**99% - 45.32 points: BDSM AI Stealth Founder (0-0) vs Zen Buddha Boys 🪷💨 (0-0)**  
 
 
 
-**99% - 32.46 points: BDSM AI Stealth Founder (0-0) vs Zen Buddha Boys 🪷💨 (0-0)**  
+**99% - 33.02 points: Rub a dub lost the Chubb (0-0) vs 🥝🥝🥝 lol i luv kiwi 🥝 🥝🥝 (0-0)**  
 
 
 
@@ -39,7 +39,7 @@ A weekly newsletter for members of the Harry Koch Memorial Cup Fantasy Football 
 
 
 
-**89% - 4.50 points: Robotripping Gardener (0-0) vs James Ray Ervin Yonts (0-0)**  
+**89% - 14.86 points: Robotripping Gardener (0-0) vs James Ray Ervin Yonts (0-0)**  
 
 
 
