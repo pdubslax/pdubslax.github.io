@@ -23,15 +23,19 @@ A weekly newsletter for members of the Harry Koch Memorial Cup Fantasy Football 
 
 ### Matchups
 
-**96% - 25.18 points: MELONHEADS (daniel) (0-1) vs Zen Buddha Boys 🪷💨 (0-1)**  
+**99% - 32.37 points: MELONHEADS (daniel) (0-1) vs Zen Buddha Boys 🪷💨 (0-1)**  
 
 
 
-**86% - 18.69 points: Robotripping Gardener (1-0) vs Rub a dub lost the Chubb (1-0)**  
+**98% - 30.84 points: Robotripping Gardener (1-0) vs Rub a dub lost the Chubb (1-0)**  
 
 
 
-**92% - 13.27 points: BDSM AI Stealth Founder (1-0) vs James Ray Ervin Yonts (0-1)**  
+**99% - 21.05 points: Tuten Brown (1-0) vs one sec I'm COOKing (1-0)**  
+
+
+
+**97% - 15.73 points: BDSM AI Stealth Founder (1-0) vs James Ray Ervin Yonts (0-1)**  
 
 
 
@@ -39,11 +43,7 @@ A weekly newsletter for members of the Harry Koch Memorial Cup Fantasy Football 
 
 
 
-**67% - 5.19 points: Tuten Brown (1-0) vs one sec I'm COOKing (1-0)**  
-
-
-
-**53% - 1.59 points: RosterMogged (0-1) vs Nabers? I hardly know hers (0-1)**  
+**69% - 9.35 points: RosterMogged (0-1) vs Nabers? I hardly know hers (0-1)**  
 
 
 
