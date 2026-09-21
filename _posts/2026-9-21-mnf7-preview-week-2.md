@@ -23,15 +23,15 @@ A weekly newsletter for members of the Harry Koch Memorial Cup Fantasy Football 
 
 ### Matchups
 
-**99% - 34.33 points: Robotripping Gardener (1-0) vs Rub a dub lost the Chubb (1-0)**  
+**✅ 99% - 34.33 points: Robotripping Gardener (1-0) vs Rub a dub lost the Chubb (1-0)**  
 
 
 
-**99% - 32.37 points: MELONHEADS (daniel) (0-1) vs Zen Buddha Boys 🪷💨 (0-1)**  
+**✅ 99% - 32.37 points: MELONHEADS (daniel) (0-1) vs Zen Buddha Boys 🪷💨 (0-1)**  
 
 
 
-**99% - 18.21 points: BDSM AI Stealth Founder (1-0) vs James Ray Ervin Yonts (0-1)**  
+**✅ 99% - 18.21 points: BDSM AI Stealth Founder (1-0) vs James Ray Ervin Yonts (0-1)**  
 
 
 
