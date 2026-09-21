@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Monday Night Football - 2026 Fantasy Preview - Week 2
+published: false
 ---
 
 A weekly newsletter for members of the Harry Koch Memorial Cup Fantasy Football league - all others will **HAVE HOBO JOHNSON'S TINY DESK OF [PEACH SCONE](https://www.youtube.com/watch?v=XyjDVEPnhYw) PLAYED AT THEIR FUNERAL**
