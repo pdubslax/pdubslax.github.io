@@ -23,15 +23,11 @@ A weekly newsletter for members of the Harry Koch Memorial Cup Fantasy Football 
 
 ### Matchups
 
-**✅ 100% - 19.66 points: Zen Buddha Boys 🪷💨 (0-2) vs one sec I'm COOKing (1-1)**  
-
-
-
-**✅ 100% - 3.67 points: Silly Shrek Squad (1-1) vs RosterMogged (1-1)**  
-
-
-
 **94% - 25.09 points: Tuten Brown (2-0) vs The Quincels (0-2)**  
+
+
+
+**✅ 100% - 19.66 points: Zen Buddha Boys 🪷💨 (0-2) vs one sec I'm COOKing (1-1)**  
 
 
 
@@ -44,6 +40,10 @@ A weekly newsletter for members of the Harry Koch Memorial Cup Fantasy Football 
 
 
 **72% - 8.09 points: James Ray Ervin Yonts (0-2) vs MELONHEADS (daniel) (1-1)**  
+
+
+
+**✅ 100% - 3.67 points: Silly Shrek Squad (1-1) vs RosterMogged (1-1)**  
 
 
 
