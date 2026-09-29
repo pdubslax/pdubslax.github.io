@@ -28,7 +28,7 @@ Welcome to Boo Boo City, population: YOU. It is scientifically proven by Reddit 
 
 Another rough outing for the Quincels as he’s poised to be this week’s POOPY PANTS MEGA BLOWOUT OF THE WEEK sponsored by Bluey Luvs platinum protection diapers. Keith has 32 points and Johntayvion Wicks locked and loaded tonight against Alex’s Saquon. Look for Alex to reach out to Punk’d producers on LinkedIn in hopes that Barkley has just been pulling off an elaborate prank and is actually still good. Will Alex ever get to control his name again? The data points to no, but anything is possible! Especially after the BLOCKBUSTER trade he just pulled off.
 
-**✅ 100% - 19.66 points: Zen Buddha Boys 🪷💨 (0-2) vs one sec I'm COOKing (1-1)**  
+**✅ 100% - 20.66 points: Zen Buddha Boys 🪷💨 (0-2) vs one sec I'm COOKing (1-1)**  
 
 One of two completed matchups heading into the Monday night game, and Scott’s goose is cooked. Skylar consulted the big Buddha man himself to acquire Saint Shough (what a cross-functional collaboration) and rode that white boy to victory. Both these young men fall to 1-2 and are at a pivotal point of the season where they need to decide to lash out at everyone or overcome adversity. To quote the article I linked, “My enemies list has grown exponentially. It is not good for my soul.” Something to think about.
 
@@ -44,7 +44,7 @@ The darkness over the league grows darker as Patrick continues to roll through t
 
 Dan’s dirty dogs did him dirty this week, leaving him in the hole 22.31 points heading into the night. His last bastion of hope lies in DeVonta Smith who, to be fair, scored 25.7 points just last week. Imagine if Dan hadn’t started the Packers this week, as they scored -5.75, earning him another shotgunning. With an owed can cram from week one, Dan’s now got to double barrel DDP to fulfill his oath before turning green and fading away. Jam saw this presumed victory and promptly traded away his loyal boys, almost certainly ruining team morale. I’m predicting that he will not win another game with multiple players requesting trades, team USA hockey style.
 
-**✅ 100% - 3.67 points: Silly Shrek Squad (1-1) vs RosterMogged (1-1)**  
+**✅ 100% - 3.17 points: Silly Shrek Squad (1-1) vs RosterMogged (1-1)**  
 
 The alpha and the omega matchup of the week, the league's longest-standing member (because he made the league) beat up on our newest hire this week with a MASSIVE, 3.17 point victory. Adams did his best to raise Nick’s blood pressure, catching a 50 yarder in the second to last drive, but thankfully he’s old and slow so he wasn’t able to take it all the way. The good news for the commissioner haters out there (all of you), Nick’s RB room got Thanos snapped twice, knocking out the Achane twins. The bad news for you haters is that his RBs sucked already, so the drop-off is minimal. While it wasn’t the deciding factor, Kyle foolishly chose the 49ers D who netted -0.25 points this week, earning him a shotgun sesh this week. 49ers giveth (Purdy) 49ers taketh away (Defense).
 
