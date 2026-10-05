@@ -26,7 +26,15 @@ Oh, you thought it was going to be longer this week? Well, I thought Kyler Coin 
 
 
 
+**98% - 40.36 points: Zen Buddha Boys 🪷💨 (1-2) vs Quincels Repeat Offenders (0-3)**  
+
+
+
 **✅ 100% - 30.27 points: Robotripping Gardener (3-0) vs Silly Shrek Squad (2-1)**  
+
+
+
+**74% - 14.29 points: MELONHEADS (daniel) (1-2) vs Rub a dub lost the Chubb (2-1)**  
 
 
 
@@ -35,14 +43,6 @@ Oh, you thought it was going to be longer this week? Well, I thought Kyler Coin 
 
 
 **✅ 100% - 4.21 points: Kiwis are better than mid (1-2) vs BDSM AI Stealth Founder (2-1)**  
-
-
-
-**98% - 40.36 points: Zen Buddha Boys 🪷💨 (1-2) vs Quincels Repeat Offenders (0-3)**  
-
-
-
-**74% - 14.29 points: MELONHEADS (daniel) (1-2) vs Rub a dub lost the Chubb (2-1)**  
 
 
 
