@@ -23,27 +23,27 @@ A weekly newsletter for members of the Harry Koch Memorial Cup Fantasy Football 
 
 ### Matchups
 
-**??% - ?? points: ?? (??) vs ?? (??)**  
+**✅ 99% - 43.12 points: James Ray Ervin Yonts (1-2) vs my team is COOKED (1-2)**  
 
 
 
-**??% - ?? points: ?? (??) vs ?? (??)**  
+**98% - 40.01 points: Zen Buddha Boys 🪷💨 (1-2) vs Quincels Repeat Offenders (0-3)**  
 
 
 
-**??% - ?? points: ?? (??) vs ?? (??)**  
+**✅ 100% - 30.27 points: Robotripping Gardener (3-0) vs Silly Shrek Squad (2-1)**  
 
 
 
-**??% - ?? points: ?? (??) vs ?? (??)**  
+**74% - 14.00 points: MELONHEADS (daniel) (1-2) vs Rub a dub lost the Chubb (2-1)**  
 
 
 
-**??% - ?? points: ?? (??) vs ?? (??)**  
+**✅ 92% - 10.52 points: RosterMogged (1-2) vs Tuten Brown (3-0)**  
 
 
 
-**??% - ?? points: ?? (??) vs ?? (??)**  
+**✅ 100% - 4.21 points: Kiwis are mid (1-2) vs BDSM AI Stealth Founder (2-1)**  
 
 
 
