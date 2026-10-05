@@ -4,18 +4,18 @@ title: Monday Night Football - 2026 Fantasy Preview - Week 4
 published: false
 ---
 
-A weekly newsletter for members of the Harry Koch Memorial Cup Fantasy Football league - all others will **...**
+A weekly newsletter for members of the Harry Koch Memorial Cup Fantasy Football league - all others will **BE SOFT DELETED**
 
 <br/>
 
 ## Koch Safari League Preview Watch Guide for Tonight
 
-
+Oh, you thought it was going to be longer this week? Well I thought Kyler Coin was going to the moon when put up the mortgage as collatoral on the triple levered scheme - scratch that - CREAM back in the Ides of March. 
 
 <br/>
 
 ### Games
-(1-2) [Atlanta Falcons]() @ (1-2) [New Orleans Saints]()
+(1-2) [Atlanta Falcons](https://i.redd.it/b84fhwkhoxm71.png) @ (1-2) [New Orleans Saints](https://seminary.grace.edu/wp-content/uploads/2021/12/What-Does-Saint-Mean-scaled-e1640100363406-1200x800-c-default.jpg)
 * 8:15 PM EST / 5:15 PM PST / 4:15 PM AKDT / 1:15 PM NZDT (Tuesday)
 * Line: NO -2.5, O/U 47.5
 
