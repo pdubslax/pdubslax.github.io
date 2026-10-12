@@ -4,7 +4,7 @@ title: Monday Night Football - 2026 Fantasy Preview - Week 5
 published: false
 ---
 
-A weekly newsletter for members of the Harry Koch Memorial Cup Fantasy Football league - all others will **BE DENIED ENTRY INTO MOST CUTESY THIRD WAVE COFFEE SPOTS IN THE PACIFIC NORTHWEST**
+A weekly newsletter for members of the Harry Koch Memorial Cup Fantasy Football league - all others will **BE DENIED ENTRY INTO MOST CUTESY THIRD WAVE COFFEE SPOTS IN THE PACIFIC NORTHWEST FOR THE REMAINDER OF FALL**
 
 <br/>
 
@@ -16,7 +16,7 @@ A weekly newsletter for members of the Harry Koch Memorial Cup Fantasy Football 
 
 ### Games
 (3-1) [Buffalo Bills](https://www.packersproshop.com/media/catalog/product/cache/67a326eaea61d9280c06ab066ce4057e/0/3/0305797100_18_13_b_2500.jpg) @ (2-2) [Los Angeles Rams](https://www.computerhope.com/jargon/m/memory-ddr4.png)
-* 8:15 PM EST / 5:15 PM PST / 6:15 PM MST / 1:15 PM NZDT (Tuesday)
+* 8:15 PM EST / 7:15 PM CST / 6:15 PM MST / 5:15 PM PST / 1:15 PM NZDT (Tuesday)
 * Line: LAR -3.5, O/U 54.5
 
 <br/>
