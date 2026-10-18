@@ -31,13 +31,20 @@ jobs:
           path: ~/.cache/ms-playwright
           key: playwright-chromium-${{ runner.os }}-1.47.0
       - run: pip install playwright==1.47.0 && python -m playwright install --with-deps chromium
-      - run: python tools/odds_sampler.py odds-data/data/odds
-      - name: Commit sample
-        working-directory: odds-data
+      - name: Sample once a minute for this window
         run: |
+          cd odds-data
           git config user.name "odds-sampler"
           git config user.email "odds-sampler@users.noreply.github.com"
-          git add data/odds
-          if git diff --cached --quiet; then echo "nothing to commit"; exit 0; fi
-          git commit -m "odds sample $(date -u +%Y-%m-%dT%H:%MZ)"
-          git push
+          cd ..
+          end=$((SECONDS+270))
+          while :; do
+            t0=$SECONDS
+            out=$(python tools/odds_sampler.py odds-data/data/odds 2>&1) || true
+            echo "$out"
+            ( cd odds-data && git add data/odds && if git diff --cached --quiet; then echo "nothing to commit"; else
+                git commit -qm "odds sample $(date -u +%Y-%m-%dT%H:%MZ)" && (git pull --rebase -q origin odds-data || true) && git push -q; fi )
+            case "$out" in *"fully decided"*) echo "week decided; stopping"; break;; esac
+            [ $SECONDS -ge $end ] && break
+            w=$((60-(SECONDS-t0))); [ $w -gt 0 ] && sleep $w
+          done

@@ -68,19 +68,32 @@ footer{font-size:12.5px;color:var(--muted);border-top:1px solid var(--line);padd
   </header>
   <section class="ribbon" id="ribbon" aria-label="Biggest blowout race"></section>
   <section class="grid" id="grid" aria-label="Matchups"></section>
-  <footer><span>Win odds and projections are Yahoo's, sampled every 5 minutes during game windows. This page refreshes itself.</span><span id="count"></span></footer>
+  <footer><span>Win odds and projections are Yahoo's, sampled about once a minute during game windows. This page refreshes itself.</span><span id="count"></span></footer>
 </div>
 <script>
-const DATA_URL = 'https://raw.githubusercontent.com/pdubslax/pdubslax.github.io/odds-data/data/odds/current.json';
+const RAW_URL = 'https://raw.githubusercontent.com/pdubslax/pdubslax.github.io/odds-data/data/odds/current.json';
+const API_URL = 'https://api.github.com/repos/pdubslax/pdubslax.github.io/contents/data/odds/current.json?ref=odds-data';
+let etag = null, lastJson = null;
 async function load(){
   try {
-    const res = await fetch(DATA_URL + '?t=' + Date.now(), {cache:'no-store'});
-    if(!res.ok) throw new Error('HTTP '+res.status);
-    render(await res.json());
-  } catch(e){ const g=document.getElementById('grid'); if(!g.children.length) g.innerHTML='<div class="empty">No samples yet. The sampler runs every 5 minutes during game windows.</div>'; }
+    let hist = null;
+    try {
+      const h = {'Accept':'application/vnd.github.raw+json'}; if (etag) h['If-None-Match'] = etag;
+      const r = await fetch(API_URL, {headers:h, cache:'no-store'});
+      if (r.status === 304) return;
+      if (r.ok) { etag = r.headers.get('ETag'); hist = await r.json(); }
+    } catch(e) {}
+    if (!hist) {
+      const r = await fetch(RAW_URL + '?t=' + Date.now(), {cache:'no-store'});
+      if (!r.ok) throw new Error('HTTP '+r.status);
+      hist = await r.json();
+    }
+    const txt = JSON.stringify(hist); if (txt === lastJson) return; lastJson = txt;
+    render(hist);
+  } catch(e){ const g=document.getElementById('grid'); if(!g.children.length) g.innerHTML='<div class="empty">No samples yet. The sampler runs about once a minute during game windows.</div>'; }
 }
 function render(hist){
-  if(!hist.samples || !hist.samples.length){ document.getElementById('grid').innerHTML='<div class="empty">No samples yet this week. The sampler runs every 5 minutes during game windows.</div>'; return; }
+  if(!hist.samples || !hist.samples.length){ document.getElementById('grid').innerHTML='<div class="empty">No samples yet this week. The sampler runs about once a minute during game windows.</div>'; return; }
   const S = hist.samples; const last = S[S.length-1]; const first = S[0]; const prev = S.length>1 ? S[S.length-2] : null;
   const fmtT = ts => new Date(ts).toLocaleString(undefined,{weekday:'short',hour:'numeric',minute:'2-digit'});
   const ago = ts => { const m = Math.round((Date.now()-new Date(ts))/60000); return m<1?'just now':m<60?m+' min ago':Math.round(m/60)+' h ago'; };
