@@ -150,7 +150,17 @@ function render(hist){
   const tsList = S.map(s => new Date(s.ts).getTime());
   function spark(vals){
     const W=320,H=110,pl=6,pr=6,pt=8,pb=20; const x=t=> pl+(W-pl-pr)*frac(t); const y=v=> pt+(H-pt-pb)*(1-v/100);
-    let d=''; vals.forEach((v,i)=>{ if(v==null) return; d += (d?' L':'M')+x(tsList[i]).toFixed(1)+' '+y(v).toFixed(1); });
+    // Smooth: centered rolling average over 5 samples, endpoint pinned to the latest real value, drawn as a monotone curve.
+    const pts = []; vals.forEach((v,i)=>{ if(v!=null) pts.push({t:tsList[i], v}); });
+    const sm = pts.map((p,i)=>{ if(i===pts.length-1) return p.v; const lo=Math.max(0,i-2), hi=Math.min(pts.length-1,i+2); let s=0,c=0; for(let k=lo;k<=hi;k++){ s+=pts[k].v; c++; } return s/c; });
+    const P = pts.map((p,i)=>({x:x(p.t), y:y(sm[i])}));
+    let d='';
+    if (P.length){ d = 'M'+P[0].x.toFixed(1)+' '+P[0].y.toFixed(1);
+      const n=P.length, m=[], dx=[], dy=[];
+      for(let i=0;i<n-1;i++){ dx[i]=P[i+1].x-P[i].x; dy[i]=(P[i+1].y-P[i].y)/(dx[i]||1e-6); }
+      for(let i=0;i<n;i++){ if(i===0) m[i]=dy[0]||0; else if(i===n-1) m[i]=dy[n-2]||0; else m[i]=(dy[i-1]*dy[i]<=0)?0:(dy[i-1]+dy[i])/2; }
+      for(let i=0;i<n-1;i++){ const h3=dx[i]/3; d += ` C${(P[i].x+h3).toFixed(1)} ${(P[i].y+m[i]*h3).toFixed(1)} ${(P[i+1].x-h3).toFixed(1)} ${(P[i+1].y-m[i+1]*h3).toFixed(1)} ${P[i+1].x.toFixed(1)} ${P[i+1].y.toFixed(1)}`; }
+    }
     const n=vals.length, lastV=vals[n-1], lastX=x(tsList[n-1]);
     const bands = SEG.map((g,i)=>{ const x0=pl+(W-pl-pr)*g.x0, x1=pl+(W-pl-pr)*g.x1; return `<rect x="${x0.toFixed(1)}" y="${pt}" width="${(x1-x0).toFixed(1)}" height="${H-pt-pb}" fill="var(--grid)" opacity="${i%2?0.55:0.25}"/><text x="${((x0+x1)/2).toFixed(1)}" y="${H-6}" text-anchor="middle" font-size="10" font-family="var(--mono)" fill="var(--muted)">${g.label}</text>`; }).join('');
     const ticks = hist.ticks.map(k => { const tx = x(new Date(k.at).getTime()); return `<line x1="${tx.toFixed(1)}" x2="${tx.toFixed(1)}" y1="${pt}" y2="${H-pb}" stroke="var(--line)" stroke-width="1"/>`; }).join('');
