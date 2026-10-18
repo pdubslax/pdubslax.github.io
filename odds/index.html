@@ -67,7 +67,8 @@ a.card:hover{border-color:var(--fav)}
 .strip.top{padding-bottom:2px}
 .chart{position:relative}
 .chart svg{width:100%;height:96px;display:block;max-width:100%}
-.chart .tip{position:absolute;top:4px;right:6px;font-family:var(--mono);font-size:11px;color:var(--ink);background:var(--panel);padding:1px 5px;border:1px solid var(--line);border-radius:3px;pointer-events:none;display:none}
+.chart svg *{pointer-events:none}
+.chart .tip{position:absolute;top:4px;left:6px;font-family:var(--mono);font-size:11px;color:var(--ink);background:var(--panel);padding:1px 5px;border:1px solid var(--line);border-radius:3px;pointer-events:none;display:none;font-variant-numeric:tabular-nums;white-space:nowrap}
 .chart .guide{display:none}
 .cap{display:flex;justify-content:space-between;gap:10px;font-family:var(--mono);font-size:11.5px;color:var(--muted)}
 .delta{font-weight:500}
@@ -223,20 +224,29 @@ function render(hist){
     </a>`;
   }).join('');
 }
-// Hover over a chart: nearest sample's time and the top team's win percentage, with a thin guide line.
+// Hover over a chart: a guide line follows the cursor and the readout interpolates between samples, so it glides instead of snapping.
 const grid = document.getElementById('grid');
-grid.addEventListener('mousemove', e => {
-  const c = e.target.closest('.chart'); if (!c) return;
+let hoverRaf = null;
+function showHover(c, clientX){
   const d = HOVER[c.dataset.id]; if (!d || !d.xs.length) return;
   const svg = c.querySelector('svg'), r = svg.getBoundingClientRect();
-  const xv = (e.clientX - r.left) / r.width * d.W;
-  let k = 0; for (let i = 1; i < d.xs.length; i++) if (Math.abs(d.xs[i]-xv) < Math.abs(d.xs[k]-xv)) k = i;
-  const g = svg.querySelector('.guide'); g.setAttribute('x1', d.xs[k]); g.setAttribute('x2', d.xs[k]); g.style.display = 'block';
-  const t = new Date(d.ts[k]).toLocaleString(undefined,{weekday:'short',hour:'numeric',minute:'2-digit'});
-  const tip = c.querySelector('.tip'); tip.textContent = `${t} · ${c.dataset.top} ${d.vals[k]}%`; tip.style.display = 'block';
+  const xv = Math.min(Math.max((clientX - r.left) / r.width * d.W, d.xs[0]), d.xs[d.xs.length-1]);
+  let i = 1; while (i < d.xs.length-1 && d.xs[i] < xv) i++;
+  const x0 = d.xs[i-1], x1 = d.xs[i], f = x1 > x0 ? (xv - x0) / (x1 - x0) : 0;
+  const v = d.vals[i-1] + (d.vals[i] - d.vals[i-1]) * f;
+  const t = new Date(d.ts[i-1] + (d.ts[i] - d.ts[i-1]) * f);
+  const g = svg.querySelector('.guide'); g.setAttribute('x1', xv.toFixed(1)); g.setAttribute('x2', xv.toFixed(1)); g.style.display = 'block';
+  const tip = c.querySelector('.tip');
+  tip.textContent = `${t.toLocaleString(undefined,{weekday:'short',hour:'numeric',minute:'2-digit'})} · ${c.dataset.top} ${Math.round(v)}%`;
+  tip.style.display = 'block';
+}
+function hideHover(c){ const g = c.querySelector('.guide'), t = c.querySelector('.tip'); if (g) g.style.display = 'none'; if (t) t.style.display = 'none'; }
+grid.addEventListener('pointermove', e => {
+  const c = e.target.closest('.chart'); if (!c) return;
+  const x = e.clientX; if (hoverRaf) cancelAnimationFrame(hoverRaf);
+  hoverRaf = requestAnimationFrame(() => { hoverRaf = null; showHover(c, x); });
 });
-grid.addEventListener('mouseleave', () => { grid.querySelectorAll('.guide').forEach(g => g.style.display = 'none'); grid.querySelectorAll('.tip').forEach(t => t.style.display = 'none'); }, true);
-grid.addEventListener('mouseout', e => { const c = e.target.closest('.chart'); if (c && !c.contains(e.relatedTarget)) { c.querySelector('.guide').style.display = 'none'; c.querySelector('.tip').style.display = 'none'; } });
+grid.addEventListener('pointerout', e => { const c = e.target.closest('.chart'); if (c && !(e.relatedTarget && c.contains(e.relatedTarget))) hideHover(c); });
 load(); setInterval(load, 75000); // 48 API calls per hour per viewer, under GitHub's 60 limit
 </script>
 
