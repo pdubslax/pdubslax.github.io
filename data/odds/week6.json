@@ -2588,6 +2588,190 @@
      "rightRem": 6
     }
    ]
+  },
+  {
+   "ts": "2026-10-18T20:22:19+00:00",
+   "week": 6,
+   "matchups": [
+    {
+     "id": "1v2",
+     "left": "Silly Shrek Squad",
+     "leftRec": "3-2",
+     "right": "BDSM AI Stealth Founder",
+     "rightRec": "2-3",
+     "leftScore": 67.29,
+     "leftProj": 110.02,
+     "rightScore": 68.6,
+     "rightProj": 111.06,
+     "shotgun": [
+      {
+       "player": "M. Wilson",
+       "pos": "WR",
+       "team": "Ari",
+       "pts": 0.0,
+       "game": "1st 7:03, 0-3 @ LAR RZ",
+       "tag": null,
+       "state": "live",
+       "slot": "WR",
+       "manager": "BDSM AI Stealth Founder",
+       "locked": false
+      },
+      {
+       "player": "T. Higbee",
+       "pos": "TE",
+       "team": "LAR",
+       "pts": 0.0,
+       "game": "1st 7:03, 3-0 vs ARI",
+       "tag": null,
+       "state": "live",
+       "slot": "TE",
+       "manager": "Silly Shrek Squad",
+       "locked": false
+      },
+      {
+       "player": "Texans",
+       "pos": "DEF",
+       "team": "Hou",
+       "pts": -2.75,
+       "game": "Final (W) 34-31 @ JAX",
+       "tag": null,
+       "state": "final",
+       "slot": "DEF",
+       "manager": "Silly Shrek Squad",
+       "locked": true
+      }
+     ],
+     "leftPct": 49,
+     "leftRem": 5,
+     "rightRem": 6
+    },
+    {
+     "id": "3v6",
+     "left": "Robotripping Gardener",
+     "leftRec": "5-0",
+     "right": "MELONHEADS (daniel)",
+     "rightRec": "2-3",
+     "leftScore": 54.65,
+     "leftProj": 121.87,
+     "rightScore": 34.05,
+     "rightProj": 105.31,
+     "shotgun": [
+      {
+       "player": "C. Skattebo",
+       "pos": "RB",
+       "team": "NYG",
+       "pts": 0.0,
+       "game": "4th 0:24, 27-34 vs NO",
+       "tag": null,
+       "state": "live",
+       "slot": "RB",
+       "manager": "MELONHEADS (daniel)",
+       "locked": false
+      }
+     ],
+     "leftPct": 67,
+     "leftRem": 5,
+     "rightRem": 8
+    },
+    {
+     "id": "4v8",
+     "left": "Rub a dub lost the Chubb",
+     "leftRec": "2-3",
+     "right": "Alex Michael Pagels",
+     "rightRec": "0-5",
+     "leftScore": 53.23,
+     "leftProj": 102.78,
+     "rightScore": 110.5,
+     "rightProj": 132.47,
+     "shotgun": [],
+     "leftPct": 12,
+     "leftRem": 5,
+     "rightRem": 6
+    },
+    {
+     "id": "5v11",
+     "left": "Tuten Brown",
+     "leftRec": "3-2",
+     "right": "Zen Buddha Boys 🪷💨",
+     "rightRec": "3-2",
+     "leftScore": 108.54,
+     "leftProj": 135.51,
+     "rightScore": 101.7,
+     "rightProj": 102.32,
+     "shotgun": [
+      {
+       "player": "K. Bourne",
+       "pos": "WR",
+       "team": "Ari",
+       "pts": 0.0,
+       "game": "1st 7:03, 0-3 @ LAR RZ",
+       "tag": null,
+       "state": "live",
+       "slot": "WR",
+       "manager": "Tuten Brown",
+       "locked": false
+      }
+     ],
+     "leftPct": 99,
+     "leftRem": 4,
+     "rightRem": 2
+    },
+    {
+     "id": "7v10",
+     "left": "James Ray Ervin Yonts",
+     "leftRec": "3-2",
+     "right": "RosterMogged",
+     "rightRec": "2-3",
+     "leftScore": 51.7,
+     "leftProj": 123.01,
+     "rightScore": 27.9,
+     "rightProj": 127.48,
+     "shotgun": [
+      {
+       "player": "D. Adams",
+       "pos": "WR",
+       "team": "LAR",
+       "pts": 0.0,
+       "game": "1st 7:03, 3-0 vs ARI",
+       "tag": null,
+       "state": "live",
+       "slot": "WR",
+       "manager": "RosterMogged",
+       "locked": false
+      },
+      {
+       "player": "P. Nacua",
+       "pos": "WR",
+       "team": "LAR",
+       "pts": 0.0,
+       "game": "1st 7:03, 3-0 vs ARI",
+       "tag": null,
+       "state": "live",
+       "slot": "W/R/T",
+       "manager": "James Ray Ervin Yonts",
+       "locked": false
+      }
+     ],
+     "leftPct": 46,
+     "leftRem": 7,
+     "rightRem": 8
+    },
+    {
+     "id": "9v12",
+     "left": "Sir this is a FF league",
+     "leftRec": "2-3",
+     "right": "Kiwis are better than mid",
+     "rightRec": "3-2",
+     "leftScore": 64.05,
+     "leftProj": 116.68,
+     "rightScore": 60.9,
+     "rightProj": 128.76,
+     "shotgun": [],
+     "leftPct": 36,
+     "leftRem": 3,
+     "rightRem": 6
+    }
+   ]
   }
  ],
  "segments": [
