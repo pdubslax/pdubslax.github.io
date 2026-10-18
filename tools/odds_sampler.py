@@ -47,7 +47,7 @@ ROSTER_JS = """() => {
     const c = [...r.querySelectorAll('th,td')]; if (c.length !== 9) continue;
     const slot = c[4].innerText.trim(); if (slot === 'Pos' || slot === 'TOTAL') continue;
     const cell = td => { const a = td.querySelector('a'); return [a ? a.innerText.trim() : '', td.innerText.replace(/\\s+/g, ' ').trim()]; };
-    out.push({slot, L: cell(c[1]), lp: c[3].innerText.trim(), R: cell(c[7]), rp: c[5].innerText.trim()});
+    out.push({slot, L: cell(c[1]), lp: c[3].innerText.trim(), lpr: c[2].innerText.trim(), R: cell(c[7]), rp: c[5].innerText.trim(), rpr: c[6].innerText.trim()});
   }
   return out;
 }"""
@@ -66,6 +66,21 @@ def parse_player(name, text, pts):
     else: state = "pending"
     p = float(pts) if re.match(r"-?\d", pts) else 0.0
     return dict(player=name or "(Empty)", pos=pos, team=team, pts=p, game="" if state == "empty" else game.strip(), tag=tag, state=state)
+
+def active_starters(rows, side, top=3):
+    """Starters whose game is still to come or in progress, ranked by expected remaining points (Yahoo's live projection minus points so far)."""
+    out = []
+    for r in rows:
+        name, text = r[side]; pts = r["lp"] if side == "L" else r["rp"]; proj = r.get("lpr" if side == "L" else "rpr", "")
+        d = parse_player(name, text, pts)
+        if d["state"] not in ("pending", "live"): continue
+        nums = re.findall(r"-?\d+\.\d+", proj or "")
+        live_proj = float(nums[-1]) if nums else 0.0
+        remaining = live_proj if d["state"] == "pending" else max(live_proj - d["pts"], 0.0)
+        if remaining <= 0: continue
+        out.append(dict(player=d["player"], pos=d["pos"], slot=r["slot"], rem=round(remaining, 2), state=d["state"]))
+    out.sort(key=lambda x: -x["rem"])
+    return out[:top]
 
 def shotgun_entries(rows, left_team, right_team):
     """Starters at zero or below whose fate is in play: live or final games, inactive tags, byes, empty slots."""
@@ -113,6 +128,7 @@ async def main(out_dir):
         for row in rows:
             pct, rem, body, rows_ = await odds_for(page, week, row["id"])
             row["shotgun"] = shotgun_entries(rows_, row["left"], row["right"])
+            row["leftActive"] = active_starters(rows_, "L"); row["rightActive"] = active_starters(rows_, "R")
             if pct is None:
                 # decided matchup: no percentage shown. Use scores to assign 100/0; fall back to projections.
                 if "Winner" in body or "Loser" in body or (rem == [0, 0]):

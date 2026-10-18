@@ -41,7 +41,10 @@ a.card:hover{border-color:var(--fav)}
 .nm small{display:block;font-weight:400;font-size:12.5px;color:var(--muted);overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
 .card{background:var(--panel);border:1px solid var(--line);padding:12px 16px 10px;display:grid;gap:6px;min-width:0}
 .rowtop{display:flex;justify-content:space-between;align-items:center;font-family:var(--mono);font-size:12px;color:var(--muted);font-variant-numeric:tabular-nums}
-.strip{display:grid;grid-template-columns:auto minmax(0,1fr);align-items:baseline;column-gap:12px}
+.strip{display:grid;grid-template-columns:auto minmax(0,1fr) auto;align-items:baseline;column-gap:12px}
+.strip .key{font-family:var(--mono);font-size:11.5px;color:var(--muted);text-align:right;line-height:1.35;align-self:center}
+.strip .key span{display:block;white-space:nowrap}
+.card.done .key{display:none}
 .strip .pct{min-width:64px}
 .strip .nm{font-weight:600;font-size:15px;line-height:1.2;overflow-wrap:anywhere}
 .strip .rec{font-family:var(--mono);font-weight:400;font-size:12px;color:var(--muted);margin-left:6px}
@@ -184,13 +187,14 @@ function render(hist){
     const leftAhead = m.leftScore > m.rightScore, rightAhead = m.rightScore > m.leftScore;
     const decided = (m.leftRem===0 && m.rightRem===0) || lp===100 || lp===0 || (leftAhead && m.rightRem===0) || (rightAhead && m.leftRem===0);
     const lm = m.leftProj-m.rightProj;
-    const strip=(first,name,rec,pct,score,proj,rem,fav,cls)=>`<div class="strip ${cls} ${fav?'isfav':'isdog'}"><div class="pct">${pct}<small>%</small></div><div class="nm">${esc(first||name)}<span class="rec">${esc(rec)}</span>${first?`<small>${esc(name)}</small>`:''}</div><div class="sub"><b>${score.toFixed(2)}</b> now · ${proj.toFixed(2)} proj · ${rem} left</div></div>`;
+    const keys = act => (act||[]).slice(0,2).map(a=>`<span>${esc(a.pos||a.slot)} ${esc(a.player)}</span>`).join('');
+    const strip=(first,name,rec,pct,score,proj,rem,fav,cls,act)=>`<div class="strip ${cls} ${fav?'isfav':'isdog'}"><div class="pct">${pct}<small>%</small></div><div class="nm">${esc(first||name)}<span class="rec">${esc(rec)}</span>${first?`<small>${esc(name)}</small>`:''}</div><div class="key">${keys(act)}</div><div class="sub"><b>${score.toFixed(2)}</b> now · ${proj.toFixed(2)} proj · ${rem} left</div></div>`;
     const leadName = shortName(m, lm>=0?0:1); const [ida, idb] = sideIds(m);
     return `<a class="card${decided?' done':''}" href="/odds/open/?week=${hist.week}&mid1=${ida}&mid2=${idb}" target="_blank" rel="noopener">
       <div class="rowtop">${decided?'<span class="chip lock">✅ Decided</span>':'<span class="chip">Live</span>'}<span>proj margin ${Math.abs(lm).toFixed(2)} · ${esc(leadName)}</span></div>
-      ${strip(firstName(m,0),m.left,m.leftRec,lp,m.leftScore,m.leftProj,m.leftRem,leftFav,'top')}
+      ${strip(firstName(m,0),m.left,m.leftRec,lp,m.leftScore,m.leftProj,m.leftRem,leftFav,'top',m.leftActive)}
       <div class="chart">${spark(vals)}</div>
-      ${strip(firstName(m,1),m.right,m.rightRec,rp,m.rightScore,m.rightProj,m.rightRem,!leftFav,'bot')}
+      ${strip(firstName(m,1),m.right,m.rightRec,rp,m.rightScore,m.rightProj,m.rightRem,!leftFav,'bot',m.rightActive)}
     </a>`;
   }).join('');
 }
