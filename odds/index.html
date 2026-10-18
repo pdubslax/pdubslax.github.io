@@ -176,6 +176,11 @@ function render(hist){
     </a>`;
   }).join('');
 }
+// Open matchup links from script so phones open a browser tab instead of handing the link to the Yahoo app.
+document.getElementById('grid').addEventListener('click', e => {
+  const a = e.target.closest('a.card'); if (!a) return;
+  e.preventDefault(); window.open(a.href, '_blank', 'noopener');
+});
 load(); setInterval(load, 60000);
 </script>
 
