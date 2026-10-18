@@ -105,20 +105,21 @@ async def odds_for(page, week, mid):
     body = ""
     for attempt in range(3):
         try:
-            await page.wait_for_function("() => /(Favorite|Underdog) \\d+%|100%|0 Players [Rr]emaining[\\s\\S]*?Players [Rr]emaining 0/.test(document.body.innerText)", timeout=15000)
+            await page.wait_for_function("() => /\\d+%[\\s\\S]{0,40}?Projected Winner|(Favorite|Underdog) \\d+%|100%|0 Players [Rr]emaining[\\s\\S]*?Players [Rr]emaining 0/.test(document.body.innerText)", timeout=15000)
         except Exception:
             pass
         body = await page.inner_text("body")
-        if re.search(r"(Favorite|Underdog) (\d+)%", body) or "100%" in body: break
+        if re.search(r"\d+%[\s\S]{0,40}?Projected Winner|(Favorite|Underdog) \d+%", body) or "100%" in body: break
         await page.wait_for_timeout(2000)
     try:
         rows = await page.evaluate(ROSTER_JS)
     except Exception as e:
         print("roster read failed for", mid, e, file=sys.stderr); rows = []
-    m = re.search(r"(Favorite|Underdog) (\d+)%", body)
+    # Left team's percentage is the first one printed before "Projected Winner", labeled (Favorite/Underdog) or not (a dead 50/50 has no labels).
+    m = re.search(r"(\d+)%[\s\S]{0,40}?Projected Winner", body) or re.search(r"(Favorite|Underdog) (\d+)%", body)
     r = re.search(r"(\d+) Players [Rr]emaining[\s\S]*?Players [Rr]emaining (\d+)", body)
     rem = [int(r.group(1)), int(r.group(2))] if r else None
-    pct = int(m.group(2)) if m else None
+    pct = int(m.group(m.lastindex)) if m else None
     return pct, rem, body, rows
 
 async def main(out_dir):
