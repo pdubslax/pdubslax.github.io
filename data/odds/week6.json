@@ -7561,6 +7561,214 @@
      "rightRem": 4
     }
    ]
+  },
+  {
+   "ts": "2026-10-18T20:41:19+00:00",
+   "week": 6,
+   "matchups": [
+    {
+     "id": "1v2",
+     "left": "Silly Shrek Squad",
+     "leftRec": "3-2",
+     "right": "BDSM AI Stealth Founder",
+     "rightRec": "2-3",
+     "leftScore": 67.41,
+     "leftProj": 105.57,
+     "rightScore": 68.6,
+     "rightProj": 108.45,
+     "shotgun": [
+      {
+       "player": "K. Mitchell",
+       "pos": "RB",
+       "team": "LAC",
+       "pts": 0.0,
+       "game": "1st 7:29, 0-3 @ KC",
+       "tag": null,
+       "state": "live",
+       "slot": "RB",
+       "manager": "BDSM AI Stealth Founder",
+       "locked": false
+      },
+      {
+       "player": "M. Wilson",
+       "pos": "WR",
+       "team": "Ari",
+       "pts": 0.0,
+       "game": "2nd 14:55, 3-3 @ LAR RZ",
+       "tag": null,
+       "state": "live",
+       "slot": "WR",
+       "manager": "BDSM AI Stealth Founder",
+       "locked": false
+      },
+      {
+       "player": "T. Higbee",
+       "pos": "TE",
+       "team": "LAR",
+       "pts": 0.0,
+       "game": "2nd 14:55, 3-3 vs ARI",
+       "tag": null,
+       "state": "live",
+       "slot": "TE",
+       "manager": "Silly Shrek Squad",
+       "locked": false
+      },
+      {
+       "player": "Texans",
+       "pos": "DEF",
+       "team": "Hou",
+       "pts": -2.75,
+       "game": "Final (W) 34-31 @ JAX",
+       "tag": null,
+       "state": "final",
+       "slot": "DEF",
+       "manager": "Silly Shrek Squad",
+       "locked": true
+      }
+     ],
+     "leftPct": 46,
+     "leftRem": 3,
+     "rightRem": 4
+    },
+    {
+     "id": "3v6",
+     "left": "Robotripping Gardener",
+     "leftRec": "5-0",
+     "right": "MELONHEADS (daniel)",
+     "rightRec": "2-3",
+     "leftScore": 62.37,
+     "leftProj": 122.31,
+     "rightScore": 40.05,
+     "rightProj": 107.74,
+     "shotgun": [
+      {
+       "player": "C. Skattebo",
+       "pos": "RB",
+       "team": "NYG",
+       "pts": 0.0,
+       "game": "Final (L) 27-34 vs NO",
+       "tag": null,
+       "state": "final",
+       "slot": "RB",
+       "manager": "MELONHEADS (daniel)",
+       "locked": true
+      }
+     ],
+     "leftPct": 66,
+     "leftRem": 4,
+     "rightRem": 5
+    },
+    {
+     "id": "4v8",
+     "left": "Rub a dub lost the Chubb",
+     "leftRec": "2-3",
+     "right": "Alex Michael Pagels",
+     "rightRec": "0-5",
+     "leftScore": 62.97,
+     "leftProj": 106.22,
+     "rightScore": 114.7,
+     "rightProj": 131.83,
+     "shotgun": [],
+     "leftPct": 14,
+     "leftRem": 5,
+     "rightRem": 2
+    },
+    {
+     "id": "5v11",
+     "left": "Tuten Brown",
+     "leftRec": "3-2",
+     "right": "Zen Buddha Boys 🪷💨",
+     "rightRec": "3-2",
+     "leftScore": 111.04,
+     "leftProj": 137.79,
+     "rightScore": 102.4,
+     "rightProj": 102.4,
+     "shotgun": [],
+     "leftPct": 99,
+     "leftRem": 4,
+     "rightRem": 0
+    },
+    {
+     "id": "7v10",
+     "left": "James Ray Ervin Yonts",
+     "leftRec": "3-2",
+     "right": "RosterMogged",
+     "rightRec": "2-3",
+     "leftScore": 53.3,
+     "leftProj": 116.69,
+     "rightScore": 64.95,
+     "rightProj": 141.45,
+     "shotgun": [
+      {
+       "player": "D. Adams",
+       "pos": "WR",
+       "team": "LAR",
+       "pts": 0.0,
+       "game": "2nd 14:55, 3-3 vs ARI",
+       "tag": null,
+       "state": "live",
+       "slot": "WR",
+       "manager": "RosterMogged",
+       "locked": false
+      },
+      {
+       "player": "T. Kelce",
+       "pos": "TE",
+       "team": "KC",
+       "pts": 0.0,
+       "game": "1st 7:29, 3-0 vs LAC",
+       "tag": null,
+       "state": "live",
+       "slot": "TE",
+       "manager": "James Ray Ervin Yonts",
+       "locked": false
+      },
+      {
+       "player": "P. Nacua",
+       "pos": "WR",
+       "team": "LAR",
+       "pts": 0.0,
+       "game": "2nd 14:55, 3-3 vs ARI",
+       "tag": null,
+       "state": "live",
+       "slot": "W/R/T",
+       "manager": "James Ray Ervin Yonts",
+       "locked": false
+      }
+     ],
+     "leftPct": 28,
+     "leftRem": 7,
+     "rightRem": 8
+    },
+    {
+     "id": "9v12",
+     "left": "Sir this is a FF league",
+     "leftRec": "2-3",
+     "right": "Kiwis are better than mid",
+     "rightRec": "3-2",
+     "leftScore": 65.75,
+     "leftProj": 115.51,
+     "rightScore": 67.4,
+     "rightProj": 126.99,
+     "shotgun": [
+      {
+       "player": "B. Bowers",
+       "pos": "TE",
+       "team": "LV",
+       "pts": 0.0,
+       "game": "1st 5:17, 0-3 vs BUF",
+       "tag": null,
+       "state": "live",
+       "slot": "TE",
+       "manager": "Kiwis are better than mid",
+       "locked": false
+      }
+     ],
+     "leftPct": 36,
+     "leftRem": 3,
+     "rightRem": 4
+    }
+   ]
   }
  ],
  "segments": [
