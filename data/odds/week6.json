@@ -1388,6 +1388,128 @@
      "rightRem": 8
     }
    ]
+  },
+  {
+   "ts": "2026-10-18T20:01:29+00:00",
+   "week": 6,
+   "matchups": [
+    {
+     "id": "1v2",
+     "left": "Silly Shrek Squad",
+     "leftRec": "3-2",
+     "right": "BDSM AI Stealth Founder",
+     "rightRec": "2-3",
+     "leftScore": 67.05,
+     "leftProj": 116.71,
+     "rightScore": 61.6,
+     "rightProj": 107.72,
+     "shotgun": [
+      {
+       "player": "Texans",
+       "pos": "DEF",
+       "team": "Hou",
+       "pts": -2.75,
+       "game": "Final (W) 34-31 @ JAX",
+       "tag": null,
+       "state": "final",
+       "slot": "DEF",
+       "manager": "Silly Shrek Squad",
+       "locked": true
+      }
+     ],
+     "leftPct": 62,
+     "leftRem": 6,
+     "rightRem": 7
+    },
+    {
+     "id": "3v6",
+     "left": "Robotripping Gardener",
+     "leftRec": "5-0",
+     "right": "MELONHEADS (daniel)",
+     "rightRec": "2-3",
+     "leftScore": 52.45,
+     "leftProj": 127.2,
+     "rightScore": 30.45,
+     "rightProj": 105.61,
+     "shotgun": [
+      {
+       "player": "C. Skattebo",
+       "pos": "RB",
+       "team": "NYG",
+       "pts": 0.0,
+       "game": "4th 5:06, 24-34 vs NO",
+       "tag": null,
+       "state": "live",
+       "slot": "RB",
+       "manager": "MELONHEADS (daniel)",
+       "locked": false
+      }
+     ],
+     "leftPct": 71,
+     "leftRem": 7,
+     "rightRem": 9
+    },
+    {
+     "id": "4v8",
+     "left": "Rub a dub lost the Chubb",
+     "leftRec": "2-3",
+     "right": "Alex Michael Pagels",
+     "rightRec": "0-5",
+     "leftScore": 53.33,
+     "leftProj": 99.51,
+     "rightScore": 99.4,
+     "rightProj": 124.16,
+     "shotgun": [],
+     "leftPct": 17,
+     "leftRem": 6,
+     "rightRem": 6
+    },
+    {
+     "id": "5v11",
+     "left": "Tuten Brown",
+     "leftRec": "3-2",
+     "right": "Zen Buddha Boys 🪷💨",
+     "rightRec": "3-2",
+     "leftScore": 107.29,
+     "leftProj": 136.39,
+     "rightScore": 96.8,
+     "rightProj": 102.91,
+     "shotgun": [],
+     "leftPct": 98,
+     "leftRem": 6,
+     "rightRem": 6
+    },
+    {
+     "id": "7v10",
+     "left": "James Ray Ervin Yonts",
+     "leftRec": "3-2",
+     "right": "RosterMogged",
+     "rightRec": "2-3",
+     "leftScore": 35.8,
+     "leftProj": 120.67,
+     "rightScore": 23.5,
+     "rightProj": 125.19,
+     "shotgun": [],
+     "leftPct": 46,
+     "leftRem": 8,
+     "rightRem": 8
+    },
+    {
+     "id": "9v12",
+     "left": "Sir this is a FF league",
+     "leftRec": "2-3",
+     "right": "Kiwis are better than mid",
+     "rightRec": "3-2",
+     "leftScore": 64.05,
+     "leftProj": 117.44,
+     "rightScore": 62.9,
+     "rightProj": 129.54,
+     "shotgun": [],
+     "leftPct": 36,
+     "leftRem": 7,
+     "rightRem": 8
+    }
+   ]
   }
  ],
  "segments": [
