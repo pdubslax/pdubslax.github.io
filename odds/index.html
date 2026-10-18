@@ -183,7 +183,7 @@ function render(hist){
     </a>`;
   }).join('');
 }
-load(); setInterval(load, 60000);
+load(); setInterval(load, 75000); // 48 API calls per hour per viewer, under GitHub's 60 limit
 </script>
 
 </body>
