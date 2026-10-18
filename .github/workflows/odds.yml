@@ -43,7 +43,8 @@ jobs:
             out=$(python tools/odds_sampler.py odds-data/data/odds 2>&1) || true
             echo "$out"
             ( cd odds-data && git add data/odds && if git diff --cached --quiet; then echo "nothing to commit"; else
-                git commit -qm "odds sample $(date -u +%Y-%m-%dT%H:%MZ)" && (git pull --rebase -q origin odds-data || true) && git push -q; fi )
+                git commit -qm "odds sample $(date -u +%Y-%m-%dT%H:%MZ)" && (git pull --rebase -q origin odds-data || true) && git push -q
+                && curl -s "https://purge.jsdelivr.net/gh/pdubslax/pdubslax.github.io@odds-data/data/odds/current.json" >/dev/null; fi )
             case "$out" in *"fully decided"*) echo "week decided; stopping"; break;; esac
             [ $SECONDS -ge $end ] && break
             w=$((60-(SECONDS-t0))); [ $w -gt 0 ] && sleep $w

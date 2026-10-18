@@ -71,23 +71,14 @@ footer{font-size:12.5px;color:var(--muted);border-top:1px solid var(--line);padd
   <footer><span>Win odds and projections are Yahoo's, sampled about once a minute during game windows. This page refreshes itself.</span><span id="count"></span></footer>
 </div>
 <script>
+const CDN_URL = 'https://cdn.jsdelivr.net/gh/pdubslax/pdubslax.github.io@odds-data/data/odds/current.json';
 const RAW_URL = 'https://raw.githubusercontent.com/pdubslax/pdubslax.github.io/odds-data/data/odds/current.json';
-const API_URL = 'https://api.github.com/repos/pdubslax/pdubslax.github.io/contents/data/odds/current.json?ref=odds-data';
-let etag = null, lastJson = null;
+let lastJson = null;
+async function fetchJson(url){ const r = await fetch(url, {cache:'no-store'}); if(!r.ok) throw new Error('HTTP '+r.status); return r.json(); }
 async function load(){
   try {
-    let hist = null;
-    try {
-      const h = {'Accept':'application/vnd.github.raw+json'}; if (etag) h['If-None-Match'] = etag;
-      const r = await fetch(API_URL, {headers:h, cache:'no-store'});
-      if (r.status === 304) return;
-      if (r.ok) { etag = r.headers.get('ETag'); hist = await r.json(); }
-    } catch(e) {}
-    if (!hist) {
-      const r = await fetch(RAW_URL + '?t=' + Date.now(), {cache:'no-store'});
-      if (!r.ok) throw new Error('HTTP '+r.status);
-      hist = await r.json();
-    }
+    let hist;
+    try { hist = await fetchJson(CDN_URL); } catch(e) { hist = await fetchJson(RAW_URL + '?t=' + Date.now()); }
     const txt = JSON.stringify(hist); if (txt === lastJson) return; lastJson = txt;
     render(hist);
   } catch(e){ const g=document.getElementById('grid'); if(!g.children.length) g.innerHTML='<div class="empty">No samples yet. The sampler runs about once a minute during game windows.</div>'; }
@@ -142,7 +133,7 @@ function render(hist){
     </article>`;
   }).join('');
 }
-load(); setInterval(load, 60000);
+load(); setInterval(load, 30000);
 </script>
 
 </body>
