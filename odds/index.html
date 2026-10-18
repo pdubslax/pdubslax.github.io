@@ -133,6 +133,7 @@ async function load(){
   } catch(e){ const g=document.getElementById('grid'); if(!g.children.length) g.innerHTML='<div class="empty">No samples yet. The sampler runs about once a minute during game windows.</div>'; }
 }
 const LEAGUE = 932579;
+const HOVER = {};  // per-matchup sample points for the chart hover readout
 const MANAGERS = {1:'Nick', 2:'Hy', 3:'Patrick', 4:'Matt #1', 5:'Keith', 6:'Daniel', 7:'Jimmy', 8:'Alex', 9:'Scott', 10:'Kyle', 11:'Skylar', 12:'Matt #2'};
 const sideIds = m => m.id.split('v').map(Number);
 const firstName = (m, side) => MANAGERS[sideIds(m)[side]] || '';
@@ -166,7 +167,6 @@ function render(hist){
   SEG.reduce((off,g)=>{ g.x0 = off; g.x1 = off + g.w*usable; return g.x1 + GAP; }, 0);
   const frac = t => { for (const g of SEG){ if (t <= g.b){ if (t < g.a) return g.x0; return g.x0 + (g.x1-g.x0)*(t-g.a)/(g.b-g.a); } } return SEG[SEG.length-1].x1; };
   const tsList = S.map(s => new Date(s.ts).getTime());
-  const HOVER = {};
   function spark(vals, id){
     const W=320,H=110,pl=6,pr=6,pt=8,pb=20; const x=t=> pl+(W-pl-pr)*frac(t); const y=v=> pt+(H-pt-pb)*(1-v/100);
     // Smooth: centered rolling average over 5 samples, endpoint pinned to the latest real value, drawn as a monotone curve.
