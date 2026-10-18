@@ -1,0 +1,43 @@
+name: odds sampler
+on:
+  workflow_dispatch:
+  schedule:
+    # UTC. Thu night ET (TNF), Sunday afternoon through SNF, and Monday night ET (MNF), every 5 minutes.
+    - cron: '*/5 0-4 * * 5'
+    - cron: '*/5 17-23 * * 0'
+    - cron: '*/5 0-5 * * 1'
+    - cron: '*/5 0-4 * * 2'
+concurrency:
+  group: odds-sampler
+  cancel-in-progress: false
+permissions:
+  contents: write
+jobs:
+  sample:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/checkout@v4
+        with:
+          ref: odds-data
+          path: odds-data
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Cache Playwright browsers
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/ms-playwright
+          key: playwright-chromium-${{ runner.os }}-1.47.0
+      - run: pip install playwright==1.47.0 && python -m playwright install --with-deps chromium
+      - run: python tools/odds_sampler.py odds-data/data/odds
+      - name: Commit sample
+        working-directory: odds-data
+        run: |
+          git config user.name "odds-sampler"
+          git config user.email "odds-sampler@users.noreply.github.com"
+          git add data/odds
+          if git diff --cached --quiet; then echo "nothing to commit"; exit 0; fi
+          git commit -m "odds sample $(date -u +%Y-%m-%dT%H:%MZ)"
+          git push

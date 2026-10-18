@@ -1,0 +1,136 @@
+---
+layout: null
+permalink: /odds/
+---
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Koch Cup Live Odds</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@500&display=swap">
+<style>
+/* Layout: scoreboard wall. One header strip, a blowout ribbon, then a two-column grid of matchup tiles that stack on phones. */
+:root{
+  --bg:#f5f6f8; --panel:#ffffff; --ink:#111827; --muted:#6b7280; --line:#e2e5ea;
+  --fav:#1d4ed8; --fav-soft:#e8eefc; --dog:#6b7280; --dog-soft:#eef0f3; --up:#1d4ed8; --down:#9ca3af; --grid:#edf0f3;
+  --display:"Barlow Condensed","Arial Narrow",Impact,sans-serif; --body:"IBM Plex Sans",system-ui,sans-serif; --mono:"IBM Plex Mono",ui-monospace,Menlo,monospace;
+}
+@media (prefers-color-scheme: dark){ :root:not([data-theme="light"]){ --bg:#0f1115; --panel:#171a21; --ink:#eceef2; --muted:#9aa3b2; --line:#272b35; --fav:#7aa2ff; --fav-soft:#1c2740; --dog:#9aa3b2; --dog-soft:#242833; --up:#7aa2ff; --down:#6b7280; --grid:#20242d; color-scheme:dark } }
+:root[data-theme="dark"]{ --bg:#0f1115; --panel:#171a21; --ink:#eceef2; --muted:#9aa3b2; --line:#272b35; --fav:#7aa2ff; --fav-soft:#1c2740; --dog:#9aa3b2; --dog-soft:#242833; --up:#7aa2ff; --down:#6b7280; --grid:#20242d; color-scheme:dark }
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--ink);font-family:var(--body);font-size:15px;line-height:1.45;padding-block:20px 40px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+.wrap{max-width:1080px;margin:0 auto;display:grid;gap:20px}
+header{display:flex;flex-wrap:wrap;align-items:flex-end;justify-content:space-between;gap:8px 20px;border-bottom:2px solid var(--ink);padding-bottom:10px}
+h1{font-family:var(--display);font-weight:700;font-size:clamp(34px,6vw,52px);line-height:.95;margin:0;letter-spacing:.01em;text-wrap:balance}
+.eyebrow{font-family:var(--display);font-weight:600;font-size:16px;letter-spacing:.14em;text-transform:uppercase;color:var(--muted);margin:0 0 4px}
+.meta{font-family:var(--mono);font-size:12.5px;color:var(--muted);display:grid;gap:2px;text-align:right}
+.meta b{color:var(--ink);font-weight:500}
+.live{display:inline-flex;align-items:center;gap:6px}
+.live i{width:8px;height:8px;border-radius:50%;background:var(--fav);display:inline-block;animation:pulse 1.6s ease-in-out infinite}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.3}}
+@media (prefers-reduced-motion: reduce){.live i{animation:none}}
+.ribbon{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px}
+.ribbon .tile{background:var(--panel);border:1px solid var(--line);padding:12px 14px;min-width:0}
+.tile .lab{font-family:var(--display);font-size:13px;letter-spacing:.14em;text-transform:uppercase;color:var(--muted)}
+.tile .big{font-family:var(--display);font-weight:700;font-size:34px;line-height:1;font-variant-numeric:tabular-nums}
+.tile .who{font-size:13px;color:var(--muted);overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px}
+.card{background:var(--panel);border:1px solid var(--line);padding:12px 16px 10px;display:grid;gap:6px;min-width:0}
+.rowtop{display:flex;justify-content:space-between;align-items:center;font-family:var(--mono);font-size:12px;color:var(--muted);font-variant-numeric:tabular-nums}
+.strip{display:grid;grid-template-columns:auto minmax(0,1fr);align-items:baseline;column-gap:12px}
+.strip .pct{min-width:64px}
+.strip .nm{font-weight:600;font-size:15px;line-height:1.2;overflow-wrap:anywhere}
+.strip .rec{font-family:var(--mono);font-weight:400;font-size:12px;color:var(--muted);margin-left:6px}
+.strip .pct{font-family:var(--display);font-weight:700;font-size:34px;line-height:1;font-variant-numeric:tabular-nums}
+.strip .pct small{font-size:16px;font-weight:600}
+.strip .sub{grid-column:1/-1;font-family:var(--mono);font-size:12px;color:var(--muted);font-variant-numeric:tabular-nums}
+.strip .sub b{color:var(--ink);font-weight:500}
+.isfav .pct,.isfav .nm{color:var(--fav)} .isdog .pct{color:var(--muted)}
+.strip.bot{border-top:1px solid var(--line);padding-top:6px}
+.chart svg{width:100%;height:120px;display:block;max-width:100%}
+.cap{display:flex;justify-content:space-between;gap:10px;font-family:var(--mono);font-size:11.5px;color:var(--muted)}
+.delta{font-weight:500}
+.delta.up{color:var(--up)} .delta.down{color:var(--down)}
+.chip{display:inline-block;font-family:var(--display);font-size:12px;letter-spacing:.1em;text-transform:uppercase;padding:2px 7px;border-radius:3px;background:var(--fav-soft);color:var(--fav)}
+.chip.lock{background:var(--dog-soft);color:var(--dog)}
+footer{font-size:12.5px;color:var(--muted);border-top:1px solid var(--line);padding-top:10px;display:flex;flex-wrap:wrap;gap:6px 18px;justify-content:space-between}
+.empty{background:var(--panel);border:1px dashed var(--line);padding:28px;text-align:center;color:var(--muted)}
+@media (max-width:720px){.grid{grid-template-columns:1fr}.ribbon{grid-template-columns:1fr}.meta{text-align:left}}
+</style>
+</head>
+<body>
+
+<div class="wrap">
+  <header>
+    <div><p class="eyebrow">Harry Koch Memorial Cup</p><h1>Koch Cup Live Odds</h1></div>
+    <div class="meta" id="meta"></div>
+  </header>
+  <section class="ribbon" id="ribbon" aria-label="Biggest blowout race"></section>
+  <section class="grid" id="grid" aria-label="Matchups"></section>
+  <footer><span>Win odds and projections are Yahoo's, sampled every 5 minutes during game windows. This page refreshes itself.</span><span id="count"></span></footer>
+</div>
+<script>
+const DATA_URL = 'https://raw.githubusercontent.com/pdubslax/pdubslax.github.io/odds-data/data/odds/current.json';
+async function load(){
+  try {
+    const res = await fetch(DATA_URL + '?t=' + Date.now(), {cache:'no-store'});
+    if(!res.ok) throw new Error('HTTP '+res.status);
+    render(await res.json());
+  } catch(e){ const g=document.getElementById('grid'); if(!g.children.length) g.innerHTML='<div class="empty">No samples yet. The sampler runs every 5 minutes during game windows.</div>'; }
+}
+function render(hist){
+  if(!hist.samples || !hist.samples.length){ document.getElementById('grid').innerHTML='<div class="empty">No samples yet this week. The sampler runs every 5 minutes during game windows.</div>'; return; }
+  const S = hist.samples; const last = S[S.length-1]; const first = S[0]; const prev = S.length>1 ? S[S.length-2] : null;
+  const fmtT = ts => new Date(ts).toLocaleString(undefined,{weekday:'short',hour:'numeric',minute:'2-digit'});
+  const ago = ts => { const m = Math.round((Date.now()-new Date(ts))/60000); return m<1?'just now':m<60?m+' min ago':Math.round(m/60)+' h ago'; };
+  const esc = s => s.replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+  document.getElementById('meta').innerHTML = `<span>Week <b>${hist.week}</b></span><span class="live"><i></i>last sample <b>${esc(fmtT(last.ts))}</b> (${ago(last.ts)})</span>`;
+  document.getElementById('count').textContent = S.length + (S.length===1?' sample':' samples') + ' since ' + fmtT(first.ts);
+  // blowout ribbon: projected margin, biggest first
+  const margins = last.matchups.map(m => { const l = m.leftProj>=m.rightProj; return {lead: l?m.left:m.right, trail: l?m.right:m.left, margin: Math.abs(m.leftProj-m.rightProj)}; }).sort((a,b)=>b.margin-a.margin).slice(0,3);
+  document.getElementById('ribbon').innerHTML = margins.map((x,i)=>`<div class="tile"><div class="lab">${i===0?'Biggest blowout':i===1?'Runner up':'Third'}</div><div class="big">${x.margin.toFixed(2)}</div><div class="who" title="${esc(x.lead)} over ${esc(x.trail)}">${esc(x.lead)} over ${esc(x.trail)}</div></div>`).join('');
+  // cards sorted by favorite's current odds
+  const series = id => S.map(s => { const m = s.matchups.find(x=>x.id===id); return m ? m.leftPct : null; });
+  const cards = last.matchups.map(m => ({m, fav: Math.max(m.leftPct, 100-m.leftPct)})).sort((a,b)=>b.fav-a.fav);
+  const SEG = hist.segments.map(g => ({label:g.label, a:new Date(g.start).getTime(), b:new Date(g.end).getTime(), w:g.w}));
+  const GAP = 0.012; const usable = 1 - GAP*(SEG.length-1);
+  SEG.reduce((off,g)=>{ g.x0 = off; g.x1 = off + g.w*usable; return g.x1 + GAP; }, 0);
+  const frac = t => { for (const g of SEG){ if (t <= g.b){ if (t < g.a) return g.x0; return g.x0 + (g.x1-g.x0)*(t-g.a)/(g.b-g.a); } } return SEG[SEG.length-1].x1; };
+  const tsList = S.map(s => new Date(s.ts).getTime());
+  function spark(vals){
+    const W=320,H=110,pl=6,pr=6,pt=8,pb=20; const x=t=> pl+(W-pl-pr)*frac(t); const y=v=> pt+(H-pt-pb)*(1-v/100);
+    let d=''; vals.forEach((v,i)=>{ if(v==null) return; d += (d?' L':'M')+x(tsList[i]).toFixed(1)+' '+y(v).toFixed(1); });
+    const n=vals.length, lastV=vals[n-1], lastX=x(tsList[n-1]);
+    const bands = SEG.map((g,i)=>{ const x0=pl+(W-pl-pr)*g.x0, x1=pl+(W-pl-pr)*g.x1; return `<rect x="${x0.toFixed(1)}" y="${pt}" width="${(x1-x0).toFixed(1)}" height="${H-pt-pb}" fill="var(--grid)" opacity="${i%2?0.55:0.25}"/><text x="${((x0+x1)/2).toFixed(1)}" y="${H-6}" text-anchor="middle" font-size="10" font-family="var(--mono)" fill="var(--muted)">${g.label}</text>`; }).join('');
+    const ticks = hist.ticks.map(k => { const tx = x(new Date(k.at).getTime()); return `<line x1="${tx.toFixed(1)}" x2="${tx.toFixed(1)}" y1="${pt}" y2="${H-pb}" stroke="var(--line)" stroke-width="1"/>`; }).join('');
+    const area = n>1 ? d+` L${lastX.toFixed(1)} ${y(0)} L${x(tsList[0]).toFixed(1)} ${y(0)} Z` : '';
+    return `<svg viewBox="0 0 ${W} ${H}" preserveAspectRatio="none" role="img" aria-label="Win probability across the week">
+      ${bands}${ticks}
+      <line x1="${pl}" x2="${W-pr}" y1="${y(50)}" y2="${y(50)}" stroke="var(--muted)" stroke-width="1" stroke-dasharray="3 3" opacity=".6"/>
+      ${area?`<path d="${area}" fill="var(--fav-soft)" opacity=".8"/>`:''}
+      <path d="${d}" fill="none" stroke="var(--fav)" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+      <circle cx="${lastX.toFixed(1)}" cy="${y(lastV)}" r="3.5" fill="var(--fav)"/>
+    </svg>`;
+  }
+  const dstr = (a,b) => { if(a==null||b==null) return ''; const d=b-a; const s=(d>0?'+':'')+d; return `<span class="delta ${d>0?'up':d<0?'down':''}">${s===''?'':s}</span>`; };
+  document.getElementById('grid').innerHTML = cards.map(({m}) => {
+    const lp = m.leftPct, rp = 100-lp; const leftFav = lp>=rp;
+    const vals = series(m.id); const f = vals[0], pv = prev ? vals[vals.length-2] : null;
+    const decided = (m.leftRem===0 && m.rightRem===0) || lp===100 || lp===0;
+    const lm = m.leftProj-m.rightProj;
+    const strip=(name,rec,pct,score,proj,rem,fav,cls)=>`<div class="strip ${cls} ${fav?'isfav':'isdog'}"><div class="pct">${pct}<small>%</small></div><div class="nm">${esc(name)}<span class="rec">${esc(rec)}</span></div><div class="sub"><b>${score.toFixed(2)}</b> now · ${proj.toFixed(2)} proj · ${rem} left</div></div>`;
+    const leadName = lm>=0 ? m.left : m.right;
+    return `<article class="card">
+      <div class="rowtop">${decided?'<span class="chip lock">Decided</span>':'<span class="chip">Live</span>'}<span>proj margin ${Math.abs(lm).toFixed(2)} · ${esc(leadName)}</span></div>
+      ${strip(m.left,m.leftRec,lp,m.leftScore,m.leftProj,m.leftRem,leftFav,'top')}
+      <div class="chart">${spark(vals)}</div>
+      ${strip(m.right,m.rightRec,rp,m.rightScore,m.rightProj,m.rightRem,!leftFav,'bot')}
+    </article>`;
+  }).join('');
+}
+load(); setInterval(load, 60000);
+</script>
+
+</body>
+</html>
