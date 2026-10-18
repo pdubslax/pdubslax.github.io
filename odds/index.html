@@ -12,12 +12,12 @@ permalink: /odds/
 <style>
 /* Layout: scoreboard wall. One header strip, a blowout ribbon, then a two-column grid of matchup tiles that stack on phones. */
 :root{
-  --bg:#f5f6f8; --panel:#ffffff; --ink:#111827; --muted:#6b7280; --line:#e2e5ea;
-  --fav:#1d4ed8; --fav-soft:#e8eefc; --dog:#6b7280; --dog-soft:#eef0f3; --up:#1d4ed8; --down:#9ca3af; --grid:#edf0f3;
+  --bg:#ffffff; --panel:#ffffff; --ink:#111827; --muted:#6b7280; --line:#e5e7eb;
+  --fav:#1d4ed8; --fav-soft:#e8eefc; --dog:#6b7280; --dog-soft:#f3f4f6; --up:#1d4ed8; --down:#9ca3af; --grid:#f3f4f7;
+  --risk:#b45309; --risk-soft:#fff3e0; --lock:#b91c1c; --lock-soft:#fdecec;
   --display:"Barlow Condensed","Arial Narrow",Impact,sans-serif; --body:"IBM Plex Sans",system-ui,sans-serif; --mono:"IBM Plex Mono",ui-monospace,Menlo,monospace;
+  color-scheme: light;
 }
-@media (prefers-color-scheme: dark){ :root:not([data-theme="light"]){ --bg:#0f1115; --panel:#171a21; --ink:#eceef2; --muted:#9aa3b2; --line:#272b35; --fav:#7aa2ff; --fav-soft:#1c2740; --dog:#9aa3b2; --dog-soft:#242833; --up:#7aa2ff; --down:#6b7280; --grid:#20242d; color-scheme:dark } }
-:root[data-theme="dark"]{ --bg:#0f1115; --panel:#171a21; --ink:#eceef2; --muted:#9aa3b2; --line:#272b35; --fav:#7aa2ff; --fav-soft:#1c2740; --dog:#9aa3b2; --dog-soft:#242833; --up:#7aa2ff; --down:#6b7280; --grid:#20242d; color-scheme:dark }
 *{box-sizing:border-box}
 body{background:var(--bg);color:var(--ink);font-family:var(--body);font-size:15px;line-height:1.45;padding-block:20px 40px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
 .wrap{max-width:1080px;margin:0 auto;display:grid;gap:20px}
@@ -56,6 +56,17 @@ h1{font-family:var(--display);font-weight:700;font-size:clamp(34px,6vw,52px);lin
 .chip.lock{background:var(--dog-soft);color:var(--dog)}
 footer{font-size:12.5px;color:var(--muted);border-top:1px solid var(--line);padding-top:10px;display:flex;flex-wrap:wrap;gap:6px 18px;justify-content:space-between}
 .empty{background:var(--panel);border:1px dashed var(--line);padding:28px;text-align:center;color:var(--muted)}
+.shot{background:var(--panel);border:1px solid var(--line);padding:12px 16px;display:grid;gap:8px;min-width:0}
+.shot .hd{display:flex;justify-content:space-between;align-items:baseline;gap:10px;flex-wrap:wrap}
+.shot .lab{font-family:var(--display);font-size:13px;letter-spacing:.14em;text-transform:uppercase;color:var(--muted)}
+.shot .note{font-family:var(--mono);font-size:11.5px;color:var(--muted)}
+.shot ul{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:6px 18px}
+.shot li{display:grid;grid-template-columns:auto minmax(0,1fr) auto;align-items:baseline;gap:10px;font-size:14px;border-top:1px solid var(--line);padding-top:6px;min-width:0}
+.shot .who{font-weight:600;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.shot .who small{font-weight:400;color:var(--muted);font-size:12.5px}
+.shot .pts{font-family:var(--mono);font-size:13px;font-variant-numeric:tabular-nums}
+.chip.risk{background:var(--risk-soft);color:var(--risk)} .chip.beer{background:var(--lock-soft);color:var(--lock)}
+.shot .none{color:var(--muted);font-size:14px}
 @media (max-width:720px){.grid{grid-template-columns:1fr}.ribbon{grid-template-columns:1fr}.meta{text-align:left}}
 </style>
 </head>
@@ -67,6 +78,7 @@ footer{font-size:12.5px;color:var(--muted);border-top:1px solid var(--line);padd
     <div class="meta" id="meta"></div>
   </header>
   <section class="ribbon" id="ribbon" aria-label="Biggest blowout race"></section>
+  <section class="shot" id="shot" aria-label="Shotgun watch"></section>
   <section class="grid" id="grid" aria-label="Matchups"></section>
   <footer><span>Win odds and projections are Yahoo's, sampled about once a minute during game windows. This page refreshes itself.</span><span id="count"></span></footer>
 </div>
@@ -107,6 +119,14 @@ function render(hist){
   // blowout ribbon: projected margin, biggest first
   const margins = last.matchups.map(m => { const l = m.leftProj>=m.rightProj; return {lead: l?m.left:m.right, trail: l?m.right:m.left, margin: Math.abs(m.leftProj-m.rightProj)}; }).sort((a,b)=>b.margin-a.margin).slice(0,3);
   document.getElementById('ribbon').innerHTML = margins.map((x,i)=>`<div class="tile"><div class="lab">${i===0?'Biggest blowout':i===1?'Runner up':'Third'}</div><div class="big">${x.margin.toFixed(2)}</div><div class="who" title="${esc(x.lead)} over ${esc(x.trail)}">${esc(x.lead)} over ${esc(x.trail)}</div></div>`).join('');
+  // shotgun watch: starters at zero or below. Locked once their game is final, or once the whole week is decided.
+  const weekDone = last.matchups.every(m => m.leftRem===0 && m.rightRem===0);
+  const shots = last.matchups.flatMap(m => m.shotgun || []).map(x => ({...x, locked: x.locked || weekDone}));
+  const line = x => `<li><span class="chip ${x.locked?'beer':'risk'}">${x.locked?'🍺🔫 locked':'at risk'}</span><span class="who">${esc(x.manager)} <small>${esc(x.player)}${x.pos?' · '+esc(x.pos):''}${x.tag?' · '+esc(x.tag):''}${x.game&&x.state!=='final'?' · '+esc(x.game):''}${x.state==='final'?' · Final':''}</small></span><span class="pts">${x.pts.toFixed(2)}</span></li>`;
+  const order = x => (x.locked?0:1);
+  shots.sort((a,b)=>order(a)-order(b) || a.pts-b.pts);
+  document.getElementById('shot').innerHTML = `<div class="hd"><span class="lab">Shotgun watch</span><span class="note">a starter at 0.00 or less means a shotgun · locks when the game goes final</span></div>` +
+    (shots.length ? `<ul>${shots.map(line).join('')}</ul>` : `<div class="none">No starters at zero or below right now.</div>`);
   // cards sorted by favorite's current odds
   const series = id => S.map(s => { const m = s.matchups.find(x=>x.id===id); return m ? m.leftPct : null; });
   const cards = last.matchups.map(m => ({m, fav: Math.max(m.leftPct, 100-m.leftPct)})).sort((a,b)=>b.fav-a.fav);

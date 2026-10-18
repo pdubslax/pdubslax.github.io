@@ -39,6 +39,48 @@ def scoreboard():
                          leftScore=float(c1), leftProj=float(p1), rightScore=float(c2), rightProj=float(p2)))
     return week, rows
 
+
+ROSTER_JS = """() => {
+  const t = document.querySelector('table'); if (!t) return [];
+  const out = [];
+  for (const r of t.querySelectorAll('tr')) {
+    const c = [...r.querySelectorAll('th,td')]; if (c.length !== 9) continue;
+    const slot = c[4].innerText.trim(); if (slot === 'Pos' || slot === 'TOTAL') continue;
+    const cell = td => { const a = td.querySelector('a'); return [a ? a.innerText.trim() : '', td.innerText.replace(/\\s+/g, ' ').trim()]; };
+    out.push({slot, L: cell(c[1]), lp: c[3].innerText.trim(), R: cell(c[7]), rp: c[5].innerText.trim()});
+  }
+  return out;
+}"""
+
+def parse_player(name, text, pts):
+    rest = text[len(name):].strip() if name and text.startswith(name) else text
+    m = re.match(r"([A-Za-z]{2,3}) - ([A-Z/,]+)\s*(.*)", rest)
+    team, pos, game = m.groups() if m else ("", "", rest)
+    tag = None
+    t = re.match(r"(IR-R|IR|PUP|SUSP|NFI|DTD|NA|O|Q|D|P)\s+(.*)", game)
+    if t: tag, game = t.groups()
+    if re.match(r"Final", game): state = "final"
+    elif re.match(r"(1st|2nd|3rd|4th|OT|Half|Delay)", game): state = "live"
+    elif "No Game" in game: state = "bye"
+    elif not name: state = "empty"
+    else: state = "pending"
+    p = float(pts) if re.match(r"-?\d", pts) else 0.0
+    return dict(player=name or "(Empty)", pos=pos, team=team, pts=p, game=game.strip(), tag=tag, state=state)
+
+def shotgun_entries(rows, left_team, right_team):
+    """Starters at zero or below whose fate is in play: live or final games, inactive tags, byes, empty slots."""
+    out = []
+    for r in rows:
+        for side, who in (("L", left_team), ("R", right_team)):
+            name, text = r[side]; pts = r["lp"] if side == "L" else r["rp"]
+            d = parse_player(name, text, pts)
+            if d["pts"] > 0: continue
+            inactive = d["tag"] in ("O", "IR", "IR-R", "PUP", "SUSP", "NFI", "NA")
+            if d["state"] == "pending" and not inactive: continue
+            d.update(slot=r["slot"], manager=who, locked=d["state"] == "final")
+            out.append(d)
+    return out
+
 async def odds_for(page, week, mid):
     a, b = mid.split("v")
     await page.goto(f"{BASE}/matchup?week={week}&mid1={a}&mid2={b}", wait_until="domcontentloaded", timeout=45000)
@@ -47,11 +89,15 @@ async def odds_for(page, week, mid):
     except Exception:
         pass
     body = await page.inner_text("body")
+    try:
+        rows = await page.evaluate(ROSTER_JS)
+    except Exception as e:
+        print("roster read failed for", mid, e, file=sys.stderr); rows = []
     m = re.search(r"(Favorite|Underdog) (\d+)%", body)
     r = re.search(r"(\d+) Players [Rr]emaining[\s\S]*?Players [Rr]emaining (\d+)", body)
     rem = [int(r.group(1)), int(r.group(2))] if r else None
     pct = int(m.group(2)) if m else None
-    return pct, rem, body
+    return pct, rem, body, rows
 
 async def main(out_dir):
     week, rows = scoreboard()
@@ -65,7 +111,8 @@ async def main(out_dir):
         ctx = await browser.new_context(user_agent=UA, viewport={"width": 1280, "height": 900})
         page = await ctx.new_page()
         for row in rows:
-            pct, rem, body = await odds_for(page, week, row["id"])
+            pct, rem, body, rows_ = await odds_for(page, week, row["id"])
+            row["shotgun"] = shotgun_entries(rows_, row["left"], row["right"])
             if pct is None:
                 # decided matchup: no percentage shown. Use scores to assign 100/0; fall back to projections.
                 if "Winner" in body or "Loser" in body or (rem == [0, 0]):
