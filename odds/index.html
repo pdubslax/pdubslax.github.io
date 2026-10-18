@@ -200,7 +200,9 @@ function render(hist){
     const lm = m.leftProj-m.rightProj;
     // Key players: current points, green when Yahoo's live projection beats the pregame one (on pace), red when behind it.
     const ptsTag = a => a.state==='live' && a.pts!=null ? `<em class="${a.live>a.proj?'up':a.live<a.proj?'down':''}">${a.pts.toFixed(1)}</em>` : '';
-    const keys = (act,rem) => `<b>${rem} left</b>` + (act||[]).filter(a=>a.state==='live').slice(0,2).map(a=>`<span>${esc(a.pos||a.slot)} ${esc(a.player)}${ptsTag(a)}</span>`).join('');
+    // Players in progress first; when none are playing, stage the ones still to come (Sunday night that means the MNF starters).
+    const pick = act => { const a = act||[]; const live = a.filter(x=>x.state==='live'); return (live.length ? live : a.filter(x=>x.state==='pending')).slice(0,2); };
+    const keys = (act,rem) => `<b>${rem} left</b>` + pick(act).map(a=>`<span>${esc(a.pos||a.slot)} ${esc(a.player)}${ptsTag(a)}</span>`).join('');
     const strip=(first,name,rec,pct,score,proj,rem,fav,cls,act)=>`<div class="strip ${cls} ${fav?'isfav':'isdog'}"><div class="pct">${pct}<small>%</small></div><div class="mid"><div class="nm" title="${esc(name)}">${esc(first||name)}<span class="rec">${esc(rec)}</span></div><div class="sub"><b>${score.toFixed(2)}</b> now · ${proj.toFixed(2)} proj</div></div><div class="key">${keys(act,rem)}</div></div>`;
     const leadName = shortName(m, lm>=0?0:1); const [ida, idb] = sideIds(m);
     const cm = m.leftScore-m.rightScore; const nowName = shortName(m, cm>=0?0:1);
