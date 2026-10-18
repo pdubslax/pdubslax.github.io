@@ -65,7 +65,7 @@ def parse_player(name, text, pts):
     elif not name: state = "empty"
     else: state = "pending"
     p = float(pts) if re.match(r"-?\d", pts) else 0.0
-    return dict(player=name or "(Empty)", pos=pos, team=team, pts=p, game=game.strip(), tag=tag, state=state)
+    return dict(player=name or "(Empty)", pos=pos, team=team, pts=p, game="" if state == "empty" else game.strip(), tag=tag, state=state)
 
 def shotgun_entries(rows, left_team, right_team):
     """Starters at zero or below whose fate is in play: live or final games, inactive tags, byes, empty slots."""
