@@ -1632,6 +1632,202 @@
      "rightRem": 8
     }
    ]
+  },
+  {
+   "ts": "2026-10-18T20:17:20+00:00",
+   "week": 6,
+   "matchups": [
+    {
+     "id": "1v2",
+     "left": "Silly Shrek Squad",
+     "leftRec": "3-2",
+     "right": "BDSM AI Stealth Founder",
+     "rightRec": "2-3",
+     "leftScore": 67.29,
+     "leftProj": 112.24,
+     "rightScore": 65.6,
+     "rightProj": 109.09,
+     "shotgun": [
+      {
+       "player": "M. Wilson",
+       "pos": "WR",
+       "team": "Ari",
+       "pts": 0.0,
+       "game": "1st 9:41, 0-3 @ LAR",
+       "tag": null,
+       "state": "live",
+       "slot": "WR",
+       "manager": "BDSM AI Stealth Founder",
+       "locked": false
+      },
+      {
+       "player": "T. Higbee",
+       "pos": "TE",
+       "team": "LAR",
+       "pts": 0.0,
+       "game": "1st 9:41, 3-0 vs ARI",
+       "tag": null,
+       "state": "live",
+       "slot": "TE",
+       "manager": "Silly Shrek Squad",
+       "locked": false
+      },
+      {
+       "player": "Texans",
+       "pos": "DEF",
+       "team": "Hou",
+       "pts": -2.75,
+       "game": "Final (W) 34-31 @ JAX",
+       "tag": null,
+       "state": "final",
+       "slot": "DEF",
+       "manager": "Silly Shrek Squad",
+       "locked": true
+      }
+     ],
+     "leftPct": 54,
+     "leftRem": 5,
+     "rightRem": 6
+    },
+    {
+     "id": "3v6",
+     "left": "Robotripping Gardener",
+     "leftRec": "5-0",
+     "right": "MELONHEADS (daniel)",
+     "rightRec": "2-3",
+     "leftScore": 51.05,
+     "leftProj": 120.81,
+     "rightScore": 34.3,
+     "rightProj": 106.88,
+     "shotgun": [
+      {
+       "player": "C. Skattebo",
+       "pos": "RB",
+       "team": "NYG",
+       "pts": 0.0,
+       "game": "4th 1:51, 27-34 vs NO",
+       "tag": null,
+       "state": "live",
+       "slot": "RB",
+       "manager": "MELONHEADS (daniel)",
+       "locked": false
+      },
+      {
+       "player": "T. McBride",
+       "pos": "TE",
+       "team": "Ari",
+       "pts": 0.0,
+       "game": "1st 9:41, 0-3 @ LAR",
+       "tag": null,
+       "state": "live",
+       "slot": "TE",
+       "manager": "Robotripping Gardener",
+       "locked": false
+      }
+     ],
+     "leftPct": 64,
+     "leftRem": 6,
+     "rightRem": 9
+    },
+    {
+     "id": "4v8",
+     "left": "Rub a dub lost the Chubb",
+     "leftRec": "2-3",
+     "right": "Alex Michael Pagels",
+     "rightRec": "0-5",
+     "leftScore": 53.23,
+     "leftProj": 98.42,
+     "rightScore": 110.4,
+     "rightProj": 132.17,
+     "shotgun": [],
+     "leftPct": 9,
+     "leftRem": 3,
+     "rightRem": 5
+    },
+    {
+     "id": "5v11",
+     "left": "Tuten Brown",
+     "leftRec": "3-2",
+     "right": "Zen Buddha Boys 🪷💨",
+     "rightRec": "3-2",
+     "leftScore": 108.54,
+     "leftProj": 136.58,
+     "rightScore": 100.4,
+     "rightProj": 102.83,
+     "shotgun": [
+      {
+       "player": "K. Bourne",
+       "pos": "WR",
+       "team": "Ari",
+       "pts": 0.0,
+       "game": "1st 9:41, 0-3 @ LAR",
+       "tag": null,
+       "state": "live",
+       "slot": "WR",
+       "manager": "Tuten Brown",
+       "locked": false
+      }
+     ],
+     "leftPct": 99,
+     "leftRem": 3,
+     "rightRem": 4
+    },
+    {
+     "id": "7v10",
+     "left": "James Ray Ervin Yonts",
+     "leftRec": "3-2",
+     "right": "RosterMogged",
+     "rightRec": "2-3",
+     "leftScore": 52.0,
+     "leftProj": 119.41,
+     "rightScore": 27.9,
+     "rightProj": 127.06,
+     "shotgun": [
+      {
+       "player": "D. Adams",
+       "pos": "WR",
+       "team": "LAR",
+       "pts": 0.0,
+       "game": "1st 9:41, 3-0 vs ARI",
+       "tag": null,
+       "state": "live",
+       "slot": "WR",
+       "manager": "RosterMogged",
+       "locked": false
+      },
+      {
+       "player": "P. Nacua",
+       "pos": "WR",
+       "team": "LAR",
+       "pts": 0.0,
+       "game": "1st 9:41, 3-0 vs ARI",
+       "tag": null,
+       "state": "live",
+       "slot": "W/R/T",
+       "manager": "James Ray Ervin Yonts",
+       "locked": false
+      }
+     ],
+     "leftPct": 43,
+     "leftRem": 6,
+     "rightRem": 7
+    },
+    {
+     "id": "9v12",
+     "left": "Sir this is a FF league",
+     "leftRec": "2-3",
+     "right": "Kiwis are better than mid",
+     "rightRec": "3-2",
+     "leftScore": 64.05,
+     "leftProj": 116.68,
+     "rightScore": 60.9,
+     "rightProj": 126.84,
+     "shotgun": [],
+     "leftPct": 38,
+     "leftRem": 3,
+     "rightRem": 5
+    }
+   ]
   }
  ],
  "segments": [
