@@ -18,7 +18,7 @@ permalink: /odds/
 :root{
   --bg:#ffffff; --panel:#ffffff; --ink:#111827; --muted:#6b7280; --line:#e5e7eb;
   --fav:#1d4ed8; --fav-soft:#e8eefc; --dog:#6b7280; --dog-soft:#f3f4f6; --up:#1d4ed8; --down:#9ca3af; --grid:#f3f4f7;
-  --risk:#b45309; --risk-soft:#fff3e0; --lock:#b91c1c; --lock-soft:#fdecec; --win:#15803d; --win-soft:#e6f4ea;
+  --risk:#b45309; --risk-soft:#fff3e0; --lock:#b91c1c; --lock-soft:#fdecec; --win:#15803d; --win-soft:#e6f4ea; --alt:#c2410c; --alt-soft:#fde8dc;
   --display:"Barlow Condensed","Arial Narrow",Impact,sans-serif; --body:"IBM Plex Sans",system-ui,sans-serif; --mono:"IBM Plex Mono",ui-monospace,Menlo,monospace;
   color-scheme: light;
 }
@@ -62,7 +62,7 @@ a.card:hover{border-color:var(--fav)}
 .strip .pct small{font-size:16px;font-weight:600}
 .strip .sub{font-family:var(--mono);font-size:12px;color:var(--muted);font-variant-numeric:tabular-nums;margin-top:2px;white-space:nowrap}
 .strip .sub b{color:var(--ink);font-weight:500}
-.isfav .pct,.isfav .nm{color:var(--fav)} .isdog .pct{color:var(--muted)}
+.isfav .pct,.isfav .nm{color:var(--fav)} .strip.bot.isfav .pct,.strip.bot.isfav .nm{color:var(--alt)} .isdog .pct{color:var(--muted)}
 .strip.bot{border-top:1px solid var(--line);padding-top:8px}
 .strip.top{padding-bottom:2px}
 .chart svg{width:100%;height:96px;display:block;max-width:100%}
@@ -71,7 +71,7 @@ a.card:hover{border-color:var(--fav)}
 .delta.up{color:var(--up)} .delta.down{color:var(--down)}
 .chip{display:inline-block;font-family:var(--display);font-size:12px;letter-spacing:.1em;text-transform:uppercase;padding:2px 7px;border-radius:3px;background:var(--fav-soft);color:var(--fav)}
 .chip.lock{background:var(--win-soft);color:var(--win)}
-.card.done{--fav:var(--win);--fav-soft:#cfe9d6;--grid:#e3f3e7;--dog-soft:#e3ebe5;--line:#bfe0c8;background:#f1faf3;border-color:#bfe0c8}
+.card.done{--fav:var(--win);--fav-soft:#cfe9d6;--alt:var(--win);--alt-soft:#cfe9d6;--grid:#e3f3e7;--dog-soft:#e3ebe5;--line:#bfe0c8;background:#f1faf3;border-color:#bfe0c8}
 .card.done .chip.lock{background:#d6efdc}
 .card.done .rowtop{color:var(--win)}
 footer{font-size:12.5px;color:var(--muted);border-top:1px solid var(--line);padding-top:10px;display:flex;flex-wrap:wrap;gap:6px 18px;justify-content:space-between}
@@ -185,9 +185,10 @@ function render(hist){
       ${bands}${ticks}
       <line x1="${pl}" x2="${W-pr}" y1="${y(50)}" y2="${y(50)}" stroke="var(--muted)" stroke-width="1" stroke-dasharray="3 3" opacity=".6"/>
       ${area?`<clipPath id="${cid}a"><rect x="0" y="0" width="${W}" height="${y(50)}"/></clipPath><clipPath id="${cid}b"><rect x="0" y="${y(50)}" width="${W}" height="${H-y(50)}"/></clipPath>
-      <path d="${area}" fill="var(--fav-soft)" clip-path="url(#${cid}a)"/><path d="${area}" fill="var(--dog-soft)" clip-path="url(#${cid}b)"/>`:''}
-      <path d="${d}" fill="none" stroke="var(--fav)" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
-      <circle cx="${lastX.toFixed(1)}" cy="${y(lastV)}" r="3.5" fill="var(--fav)"/>
+      <path d="${area}" fill="var(--fav-soft)" clip-path="url(#${cid}a)"/><path d="${area}" fill="var(--alt-soft)" clip-path="url(#${cid}b)"/>
+      <path d="${d}" fill="none" stroke="var(--fav)" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" clip-path="url(#${cid}a)"/>
+      <path d="${d}" fill="none" stroke="var(--alt)" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" clip-path="url(#${cid}b)"/>`:`<path d="${d}" fill="none" stroke="var(--fav)" stroke-width="2"/>`}
+      <circle cx="${lastX.toFixed(1)}" cy="${y(lastV)}" r="3.5" fill="${lastV>=50?'var(--fav)':'var(--alt)'}"/>
     </svg>`;
   }
   const dstr = (a,b) => { if(a==null||b==null) return ''; const d=b-a; const s=(d>0?'+':'')+d; return `<span class="delta ${d>0?'up':d<0?'down':''}">${s===''?'':s}</span>`; };
