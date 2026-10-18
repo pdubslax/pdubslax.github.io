@@ -5751,9 +5751,10 @@
        "locked": true
       }
      ],
-     "leftPct": 0,
+     "leftPct": 47,
      "leftRem": 3,
-     "rightRem": 4
+     "rightRem": 4,
+     "repaired": true
     },
     {
      "id": "3v6",
@@ -53254,9 +53255,10 @@
        "live": 6.21
       }
      ],
-     "leftPct": 0,
+     "leftPct": 49,
      "leftRem": 3,
-     "rightRem": 3
+     "rightRem": 3,
+     "repaired": true
     }
    ]
   },
@@ -53814,9 +53816,10 @@
        "live": 6.18
       }
      ],
-     "leftPct": 0,
+     "leftPct": 49,
      "leftRem": 3,
-     "rightRem": 3
+     "rightRem": 3,
+     "repaired": true
     }
    ]
   },
@@ -54362,9 +54365,10 @@
        "live": 5.97
       }
      ],
-     "leftPct": 0,
+     "leftPct": 49,
      "leftRem": 3,
-     "rightRem": 3
+     "rightRem": 3,
+     "repaired": true
     }
    ]
   },
@@ -54922,9 +54926,10 @@
        "live": 5.94
       }
      ],
-     "leftPct": 0,
+     "leftPct": 49,
      "leftRem": 3,
-     "rightRem": 3
+     "rightRem": 3,
+     "repaired": true
     }
    ]
   },
