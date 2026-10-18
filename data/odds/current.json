@@ -12761,6 +12761,430 @@
      "rightRem": 3
     }
    ]
+  },
+  {
+   "ts": "2026-10-18T20:54:44+00:00",
+   "week": 6,
+   "matchups": [
+    {
+     "id": "1v2",
+     "left": "Silly Shrek Squad",
+     "leftRec": "3-2",
+     "right": "BDSM AI Stealth Founder",
+     "rightRec": "2-3",
+     "leftScore": 73.85,
+     "leftProj": 108.55,
+     "rightScore": 68.6,
+     "rightProj": 106.32,
+     "shotgun": [
+      {
+       "player": "K. Mitchell",
+       "pos": "RB",
+       "team": "LAC",
+       "pts": 0.0,
+       "game": "1st 1:27, 3-9 @ KC",
+       "tag": null,
+       "state": "live",
+       "slot": "RB",
+       "manager": "BDSM AI Stealth Founder",
+       "locked": false
+      },
+      {
+       "player": "M. Wilson",
+       "pos": "WR",
+       "team": "Ari",
+       "pts": 0.0,
+       "game": "2nd 8:23, 6-9 @ LAR",
+       "tag": null,
+       "state": "live",
+       "slot": "WR",
+       "manager": "BDSM AI Stealth Founder",
+       "locked": false
+      },
+      {
+       "player": "T. Higbee",
+       "pos": "TE",
+       "team": "LAR",
+       "pts": 0.0,
+       "game": "2nd 8:23, 9-6 vs ARI",
+       "tag": null,
+       "state": "live",
+       "slot": "TE",
+       "manager": "Silly Shrek Squad",
+       "locked": false
+      },
+      {
+       "player": "Texans",
+       "pos": "DEF",
+       "team": "Hou",
+       "pts": -2.75,
+       "game": "Final (W) 34-31 @ JAX",
+       "tag": null,
+       "state": "final",
+       "slot": "DEF",
+       "manager": "Silly Shrek Squad",
+       "locked": true
+      }
+     ],
+     "leftActive": [
+      {
+       "player": "M. Stafford",
+       "pos": "QB",
+       "slot": "QB",
+       "rem": 15.07,
+       "state": "live"
+      },
+      {
+       "player": "M. Golden",
+       "pos": "WR",
+       "slot": "W/R/T",
+       "rem": 14.35,
+       "state": "pending"
+      },
+      {
+       "player": "T. Higbee",
+       "pos": "TE",
+       "slot": "TE",
+       "rem": 5.28,
+       "state": "live"
+      }
+     ],
+     "rightActive": [
+      {
+       "player": "C. Watson",
+       "pos": "WR",
+       "slot": "W/R/T",
+       "rem": 16.68,
+       "state": "pending"
+      },
+      {
+       "player": "M. Wilson",
+       "pos": "WR",
+       "slot": "WR",
+       "rem": 7.93,
+       "state": "live"
+      },
+      {
+       "player": "49ers",
+       "pos": "DEF",
+       "slot": "DEF",
+       "rem": 6.99,
+       "state": "pending"
+      }
+     ],
+     "leftPct": 53,
+     "leftRem": 3,
+     "rightRem": 4
+    },
+    {
+     "id": "3v6",
+     "left": "Robotripping Gardener",
+     "leftRec": "5-0",
+     "right": "MELONHEADS (daniel)",
+     "rightRec": "2-3",
+     "leftScore": 63.57,
+     "leftProj": 117.57,
+     "rightScore": 42.05,
+     "rightProj": 107.57,
+     "shotgun": [
+      {
+       "player": "C. Skattebo",
+       "pos": "RB",
+       "team": "NYG",
+       "pts": 0.0,
+       "game": "Final (L) 27-34 vs NO",
+       "tag": null,
+       "state": "final",
+       "slot": "RB",
+       "manager": "MELONHEADS (daniel)",
+       "locked": true
+      }
+     ],
+     "leftActive": [
+      {
+       "player": "P. Mahomes",
+       "pos": "QB",
+       "slot": "QB",
+       "rem": 16.13,
+       "state": "live"
+      },
+      {
+       "player": "M. Evans",
+       "pos": "WR",
+       "slot": "W/R/T",
+       "rem": 15.05,
+       "state": "pending"
+      },
+      {
+       "player": "K. Williams",
+       "pos": "RB",
+       "slot": "RB",
+       "rem": 13.62,
+       "state": "live"
+      }
+     ],
+     "rightActive": [
+      {
+       "player": "J. Daniels",
+       "pos": "QB",
+       "slot": "QB",
+       "rem": 21.72,
+       "state": "pending"
+      },
+      {
+       "player": "G. Pickens",
+       "pos": "WR",
+       "slot": "WR",
+       "rem": 13.78,
+       "state": "pending"
+      },
+      {
+       "player": "G. Kittle",
+       "pos": "TE",
+       "slot": "W/R/T",
+       "rem": 13.77,
+       "state": "pending"
+      }
+     ],
+     "leftPct": 61,
+     "leftRem": 4,
+     "rightRem": 5
+    },
+    {
+     "id": "4v8",
+     "left": "Rub a dub lost the Chubb",
+     "leftRec": "2-3",
+     "right": "Alex Michael Pagels",
+     "rightRec": "0-5",
+     "leftScore": 69.07,
+     "leftProj": 110.08,
+     "rightScore": 115.26,
+     "rightProj": 130.21,
+     "shotgun": [],
+     "leftActive": [
+      {
+       "player": "J. Williams",
+       "pos": "RB",
+       "slot": "RB",
+       "rem": 16.22,
+       "state": "pending"
+      },
+      {
+       "player": "A. Jeanty",
+       "pos": "RB",
+       "slot": "RB",
+       "rem": 12.51,
+       "state": "live"
+      },
+      {
+       "player": "M. Lloyd",
+       "pos": "RB",
+       "slot": "W/R/T",
+       "rem": 12.28,
+       "state": "pending"
+      }
+     ],
+     "rightActive": [
+      {
+       "player": "K. Cousins",
+       "pos": "QB",
+       "slot": "QB",
+       "rem": 14.95,
+       "state": "live"
+      }
+     ],
+     "leftPct": 19,
+     "leftRem": 3,
+     "rightRem": 1
+    },
+    {
+     "id": "5v11",
+     "left": "Tuten Brown",
+     "leftRec": "3-2",
+     "right": "Zen Buddha Boys 🪷💨",
+     "rightRec": "3-2",
+     "leftScore": 112.79,
+     "leftProj": 138.85,
+     "rightScore": 102.4,
+     "rightProj": 102.4,
+     "shotgun": [],
+     "leftActive": [
+      {
+       "player": "T. Kraft",
+       "pos": "TE",
+       "slot": "TE",
+       "rem": 11.49,
+       "state": "pending"
+      },
+      {
+       "player": "B. Aubrey",
+       "pos": "K",
+       "slot": "K",
+       "rem": 9.92,
+       "state": "pending"
+      },
+      {
+       "player": "K. Bourne",
+       "pos": "WR",
+       "slot": "WR",
+       "rem": 4.65,
+       "state": "live"
+      }
+     ],
+     "rightActive": [],
+     "leftPct": 99,
+     "leftRem": 3,
+     "rightRem": 0
+    },
+    {
+     "id": "7v10",
+     "left": "James Ray Ervin Yonts",
+     "leftRec": "3-2",
+     "right": "RosterMogged",
+     "rightRec": "2-3",
+     "leftScore": 54.2,
+     "leftProj": 113.97,
+     "rightScore": 69.85,
+     "rightProj": 139.68,
+     "shotgun": [
+      {
+       "player": "T. Kelce",
+       "pos": "TE",
+       "team": "KC",
+       "pts": 0.0,
+       "game": "1st 1:27, 9-3 vs LAC",
+       "tag": null,
+       "state": "live",
+       "slot": "TE",
+       "manager": "James Ray Ervin Yonts",
+       "locked": false
+      }
+     ],
+     "leftActive": [
+      {
+       "player": "D. Prescott",
+       "pos": "QB",
+       "slot": "QB",
+       "rem": 22.15,
+       "state": "pending"
+      },
+      {
+       "player": "C. Lamb",
+       "pos": "WR",
+       "slot": "WR",
+       "rem": 18.06,
+       "state": "pending"
+      },
+      {
+       "player": "P. Nacua",
+       "pos": "WR",
+       "slot": "W/R/T",
+       "rem": 13.96,
+       "state": "live"
+      }
+     ],
+     "rightActive": [
+      {
+       "player": "B. Purdy",
+       "pos": "QB",
+       "slot": "QB",
+       "rem": 24.37,
+       "state": "pending"
+      },
+      {
+       "player": "K. Walker III",
+       "pos": "RB",
+       "slot": "RB",
+       "rem": 17.52,
+       "state": "live"
+      },
+      {
+       "player": "D. Adams",
+       "pos": "WR",
+       "slot": "WR",
+       "rem": 9.66,
+       "state": "live"
+      }
+     ],
+     "leftPct": 26,
+     "leftRem": 5,
+     "rightRem": 7
+    },
+    {
+     "id": "9v12",
+     "left": "Sir this is a FF league",
+     "leftRec": "2-3",
+     "right": "Kiwis are better than mid",
+     "rightRec": "3-2",
+     "leftScore": 66.15,
+     "leftProj": 114.0,
+     "rightScore": 70.78,
+     "rightProj": 125.57,
+     "shotgun": [
+      {
+       "player": "B. Bowers",
+       "pos": "TE",
+       "team": "LV",
+       "pts": 0.0,
+       "game": "2nd 14:59, 7-3 vs BUF",
+       "tag": null,
+       "state": "live",
+       "slot": "TE",
+       "manager": "Kiwis are better than mid",
+       "locked": false
+      }
+     ],
+     "leftActive": [
+      {
+       "player": "J. Love",
+       "pos": "QB",
+       "slot": "QB",
+       "rem": 23.43,
+       "state": "pending"
+      },
+      {
+       "player": "J. Cook III",
+       "pos": "RB",
+       "slot": "RB",
+       "rem": 14.33,
+       "state": "live"
+      },
+      {
+       "player": "E. Pineiro",
+       "pos": "K",
+       "slot": "K",
+       "rem": 10.09,
+       "state": "pending"
+      }
+     ],
+     "rightActive": [
+      {
+       "player": "J. Allen",
+       "pos": "QB",
+       "slot": "QB",
+       "rem": 22.12,
+       "state": "live"
+      },
+      {
+       "player": "C. McCaffrey",
+       "pos": "RB",
+       "slot": "RB",
+       "rem": 20.68,
+       "state": "pending"
+      },
+      {
+       "player": "B. Bowers",
+       "pos": "TE",
+       "slot": "TE",
+       "rem": 11.99,
+       "state": "live"
+      }
+     ],
+     "leftPct": 35,
+     "leftRem": 3,
+     "rightRem": 3
+    }
+   ]
   }
  ],
  "segments": [
