@@ -71,16 +71,29 @@ footer{font-size:12.5px;color:var(--muted);border-top:1px solid var(--line);padd
   <footer><span>Win odds and projections are Yahoo's, sampled about once a minute during game windows. This page refreshes itself.</span><span id="count"></span></footer>
 </div>
 <script>
-const CDN_URL = 'https://cdn.jsdelivr.net/gh/pdubslax/pdubslax.github.io@odds-data/data/odds/current.json';
-const RAW_URL = 'https://raw.githubusercontent.com/pdubslax/pdubslax.github.io/odds-data/data/odds/current.json';
-let lastJson = null;
+const REPO = 'pdubslax/pdubslax.github.io', FILE = 'data/odds/current.json';
+const REF_URL = 'https://api.github.com/repos/' + REPO + '/commits/odds-data';
+const RAW_URL = 'https://raw.githubusercontent.com/' + REPO + '/odds-data/' + FILE;
+let lastSha = null, lastJson = null, apiBlockedUntil = 0;
 async function fetchJson(url){ const r = await fetch(url, {cache:'no-store'}); if(!r.ok) throw new Error('HTTP '+r.status); return r.json(); }
+function show(hist){ const txt = JSON.stringify(hist); if (txt === lastJson) return; lastJson = txt; render(hist); }
 async function load(){
   try {
-    let hist;
-    try { hist = await fetchJson(CDN_URL); } catch(e) { hist = await fetchJson(RAW_URL + '?t=' + Date.now()); }
-    const txt = JSON.stringify(hist); if (txt === lastJson) return; lastJson = txt;
-    render(hist);
+    if (Date.now() > apiBlockedUntil) {
+      // Latest commit on the data branch: GitHub's API is always fresh. 60 calls per hour per viewer address, so poll it once a minute and back off on a refusal.
+      const r = await fetch(REF_URL, {headers:{'Accept':'application/vnd.github.sha'}, cache:'no-store'});
+      if (r.ok) {
+        const sha = (await r.text()).trim();
+        if (sha === lastSha) return;
+        let hist;
+        try { hist = await fetchJson('https://cdn.jsdelivr.net/gh/' + REPO + '@' + sha + '/' + FILE); }
+        catch(e) { hist = await fetchJson('https://raw.githubusercontent.com/' + REPO + '/' + sha + '/' + FILE); }
+        lastSha = sha; show(hist); return;
+      }
+      if (r.status === 403 || r.status === 429) apiBlockedUntil = Date.now() + 10*60*1000;
+    }
+    // Fallback: the branch file through GitHub's CDN, which can lag up to 5 minutes.
+    show(await fetchJson(RAW_URL + '?t=' + Date.now()));
   } catch(e){ const g=document.getElementById('grid'); if(!g.children.length) g.innerHTML='<div class="empty">No samples yet. The sampler runs about once a minute during game windows.</div>'; }
 }
 function render(hist){
@@ -133,7 +146,7 @@ function render(hist){
     </article>`;
   }).join('');
 }
-load(); setInterval(load, 30000);
+load(); setInterval(load, 60000);
 </script>
 
 </body>
