@@ -630,6 +630,96 @@
      "rightRem": 8
     }
    ]
+  },
+  {
+   "ts": "2026-10-18T19:47:06+00:00",
+   "week": 6,
+   "matchups": [
+    {
+     "id": "1v2",
+     "left": "Silly Shrek Squad",
+     "leftRec": "3-2",
+     "right": "BDSM AI Stealth Founder",
+     "rightRec": "2-3",
+     "leftScore": 63.95,
+     "leftProj": 116.17,
+     "rightScore": 49.9,
+     "rightProj": 100.51,
+     "leftPct": 69,
+     "leftRem": 6,
+     "rightRem": 8
+    },
+    {
+     "id": "3v6",
+     "left": "Robotripping Gardener",
+     "leftRec": "5-0",
+     "right": "MELONHEADS (daniel)",
+     "rightRec": "2-3",
+     "leftScore": 52.45,
+     "leftProj": 129.91,
+     "rightScore": 21.35,
+     "rightProj": 100.07,
+     "leftPct": 77,
+     "leftRem": 9,
+     "rightRem": 9
+    },
+    {
+     "id": "4v8",
+     "left": "Rub a dub lost the Chubb",
+     "leftRec": "2-3",
+     "right": "Alex Michael Pagels",
+     "rightRec": "0-5",
+     "leftScore": 52.29,
+     "leftProj": 101.8,
+     "rightScore": 90.2,
+     "rightProj": 119.45,
+     "leftPct": 26,
+     "leftRem": 6,
+     "rightRem": 8
+    },
+    {
+     "id": "5v11",
+     "left": "Tuten Brown",
+     "leftRec": "3-2",
+     "right": "Zen Buddha Boys 🪷💨",
+     "rightRec": "3-2",
+     "leftScore": 106.79,
+     "leftProj": 138.15,
+     "rightScore": 96.44,
+     "rightProj": 108.28,
+     "leftPct": 95,
+     "leftRem": 6,
+     "rightRem": 7
+    },
+    {
+     "id": "7v10",
+     "left": "James Ray Ervin Yonts",
+     "leftRec": "3-2",
+     "right": "RosterMogged",
+     "rightRec": "2-3",
+     "leftScore": 32.5,
+     "leftProj": 121.9,
+     "rightScore": 23.5,
+     "rightProj": 126.05,
+     "leftPct": 46,
+     "leftRem": 8,
+     "rightRem": 8
+    },
+    {
+     "id": "9v12",
+     "left": "Sir this is a FF league",
+     "leftRec": "2-3",
+     "right": "Kiwis are better than mid",
+     "rightRec": "3-2",
+     "leftScore": 60.05,
+     "leftProj": 117.77,
+     "rightScore": 59.4,
+     "rightProj": 129.37,
+     "leftPct": 37,
+     "leftRem": 7,
+     "rightRem": 8
+    }
+   ]
   }
  ],
  "segments": [
