@@ -1,0 +1,29 @@
+---
+layout: null
+permalink: /odds/open/
+---
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex">
+<title>Opening matchup</title>
+<style>body{font-family:system-ui,sans-serif;color:#6b7280;padding:40px 16px;text-align:center}a{color:#1d4ed8}</style>
+</head>
+<body>
+<p id="msg">Opening the Yahoo matchup...</p>
+<script>
+// Hop to Yahoo by script rather than a tapped link: phones and Macs hand tapped Yahoo links to the Yahoo Fantasy app, but script navigation stays in the browser.
+(function(){
+  var q = new URLSearchParams(location.search);
+  var w = parseInt(q.get('week'), 10), a = parseInt(q.get('mid1'), 10), b = parseInt(q.get('mid2'), 10);
+  if (!(w > 0 && a > 0 && b > 0)) { document.getElementById('msg').textContent = 'Missing matchup.'; return; }
+  var url = 'https://football.fantasysports.yahoo.com/f1/932579/matchup?week=' + w + '&mid1=' + a + '&mid2=' + b;
+  document.getElementById('msg').innerHTML = 'Opening the Yahoo matchup... <a id="fallback">tap here if nothing happens</a>';
+  document.getElementById('fallback').href = url;
+  location.replace(url);
+})();
+</script>
+</body>
+</html>
