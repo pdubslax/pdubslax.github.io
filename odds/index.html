@@ -197,11 +197,11 @@ function render(hist){
     const decided = (m.leftRem===0 && m.rightRem===0) || lp===100 || lp===0 || (leftAhead && m.rightRem===0) || (rightAhead && m.leftRem===0);
     const lm = m.leftProj-m.rightProj;
     const keys = (act,rem) => `<b>${rem} left</b>` + (act||[]).slice(0,2).map(a=>`<span>${esc(a.pos||a.slot)} ${esc(a.player)}</span>`).join('');
-    const strip=(first,name,rec,pct,score,proj,rem,fav,cls,act)=>`<div class="strip ${cls} ${fav?'isfav':'isdog'}"><div class="pct">${pct}<small>%</small></div><div class="mid"><div class="nm" title="${esc(name)}">${esc(first||name)}<span class="rec">${esc(rec)}</span></div></div><div class="key">${keys(act,rem)}</div></div>`;
+    const strip=(first,name,rec,pct,score,proj,rem,fav,cls,act)=>`<div class="strip ${cls} ${fav?'isfav':'isdog'}"><div class="pct">${pct}<small>%</small></div><div class="mid"><div class="nm" title="${esc(name)}">${esc(first||name)}<span class="rec">${esc(rec)}</span></div><div class="sub"><b>${score.toFixed(2)}</b> now · ${proj.toFixed(2)} proj</div></div><div class="key">${keys(act,rem)}</div></div>`;
     const leadName = shortName(m, lm>=0?0:1); const [ida, idb] = sideIds(m);
     const cm = m.leftScore-m.rightScore; const nowName = shortName(m, cm>=0?0:1);
     return `<a class="card${decided?' done':''}" href="/odds/open/?week=${hist.week}&mid1=${ida}&mid2=${idb}" target="_blank" rel="noopener">
-      <div class="rowtop">${decided?'<span class="chip lock">✅ Decided</span>':'<span class="chip">Live</span>'}<span>now <b>${esc(nowName)} +${Math.abs(cm).toFixed(2)}</b> · proj <b>${esc(leadName)} +${Math.abs(lm).toFixed(2)}</b></span></div>
+      <div class="rowtop">${decided?'<span class="chip lock">✅ Decided</span>':'<span class="chip">Live</span>'}<span>proj margin <b>${Math.abs(lm).toFixed(2)}</b> · ${esc(leadName)}</span></div>
       ${strip(firstName(m,0),m.left,m.leftRec,lp,m.leftScore,m.leftProj,m.leftRem,leftFav,'top',m.leftActive)}
       <div class="chart">${spark(vals)}</div>
       ${strip(firstName(m,1),m.right,m.rightRec,rp,m.rightScore,m.rightProj,m.rightRem,!leftFav,'bot',m.rightActive)}
