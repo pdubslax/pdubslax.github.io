@@ -65,7 +65,10 @@ a.card:hover{border-color:var(--fav)}
 .strip.top .pct,.strip.top .nm{color:var(--fav)} .strip.bot .pct,.strip.bot .nm{color:var(--alt)}
 .strip.bot{border-top:1px solid var(--line);padding-top:8px}
 .strip.top{padding-bottom:2px}
+.chart{position:relative}
 .chart svg{width:100%;height:96px;display:block;max-width:100%}
+.chart .tip{position:absolute;top:4px;right:6px;font-family:var(--mono);font-size:11px;color:var(--ink);background:var(--panel);padding:1px 5px;border:1px solid var(--line);border-radius:3px;pointer-events:none;display:none}
+.chart .guide{display:none}
 .cap{display:flex;justify-content:space-between;gap:10px;font-family:var(--mono);font-size:11.5px;color:var(--muted)}
 .delta{font-weight:500}
 .delta.up{color:var(--up)} .delta.down{color:var(--down)}
@@ -163,12 +166,14 @@ function render(hist){
   SEG.reduce((off,g)=>{ g.x0 = off; g.x1 = off + g.w*usable; return g.x1 + GAP; }, 0);
   const frac = t => { for (const g of SEG){ if (t <= g.b){ if (t < g.a) return g.x0; return g.x0 + (g.x1-g.x0)*(t-g.a)/(g.b-g.a); } } return SEG[SEG.length-1].x1; };
   const tsList = S.map(s => new Date(s.ts).getTime());
-  function spark(vals){
+  const HOVER = {};
+  function spark(vals, id){
     const W=320,H=110,pl=6,pr=6,pt=8,pb=20; const x=t=> pl+(W-pl-pr)*frac(t); const y=v=> pt+(H-pt-pb)*(1-v/100);
     // Smooth: centered rolling average over 5 samples, endpoint pinned to the latest real value, drawn as a monotone curve.
     const pts = []; vals.forEach((v,i)=>{ if(v!=null) pts.push({t:tsList[i], v}); });
     const sm = pts.map((p,i)=>{ if(i===pts.length-1) return p.v; const lo=Math.max(0,i-2), hi=Math.min(pts.length-1,i+2); let s=0,c=0; for(let k=lo;k<=hi;k++){ s+=pts[k].v; c++; } return s/c; });
     const P = pts.map((p,i)=>({x:x(p.t), y:y(sm[i])}));
+    if (id) HOVER[id] = {W, xs: pts.map(p=>x(p.t)), ts: pts.map(p=>p.t), vals: pts.map(p=>p.v)};
     let d='';
     if (P.length){ d = 'M'+P[0].x.toFixed(1)+' '+P[0].y.toFixed(1);
       const n=P.length, m=[], dx=[], dy=[];
@@ -189,7 +194,8 @@ function render(hist){
       <path d="${d}" fill="none" stroke="var(--fav)" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" clip-path="url(#${cid}a)"/>
       <path d="${d}" fill="none" stroke="var(--alt)" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" clip-path="url(#${cid}b)"/>`:`<path d="${d}" fill="none" stroke="var(--fav)" stroke-width="2"/>`}
       <circle cx="${lastX.toFixed(1)}" cy="${y(lastV)}" r="3.5" fill="${lastV>=50?'var(--fav)':'var(--alt)'}"/>
-    </svg>`;
+      <line class="guide" x1="0" x2="0" y1="${pt}" y2="${H-pb}" stroke="var(--ink)" stroke-width="1" opacity=".5"/>
+    </svg><div class="tip"></div>`;
   }
   const dstr = (a,b) => { if(a==null||b==null) return ''; const d=b-a; const s=(d>0?'+':'')+d; return `<span class="delta ${d>0?'up':d<0?'down':''}">${s===''?'':s}</span>`; };
   document.getElementById('grid').innerHTML = cards.map(({m}) => {
@@ -212,11 +218,25 @@ function render(hist){
     return `<a class="card${decided?' done':''}" href="/odds/open/?week=${hist.week}&mid1=${ida}&mid2=${idb}" target="_blank" rel="noopener">
       <div class="rowtop">${decided?'<span class="chip lock">✅ Decided</span>':'<span class="chip">Live</span>'}<span>proj margin <b>${Math.abs(lm).toFixed(2)}</b> · ${esc(leadName)}</span></div>
       ${flip ? strip(firstName(m,1),m.right,m.rightRec,rp,m.rightScore,m.rightProj,m.rightRem,true,'top',m.rightActive) : strip(firstName(m,0),m.left,m.leftRec,lp,m.leftScore,m.leftProj,m.leftRem,true,'top',m.leftActive)}
-      <div class="chart">${spark(vals)}</div>
+      <div class="chart" data-id="${m.id}" data-top="${esc(flip ? shortName(m,1) : shortName(m,0))}">${spark(vals, m.id)}</div>
       ${flip ? strip(firstName(m,0),m.left,m.leftRec,lp,m.leftScore,m.leftProj,m.leftRem,false,'bot',m.leftActive) : strip(firstName(m,1),m.right,m.rightRec,rp,m.rightScore,m.rightProj,m.rightRem,false,'bot',m.rightActive)}
     </a>`;
   }).join('');
 }
+// Hover over a chart: nearest sample's time and the top team's win percentage, with a thin guide line.
+const grid = document.getElementById('grid');
+grid.addEventListener('mousemove', e => {
+  const c = e.target.closest('.chart'); if (!c) return;
+  const d = HOVER[c.dataset.id]; if (!d || !d.xs.length) return;
+  const svg = c.querySelector('svg'), r = svg.getBoundingClientRect();
+  const xv = (e.clientX - r.left) / r.width * d.W;
+  let k = 0; for (let i = 1; i < d.xs.length; i++) if (Math.abs(d.xs[i]-xv) < Math.abs(d.xs[k]-xv)) k = i;
+  const g = svg.querySelector('.guide'); g.setAttribute('x1', d.xs[k]); g.setAttribute('x2', d.xs[k]); g.style.display = 'block';
+  const t = new Date(d.ts[k]).toLocaleString(undefined,{weekday:'short',hour:'numeric',minute:'2-digit'});
+  const tip = c.querySelector('.tip'); tip.textContent = `${t} · ${c.dataset.top} ${d.vals[k]}%`; tip.style.display = 'block';
+});
+grid.addEventListener('mouseleave', () => { grid.querySelectorAll('.guide').forEach(g => g.style.display = 'none'); grid.querySelectorAll('.tip').forEach(t => t.style.display = 'none'); }, true);
+grid.addEventListener('mouseout', e => { const c = e.target.closest('.chart'); if (c && !c.contains(e.relatedTarget)) { c.querySelector('.guide').style.display = 'none'; c.querySelector('.tip').style.display = 'none'; } });
 load(); setInterval(load, 75000); // 48 API calls per hour per viewer, under GitHub's 60 limit
 </script>
 
