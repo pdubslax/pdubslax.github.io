@@ -75,10 +75,12 @@ def active_starters(rows, side, top=3):
         d = parse_player(name, text, pts)
         if d["state"] not in ("pending", "live"): continue
         nums = re.findall(r"-?\d+\.\d+", proj or "")
+        orig_proj = float(nums[0]) if nums else 0.0
         live_proj = float(nums[-1]) if nums else 0.0
         remaining = live_proj if d["state"] == "pending" else max(live_proj - d["pts"], 0.0)
         if remaining <= 0: continue
-        out.append(dict(player=d["player"], pos=d["pos"], slot=r["slot"], rem=round(remaining, 2), state=d["state"]))
+        out.append(dict(player=d["player"], pos=d["pos"], slot=r["slot"], rem=round(remaining, 2), state=d["state"],
+                        pts=d["pts"], proj=orig_proj, live=live_proj))
     out.sort(key=lambda x: -x["rem"])
     return out[:top]
 
