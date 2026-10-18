@@ -101,11 +101,16 @@ def shotgun_entries(rows, left_team, right_team):
 async def odds_for(page, week, mid):
     a, b = mid.split("v")
     await page.goto(f"{BASE}/matchup?week={week}&mid1={a}&mid2={b}", wait_until="domcontentloaded", timeout=45000)
-    try:
-        await page.wait_for_function("() => /(Favorite|Underdog) \\d+%|Projected Winner|Loser/.test(document.body.innerText)", timeout=20000)
-    except Exception:
-        pass
-    body = await page.inner_text("body")
+    # Wait for the odds themselves, not just the layout: the live layout prints "Winner"/"Loser" before the percentages render.
+    body = ""
+    for attempt in range(3):
+        try:
+            await page.wait_for_function("() => /(Favorite|Underdog) \\d+%|100%|0 Players [Rr]emaining[\\s\\S]*?Players [Rr]emaining 0/.test(document.body.innerText)", timeout=15000)
+        except Exception:
+            pass
+        body = await page.inner_text("body")
+        if re.search(r"(Favorite|Underdog) (\d+)%", body) or "100%" in body: break
+        await page.wait_for_timeout(2000)
     try:
         rows = await page.evaluate(ROSTER_JS)
     except Exception as e:
@@ -132,11 +137,16 @@ async def main(out_dir):
             row["shotgun"] = shotgun_entries(rows_, row["left"], row["right"])
             row["leftActive"] = active_starters(rows_, "L"); row["rightActive"] = active_starters(rows_, "R")
             if pct is None:
-                # decided matchup: no percentage shown. Use scores to assign 100/0; fall back to projections.
-                if "Winner" in body or "Loser" in body or (rem == [0, 0]):
+                if rem == [0, 0] or "100%" in body:
+                    # Truly decided: nobody left to play, or Yahoo prints 100%. Assign by score.
                     pct = 100 if row["leftScore"] >= row["rightScore"] else 0
                 else:
-                    print("no odds for", row["id"], file=sys.stderr); continue
+                    # Odds not readable this pass: carry the previous sample's value rather than guessing.
+                    prev_m = next((x for x in (hist["samples"][-1]["matchups"] if hist["samples"] else []) if x["id"] == row["id"]), None)
+                    if prev_m is None or prev_m.get("leftPct") is None:
+                        print("no odds for", row["id"], file=sys.stderr); continue
+                    pct = prev_m["leftPct"]; row["stale"] = True
+                    print("carried previous odds for", row["id"], file=sys.stderr)
             if rem is None:
                 rem = [0, 0] if pct in (0, 100) else [None, None]
             row.update(leftPct=pct, leftRem=rem[0], rightRem=rem[1])
