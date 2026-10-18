@@ -129,12 +129,15 @@ function render(hist){
   document.getElementById('ribbon').innerHTML = margins.map((x,i)=>`<div class="tile"><div class="lab">${i===0?'Biggest blowout':i===1?'Runner up':'Third'}</div><div class="big">${x.margin.toFixed(2)}</div><div class="who" title="${esc(x.lead)} over ${esc(x.trail)}">${esc(x.lead)} over ${esc(x.trail)}</div></div>`).join('');
   // shotgun watch: starters at zero or below. Locked once their game is final, or once the whole week is decided.
   const weekDone = last.matchups.every(m => m.leftRem===0 && m.rightRem===0);
-  const shots = last.matchups.flatMap(m => (m.shotgun || []).map(x => ({...x, label: (firstName(m, x.manager===m.left?0:1) ? firstName(m, x.manager===m.left?0:1) + ' - ' : '') + x.manager}))).map(x => ({...x, locked: x.locked || weekDone}));
+  // A live game only counts from halftime on; before that a zero is just a slow start. Injury tags, byes, empty slots and finals always count.
+  const INACTIVE = ['O','IR','IR-R','PUP','SUSP','NFI','NA'];
+  const inPlay = x => x.state === 'final' || x.state === 'bye' || x.state === 'empty' || INACTIVE.includes(x.tag) || (x.state === 'live' && /^(Half|3rd|4th|OT)/.test(x.game || ''));
+  const shots = last.matchups.flatMap(m => (m.shotgun || []).filter(inPlay).map(x => ({...x, label: (firstName(m, x.manager===m.left?0:1) ? firstName(m, x.manager===m.left?0:1) + ' - ' : '') + x.manager}))).map(x => ({...x, locked: x.locked || weekDone}));
   const line = x => `<li><span class="chip ${x.locked?'beer':'risk'}">${x.locked?'🍺🔫 locked':'at risk'}</span><span class="who">${esc(x.label)} <small>${esc(x.player)}${x.pos?' · '+esc(x.pos):''}${x.tag?' · '+esc(x.tag):''}${x.game&&x.state!=='final'?' · '+esc(x.game):''}${x.state==='final'?' · Final':''}</small></span></li>`;
   const order = x => (x.locked?0:1);
   shots.sort((a,b)=>order(a)-order(b) || a.pts-b.pts);
   document.getElementById('shot').innerHTML = `<div class="hd"><span class="lab">Shotgun watch</span></div>` +
-    (shots.length ? `<ul>${shots.map(line).join('')}</ul>` : `<div class="none">No starters at zero or below right now.</div>`);
+    (shots.length ? `<ul>${shots.map(line).join('')}</ul>` : `<div class="none">No starters at zero or below in the second half of a game right now.</div>`);
   // cards sorted by favorite's current odds
   const series = id => S.map(s => { const m = s.matchups.find(x=>x.id===id); return m ? m.leftPct : null; });
   const cards = last.matchups.map(m => ({m, fav: Math.max(m.leftPct, 100-m.leftPct)})).sort((a,b)=>b.fav-a.fav);
