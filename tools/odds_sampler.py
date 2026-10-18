@@ -67,7 +67,7 @@ def parse_player(name, text, pts):
     p = float(pts) if re.match(r"-?\d", pts) else 0.0
     return dict(player=name or "(Empty)", pos=pos, team=team, pts=p, game="" if state == "empty" else game.strip(), tag=tag, state=state)
 
-def active_starters(rows, side, top=3):
+def active_starters(rows, side, top=9):
     """Starters whose game is still to come or in progress, ranked by expected remaining points (Yahoo's live projection minus points so far)."""
     out = []
     for r in rows:
