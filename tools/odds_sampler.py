@@ -41,31 +41,53 @@ def scoreboard():
 
 
 ROSTER_JS = """() => {
-  const t = document.querySelector('table'); if (!t) return [];
-  const out = [];
-  for (const r of t.querySelectorAll('tr')) {
-    const c = [...r.querySelectorAll('th,td')]; if (c.length !== 9) continue;
-    const slot = c[4].innerText.trim(); if (slot === 'Pos' || slot === 'TOTAL') continue;
+  // Find the starters table by its header (works for both Yahoo layouts: live has 9 columns, non-live has 11 with repeated Pos cells).
+  const tables = [...document.querySelectorAll('table')];
+  for (const t of tables) {
+    const rows = [...t.querySelectorAll('tr')];
+    const hdrRow = rows.find(r => [...r.querySelectorAll('th,td')].some(c => c.innerText.trim() === 'Pos'));
+    if (!hdrRow) continue;
+    const H = [...hdrRow.querySelectorAll('th,td')].map(c => c.innerText.trim());
+    const idx = (label) => H.map((h, i) => h === label ? i : -1).filter(i => i >= 0);
+    const player = idx('Player'), proj = idx('Proj'), pts = idx('Fan Pts'), pos = idx('Pos');
+    if (player.length < 2 || proj.length < 2 || pts.length < 2 || !pos.length) continue;
+    const out = [];
     const cell = td => { const a = td.querySelector('a'); return [a ? a.innerText.trim() : '', td.innerText.replace(/\\s+/g, ' ').trim()]; };
-    out.push({slot, L: cell(c[1]), lp: c[3].innerText.trim(), lpr: c[2].innerText.trim(), R: cell(c[7]), rp: c[5].innerText.trim(), rpr: c[6].innerText.trim()});
+    for (const r of rows) {
+      const c = [...r.querySelectorAll('th,td')]; if (c.length !== H.length) continue;
+      const slot = c[pos[0]].innerText.trim(); if (!slot || slot === 'Pos' || /^total$/i.test(slot)) continue;
+      out.push({slot, L: cell(c[player[0]]), lp: c[pts[0]].innerText.trim(), lpr: c[proj[0]].innerText.trim(),
+                R: cell(c[player[player.length-1]]), rp: c[pts[pts.length-1]].innerText.trim(), rpr: c[proj[proj.length-1]].innerText.trim()});
+    }
+    if (out.length) return out;
   }
-  return out;
+  return [];
 }"""
+
+JUNK = re.compile(r"(Video Forecast|New Player Note|No new player Notes|Player Note|Player Notes)", re.I)
+
+def short_name(name):
+    """'Matthew Stafford' -> 'M. Stafford'; already-short names and team defenses are left alone."""
+    parts = name.split()
+    if len(parts) >= 2 and len(parts[0]) > 2 and not parts[0].endswith("."):
+        return parts[0][0] + ". " + " ".join(parts[1:])
+    return name
 
 def parse_player(name, text, pts):
     rest = text[len(name):].strip() if name and text.startswith(name) else text
-    m = re.match(r"([A-Za-z]{2,3}) - ([A-Z/,]+)\s*(.*)", rest)
+    rest = JUNK.sub(" ", rest).strip()
+    m = re.search(r"\b([A-Za-z]{2,3}) - ([A-Z/,]+)\s*(.*)$", rest)
     team, pos, game = m.groups() if m else ("", "", rest)
     tag = None
     t = re.match(r"(IR-R|IR|PUP|SUSP|NFI|DTD|NA|O|Q|D|P)\s+(.*)", game)
     if t: tag, game = t.groups()
-    if re.match(r"Final", game): state = "final"
-    elif re.match(r"(1st|2nd|3rd|4th|OT|Half|Delay)", game): state = "live"
-    elif "No Game" in game: state = "bye"
+    if re.search(r"\bFinal\b", game): state = "final"
+    elif re.search(r"\b(1st|2nd|3rd|4th|OT|Half|Halftime|Delay)\b", game): state = "live"
+    elif re.search(r"No Game|\bBye\b", game, re.I): state = "bye"
     elif not name: state = "empty"
     else: state = "pending"
     p = float(pts) if re.match(r"-?\d", pts) else 0.0
-    return dict(player=name or "(Empty)", pos=pos, team=team, pts=p, game="" if state == "empty" else game.strip(), tag=tag, state=state)
+    return dict(player=short_name(name) if name else "(Empty)", pos=pos, team=team, pts=p, game="" if state == "empty" else game.strip(), tag=tag, state=state)
 
 def active_starters(rows, side, top=9):
     """Starters whose game is still to come or in progress, ranked by expected remaining points (Yahoo's live projection minus points so far)."""
@@ -135,8 +157,13 @@ async def main(out_dir):
         page = await ctx.new_page()
         for row in rows:
             pct, rem, body, rows_ = await odds_for(page, week, row["id"])
-            row["shotgun"] = shotgun_entries(rows_, row["left"], row["right"])
-            row["leftActive"] = active_starters(rows_, "L"); row["rightActive"] = active_starters(rows_, "R")
+            if rows_:
+                row["shotgun"] = shotgun_entries(rows_, row["left"], row["right"])
+                row["leftActive"] = active_starters(rows_, "L"); row["rightActive"] = active_starters(rows_, "R")
+            else:
+                prev_m = next((x for x in (hist["samples"][-1]["matchups"] if hist["samples"] else []) if x["id"] == row["id"]), None)
+                print("roster unreadable for", row["id"], "- carrying previous", file=sys.stderr)
+                for k in ("shotgun", "leftActive", "rightActive"): row[k] = (prev_m or {}).get(k, [])
             if pct is None:
                 if rem == [0, 0] or "100%" in body:
                     # Truly decided: nobody left to play, or Yahoo prints 100%. Assign by score.
