@@ -169,8 +169,8 @@ function render(hist){
     `<div class="col blow"><span class="lab"><span class="chip">Biggest blowout</span></span>${blowHtml}</div>` +
     col('🍺🔫 shotgun confirmed', 'beer', locked, 'None yet.') + col('shotgun at risk', 'risk', risk, 'Nobody at zero past halftime.') + `</div>`;
   const series = id => S.map(s => { const m = s.matchups.find(x=>x.id===id); return m ? m.leftPct : null; });
-  // cards sorted by projected margin, biggest blowout first (same order as the blowout race)
-  const cards = last.matchups.map(m => ({m, margin: Math.abs(m.leftProj-m.rightProj)})).sort((a,b)=>b.margin-a.margin);
+  // cards sorted by the favorite's win percentage, then projected margin as the tiebreaker
+  const cards = last.matchups.map(m => ({m, fav: Math.max(m.leftPct, 100-m.leftPct), margin: Math.abs(m.leftProj-m.rightProj)})).sort((a,b)=>b.fav-a.fav || b.margin-a.margin);
   const SEG = hist.segments.map(g => ({label:g.label, a:new Date(g.start).getTime(), b:new Date(g.end).getTime(), w:g.w}));
   const GAP = 0.012; const usable = 1 - GAP*(SEG.length-1);
   SEG.reduce((off,g)=>{ g.x0 = off; g.x1 = off + g.w*usable; return g.x1 + GAP; }, 0);
