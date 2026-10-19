@@ -212,9 +212,10 @@ function render(hist){
     // Current favorite always on top; the chart is drawn from the top team's point of view, so a crossover shows where they took the lead.
     const flip = lp < 50;
     const vals = series(m.id).map(v => v==null ? null : (flip ? 100-v : v));
-    // Decided: Yahoo says 100%, both sides are out of players, or the trailing side has no players left while the leader is already ahead.
+    // Decided: Yahoo says 100%, both sides are out of players, the trailing side has no players left while the leader is already ahead,
     const leftAhead = m.leftScore > m.rightScore, rightAhead = m.rightScore > m.leftScore;
-    const decided = (m.leftRem===0 && m.rightRem===0) || ((lp===100 || lp===0) && (m.leftRem===0 || m.rightRem===0)) || (leftAhead && m.rightRem===0) || (rightAhead && m.leftRem===0);
+    // Also decided once the odds are out of hand: Yahoo rounding to 99/1 or beyond.
+    const decided = (m.leftRem===0 && m.rightRem===0) || ((lp===100 || lp===0) && (m.leftRem===0 || m.rightRem===0)) || (lp>=99 && lp<100) || (lp<=1 && lp>0) || (leftAhead && m.rightRem===0) || (rightAhead && m.leftRem===0);
     const lm = m.leftProj-m.rightProj;
     // Key players: current points, green when Yahoo's live projection beats the pregame one (on pace), red when behind it.
     const ptsTag = a => a.state==='live' && a.pts!=null ? `<em class="${a.live>a.proj?'up':a.live<a.proj?'down':''}">${a.pts.toFixed(1)}</em>` : '';
