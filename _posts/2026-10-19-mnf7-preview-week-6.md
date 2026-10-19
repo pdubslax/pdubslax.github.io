@@ -39,11 +39,11 @@ A weekly newsletter for members of the Harry Koch Memorial Cup Fantasy Football 
 
 
 
-**63% - 7.34 points: MELONHEADS (daniel) (2-3) vs Robotripping Gardener (5-0)**  
+**62% - 7.07 points: MELONHEADS (daniel) (2-3) vs Robotripping Gardener (5-0)**  
 
 
 
-**64% - 6.56 points: Sir this is a FF league (2-3) vs Kiwis are better than mid (3-2)**  
+**64% - 6.43 points: Sir this is a FF league (2-3) vs Kiwis are better than mid (3-2)**  
 
 
 
