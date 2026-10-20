@@ -198,7 +198,9 @@ function render(hist, mode, curWeek){
   const weekDone = last.matchups.every(m => m.leftRem===0 && m.rightRem===0);
   // A live game only counts from halftime on; before that a zero is just a slow start. Injury tags, byes, empty slots and finals always count.
   const INACTIVE = ['O','IR','IR-R','PUP','SUSP','NFI','NA'];
-  const inPlay = x => x.state === 'final' || x.state === 'bye' || x.state === 'empty' || INACTIVE.includes(x.tag) || (x.state === 'live' && /^(Half|3rd|4th|OT)/.test(x.game || ''));
+  // Byes, empty slots and injury tags only count once the week is underway (someone has played); before kickoff managers are still setting lineups.
+  const underway = mode !== 'upcoming' && last.matchups.some(m => [...(m.leftActive||[]), ...(m.rightActive||[]), ...(m.shotgun||[])].some(a => a.state === 'live' || a.state === 'final'));
+  const inPlay = x => x.state === 'final' || (x.state === 'live' && /^(Half|3rd|4th|OT)/.test(x.game || '')) || (underway && (x.state === 'bye' || x.state === 'empty' || INACTIVE.includes(x.tag)));
   const shots = last.matchups.flatMap(m => (m.shotgun || []).filter(inPlay).map(x => ({...x, label: (firstName(m, x.manager===m.left?0:1) ? firstName(m, x.manager===m.left?0:1) + ' - ' : '') + x.manager}))).map(x => ({...x, locked: x.locked || weekDone}));
   const line = x => `<li><span class="who">${esc(x.label)} <small>${esc(x.player)}${x.pos?' · '+esc(x.pos):''}${x.tag?' · '+esc(x.tag):''}${x.game&&x.state!=='final'?' · '+esc(x.game):''}</small></span></li>`;
   shots.sort((a,b)=>a.pts-b.pts);
