@@ -1,0 +1,1226 @@
+{
+ "week": 7,
+ "ts": "2026-10-20T04:25:29+00:00",
+ "matchups": [
+  {
+   "id": "1v11",
+   "left": "Silly Shrek Squad",
+   "leftRec": "3-2",
+   "right": "Zen Buddha Boys 🪷💨",
+   "rightRec": "3-2",
+   "leftScore": 0.0,
+   "leftProj": 118.61,
+   "rightScore": 0.0,
+   "rightProj": 113.4,
+   "leftPct": 54,
+   "leftRem": 9,
+   "rightRem": 9,
+   "shotgun": [],
+   "leftActive": [
+    {
+     "player": "M. Stafford",
+     "pos": "QB",
+     "slot": "QB",
+     "rem": 21.86,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 21.86,
+     "live": 21.86
+    },
+    {
+     "player": "J. Smith-Njigba",
+     "pos": "WR",
+     "slot": "WR",
+     "rem": 20.58,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 20.58,
+     "live": 20.58
+    },
+    {
+     "player": "M. Golden",
+     "pos": "WR",
+     "slot": "W/R/T",
+     "rem": 14.82,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 14.82,
+     "live": 14.82
+    },
+    {
+     "player": "J. Coker",
+     "pos": "WR",
+     "slot": "WR",
+     "rem": 12.43,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 12.43,
+     "live": 12.43
+    },
+    {
+     "player": "S. LaPorta",
+     "pos": "TE",
+     "slot": "TE",
+     "rem": 11.73,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 11.73,
+     "live": 11.73
+    },
+    {
+     "player": "J.K. Dobbins",
+     "pos": "RB",
+     "slot": "RB",
+     "rem": 10.2,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 10.2,
+     "live": 10.2
+    },
+    {
+     "player": "Texans",
+     "pos": "DEF",
+     "slot": "DEF",
+     "rem": 9.91,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 9.91,
+     "live": 9.91
+    },
+    {
+     "player": "E. Wilson",
+     "pos": "RB",
+     "slot": "RB",
+     "rem": 8.55,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 8.55,
+     "live": 8.55
+    },
+    {
+     "player": "S. Shrader",
+     "pos": "K",
+     "slot": "K",
+     "rem": 8.53,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 8.53,
+     "live": 8.53
+    }
+   ],
+   "rightActive": [
+    {
+     "player": "C. Williams",
+     "pos": "QB",
+     "slot": "QB",
+     "rem": 22.12,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 22.12,
+     "live": 22.12
+    },
+    {
+     "player": "Z. Flowers",
+     "pos": "WR",
+     "slot": "WR",
+     "rem": 17.05,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 17.05,
+     "live": 17.05
+    },
+    {
+     "player": "C. Hubbard",
+     "pos": "RB",
+     "slot": "RB",
+     "rem": 16.9,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 16.9,
+     "live": 16.9
+    },
+    {
+     "player": "N. Collins",
+     "pos": "WR",
+     "slot": "WR",
+     "rem": 16.5,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 16.5,
+     "live": 16.5
+    },
+    {
+     "player": "T. Pollard",
+     "pos": "RB",
+     "slot": "W/R/T",
+     "rem": 12.22,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 12.22,
+     "live": 12.22
+    },
+    {
+     "player": "J. Myers",
+     "pos": "K",
+     "slot": "K",
+     "rem": 9.65,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 9.65,
+     "live": 9.65
+    },
+    {
+     "player": "C. Loveland",
+     "pos": "TE",
+     "slot": "TE",
+     "rem": 8.95,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 8.95,
+     "live": 8.95
+    },
+    {
+     "player": "Colts",
+     "pos": "DEF",
+     "slot": "DEF",
+     "rem": 6.17,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 6.17,
+     "live": 6.17
+    },
+    {
+     "player": "N. Harris",
+     "pos": "RB",
+     "slot": "RB",
+     "rem": 3.84,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 3.84,
+     "live": 3.84
+    }
+   ]
+  },
+  {
+   "id": "2v6",
+   "left": "BDSM AI Stealth Founder",
+   "leftRec": "2-3",
+   "right": "MELONHEADS (daniel)",
+   "rightRec": "2-3",
+   "leftScore": 0.0,
+   "leftProj": 109.05,
+   "rightScore": 0.0,
+   "rightProj": 77.85,
+   "leftPct": 75,
+   "leftRem": 8,
+   "rightRem": 6,
+   "shotgun": [
+    {
+     "player": "J. Daniels",
+     "pos": "QB",
+     "team": "Was",
+     "pts": 0.0,
+     "game": "Bye",
+     "tag": null,
+     "state": "bye",
+     "slot": "QB",
+     "manager": "MELONHEADS (daniel)",
+     "locked": false
+    },
+    {
+     "player": "K. Mitchell",
+     "pos": "RB",
+     "team": "LAC",
+     "pts": 0.0,
+     "game": "Bye",
+     "tag": null,
+     "state": "bye",
+     "slot": "RB",
+     "manager": "BDSM AI Stealth Founder",
+     "locked": false
+    },
+    {
+     "player": "D. Kincaid",
+     "pos": "TE",
+     "team": "Buf",
+     "pts": 0.0,
+     "game": "Bye",
+     "tag": null,
+     "state": "bye",
+     "slot": "TE",
+     "manager": "MELONHEADS (daniel)",
+     "locked": false
+    },
+    {
+     "player": "T. Bass",
+     "pos": "K",
+     "team": "Buf",
+     "pts": 0.0,
+     "game": "Bye",
+     "tag": null,
+     "state": "bye",
+     "slot": "K",
+     "manager": "MELONHEADS (daniel)",
+     "locked": false
+    }
+   ],
+   "leftActive": [
+    {
+     "player": "D. Maye",
+     "pos": "QB",
+     "slot": "QB",
+     "rem": 24.13,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 24.13,
+     "live": 24.13
+    },
+    {
+     "player": "D. Henry",
+     "pos": "RB",
+     "slot": "RB",
+     "rem": 19.67,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 19.67,
+     "live": 19.67
+    },
+    {
+     "player": "C. Watson",
+     "pos": "WR",
+     "slot": "W/R/T",
+     "rem": 16.97,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 16.97,
+     "live": 16.97
+    },
+    {
+     "player": "M. Wilson",
+     "pos": "WR",
+     "slot": "WR",
+     "rem": 12.48,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 12.48,
+     "live": 12.48
+    },
+    {
+     "player": "J. Waddle",
+     "pos": "WR",
+     "slot": "WR",
+     "rem": 12.02,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 12.02,
+     "live": 12.02
+    },
+    {
+     "player": "I. Likely",
+     "pos": "TE",
+     "slot": "TE",
+     "rem": 10.46,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 10.46,
+     "live": 10.46
+    },
+    {
+     "player": "D. Zvada",
+     "pos": "K",
+     "slot": "K",
+     "rem": 7.69,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 7.69,
+     "live": 7.69
+    },
+    {
+     "player": "49ers",
+     "pos": "DEF",
+     "slot": "DEF",
+     "rem": 5.63,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 5.63,
+     "live": 5.63
+    }
+   ],
+   "rightActive": [
+    {
+     "player": "B. Robinson",
+     "pos": "RB",
+     "slot": "RB",
+     "rem": 22.62,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 22.62,
+     "live": 22.62
+    },
+    {
+     "player": "G. Kittle",
+     "pos": "TE",
+     "slot": "W/R/T",
+     "rem": 14.26,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 14.26,
+     "live": 14.26
+    },
+    {
+     "player": "D. Smith",
+     "pos": "WR",
+     "slot": "WR",
+     "rem": 12.86,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 12.86,
+     "live": 12.86
+    },
+    {
+     "player": "G. Pickens",
+     "pos": "WR",
+     "slot": "WR",
+     "rem": 12.7,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 12.7,
+     "live": 12.7
+    },
+    {
+     "player": "C. Skattebo",
+     "pos": "RB",
+     "slot": "RB",
+     "rem": 8.43,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 8.43,
+     "live": 8.43
+    },
+    {
+     "player": "Panthers",
+     "pos": "DEF",
+     "slot": "DEF",
+     "rem": 6.98,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 6.98,
+     "live": 6.98
+    }
+   ]
+  },
+  {
+   "id": "3v9",
+   "left": "Robotripping Gardener",
+   "leftRec": "5-0",
+   "right": "Sir this is a FF league",
+   "rightRec": "2-3",
+   "leftScore": 0.0,
+   "leftProj": 136.54,
+   "rightScore": 0.0,
+   "rightProj": 79.16,
+   "leftPct": 90,
+   "leftRem": 9,
+   "rightRem": 7,
+   "shotgun": [
+    {
+     "player": "J. Cook III",
+     "pos": "RB",
+     "team": "Buf",
+     "pts": 0.0,
+     "game": "Bye",
+     "tag": null,
+     "state": "bye",
+     "slot": "RB",
+     "manager": "Sir this is a FF league",
+     "locked": false
+    },
+    {
+     "player": "J. Meyers",
+     "pos": "WR",
+     "team": "Jax",
+     "pts": 0.0,
+     "game": "Bye",
+     "tag": null,
+     "state": "bye",
+     "slot": "WR",
+     "manager": "Sir this is a FF league",
+     "locked": false
+    }
+   ],
+   "leftActive": [
+    {
+     "player": "J. Gibbs",
+     "pos": "RB",
+     "slot": "W/R/T",
+     "rem": 26.29,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 26.29,
+     "live": 26.29
+    },
+    {
+     "player": "K. Williams",
+     "pos": "RB",
+     "slot": "RB",
+     "rem": 20.92,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 20.92,
+     "live": 20.92
+    },
+    {
+     "player": "P. Mahomes",
+     "pos": "QB",
+     "slot": "QB",
+     "rem": 18.89,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 18.89,
+     "live": 18.89
+    },
+    {
+     "player": "D. Swift",
+     "pos": "RB",
+     "slot": "RB",
+     "rem": 14.75,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 14.75,
+     "live": 14.75
+    },
+    {
+     "player": "T. McBride",
+     "pos": "TE",
+     "slot": "TE",
+     "rem": 14.58,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 14.58,
+     "live": 14.58
+    },
+    {
+     "player": "T. McMillan",
+     "pos": "WR",
+     "slot": "WR",
+     "rem": 14.41,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 14.41,
+     "live": 14.41
+    },
+    {
+     "player": "D. Boston",
+     "pos": "WR",
+     "slot": "WR",
+     "rem": 10.68,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 10.68,
+     "live": 10.68
+    },
+    {
+     "player": "W. Reichard",
+     "pos": "K",
+     "slot": "K",
+     "rem": 10.21,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 10.21,
+     "live": 10.21
+    },
+    {
+     "player": "Patriots",
+     "pos": "DEF",
+     "slot": "DEF",
+     "rem": 5.81,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 5.81,
+     "live": 5.81
+    }
+   ],
+   "rightActive": [
+    {
+     "player": "J. Love",
+     "pos": "QB",
+     "slot": "QB",
+     "rem": 22.88,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 22.88,
+     "live": 22.88
+    },
+    {
+     "player": "R. Stevenson",
+     "pos": "RB",
+     "slot": "RB",
+     "rem": 14.29,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 14.29,
+     "live": 14.29
+    },
+    {
+     "player": "E. Pineiro",
+     "pos": "K",
+     "slot": "K",
+     "rem": 9.89,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 9.89,
+     "live": 9.89
+    },
+    {
+     "player": "Broncos",
+     "pos": "DEF",
+     "slot": "DEF",
+     "rem": 8.76,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 8.76,
+     "live": 8.76
+    },
+    {
+     "player": "W. Robinson",
+     "pos": "WR",
+     "slot": "WR",
+     "rem": 8.26,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 8.26,
+     "live": 8.26
+    },
+    {
+     "player": "H. Henry",
+     "pos": "TE",
+     "slot": "TE",
+     "rem": 7.66,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 7.66,
+     "live": 7.66
+    },
+    {
+     "player": "B. Allen",
+     "pos": "RB",
+     "slot": "W/R/T",
+     "rem": 7.42,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 7.42,
+     "live": 7.42
+    }
+   ]
+  },
+  {
+   "id": "4v10",
+   "left": "Rub a dub lost the Chubb",
+   "leftRec": "2-3",
+   "right": "RosterMogged",
+   "rightRec": "2-3",
+   "leftScore": 0.0,
+   "leftProj": 86.43,
+   "rightScore": 0.0,
+   "rightProj": 74.89,
+   "leftPct": 63,
+   "leftRem": 7,
+   "rightRem": 7,
+   "shotgun": [
+    {
+     "player": "O. Hampton",
+     "pos": "RB",
+     "team": "LAC",
+     "pts": 0.0,
+     "game": "Bye",
+     "tag": null,
+     "state": "bye",
+     "slot": "RB",
+     "manager": "RosterMogged",
+     "locked": false
+    },
+    {
+     "player": "P. Washington",
+     "pos": "WR",
+     "team": "Jax",
+     "pts": 0.0,
+     "game": "Bye",
+     "tag": null,
+     "state": "bye",
+     "slot": "WR",
+     "manager": "Rub a dub lost the Chubb",
+     "locked": false
+    },
+    {
+     "player": "B. Strange",
+     "pos": "TE",
+     "team": "Jax",
+     "pts": 0.0,
+     "game": "Bye",
+     "tag": null,
+     "state": "bye",
+     "slot": "TE",
+     "manager": "RosterMogged",
+     "locked": false
+    },
+    {
+     "player": "C. Little",
+     "pos": "K",
+     "team": "Jax",
+     "pts": 0.0,
+     "game": "Bye",
+     "tag": null,
+     "state": "bye",
+     "slot": "K",
+     "manager": "Rub a dub lost the Chubb",
+     "locked": false
+    }
+   ],
+   "leftActive": [
+    {
+     "player": "A. Rodgers",
+     "pos": "QB",
+     "slot": "QB",
+     "rem": 20.09,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 20.09,
+     "live": 20.09
+    },
+    {
+     "player": "J. Williams",
+     "pos": "RB",
+     "slot": "RB",
+     "rem": 16.28,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 16.28,
+     "live": 16.28
+    },
+    {
+     "player": "A. Jeanty",
+     "pos": "RB",
+     "slot": "RB",
+     "rem": 15.51,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 15.51,
+     "live": 15.51
+    },
+    {
+     "player": "P. Freiermuth",
+     "pos": "TE",
+     "slot": "TE",
+     "rem": 9.34,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 9.34,
+     "live": 9.34
+    },
+    {
+     "player": "J. Downs",
+     "pos": "WR",
+     "slot": "WR",
+     "rem": 9.1,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 9.1,
+     "live": 9.1
+    },
+    {
+     "player": "M. Lloyd",
+     "pos": "RB",
+     "slot": "W/R/T",
+     "rem": 9.02,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 9.02,
+     "live": 9.02
+    },
+    {
+     "player": "Seahawks",
+     "pos": "DEF",
+     "slot": "DEF",
+     "rem": 7.09,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 7.09,
+     "live": 7.09
+    }
+   ],
+   "rightActive": [
+    {
+     "player": "B. Purdy",
+     "pos": "QB",
+     "slot": "QB",
+     "rem": 22.35,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 22.35,
+     "live": 22.35
+    },
+    {
+     "player": "K. Walker III",
+     "pos": "RB",
+     "slot": "RB",
+     "rem": 19.24,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 19.24,
+     "live": 19.24
+    },
+    {
+     "player": "G. Bernard",
+     "pos": "WR",
+     "slot": "W/R/T",
+     "rem": 10.47,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 10.47,
+     "live": 10.47
+    },
+    {
+     "player": "X. Worthy",
+     "pos": "WR",
+     "slot": "WR",
+     "rem": 8.26,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 8.26,
+     "live": 8.26
+    },
+    {
+     "player": "Chiefs",
+     "pos": "DEF",
+     "slot": "DEF",
+     "rem": 5.83,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 5.83,
+     "live": 5.83
+    },
+    {
+     "player": "B. Grupe",
+     "pos": "K",
+     "slot": "K",
+     "rem": 4.63,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 4.63,
+     "live": 4.63
+    },
+    {
+     "player": "D. Adams",
+     "pos": "WR",
+     "slot": "WR",
+     "rem": 4.11,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 4.11,
+     "live": 4.11
+    }
+   ]
+  },
+  {
+   "id": "5v7",
+   "left": "Tuten Brown",
+   "leftRec": "3-2",
+   "right": "James Ray Ervin Yonts",
+   "rightRec": "3-2",
+   "leftScore": 0.0,
+   "leftProj": 101.07,
+   "rightScore": 0.0,
+   "rightProj": 136.7,
+   "leftPct": 24,
+   "leftRem": 9,
+   "rightRem": 9,
+   "shotgun": [],
+   "leftActive": [
+    {
+     "player": "J. Brissett",
+     "pos": "QB",
+     "slot": "QB",
+     "rem": 18.98,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 18.98,
+     "live": 18.98
+    },
+    {
+     "player": "J. Taylor",
+     "pos": "RB",
+     "slot": "RB",
+     "rem": 16.66,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 16.66,
+     "live": 16.66
+    },
+    {
+     "player": "A.J. Brown",
+     "pos": "WR",
+     "slot": "WR",
+     "rem": 12.0,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 12.0,
+     "live": 12.0
+    },
+    {
+     "player": "W. Marks",
+     "pos": "RB",
+     "slot": "RB",
+     "rem": 11.77,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 11.77,
+     "live": 11.77
+    },
+    {
+     "player": "T. Kraft",
+     "pos": "TE",
+     "slot": "TE",
+     "rem": 11.26,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 11.26,
+     "live": 11.26
+    },
+    {
+     "player": "B. Aubrey",
+     "pos": "K",
+     "slot": "K",
+     "rem": 9.83,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 9.83,
+     "live": 9.83
+    },
+    {
+     "player": "Vikings",
+     "pos": "DEF",
+     "slot": "DEF",
+     "rem": 8.78,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 8.78,
+     "live": 8.78
+    },
+    {
+     "player": "K. Bourne",
+     "pos": "WR",
+     "slot": "WR",
+     "rem": 7.17,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 7.17,
+     "live": 7.17
+    },
+    {
+     "player": "R. Doubs",
+     "pos": "WR",
+     "slot": "W/R/T",
+     "rem": 4.62,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 4.62,
+     "live": 4.62
+    }
+   ],
+   "rightActive": [
+    {
+     "player": "P. Nacua",
+     "pos": "WR",
+     "slot": "W/R/T",
+     "rem": 22.86,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 22.86,
+     "live": 22.86
+    },
+    {
+     "player": "D. Prescott",
+     "pos": "QB",
+     "slot": "QB",
+     "rem": 20.6,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 20.6,
+     "live": 20.6
+    },
+    {
+     "player": "J. Warren",
+     "pos": "RB",
+     "slot": "RB",
+     "rem": 18.0,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 18.0,
+     "live": 18.0
+    },
+    {
+     "player": "D. London",
+     "pos": "WR",
+     "slot": "WR",
+     "rem": 16.74,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 16.74,
+     "live": 16.74
+    },
+    {
+     "player": "C. Lamb",
+     "pos": "WR",
+     "slot": "WR",
+     "rem": 16.7,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 16.7,
+     "live": 16.7
+    },
+    {
+     "player": "B. Irving",
+     "pos": "RB",
+     "slot": "RB",
+     "rem": 15.86,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 15.86,
+     "live": 15.86
+    },
+    {
+     "player": "K. Fairbairn",
+     "pos": "K",
+     "slot": "K",
+     "rem": 10.1,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 10.1,
+     "live": 10.1
+    },
+    {
+     "player": "T. Kelce",
+     "pos": "TE",
+     "slot": "TE",
+     "rem": 9.7,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 9.7,
+     "live": 9.7
+    },
+    {
+     "player": "Rams",
+     "pos": "DEF",
+     "slot": "DEF",
+     "rem": 6.14,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 6.14,
+     "live": 6.14
+    }
+   ]
+  },
+  {
+   "id": "8v12",
+   "left": "Alex Michael Pagels",
+   "leftRec": "0-5",
+   "right": "Kiwis are better than mid",
+   "rightRec": "3-2",
+   "leftScore": 0.0,
+   "leftProj": 116.06,
+   "rightScore": 0.0,
+   "rightProj": 94.1,
+   "leftPct": 68,
+   "leftRem": 9,
+   "rightRem": 8,
+   "shotgun": [
+    {
+     "player": "J. Allen",
+     "pos": "QB",
+     "team": "Buf",
+     "pts": 0.0,
+     "game": "Bye",
+     "tag": null,
+     "state": "bye",
+     "slot": "QB",
+     "manager": "Kiwis are better than mid",
+     "locked": false
+    }
+   ],
+   "leftActive": [
+    {
+     "player": "J. Burrow",
+     "pos": "QB",
+     "slot": "QB",
+     "rem": 22.25,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 22.25,
+     "live": 22.25
+    },
+    {
+     "player": "C. Olave",
+     "pos": "WR",
+     "slot": "WR",
+     "rem": 16.3,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 16.3,
+     "live": 16.3
+    },
+    {
+     "player": "T. Higgins",
+     "pos": "WR",
+     "slot": "W/R/T",
+     "rem": 14.2,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 14.2,
+     "live": 14.2
+    },
+    {
+     "player": "S. Barkley",
+     "pos": "RB",
+     "slot": "RB",
+     "rem": 13.49,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 13.49,
+     "live": 13.49
+    },
+    {
+     "player": "J. Jacobs",
+     "pos": "RB",
+     "slot": "RB",
+     "rem": 13.14,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 13.14,
+     "live": 13.14
+    },
+    {
+     "player": "M. Nabers",
+     "pos": "WR",
+     "slot": "WR",
+     "rem": 12.2,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 12.2,
+     "live": 12.2
+    },
+    {
+     "player": "D. Goedert",
+     "pos": "TE",
+     "slot": "TE",
+     "rem": 10.01,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 10.01,
+     "live": 10.01
+    },
+    {
+     "player": "C. Boswell",
+     "pos": "K",
+     "slot": "K",
+     "rem": 9.53,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 9.53,
+     "live": 9.53
+    },
+    {
+     "player": "Ravens",
+     "pos": "DEF",
+     "slot": "DEF",
+     "rem": 4.94,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 4.94,
+     "live": 4.94
+    }
+   ],
+   "rightActive": [
+    {
+     "player": "C. McCaffrey",
+     "pos": "RB",
+     "slot": "RB",
+     "rem": 19.87,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 19.87,
+     "live": 19.87
+    },
+    {
+     "player": "B. Bowers",
+     "pos": "TE",
+     "slot": "TE",
+     "rem": 14.79,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 14.79,
+     "live": 14.79
+    },
+    {
+     "player": "G. Wilson",
+     "pos": "WR",
+     "slot": "WR",
+     "rem": 14.25,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 14.25,
+     "live": 14.25
+    },
+    {
+     "player": "DK Metcalf",
+     "pos": "WR",
+     "slot": "WR",
+     "rem": 12.25,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 12.25,
+     "live": 12.25
+    },
+    {
+     "player": "C. Tate",
+     "pos": "WR",
+     "slot": "W/R/T",
+     "rem": 9.95,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 9.95,
+     "live": 9.95
+    },
+    {
+     "player": "W. Lutz",
+     "pos": "K",
+     "slot": "K",
+     "rem": 9.19,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 9.19,
+     "live": 9.19
+    },
+    {
+     "player": "A. Kamara",
+     "pos": "RB",
+     "slot": "RB",
+     "rem": 7.96,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 7.96,
+     "live": 7.96
+    },
+    {
+     "player": "Eagles",
+     "pos": "DEF",
+     "slot": "DEF",
+     "rem": 5.84,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 5.84,
+     "live": 5.84
+    }
+   ]
+  }
+ ]
+}
