@@ -184425,6 +184425,207 @@
      "rightRem": 1
     }
    ]
+  },
+  {
+   "ts": "2026-10-20T01:02:03+00:00",
+   "week": 6,
+   "matchups": [
+    {
+     "id": "1v2",
+     "left": "Silly Shrek Squad",
+     "leftRec": "3-2",
+     "right": "BDSM AI Stealth Founder",
+     "rightRec": "2-3",
+     "leftScore": 108.73,
+     "leftProj": 108.73,
+     "rightScore": 97.65,
+     "rightProj": 92.34,
+     "shotgun": [
+      {
+       "player": "Texans",
+       "pos": "DEF",
+       "team": "Hou",
+       "pts": -2.75,
+       "game": "Final (W) 34-31 @ JAX",
+       "tag": null,
+       "state": "final",
+       "slot": "DEF",
+       "manager": "Silly Shrek Squad",
+       "locked": true
+      }
+     ],
+     "leftActive": [],
+     "rightActive": [],
+     "leftPct": 99,
+     "leftRem": 0,
+     "rightRem": 1
+    },
+    {
+     "id": "3v6",
+     "left": "Robotripping Gardener",
+     "leftRec": "5-0",
+     "right": "MELONHEADS (daniel)",
+     "rightRec": "2-3",
+     "leftScore": 96.23,
+     "leftProj": 107.8,
+     "rightScore": 87.47,
+     "rightProj": 114.15,
+     "shotgun": [
+      {
+       "player": "C. Skattebo",
+       "pos": "RB",
+       "team": "NYG",
+       "pts": 0.0,
+       "game": "Final (L) 27-34 vs NO",
+       "tag": null,
+       "state": "final",
+       "slot": "RB",
+       "manager": "MELONHEADS (daniel)",
+       "locked": true
+      }
+     ],
+     "leftActive": [
+      {
+       "player": "M. Evans",
+       "pos": "WR",
+       "slot": "W/R/T",
+       "rem": 11.42,
+       "state": "live",
+       "pts": 9.8,
+       "proj": 15.42,
+       "live": 21.22
+      }
+     ],
+     "rightActive": [
+      {
+       "player": "J. Daniels",
+       "pos": "QB",
+       "slot": "QB",
+       "rem": 16.01,
+       "state": "live",
+       "pts": 3.62,
+       "proj": 21.63,
+       "live": 19.63
+      },
+      {
+       "player": "G. Kittle",
+       "pos": "TE",
+       "slot": "W/R/T",
+       "rem": 10.32,
+       "state": "live",
+       "pts": 10.5,
+       "proj": 13.94,
+       "live": 20.82
+      }
+     ],
+     "leftPct": 38,
+     "leftRem": 1,
+     "rightRem": 2
+    },
+    {
+     "id": "4v8",
+     "left": "Rub a dub lost the Chubb",
+     "leftRec": "2-3",
+     "right": "Alex Michael Pagels",
+     "rightRec": "0-5",
+     "leftScore": 89.67,
+     "leftProj": 89.67,
+     "rightScore": 135.22,
+     "rightProj": 135.22,
+     "shotgun": [],
+     "leftActive": [],
+     "rightActive": [],
+     "stale": true,
+     "leftPct": 0,
+     "leftRem": 0,
+     "rightRem": 0
+    },
+    {
+     "id": "5v11",
+     "left": "Tuten Brown",
+     "leftRec": "3-2",
+     "right": "Zen Buddha Boys 🪷💨",
+     "rightRec": "3-2",
+     "leftScore": 127.19,
+     "leftProj": 127.19,
+     "rightScore": 102.6,
+     "rightProj": 102.6,
+     "shotgun": [],
+     "leftActive": [],
+     "rightActive": [],
+     "stale": true,
+     "leftPct": 100,
+     "leftRem": 0,
+     "rightRem": 0
+    },
+    {
+     "id": "7v10",
+     "left": "James Ray Ervin Yonts",
+     "leftRec": "3-2",
+     "right": "RosterMogged",
+     "rightRec": "2-3",
+     "leftScore": 96.37,
+     "leftProj": 96.37,
+     "rightScore": 121.44,
+     "rightProj": 139.61,
+     "shotgun": [],
+     "leftActive": [],
+     "rightActive": [
+      {
+       "player": "B. Purdy",
+       "pos": "QB",
+       "slot": "QB",
+       "rem": 17.65,
+       "state": "live",
+       "pts": 10.44,
+       "proj": 24.23,
+       "live": 28.09
+      }
+     ],
+     "leftPct": 1,
+     "leftRem": 0,
+     "rightRem": 1
+    },
+    {
+     "id": "9v12",
+     "left": "Sir this is a FF league",
+     "leftRec": "2-3",
+     "right": "Kiwis are better than mid",
+     "rightRec": "3-2",
+     "leftScore": 115.99,
+     "leftProj": 123.51,
+     "rightScore": 109.5,
+     "rightProj": 125.01,
+     "shotgun": [],
+     "leftActive": [
+      {
+       "player": "E. Pineiro",
+       "pos": "K",
+       "slot": "K",
+       "rem": 7.3,
+       "state": "live",
+       "pts": 1.0,
+       "proj": 10.02,
+       "live": 8.3
+      }
+     ],
+     "rightActive": [
+      {
+       "player": "C. McCaffrey",
+       "pos": "RB",
+       "slot": "RB",
+       "rem": 15.07,
+       "state": "live",
+       "pts": 11.6,
+       "proj": 20.68,
+       "live": 26.67
+      }
+     ],
+     "leftPct": 47,
+     "leftRem": 1,
+     "rightRem": 1
+    }
+   ]
   }
  ],
  "segments": [
