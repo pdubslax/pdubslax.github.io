@@ -130,14 +130,15 @@ function show(hist, nxt, sha){ latest = {hist, nxt, sha: sha || (latest && lates
 async function renderView(){
   if (!latest) return;
   const {hist, nxt, sha} = latest;
+  const lastS = hist.samples && hist.samples[hist.samples.length-1];
+  const allDone = lastS && lastS.matchups.every(decidedOf);
+  if (viewWeek && viewWeek === hist.week) { renderOnce(hist, allDone ? 'past' : 'live', hist.week); return; }
   if (viewWeek && viewWeek !== hist.week) {
     let past = pastCache[viewWeek];
     if (!past && sha) { try { past = await fetchJson('https://cdn.jsdelivr.net/gh/' + REPO + '@' + sha + '/data/odds/week' + viewWeek + '.json'); pastCache[viewWeek] = past; } catch(e) {} }
     if (past) { renderOnce(past, 'past', hist.week); return; }
     viewWeek = null; history.replaceState(null, '', location.pathname);
   }
-  const lastS = hist.samples && hist.samples[hist.samples.length-1];
-  const allDone = lastS && lastS.matchups.every(decidedOf);
   if (allDone && nxt && nxt.week > hist.week && (nxt.matchups||[]).length) {
     const shift = 7*86400000, mv = s => new Date(new Date(s).getTime() + shift).toISOString();
     const up = {week: nxt.week, samples: [{ts: nxt.ts, week: nxt.week, matchups: nxt.matchups}],
