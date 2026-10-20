@@ -257,6 +257,15 @@ grid.addEventListener('pointermove', e => {
 });
 grid.addEventListener('pointerout', e => { const c = e.target.closest('.chart'); if (c && !(e.relatedTarget && c.contains(e.relatedTarget))) hideHover(c); });
 load(); setInterval(load, 75000); // 48 API calls per hour per viewer, under GitHub's 60 limit
+// Reload when a newer build of this page is published, so open tabs never run stale code.
+const BUILD = '{{ site.time | date: "%s" }}';
+setInterval(async () => {
+  try {
+    const r = await fetch(location.pathname, {cache:'no-store'}); if (!r.ok) return;
+    const m = (await r.text()).match(/const BUILD = '(\d+)'/);
+    if (m && m[1] !== BUILD) location.reload();
+  } catch(e) {}
+}, 5*60000);
 </script>
 
 </body>
