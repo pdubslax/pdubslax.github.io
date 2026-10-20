@@ -100,7 +100,7 @@ def active_starters(rows, side, top=9):
         orig_proj = float(nums[0]) if nums else 0.0
         live_proj = float(nums[-1]) if nums else 0.0
         remaining = live_proj if d["state"] == "pending" else max(live_proj - d["pts"], 0.0)
-        if remaining <= 0: continue
+        if remaining <= 0 and d["state"] != "live": continue   # a live player always shows, even when Yahoo projects nothing more from him
         out.append(dict(player=d["player"], pos=d["pos"], slot=r["slot"], rem=round(remaining, 2), state=d["state"],
                         pts=d["pts"], proj=orig_proj, live=live_proj))
     out.sort(key=lambda x: -x["rem"])
