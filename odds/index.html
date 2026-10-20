@@ -179,7 +179,7 @@ function render(hist){
   function spark(vals, id){
     const W=320,H=110,pl=6,pr=6,pt=8,pb=20; const x=t=> pl+(W-pl-pr)*frac(t); const y=v=> pt+(H-pt-pb)*(1-v/100);
     // Smooth: centered rolling average over 5 samples, endpoint pinned to the latest real value, drawn as a monotone curve.
-    const pts = []; vals.forEach((v,i)=>{ if(v==null) return; const q = {t:tsList[i], v, px:x(tsList[i])}; if (pts.length && Math.abs(pts[pts.length-1].px - q.px) < 0.6) pts[pts.length-1] = q; else pts.push(q); });
+    const pts = []; vals.forEach((v,i)=>{ if(v==null) return; const q = {t:tsList[i], v, px:x(tsList[i])}; if (pts.length && Math.abs(pts[pts.length-1].px - q.px) < 0.01) pts[pts.length-1] = q; else pts.push(q); });  // only samples clamped to the same band edge merge
     const sm = pts.map((p,i)=>{ if(i===pts.length-1) return p.v; const lo=Math.max(0,i-2), hi=Math.min(pts.length-1,i+2); let s=0,c=0; for(let k=lo;k<=hi;k++){ s+=pts[k].v; c++; } return s/c; });
     const P = pts.map((p,i)=>({x:x(p.t), y:y(sm[i])}));
     if (id) HOVER[id] = {W, xs: pts.map(p=>x(p.t)), ts: pts.map(p=>p.t), vals: pts.map(p=>p.v)};
