@@ -108,7 +108,7 @@ def active_starters(rows, side, top=9):
         remaining = live_proj if d["state"] == "pending" else max(live_proj - d["pts"], 0.0)
         if remaining <= 0 and d["state"] != "live": continue   # a live player always shows, even when Yahoo projects nothing more from him
         out.append(dict(player=d["player"], pos=d["pos"], slot=r["slot"], rem=round(remaining, 2), state=d["state"],
-                        pts=d["pts"], proj=orig_proj, live=live_proj))
+                        pts=d["pts"], proj=orig_proj, live=live_proj, game=d["game"]))
     out.sort(key=lambda x: -x["rem"])
     return out[:top]
 
@@ -150,13 +150,15 @@ async def odds_for(page, week, mid):
     pct = int(m.group(m.lastindex)) if m else None
     return pct, rem, body, rows
 
+PREVIEW_V = 2  # bump to force a refresh of next.json after a format change
+
 async def preview_next(out_dir, nweek, max_age_min=20):
     """Snapshot next week's matchups (odds, projections, starters) so the page can stage the upcoming slate. Refreshed at most every max_age_min."""
     path = os.path.join(out_dir, "next.json")
     try:
         old = json.load(open(path))
         age = (datetime.datetime.now(datetime.timezone.utc) - datetime.datetime.fromisoformat(old["ts"])).total_seconds() / 60
-        if old.get("week") == nweek and age < max_age_min: return
+        if old.get("week") == nweek and old.get("v") == PREVIEW_V and age < max_age_min: return
     except Exception:
         pass
     try:
@@ -178,7 +180,7 @@ async def preview_next(out_dir, nweek, max_age_min=20):
                 row["shotgun"] = shotgun_entries(rows_, row["left"], row["right"])
                 row["leftActive"] = active_starters(rows_, "L"); row["rightActive"] = active_starters(rows_, "R")
         await browser.close()
-    json.dump(dict(week=nweek, ts=datetime.datetime.now(datetime.timezone.utc).isoformat(timespec="seconds"), matchups=rows), open(path, "w"), ensure_ascii=False, indent=1)
+    json.dump(dict(v=PREVIEW_V, week=nweek, ts=datetime.datetime.now(datetime.timezone.utc).isoformat(timespec="seconds"), matchups=rows), open(path, "w"), ensure_ascii=False, indent=1)
     print(f"next week {nweek}: {len(rows)} matchups previewed")
 
 async def main(out_dir):
