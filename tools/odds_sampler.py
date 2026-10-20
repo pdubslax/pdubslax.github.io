@@ -25,11 +25,17 @@ def week_meta(week):
     return ({"segments": [dict(label=l, start=a.isoformat(), end=b.isoformat(), w=w) for l, a, b, w in segs],
              "ticks": [dict(at=sun.replace(hour=16, minute=5).isoformat()), dict(at=sun.replace(hour=20, minute=20).isoformat())]})
 
-def scoreboard():
+def current_week():
     rz = json.loads(get(f"https://pub-api.fantasysports.yahoo.com/fantasy/v3/redzone/nfl?league_id={LEAGUE}&format=json"))
-    L = rz["service"]["leagues"][str(LEAGUE)]; week = int(L["weekInfo"]["week"])
-    pairs = [tuple(p) for p in L["matchupGroups"][0]["matchups"]]
-    t = text(get(f"{BASE}?matchup_week={week}&module=matchups&lhst=matchups"))
+    return int(rz["service"]["leagues"][str(LEAGUE)]["weekInfo"]["week"])
+
+def scoreboard(week=None):
+    week = week or current_week()
+    raw = get(f"{BASE}?matchup_week={week}&module=matchups&lhst=matchups")
+    pairs = []
+    for a, b in re.findall(rf"/f1/{LEAGUE}/matchup\?week={week}&(?:amp;)?mid1=(\d+)&(?:amp;)?mid2=(\d+)", raw):
+        if (int(a), int(b)) not in pairs: pairs.append((int(a), int(b)))
+    t = text(raw)
     i = t.find(f"Week {week} Matchups"); j = t.find("Standings", i)
     rows = []
     rx = r"View Matchup (.*?) (\d+)-(\d+)-\d+ \| \w+ ([\d.]+) ([\d.]+) vs ([\d.]+) ([\d.]+) (.*?) (\d+)-(\d+)-\d+ \|"
@@ -144,8 +150,40 @@ async def odds_for(page, week, mid):
     pct = int(m.group(m.lastindex)) if m else None
     return pct, rem, body, rows
 
+async def preview_next(out_dir, nweek, max_age_min=20):
+    """Snapshot next week's matchups (odds, projections, starters) so the page can stage the upcoming slate. Refreshed at most every max_age_min."""
+    path = os.path.join(out_dir, "next.json")
+    try:
+        old = json.load(open(path))
+        age = (datetime.datetime.now(datetime.timezone.utc) - datetime.datetime.fromisoformat(old["ts"])).total_seconds() / 60
+        if old.get("week") == nweek and age < max_age_min: return
+    except Exception:
+        pass
+    try:
+        _, rows = scoreboard(nweek)
+    except Exception as e:
+        print("next-week scoreboard failed:", e, file=sys.stderr); return
+    if not rows: print("no matchups listed yet for week", nweek, file=sys.stderr); return
+    async with async_playwright() as p:
+        browser = await p.chromium.launch()
+        ctx = await browser.new_context(user_agent=UA, viewport={"width": 1280, "height": 900})
+        page = await ctx.new_page()
+        for row in rows:
+            try:
+                pct, rem, body, rows_ = await odds_for(page, nweek, row["id"])
+            except Exception as e:
+                print("next-week matchup failed:", row["id"], e, file=sys.stderr); continue
+            row.update(leftPct=pct, leftRem=rem[0] if rem else None, rightRem=rem[1] if rem else None)
+            if rows_:
+                row["shotgun"] = shotgun_entries(rows_, row["left"], row["right"])
+                row["leftActive"] = active_starters(rows_, "L"); row["rightActive"] = active_starters(rows_, "R")
+        await browser.close()
+    json.dump(dict(week=nweek, ts=datetime.datetime.now(datetime.timezone.utc).isoformat(timespec="seconds"), matchups=rows), open(path, "w"), ensure_ascii=False, indent=1)
+    print(f"next week {nweek}: {len(rows)} matchups previewed")
+
 async def main(out_dir):
     week, rows = scoreboard()
+    await preview_next(out_dir, week + 1)
     meta = week_meta(week)
     os.makedirs(out_dir, exist_ok=True)
     path = os.path.join(out_dir, f"week{week}.json")
