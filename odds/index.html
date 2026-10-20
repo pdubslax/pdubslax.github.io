@@ -98,10 +98,8 @@ footer{font-size:12.5px;color:var(--muted);border-top:1px solid var(--line);padd
 .shot .pts{font-family:var(--mono);font-size:13px;font-variant-numeric:tabular-nums}
 .chip.risk{background:var(--risk-soft);color:var(--risk)} .chip.beer{background:var(--lock-soft);color:var(--lock)}
 .shot .none{color:var(--muted);font-size:14px}
-.next ul{grid-template-columns:repeat(auto-fill,minmax(400px,1fr))}
-.next .tnf{display:block;font-size:12.5px;color:var(--muted);margin-top:2px}
-.next .tnf b{color:var(--ink);font-weight:500}
-.next .tnf span{margin-right:12px}
+.meta .crumbs a{color:var(--fav);text-decoration:none;font-weight:500}
+.meta .crumbs a:hover{text-decoration:underline}
 @media (max-width:1000px){.grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media (max-width:680px){.grid{grid-template-columns:1fr}.meta{text-align:left}}
 </style>
@@ -115,7 +113,6 @@ footer{font-size:12.5px;color:var(--muted);border-top:1px solid var(--line);padd
   </header>
   <section class="shot" id="shot" aria-label="Punishment watch"></section>
   <section class="grid" id="grid" aria-label="Matchups"></section>
-  <section class="shot next" id="next" aria-label="Up next" hidden></section>
   <footer><span>Win odds and projections are Yahoo's, sampled about once a minute during game windows. This page refreshes itself.</span></footer>
 </div>
 <script>
@@ -123,8 +120,36 @@ const REPO = 'pdubslax/pdubslax.github.io', FILE = 'data/odds/current.json';
 const REF_URL = 'https://api.github.com/repos/' + REPO + '/commits/odds-data';
 const RAW_URL = 'https://raw.githubusercontent.com/' + REPO + '/odds-data/' + FILE;
 let lastSha = null, lastJson = null, apiBlockedUntil = 0;
+const FIRST_WEEK = 6;            // first week the sampler recorded
+let latest = null;               // {hist, nxt, sha} from the newest data commit
+let viewWeek = (location.hash.match(/^#week(\d+)$/)||[])[1] ? parseInt(RegExp.$1, 10) : null;  // a past week the viewer picked, else auto
+const pastCache = {};
 async function fetchJson(url){ const r = await fetch(url, {cache:'no-store'}); if(!r.ok) throw new Error('HTTP '+r.status); return r.json(); }
-function show(hist, nxt){ const txt = JSON.stringify([hist, nxt]); if (txt === lastJson) return; lastJson = txt; render(hist, nxt); }
+function show(hist, nxt, sha){ latest = {hist, nxt, sha: sha || (latest && latest.sha)}; renderView(); }
+// Decide what the board shows: a past week the viewer picked, the upcoming week once the current one is fully decided, or the live week.
+async function renderView(){
+  if (!latest) return;
+  const {hist, nxt, sha} = latest;
+  if (viewWeek && viewWeek !== hist.week) {
+    let past = pastCache[viewWeek];
+    if (!past && sha) { try { past = await fetchJson('https://cdn.jsdelivr.net/gh/' + REPO + '@' + sha + '/data/odds/week' + viewWeek + '.json'); pastCache[viewWeek] = past; } catch(e) {} }
+    if (past) { renderOnce(past, 'past', hist.week); return; }
+    viewWeek = null; history.replaceState(null, '', location.pathname);
+  }
+  const lastS = hist.samples && hist.samples[hist.samples.length-1];
+  const allDone = lastS && lastS.matchups.every(decidedOf);
+  if (allDone && nxt && nxt.week > hist.week && (nxt.matchups||[]).length) {
+    const shift = 7*86400000, mv = s => new Date(new Date(s).getTime() + shift).toISOString();
+    const up = {week: nxt.week, samples: [{ts: nxt.ts, week: nxt.week, matchups: nxt.matchups}],
+                segments: (hist.segments||[]).map(g => ({...g, start: mv(g.start), end: mv(g.end)})), ticks: (hist.ticks||[]).map(k => ({at: mv(k.at)}))};
+    renderOnce(up, 'upcoming', hist.week); return;
+  }
+  renderOnce(hist, 'live', hist.week);
+}
+function renderOnce(hist, mode, curWeek){ const txt = JSON.stringify([hist, mode, viewWeek]); if (txt === lastJson) return; lastJson = txt; render(hist, mode, curWeek); }
+function pickWeek(w){ viewWeek = w; lastJson = null; history.replaceState(null, '', w ? '#week' + w : location.pathname); renderView(); }
+const decidedOf = m => { const lp = m.leftPct; const leftAhead = m.leftScore > m.rightScore, rightAhead = m.rightScore > m.leftScore;
+  return (m.leftRem===0 && m.rightRem===0) || ((lp===100 || lp===0) && (m.leftRem===0 || m.rightRem===0)) || (lp>=99 && m.rightRem===0) || (lp<=1 && m.leftRem===0) || (leftAhead && m.rightRem===0) || (rightAhead && m.leftRem===0); };
 async function load(){
   try {
     if (Date.now() > apiBlockedUntil) {
@@ -137,12 +162,12 @@ async function load(){
         try { hist = await fetchJson('https://cdn.jsdelivr.net/gh/' + REPO + '@' + sha + '/' + FILE); }
         catch(e) { hist = await fetchJson('https://raw.githubusercontent.com/' + REPO + '/' + sha + '/' + FILE); }
         let nxt = null; try { nxt = await fetchJson('https://cdn.jsdelivr.net/gh/' + REPO + '@' + sha + '/data/odds/next.json'); } catch(e) {}
-        lastSha = sha; show(hist, nxt); return;
+        lastSha = sha; show(hist, nxt, sha); return;
       }
       if (r.status === 403 || r.status === 429) apiBlockedUntil = Date.now() + 10*60*1000;
     }
     // Fallback: the branch file through GitHub's CDN, which can lag up to 5 minutes.
-    show(await fetchJson(RAW_URL + '?t=' + Date.now()));
+    show(await fetchJson(RAW_URL + '?t=' + Date.now()), null, null);
   } catch(e){ const g=document.getElementById('grid'); if(!g.children.length) g.innerHTML='<div class="empty">No samples yet. The sampler runs about once a minute during game windows.</div>'; }
 }
 const LEAGUE = 932579;
@@ -155,13 +180,17 @@ const DAYS = {Thu:0,Fri:1,Sat:2,Sun:3,Mon:4,Tue:5,Wed:6};
 const dayOf = a => ((a.game||'').match(/^(Thu|Fri|Sat|Sun|Mon|Tue|Wed)/)||[])[1];
 // The next game day across a whole slate, so 'still to come' lists only the players in the next games (Thursday's starters, say).
 function nextDay(matchups){ const ds = matchups.flatMap(m => [...(m.leftActive||[]), ...(m.rightActive||[])]).filter(a => a.state==='pending').map(dayOf).filter(Boolean); if (!ds.length) return null; const first = Math.min(...ds.map(d => DAYS[d])); return Object.keys(DAYS).find(k => DAYS[k] === first); }
-function render(hist, nxt){
+function render(hist, mode, curWeek){
   if(!hist.samples || !hist.samples.length){ document.getElementById('grid').innerHTML='<div class="empty">No samples yet this week. The sampler runs about once a minute during game windows.</div>'; return; }
   const S = hist.samples; const last = S[S.length-1]; const first = S[0]; const prev = S.length>1 ? S[S.length-2] : null;
   const fmtT = ts => new Date(ts).toLocaleString(undefined,{weekday:'short',hour:'numeric',minute:'2-digit'});
   const ago = ts => { const m = Math.round((Date.now()-new Date(ts))/60000); return m<1?'just now':m<60?m+' min ago':Math.round(m/60)+' h ago'; };
   const esc = s => s.replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
-  document.getElementById('meta').innerHTML = `<span>Week <b>${hist.week}</b></span><span class="live"><i></i>last sample <b>${esc(fmtT(last.ts))}</b> (${ago(last.ts)})</span>`;
+  const topWeek = Math.max(hist.week, curWeek, (latest && latest.nxt && latest.nxt.week) || 0);
+  const weeks = []; for (let w = FIRST_WEEK; w <= topWeek; w++) weeks.push(w);
+  const crumbs = weeks.map(w => w === hist.week ? `<b>Week ${w}</b>` : `<a href="#week${w}" data-week="${w}">${w}</a>`).join(' · ');
+  const status = mode === 'past' ? `final · ${S.length} samples` : mode === 'upcoming' ? `projections as of <b>${esc(fmtT(last.ts))}</b>` : `<span class="live"><i></i>last sample <b>${esc(fmtT(last.ts))}</b> (${ago(last.ts)})</span>`;
+  document.getElementById('meta').innerHTML = `<span class="crumbs">${crumbs}${mode === 'past' ? ' · <a href="#" data-week="0">back to current</a>' : ''}</span><span>${status}</span>`;
   // blowout ribbon: projected margin, biggest first
   const margins = last.matchups.map(m => { const l = m.leftProj>=m.rightProj; return {lead: shortName(m, l?0:1), trail: shortName(m, l?1:0), margin: Math.abs(m.leftProj-m.rightProj)}; }).sort((a,b)=>b.margin-a.margin).slice(0,3);
   const blowHtml = `<ul>${margins.map((x,i)=>`<li><span class="big">${x.margin.toFixed(2)}</span><span class="who" title="${esc(x.lead)} over ${esc(x.trail)}">${esc(x.lead)} over ${esc(x.trail)}</span></li>`).join('')}</ul>`;
@@ -237,33 +266,13 @@ function render(hist, nxt){
     const leadName = shortName(m, lm>=0?0:1); const [ida, idb] = sideIds(m);
     const cm = m.leftScore-m.rightScore; const nowName = shortName(m, cm>=0?0:1);
     return `<a class="card${decided?' done':''}" href="/odds/open/?week=${hist.week}&mid1=${ida}&mid2=${idb}" target="_blank" rel="noopener">
-      <div class="rowtop">${decided?'<span class="chip lock">✅ Decided</span>':'<span class="chip">Live</span>'}<span>proj margin <b>${Math.abs(lm).toFixed(2)}</b> · ${esc(leadName)}</span></div>
+      <div class="rowtop">${decided?'<span class="chip lock">✅ Decided</span>':mode==='upcoming'?'<span class="chip">Upcoming</span>':'<span class="chip">Live</span>'}<span>proj margin <b>${Math.abs(lm).toFixed(2)}</b> · ${esc(leadName)}</span></div>
       ${flip ? strip(firstName(m,1),m.right,m.rightRec,rp,m.rightScore,m.rightProj,m.rightRem,true,'top',m.rightActive) : strip(firstName(m,0),m.left,m.leftRec,lp,m.leftScore,m.leftProj,m.leftRem,true,'top',m.leftActive)}
       <div class="chart" data-id="${m.id}" data-top="${esc(flip ? shortName(m,1) : shortName(m,0))}">${spark(vals, m.id)}</div>
       ${flip ? strip(firstName(m,0),m.left,m.leftRec,lp,m.leftScore,m.leftProj,m.leftRem,false,'bot',m.leftActive) : strip(firstName(m,1),m.right,m.rightRec,rp,m.rightScore,m.rightProj,m.rightRem,false,'bot',m.rightActive)}
     </a>`;
   }).join('');
-  renderNext(nxt, hist.week, esc);
 }
-function renderNext(nxt, curWeek, esc){
-  const el = document.getElementById('next');
-  if (!nxt || !(nxt.week > curWeek) || !(nxt.matchups||[]).length) { el.hidden = true; return; }
-  el.hidden = false;
-  const upDay = nextDay(nxt.matchups);
-  const who = (m, side) => firstName(m, side) || (side===0 ? m.left : m.right);
-  const starters = (m, side) => ((side===0 ? m.leftActive : m.rightActive)||[]).filter(a => a.state==='pending' && (!upDay || dayOf(a)===upDay)).map(a => `${esc(a.pos||a.slot)} ${esc(a.player)}`).join(', ');
-  const items = nxt.matchups.map(m => ({m, margin: Math.abs(m.leftProj-m.rightProj)})).sort((a,b)=>b.margin-a.margin).map(({m}) => {
-    const lp = m.leftPct, lm = m.leftProj-m.rightProj, lead = who(m, lm>=0?0:1);
-    const parts = [[0, starters(m,0)], [1, starters(m,1)]].filter(x => x[1]).map(([side, sidePlayers]) => `<span>${esc(who(m,side))}: ${sidePlayers}</span>`).join('');
-    return `<li><span class="who">${esc(who(m,0))}${lp!=null?' '+lp+'%':''} <small>vs</small> ${esc(who(m,1))}${lp!=null?' '+(100-lp)+'%':''} <small>· proj ${esc(lead)} +${Math.abs(lm).toFixed(2)}</small>` +
-      (upDay ? `<span class="tnf"><b>${upDay}:</b> ${parts || '<span>no starters</span>'}</span>` : '') + `</span></li>`;
-  }).join('');
-  const asOf = new Date(nxt.ts).toLocaleString(undefined,{weekday:'short',hour:'numeric',minute:'2-digit'});
-  el.innerHTML = `<div class="hd"><span class="lab">Up next · Week ${nxt.week}</span><span class="note">Yahoo projections as of ${esc(asOf)}</span></div><ul>${items}</ul>`;
-}
-// Hover over a chart: a guide line follows the cursor and the readout interpolates between samples, so it glides instead of snapping.
-const grid = document.getElementById('grid');
-let hoverRaf = null;
 function showHover(c, clientX){
   const d = HOVER[c.dataset.id]; if (!d || !d.xs.length) return;
   const svg = c.querySelector('svg'), r = svg.getBoundingClientRect();
@@ -284,6 +293,7 @@ grid.addEventListener('pointermove', e => {
   hoverRaf = requestAnimationFrame(() => { hoverRaf = null; showHover(c, x); });
 });
 grid.addEventListener('pointerout', e => { const c = e.target.closest('.chart'); if (c && !(e.relatedTarget && c.contains(e.relatedTarget))) hideHover(c); });
+document.getElementById('meta').addEventListener('click', e => { const a = e.target.closest('a[data-week]'); if (!a) return; e.preventDefault(); pickWeek(parseInt(a.dataset.week, 10) || null); });
 load(); setInterval(load, 75000); // 48 API calls per hour per viewer, under GitHub's 60 limit
 // Reload when a newer build of this page is published, so open tabs never run stale code.
 const BUILD = '{{ site.time | date: "%s" }}';
