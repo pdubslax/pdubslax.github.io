@@ -194,5 +194,13 @@ async def main(out_dir):
     for r in good: print(f"  {r['leftPct']:>3}% {r['left']} vs {r['right']} rem {r['leftRem']}/{r['rightRem']}")
     return 0
 
+def in_window(now=None):
+    """True during NFL game windows (ET): Thu 8 PM to midnight, Sun 1 PM to 1 AM Mon, Mon 8 PM to midnight. Used to self-chain runs."""
+    now = now or datetime.datetime.now(ET)
+    wd, h = now.weekday(), now.hour + now.minute / 60
+    return (wd == 3 and h >= 20) or (wd == 6 and h >= 13) or (wd == 0 and h < 1) or (wd == 0 and h >= 20)
+
 if __name__ == "__main__":
+    if "--in-window" in sys.argv:
+        ok = in_window(); print("in window" if ok else "outside window"); sys.exit(0 if ok else 1)
     sys.exit(asyncio.run(main(sys.argv[1] if len(sys.argv) > 1 else "data/odds")))

@@ -16,6 +16,7 @@ concurrency:
   cancel-in-progress: false
 permissions:
   contents: write
+  actions: write
 jobs:
   sample:
     runs-on: ubuntu-latest
@@ -53,3 +54,14 @@ jobs:
             [ $SECONDS -ge $end ] && break
             w=$((60-(SECONDS-t0))); [ $w -gt 0 ] && sleep $w
           done
+      - name: Chain the next run while a game window is open
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          # GitHub's cron has been unreliable, so each run queues its successor while games are on (the concurrency group keeps one pending).
+          if python tools/odds_sampler.py --in-window; then
+            gh workflow run odds.yml --repo "$GITHUB_REPOSITORY" -f minutes=4.5 && echo "queued next run"
+          else
+            echo "outside game windows; not chaining"
+          fi
