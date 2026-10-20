@@ -227,10 +227,17 @@ async def main(out_dir):
         last = hist["samples"][-1]["matchups"]
         if all(r.get("leftRem") == 0 and r.get("rightRem") == 0 for r in last):
             print("week already fully decided; no new sample"); return 0
-    hist["samples"].append(dict(ts=datetime.datetime.now(datetime.timezone.utc).isoformat(timespec="seconds"), week=week, matchups=good))
+    # History only starts once the week is underway (a starter is live or final). Before kickoff, odds swing with lineup changes,
+    # so pre-action runs just refresh a preview snapshot that the page shows in place of samples.
+    snapshot = dict(ts=datetime.datetime.now(datetime.timezone.utc).isoformat(timespec="seconds"), week=week, matchups=good)
+    underway = any(a.get("state") in ("live", "final") for r in good for k in ("leftActive", "rightActive", "shotgun") for a in r.get(k, []))
+    if underway:
+        hist["samples"].append(snapshot); hist.pop("preview", None)
+    else:
+        hist["preview"] = snapshot
     json.dump(hist, open(path, "w"), ensure_ascii=False, indent=1)
     json.dump(hist, open(os.path.join(out_dir, "current.json"), "w"), ensure_ascii=False, indent=1)
-    print(f"week {week}: sample #{len(hist['samples'])} with {len(good)} matchups; all decided: {all_done}")
+    print(f"week {week}: {'sample #' + str(len(hist['samples'])) if underway else 'preview only (week not underway)'} with {len(good)} matchups; all decided: {all_done}")
     for r in good: print(f"  {r['leftPct']:>3}% {r['left']} vs {r['right']} rem {r['leftRem']}/{r['rightRem']}")
     return 0
 

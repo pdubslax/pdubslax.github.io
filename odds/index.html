@@ -133,6 +133,8 @@ async function renderView(){
   const lastS = hist.samples && hist.samples[hist.samples.length-1];
   const allDone = lastS && lastS.matchups.every(decidedOf);
   if (viewWeek && viewWeek === hist.week) { renderOnce(hist, allDone ? 'past' : 'live', hist.week); return; }
+  // A week that has not kicked off yet carries a preview snapshot instead of samples.
+  if ((!hist.samples || !hist.samples.length) && hist.preview && !viewWeek) { renderOnce({...hist, samples: [hist.preview]}, 'upcoming', hist.week); return; }
   if (viewWeek && viewWeek !== hist.week) {
     let past = pastCache[viewWeek];
     if (!past && sha) { try { past = await fetchJson('https://cdn.jsdelivr.net/gh/' + REPO + '@' + sha + '/data/odds/week' + viewWeek + '.json'); pastCache[viewWeek] = past; } catch(e) {} }
