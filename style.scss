@@ -360,21 +360,25 @@ footer {
 }
 
 .footer-links {
-  margin-bottom: 8px;
+  margin-bottom: 10px;
+  display: flex;
+  justify-content: center;
+  gap: 18px;
 
   a {
-    display: inline-block;
-    margin: 0 4px;
-    opacity: 0.75;
+    color: #a3a8ae;
+    display: inline-flex;
+    line-height: 0;
+    transition: color 0.15s ease;
   }
 
   a:hover {
-    opacity: 1;
+    color: $green;
   }
 
-  .svg-icon {
-    width: 30px;
-    height: 30px;
+  svg {
+    width: 20px;
+    height: 20px;
   }
 }
 
