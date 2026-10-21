@@ -1,6 +1,5 @@
 # Projects shown on the home page, in this order.
-- title: Live Fantasy Odds
+- title: 🏈 Live Fantasy Odds
   url: /odds/
-  status: live
-  blurb: Tracks a Yahoo fantasy football league as the matchups unfold in real time. Which games are close, where the tide is turning, who is in trouble.
+  blurb: One place to follow my fantasy league while the games are on. Which matchups are close, where the tide is turning, who is in trouble. Built to experience the Sunday drama a little more deeply.
   meta: October 2026

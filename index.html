@@ -2,33 +2,35 @@
 layout: default
 ---
 
-<section class="home-section">
-  <h2 class="section-title">Projects</h2>
-  <div class="projects">
-    {% for p in site.data.projects %}
-    <a class="project" href="{{ site.baseurl }}{{ p.url }}">
-      <div class="project-head">
-        <span class="project-title">{{ p.title }}</span>
-        {% if p.status == "live" %}<span class="project-tag"><i></i>Live</span>{% endif %}
-      </div>
-      <p class="project-blurb">{{ p.blurb }}</p>
-      {% if p.meta %}<span class="project-meta">{{ p.meta }}</span>{% endif %}
-    </a>
-    {% endfor %}
-  </div>
-</section>
+<div class="home">
+  <aside class="home-side">
+    <h2 class="section-title">Projects</h2>
+    <div class="projects">
+      {% for p in site.data.projects %}
+      <a class="project" href="{{ site.baseurl }}{{ p.url }}">
+        <div class="project-head">
+          <span class="project-title">{{ p.title }}</span>
+          {% if p.status == "live" %}<span class="project-tag"><i></i>Live</span>{% endif %}
+        </div>
+        <p class="project-blurb">{{ p.blurb }}</p>
+        {% if p.meta %}<span class="project-meta">{{ p.meta }}</span>{% endif %}
+      </a>
+      {% endfor %}
+    </div>
+  </aside>
 
-<section class="home-section">
-  <h2 class="section-title">Writing</h2>
-  <div class="posts">
-    {% for post in site.posts %}
-    {% if post.visible == 1 %}
-    <article class="post">
-      <span>{{ post.date | date: "%B %e, %Y" }}</span>
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-      {{ post.excerpt }}
-    </article>
-    {% endif  %}
-    {% endfor %}
-  </div>
-</section>
+  <section class="home-main">
+    <h2 class="section-title">Writing</h2>
+    <div class="posts">
+      {% for post in site.posts %}
+      {% if post.visible == 1 %}
+      <article class="post">
+        <span>{{ post.date | date: "%B %e, %Y" }}</span>
+        <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+        {{ post.excerpt }}
+      </article>
+      {% endif  %}
+      {% endfor %}
+    </div>
+  </section>
+</div>

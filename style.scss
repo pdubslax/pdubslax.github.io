@@ -233,13 +233,35 @@ nav {
 // .main
 //
 
-// Home page sections: a small label above each block, projects as cards, then the writing list.
-.home-section {
-  margin-top: 1.6em;
+// Home page: projects in a left column, writing on the right; they stack on phones.
+.container-wide {
+  max-width: 1040px;
 }
 
-.home-section + .home-section {
-  margin-top: 2.4em;
+.home {
+  display: grid;
+  grid-template-columns: 300px minmax(0, 1fr);
+  gap: 48px;
+  margin-top: 1.4em;
+
+  @include mobile {
+    grid-template-columns: 1fr;
+    gap: 28px;
+  }
+}
+
+.home-side {
+  align-self: start;
+  position: sticky;
+  top: 20px;
+
+  @include mobile {
+    position: static;
+  }
+}
+
+.home-main .post h1 {
+  font-size: 26px;
 }
 
 .section-title {
@@ -255,7 +277,6 @@ nav {
 
 .projects {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
   gap: 14px;
 }
 
