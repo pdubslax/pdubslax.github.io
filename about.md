@@ -12,4 +12,4 @@ Professionally, I'm a product manager working in the trucking industry and am al
 
 Learn more about my most recent work at [Samsara](https://www.samsara.com/fleet/equipment-tracking) or [Pocket Gems](https://pocketgems.com/episode/) in my [resume]({{ site.baseurl }}/resume.pdf).
 
-Contact me at [me@pdubslax.com](https://mail.google.com/mail/?view=cm&fs=1&to=me@pdubslax.com) or find me on [Github](https://github.com/pdubslax) or [LinkedIn](https://www.linkedin.com/in/pdubslax/)
+Contact me at [me@pdubslax.com](https://mail.google.com/mail/?view=cm&fs=1&to=me@pdubslax.com) or find me on [Twitter](https://twitter.com/pdubslax), [Github](https://github.com/pdubslax) or [LinkedIn](https://www.linkedin.com/in/pdubslax/)

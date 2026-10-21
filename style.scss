@@ -359,6 +359,25 @@ footer {
   border-top: 1px solid $lightGray;
 }
 
+.footer-links {
+  margin-bottom: 8px;
+
+  a {
+    display: inline-block;
+    margin: 0 4px;
+    opacity: 0.75;
+  }
+
+  a:hover {
+    opacity: 1;
+  }
+
+  .svg-icon {
+    width: 30px;
+    height: 30px;
+  }
+}
+
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
