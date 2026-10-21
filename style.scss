@@ -233,6 +233,92 @@ nav {
 // .main
 //
 
+// Home page sections: a small label above each block, projects as cards, then the writing list.
+.home-section {
+  margin-top: 1.6em;
+}
+
+.home-section + .home-section {
+  margin-top: 2.4em;
+}
+
+.section-title {
+  font-size: 13px;
+  font-weight: bold;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: $gray;
+  border-bottom: 1px solid $lightGray;
+  padding-bottom: 6px;
+  margin: 0 0 0.6em;
+}
+
+.projects {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 14px;
+}
+
+.project {
+  display: block;
+  border: 1px solid $lightGray;
+  border-radius: 6px;
+  padding: 14px 16px;
+  color: $darkGray;
+  text-decoration: none;
+  transition: border-color 0.15s ease;
+
+  &:hover {
+    border-color: $green;
+    text-decoration: none;
+    color: $darkGray;
+  }
+}
+
+.project-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+}
+
+.project-title {
+  font-family: $helveticaNeue;
+  font-weight: bold;
+  font-size: 20px;
+  color: $darkerGray;
+}
+
+.project-tag {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 11px;
+  font-weight: bold;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: $green;
+
+  i {
+    width: 7px;
+    height: 7px;
+    border-radius: 50%;
+    background: $green;
+    display: inline-block;
+  }
+}
+
+.project-blurb {
+  margin: 8px 0 6px;
+  font-size: 16px;
+  line-height: 1.45;
+}
+
+.project-meta {
+  font-size: 13px;
+  color: $gray;
+}
+
 .posts > .post {
   padding-top: 1em;
   border-bottom: 1px solid $lightGray;
