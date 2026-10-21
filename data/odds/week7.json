@@ -30,7 +30,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-10-21T19:15:12+00:00",
+  "ts": "2026-10-21T19:16:12+00:00",
   "week": 7,
   "matchups": [
    {
@@ -40,9 +40,9 @@
     "right": "Zen Buddha Boys 🪷💨",
     "rightRec": "3-3",
     "leftScore": 0.0,
-    "leftProj": 123.28,
+    "leftProj": 123.27,
     "rightScore": 0.0,
-    "rightProj": 128.99,
+    "rightProj": 129.48,
     "shotgun": [],
     "leftActive": [
      {
@@ -71,11 +71,11 @@
       "player": "M. Golden",
       "pos": "WR",
       "slot": "WR",
-      "rem": 15.37,
+      "rem": 15.39,
       "state": "pending",
       "pts": 0.0,
-      "proj": 15.37,
-      "live": 15.37,
+      "proj": 15.39,
+      "live": 15.39,
       "game": "Sun 4:25 pm @ Det"
      },
      {
@@ -93,11 +93,11 @@
       "player": "S. LaPorta",
       "pos": "TE",
       "slot": "TE",
-      "rem": 11.72,
+      "rem": 11.69,
       "state": "pending",
       "pts": 0.0,
-      "proj": 11.72,
-      "live": 11.72,
+      "proj": 11.69,
+      "live": 11.69,
       "game": "Sun 4:25 pm vs GB"
      },
      {
@@ -150,22 +150,22 @@
       "player": "C. Williams",
       "pos": "QB",
       "slot": "QB",
-      "rem": 22.4,
+      "rem": 22.53,
       "state": "pending",
       "pts": 0.0,
-      "proj": 22.4,
-      "live": 22.4,
+      "proj": 22.53,
+      "live": 22.53,
       "game": "Thu 8:15 pm vs NE"
      },
      {
       "player": "A. St. Brown",
       "pos": "WR",
       "slot": "W/R/T",
-      "rem": 18.61,
+      "rem": 18.56,
       "state": "pending",
       "pts": 0.0,
-      "proj": 18.61,
-      "live": 18.61,
+      "proj": 18.56,
+      "live": 18.56,
       "game": "Sun 4:25 pm vs GB"
      },
      {
@@ -183,33 +183,33 @@
       "player": "Z. Flowers",
       "pos": "WR",
       "slot": "WR",
-      "rem": 17.27,
+      "rem": 17.11,
       "state": "pending",
       "pts": 0.0,
-      "proj": 17.27,
-      "live": 17.27,
+      "proj": 17.11,
+      "live": 17.11,
       "game": "Sun 1:00 pm vs Cin"
      },
      {
       "player": "N. Collins",
       "pos": "WR",
       "slot": "WR",
-      "rem": 16.0,
+      "rem": 16.48,
       "state": "pending",
       "pts": 0.0,
-      "proj": 16.0,
-      "live": 16.0,
+      "proj": 16.48,
+      "live": 16.48,
       "game": "Sun 1:00 pm vs NYG"
      },
      {
       "player": "O. Gordon II",
       "pos": "RB",
       "slot": "RB",
-      "rem": 12.25,
+      "rem": 12.3,
       "state": "pending",
       "pts": 0.0,
-      "proj": 12.25,
-      "live": 12.25,
+      "proj": 12.3,
+      "live": 12.3,
       "game": "Sun 1:00 pm @ NYJ"
      },
      {
@@ -227,11 +227,11 @@
       "player": "C. Loveland",
       "pos": "TE",
       "slot": "TE",
-      "rem": 9.43,
+      "rem": 9.47,
       "state": "pending",
       "pts": 0.0,
-      "proj": 9.43,
-      "live": 9.43,
+      "proj": 9.47,
+      "live": 9.47,
       "game": "Thu 8:15 pm vs NE"
      },
      {
@@ -246,7 +246,7 @@
       "game": "Sun 1:00 pm @ Min"
      }
     ],
-    "leftPct": 46,
+    "leftPct": 45,
     "leftRem": 9,
     "rightRem": 9
    },
@@ -257,9 +257,9 @@
     "right": "MELONHEADS (daniel)",
     "rightRec": "3-3",
     "leftScore": 0.0,
-    "leftProj": 122.76,
+    "leftProj": 122.42,
     "rightScore": 0.0,
-    "rightProj": 117.73,
+    "rightProj": 118.42,
     "shotgun": [],
     "leftActive": [
      {
@@ -474,7 +474,7 @@
     "right": "Sir this is a FF league",
     "rightRec": "2-4",
     "leftScore": 0.0,
-    "leftProj": 135.0,
+    "leftProj": 134.99,
     "rightScore": 0.0,
     "rightProj": 105.82,
     "shotgun": [],
@@ -568,7 +568,7 @@
       "game": "Sun 1:00 pm @ Ten"
      },
      {
-      "player": "N. England",
+      "player": "Patriots",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 5.63,
@@ -647,7 +647,7 @@
       "game": "Sun 4:25 pm @ LV"
      },
      {
-      "player": "Denver",
+      "player": "Broncos",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 8.48,
@@ -691,9 +691,9 @@
     "right": "RosterMogged",
     "rightRec": "3-3",
     "leftScore": 0.0,
-    "leftProj": 111.5,
+    "leftProj": 111.8,
     "rightScore": 0.0,
-    "rightProj": 102.61,
+    "rightProj": 102.51,
     "shotgun": [],
     "leftActive": [
      {
@@ -785,7 +785,7 @@
       "game": "Sun 1:00 pm @ Min"
      },
      {
-      "player": "Seattle",
+      "player": "Seahawks",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 7.04,
@@ -886,7 +886,7 @@
       "game": "Sun 1:00 pm vs Cle"
      },
      {
-      "player": "K. City",
+      "player": "Chiefs",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 6.14,
@@ -908,9 +908,9 @@
     "right": "James Ray Ervin Yonts",
     "rightRec": "3-3",
     "leftScore": 0.0,
-    "leftProj": 108.09,
+    "leftProj": 110.02,
     "rightScore": 0.0,
-    "rightProj": 141.28,
+    "rightProj": 141.24,
     "shotgun": [],
     "leftActive": [
      {
@@ -980,7 +980,7 @@
       "game": "Mon 8:15 pm @ Phi"
      },
      {
-      "player": "Vikings",
+      "player": "Minnesota",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 9.46,
@@ -1092,7 +1092,7 @@
       "game": "Sun 1:00 pm vs NYG"
      },
      {
-      "player": "Browns",
+      "player": "Cleveland",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 10.61,
@@ -1125,9 +1125,9 @@
     "right": "Kiwis are better than mid",
     "rightRec": "4-2",
     "leftScore": 0.0,
-    "leftProj": 116.95,
+    "leftProj": 117.7,
     "rightScore": 0.0,
-    "rightProj": 93.71,
+    "rightProj": 93.62,
     "shotgun": [
      {
       "player": "J. Allen",
@@ -1211,7 +1211,7 @@
       "game": "Sun 4:25 pm @ Det"
      },
      {
-      "player": "Titans",
+      "player": "Tennessee",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 10.34,
