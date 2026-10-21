@@ -30,7 +30,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-10-21T19:16:12+00:00",
+  "ts": "2026-10-21T19:17:13+00:00",
   "week": 7,
   "matchups": [
    {
@@ -785,7 +785,7 @@
       "game": "Sun 1:00 pm @ Min"
      },
      {
-      "player": "Seahawks",
+      "player": "Seattle",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 7.04,
@@ -886,7 +886,7 @@
       "game": "Sun 1:00 pm vs Cle"
      },
      {
-      "player": "Chiefs",
+      "player": "K. City",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 6.14,
@@ -980,7 +980,7 @@
       "game": "Mon 8:15 pm @ Phi"
      },
      {
-      "player": "Minnesota",
+      "player": "Vikings",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 9.46,
@@ -1092,7 +1092,7 @@
       "game": "Sun 1:00 pm vs NYG"
      },
      {
-      "player": "Cleveland",
+      "player": "Browns",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 10.61,
