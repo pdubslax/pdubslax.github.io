@@ -189,7 +189,7 @@ function render(hist, mode, curWeek){
   const fmtT = ts => new Date(ts).toLocaleString(undefined,{weekday:'short',hour:'numeric',minute:'2-digit'});
   const ago = ts => { const m = Math.round((Date.now()-new Date(ts))/60000); return m<1?'just now':m<60?m+' min ago':Math.round(m/60)+' h ago'; };
   const esc = s => s.replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
-  const topWeek = Math.max(hist.week, curWeek, (latest && latest.nxt && latest.nxt.week) || 0);
+  const topWeek = Math.max(hist.week, curWeek);  // only weeks that have a board: recorded weeks plus the one on screen
   const weeks = []; for (let w = FIRST_WEEK; w <= topWeek; w++) weeks.push(w);
   const crumbs = weeks.map(w => w === hist.week ? `<b>Week ${w}</b>` : `<a href="#week${w}" data-week="${w}">${w}</a>`).join(' · ');
   const status = mode === 'past' ? `final · ${S.length} samples` : mode === 'upcoming' ? `projections as of <b>${esc(fmtT(last.ts))}</b>` : `<span class="live"><i></i>last sample <b>${esc(fmtT(last.ts))}</b> (${ago(last.ts)})</span>`;
