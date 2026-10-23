@@ -142569,7 +142569,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-10-23T22:02:11+00:00",
+  "ts": "2026-10-23T22:22:04+00:00",
   "week": 7,
   "matchups": [
    {
@@ -142846,7 +142846,7 @@
       "game": "Sun 1:00 pm @ Hou"
      },
      {
-      "player": "S. Francisco",
+      "player": "49ers",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 5.93,
@@ -142936,7 +142936,7 @@
       "game": "Sun 9:30 am vs Pit"
      },
      {
-      "player": "Carolina",
+      "player": "Panthers",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 7.08,
@@ -143052,7 +143052,7 @@
       "game": "Sun 1:00 pm @ Ten"
      },
      {
-      "player": "N. Orleans",
+      "player": "Saints",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 6.6,
@@ -143120,7 +143120,7 @@
       "game": "Sun 4:25 pm @ LV"
      },
      {
-      "player": "Denver",
+      "player": "Broncos",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 8.55,
@@ -143247,7 +143247,7 @@
       "game": "Sun 1:00 pm vs NYG"
      },
      {
-      "player": "Seattle",
+      "player": "Seahawks",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 7.26,
@@ -143348,7 +143348,7 @@
       "game": "Sun 4:05 pm vs Den"
      },
      {
-      "player": "K. City",
+      "player": "Chiefs",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 6.05,
@@ -143431,7 +143431,7 @@
       "game": "Mon 8:15 pm @ Phi"
      },
      {
-      "player": "Minnesota",
+      "player": "Vikings",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 9.45,
@@ -143543,7 +143543,7 @@
       "game": "Sun 1:00 pm vs NYG"
      },
      {
-      "player": "Cleveland",
+      "player": "Browns",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 10.49,
