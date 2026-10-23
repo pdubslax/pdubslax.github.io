@@ -4,7 +4,7 @@ on:
     inputs:
       minutes:
         description: 'How long this run keeps sampling (minutes)'
-        default: '4.5'
+        default: '300'
   schedule:
     # UTC. Thu night ET (TNF), Sunday afternoon through SNF, and Monday night ET (MNF), every 5 minutes.
     - cron: '*/5 0-4 * * 5'
@@ -44,26 +44,24 @@ jobs:
           git config user.name "odds-sampler"
           git config user.email "odds-sampler@users.noreply.github.com"
           cd ..
-          mins="${{ github.event.inputs.minutes || '4.5' }}"
+          mins="${{ github.event.inputs.minutes || '300' }}"
           end=$((SECONDS + $(python -c "print(int(float('$mins')*60))")))
           while :; do
             t0=$SECONDS
+            if python tools/odds_sampler.py --in-window >/dev/null; then gap=60; else gap=1200; fi
             out=$(python tools/odds_sampler.py odds-data/data/odds 2>&1) || true
-            echo "$out"
+            echo "$(date -u +%H:%M) $out"
             ( cd odds-data && git add data/odds && if git diff --cached --quiet; then echo "nothing to commit"; else
                 git commit -qm "odds sample $(date -u +%Y-%m-%dT%H:%MZ)" && (git pull --rebase -q origin odds-data || true) && git push -q; fi )
-            case "$out" in *"fully decided"*) echo "week decided; stopping"; break;; esac
             [ $SECONDS -ge $end ] && break
-            w=$((60-(SECONDS-t0))); [ $w -gt 0 ] && sleep $w
+            w=$((gap-(SECONDS-t0))); [ $w -gt 0 ] && sleep $w
           done
-      - name: Chain the next run while a game window is open
+      - name: Chain the next run
         if: always()
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          # GitHub's cron has been unreliable, so each run queues its successor while games are on (the concurrency group keeps one pending).
-          if python tools/odds_sampler.py --in-window; then
-            gh workflow run odds.yml --repo "$GITHUB_REPOSITORY" -f minutes=4.5 && echo "queued next run"
-          else
-            echo "outside game windows; not chaining"
-          fi
+          # GitHub's cron skipped whole game windows twice, so the sampler keeps itself alive: every run queues its successor
+          # (the concurrency group holds exactly one pending run). Inside a game window it samples every minute; outside it idles
+          # and refreshes the preview every 20 minutes. The crons remain only as restarters if the chain ever breaks.
+          gh workflow run odds.yml --repo "$GITHUB_REPOSITORY" -f minutes=300 && echo "queued next run"
