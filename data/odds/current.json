@@ -142569,7 +142569,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-10-23T21:42:04+00:00",
+  "ts": "2026-10-23T22:02:11+00:00",
   "week": 7,
   "matchups": [
    {
@@ -142581,7 +142581,7 @@
     "leftScore": 1.3,
     "leftProj": 114.06,
     "rightScore": 42.72,
-    "rightProj": 139.76,
+    "rightProj": 139.72,
     "shotgun": [],
     "leftActive": [
      {
@@ -142700,11 +142700,11 @@
       "player": "Z. Flowers",
       "pos": "WR",
       "slot": "WR",
-      "rem": 17.22,
+      "rem": 17.18,
       "state": "pending",
       "pts": 0.0,
-      "proj": 17.22,
-      "live": 17.22,
+      "proj": 17.18,
+      "live": 17.18,
       "game": "Sun 1:00 pm vs Cin"
      },
      {
@@ -142763,7 +142763,7 @@
     "right": "MELONHEADS (daniel)",
     "rightRec": "3-3",
     "leftScore": 31.54,
-    "leftProj": 129.71,
+    "leftProj": 129.69,
     "rightScore": 0.0,
     "rightProj": 122.24,
     "shotgun": [],
@@ -142772,11 +142772,11 @@
       "player": "D. Henry",
       "pos": "RB",
       "slot": "RB",
-      "rem": 18.63,
+      "rem": 18.58,
       "state": "pending",
       "pts": 0.0,
-      "proj": 18.63,
-      "live": 18.63,
+      "proj": 18.58,
+      "live": 18.58,
       "game": "Sun 1:00 pm vs Cin"
      },
      {
@@ -142794,11 +142794,11 @@
       "player": "C. Brown",
       "pos": "RB",
       "slot": "RB",
-      "rem": 15.06,
+      "rem": 15.09,
       "state": "pending",
       "pts": 0.0,
-      "proj": 15.06,
-      "live": 15.06,
+      "proj": 15.09,
+      "live": 15.09,
       "game": "Sun 1:00 pm @ Bal"
      },
      {
@@ -142846,7 +142846,7 @@
       "game": "Sun 1:00 pm @ Hou"
      },
      {
-      "player": "49ers",
+      "player": "S. Francisco",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 5.93,
@@ -142936,7 +142936,7 @@
       "game": "Sun 9:30 am vs Pit"
      },
      {
-      "player": "Panthers",
+      "player": "Carolina",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 7.08,
@@ -143052,7 +143052,7 @@
       "game": "Sun 1:00 pm @ Ten"
      },
      {
-      "player": "Saints",
+      "player": "N. Orleans",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 6.6,
@@ -143120,7 +143120,7 @@
       "game": "Sun 4:25 pm @ LV"
      },
      {
-      "player": "Broncos",
+      "player": "Denver",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 8.55,
@@ -143153,7 +143153,7 @@
     "right": "RosterMogged",
     "rightRec": "3-3",
     "leftScore": 0.0,
-    "leftProj": 110.98,
+    "leftProj": 111.03,
     "rightScore": 0.0,
     "rightProj": 103.87,
     "shotgun": [],
@@ -143162,22 +143162,22 @@
       "player": "A. Rodgers",
       "pos": "QB",
       "slot": "QB",
-      "rem": 19.8,
+      "rem": 19.83,
       "state": "pending",
       "pts": 0.0,
-      "proj": 19.8,
-      "live": 19.8,
+      "proj": 19.83,
+      "live": 19.83,
       "game": "Sun 9:30 am @ NO"
      },
      {
       "player": "J. Chase",
       "pos": "WR",
       "slot": "WR",
-      "rem": 17.35,
+      "rem": 17.36,
       "state": "pending",
       "pts": 0.0,
-      "proj": 17.35,
-      "live": 17.35,
+      "proj": 17.36,
+      "live": 17.36,
       "game": "Sun 1:00 pm @ Bal"
      },
      {
@@ -143228,11 +143228,11 @@
       "player": "P. Freiermuth",
       "pos": "TE",
       "slot": "TE",
-      "rem": 8.69,
+      "rem": 8.7,
       "state": "pending",
       "pts": 0.0,
-      "proj": 8.69,
-      "live": 8.69,
+      "proj": 8.7,
+      "live": 8.7,
       "game": "Sun 9:30 am @ NO"
      },
      {
@@ -143372,7 +143372,7 @@
     "leftScore": 12.1,
     "leftProj": 100.75,
     "rightScore": 0.0,
-    "rightProj": 142.63,
+    "rightProj": 142.67,
     "shotgun": [],
     "leftActive": [
      {
@@ -143431,7 +143431,7 @@
       "game": "Mon 8:15 pm @ Phi"
      },
      {
-      "player": "Vikings",
+      "player": "Minnesota",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 9.45,
@@ -143480,11 +143480,11 @@
       "player": "J. Warren",
       "pos": "RB",
       "slot": "RB",
-      "rem": 17.06,
+      "rem": 17.1,
       "state": "pending",
       "pts": 0.0,
-      "proj": 17.06,
-      "live": 17.06,
+      "proj": 17.1,
+      "live": 17.1,
       "game": "Sun 9:30 am @ NO"
      },
      {
@@ -143543,7 +143543,7 @@
       "game": "Sun 1:00 pm vs NYG"
      },
      {
-      "player": "Browns",
+      "player": "Cleveland",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 10.49,
@@ -143565,7 +143565,7 @@
     "right": "Kiwis are better than mid",
     "rightRec": "4-2",
     "leftScore": 0.0,
-    "leftProj": 121.61,
+    "leftProj": 121.66,
     "rightScore": 0.0,
     "rightProj": 124.75,
     "shotgun": [],
@@ -143574,11 +143574,11 @@
       "player": "J. Burrow",
       "pos": "QB",
       "slot": "QB",
-      "rem": 22.07,
+      "rem": 22.11,
       "state": "pending",
       "pts": 0.0,
-      "proj": 22.07,
-      "live": 22.07,
+      "proj": 22.11,
+      "live": 22.11,
       "game": "Sun 1:00 pm @ Bal"
      },
      {
@@ -143607,11 +143607,11 @@
       "player": "T. Higgins",
       "pos": "WR",
       "slot": "W/R/T",
-      "rem": 13.74,
+      "rem": 13.75,
       "state": "pending",
       "pts": 0.0,
-      "proj": 13.74,
-      "live": 13.74,
+      "proj": 13.75,
+      "live": 13.75,
       "game": "Sun 1:00 pm @ Bal"
      },
      {
@@ -143675,11 +143675,11 @@
       "player": "K. Murray",
       "pos": "QB",
       "slot": "QB",
-      "rem": 20.89,
+      "rem": 20.88,
       "state": "pending",
       "pts": 0.0,
-      "proj": 20.89,
-      "live": 20.89,
+      "proj": 20.88,
+      "live": 20.88,
       "game": "Sun 1:00 pm vs Ind"
      },
      {
@@ -143719,11 +143719,11 @@
       "player": "DK Metcalf",
       "pos": "WR",
       "slot": "WR",
-      "rem": 12.17,
+      "rem": 12.18,
       "state": "pending",
       "pts": 0.0,
-      "proj": 12.17,
-      "live": 12.17,
+      "proj": 12.18,
+      "live": 12.18,
       "game": "Sun 9:30 am @ NO"
      },
      {
