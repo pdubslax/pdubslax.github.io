@@ -1,7 +1,7 @@
 {
  "v": 2,
  "week": 8,
- "ts": "2026-10-23T02:10:10+00:00",
+ "ts": "2026-10-23T02:31:09+00:00",
  "matchups": [
   {
    "id": "1v6",
@@ -772,7 +772,7 @@
      "game": "Sun 1:00 pm vs Cle"
     },
     {
-     "player": "Seahawks",
+     "player": "Seattle",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 6.86,
@@ -851,7 +851,7 @@
      "game": "Sun 1:00 pm vs Bal"
     },
     {
-     "player": "Steelers",
+     "player": "Pittsburgh",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 10.39,
