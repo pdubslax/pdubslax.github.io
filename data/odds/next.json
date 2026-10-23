@@ -1,7 +1,7 @@
 {
  "v": 2,
  "week": 8,
- "ts": "2026-10-23T03:55:10+00:00",
+ "ts": "2026-10-23T04:21:09+00:00",
  "matchups": [
   {
    "id": "1v6",
@@ -54,7 +54,7 @@
      "locked": false
     },
     {
-     "player": "Houston",
+     "player": "Texans",
      "pos": "DEF",
      "team": "Hou",
      "pts": 0.0,
@@ -213,7 +213,7 @@
      "game": "Sun 1:00 pm vs Atl"
     },
     {
-     "player": "Carolina",
+     "player": "Panthers",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 4.95,
@@ -276,7 +276,7 @@
      "locked": false
     },
     {
-     "player": "S. Francisco",
+     "player": "49ers",
      "pos": "DEF",
      "team": "SF",
      "pts": 0.0,
@@ -435,7 +435,7 @@
      "game": "Sun 1:00 pm vs LV"
     },
     {
-     "player": "Denver",
+     "player": "Broncos",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 6.7,
@@ -1223,7 +1223,7 @@
      "game": "Sun 1:00 pm @ TB"
     },
     {
-     "player": "K. City",
+     "player": "Chiefs",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 6.64,
@@ -1313,7 +1313,7 @@
      "game": "Sun 4:25 pm vs KC"
     },
     {
-     "player": "N. York",
+     "player": "Jets",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 7.11,
