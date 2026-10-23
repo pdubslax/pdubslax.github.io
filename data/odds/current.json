@@ -141360,7 +141360,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-10-23T07:01:20+00:00",
+  "ts": "2026-10-23T07:10:21+00:00",
   "week": 7,
   "matchups": [
    {
@@ -141843,7 +141843,7 @@
       "game": "Sun 1:00 pm @ Ten"
      },
      {
-      "player": "Saints",
+      "player": "N. Orleans",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 6.14,
@@ -141911,7 +141911,7 @@
       "game": "Sun 4:25 pm @ LV"
      },
      {
-      "player": "Broncos",
+      "player": "Denver",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 8.53,
@@ -142222,7 +142222,7 @@
       "game": "Mon 8:15 pm @ Phi"
      },
      {
-      "player": "Minnesota",
+      "player": "Vikings",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 9.46,
@@ -142323,7 +142323,7 @@
       "game": "Sun 1:00 pm vs NYG"
      },
      {
-      "player": "Cleveland",
+      "player": "Browns",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 10.61,
