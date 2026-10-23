@@ -252,6 +252,7 @@ function render(hist, mode, curWeek){
   }
   const dstr = (a,b) => { if(a==null||b==null) return ''; const d=b-a; const s=(d>0?'+':'')+d; return `<span class="delta ${d>0?'up':d<0?'down':''}">${s===''?'':s}</span>`; };
   const upDay = nextDay(last.matchups);
+  const anyLive = last.matchups.some(m => [...(m.leftActive||[]), ...(m.rightActive||[])].some(a => a.state==='live'));
   document.getElementById('grid').innerHTML = cards.map(({m}) => {
     const lp = m.leftPct, rp = 100-lp; const leftFav = lp>=rp;
     // Current favorite always on top; the chart is drawn from the top team's point of view, so a crossover shows where they took the lead.
@@ -265,7 +266,8 @@ function render(hist, mode, curWeek){
     // Key players: current points, green when Yahoo's live projection beats the pregame one (on pace), red when behind it.
     const ptsTag = a => a.state==='live' && a.pts!=null ? `<em class="${a.live>a.proj?'up':a.live<a.proj?'down':''}">${a.pts.toFixed(1)}</em>` : '';
     // Players in progress first; when none are playing, stage the ones still to come (Sunday night that means the MNF starters).
-    const pick = act => { const a = act||[]; const live = a.filter(x=>x.state==='live'); return live.length ? live : a.filter(x=>x.state==='pending' && (!upDay || dayOf(x)===upDay)); };
+    // While anyone in the league is on the field, only live players show; staging the next game day's starters is for the quiet stretches between windows.
+    const pick = act => { const a = act||[]; const live = a.filter(x=>x.state==='live'); if (live.length || anyLive) return live; return a.filter(x=>x.state==='pending' && (!upDay || dayOf(x)===upDay)); };
     const keys = (act,rem) => `<b>${rem} left</b>` + pick(act).map(a=>`<span>${esc(a.pos||a.slot)} ${esc(a.player)}${ptsTag(a)}</span>`).join('');
     const strip=(first,name,rec,pct,score,proj,rem,fav,cls,act)=>`<div class="strip ${cls} ${fav?'isfav':'isdog'}"><div class="pct">${pct}<small>%</small></div><div class="mid"><div class="nm" title="${esc(name)}">${esc(first||name)}<span class="rec">${esc(rec)}</span></div><div class="sub"><b>${score.toFixed(2)}</b> now · ${proj.toFixed(2)} proj</div></div><div class="key">${keys(act,rem)}</div></div>`;
     const leadName = shortName(m, lm>=0?0:1); const [ida, idb] = sideIds(m);
