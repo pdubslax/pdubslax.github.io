@@ -1,7 +1,7 @@
 {
  "v": 2,
  "week": 8,
- "ts": "2026-10-23T09:30:20+00:00",
+ "ts": "2026-10-23T10:10:20+00:00",
  "matchups": [
   {
    "id": "1v6",
@@ -71,11 +71,11 @@
      "player": "J. Smith-Njigba",
      "pos": "WR",
      "slot": "W/R/T",
-     "rem": 22.23,
+     "rem": 22.33,
      "state": "pending",
      "pts": 0.0,
-     "proj": 22.23,
-     "live": 22.23,
+     "proj": 22.33,
+     "live": 22.33,
      "game": "Mon 8:15 pm vs Chi"
     },
     {
@@ -104,11 +104,11 @@
      "player": "J. Coker",
      "pos": "WR",
      "slot": "WR",
-     "rem": 13.08,
+     "rem": 13.07,
      "state": "pending",
      "pts": 0.0,
-     "proj": 13.08,
-     "live": 13.08,
+     "proj": 13.07,
+     "live": 13.07,
      "game": "Thu 8:15 pm @ GB"
     },
     {
@@ -183,11 +183,11 @@
      "player": "D. Smith",
      "pos": "WR",
      "slot": "WR",
-     "rem": 12.54,
+     "rem": 12.57,
      "state": "pending",
      "pts": 0.0,
-     "proj": 12.54,
-     "live": 12.54,
+     "proj": 12.57,
+     "live": 12.57,
      "game": "Sun 8:20 pm @ Was"
     },
     {
@@ -304,11 +304,11 @@
      "player": "D. Henry",
      "pos": "RB",
      "slot": "RB",
-     "rem": 17.33,
+     "rem": 17.37,
      "state": "pending",
      "pts": 0.0,
-     "proj": 17.33,
-     "live": 17.33,
+     "proj": 17.37,
+     "live": 17.37,
      "game": "Sun 1:00 pm @ Buf"
     },
     {
@@ -326,11 +326,11 @@
      "player": "C. Watson",
      "pos": "WR",
      "slot": "W/R/T",
-     "rem": 14.97,
+     "rem": 14.96,
      "state": "pending",
      "pts": 0.0,
-     "proj": 14.97,
-     "live": 14.97,
+     "proj": 14.96,
+     "live": 14.96,
      "game": "Thu 8:15 pm vs Car"
     },
     {
@@ -361,11 +361,11 @@
      "player": "J. Love",
      "pos": "QB",
      "slot": "QB",
-     "rem": 20.6,
+     "rem": 20.59,
      "state": "pending",
      "pts": 0.0,
-     "proj": 20.6,
-     "live": 20.6,
+     "proj": 20.59,
+     "live": 20.59,
      "game": "Thu 8:15 pm vs Car"
     },
     {
@@ -1019,22 +1019,22 @@
      "player": "C. Williams",
      "pos": "QB",
      "slot": "QB",
-     "rem": 20.38,
+     "rem": 20.43,
      "state": "pending",
      "pts": 0.0,
-     "proj": 20.38,
-     "live": 20.38,
+     "proj": 20.43,
+     "live": 20.43,
      "game": "Mon 8:15 pm @ Sea"
     },
     {
      "player": "Z. Flowers",
      "pos": "WR",
      "slot": "WR",
-     "rem": 17.07,
+     "rem": 17.01,
      "state": "pending",
      "pts": 0.0,
-     "proj": 17.07,
-     "live": 17.07,
+     "proj": 17.01,
+     "live": 17.01,
      "game": "Sun 1:00 pm @ Buf"
     },
     {
@@ -1085,11 +1085,11 @@
      "player": "C. Loveland",
      "pos": "TE",
      "slot": "TE",
-     "rem": 8.76,
+     "rem": 8.8,
      "state": "pending",
      "pts": 0.0,
-     "proj": 8.76,
-     "live": 8.76,
+     "proj": 8.8,
+     "live": 8.8,
      "game": "Mon 8:15 pm @ Sea"
     },
     {
