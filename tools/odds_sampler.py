@@ -231,7 +231,9 @@ async def main(out_dir):
     # so pre-action runs just refresh a preview snapshot that the page shows in place of samples.
     snapshot = dict(ts=datetime.datetime.now(datetime.timezone.utc).isoformat(timespec="seconds"), week=week, matchups=good)
     underway = any(a.get("state") in ("live", "final") for r in good for k in ("leftActive", "rightActive", "shotgun") for a in r.get(k, []))
-    if underway:
+    any_live = any(a.get("state") == "live" for r in good for k in ("leftActive", "rightActive") for a in r.get(k, []))
+    # Record while a game is on, or while a window is open once the week is underway; idle runs between windows only refresh the preview.
+    if any_live or (in_window() and underway):
         hist["samples"].append(snapshot); hist.pop("preview", None)
     else:
         hist["preview"] = snapshot
