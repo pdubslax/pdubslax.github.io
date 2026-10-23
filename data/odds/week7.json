@@ -141360,7 +141360,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-10-23T03:29:09+00:00",
+  "ts": "2026-10-23T03:30:10+00:00",
   "week": 7,
   "matchups": [
    {
@@ -141442,7 +141442,7 @@
       "game": "Sun 4:05 pm @ Ari"
      },
      {
-      "player": "Houston",
+      "player": "Texans",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 10.15,
@@ -141532,7 +141532,7 @@
       "game": "Sun 8:20 pm vs KC"
      },
      {
-      "player": "Indianapolis",
+      "player": "Colts",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 6.06,
@@ -142065,11 +142065,11 @@
       "player": "K. Walker III",
       "pos": "RB",
       "slot": "RB",
-      "rem": 19.91,
+      "rem": 19.92,
       "state": "pending",
       "pts": 0.0,
-      "proj": 19.91,
-      "live": 19.91,
+      "proj": 19.92,
+      "live": 19.92,
       "game": "Sun 8:20 pm @ Sea"
      },
      {
