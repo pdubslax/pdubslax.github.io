@@ -1,7 +1,7 @@
 {
  "v": 2,
  "week": 8,
- "ts": "2026-10-23T17:01:25+00:00",
+ "ts": "2026-10-23T17:41:24+00:00",
  "matchups": [
   {
    "id": "1v6",
@@ -12,7 +12,7 @@
    "leftScore": 0.0,
    "leftProj": 100.05,
    "rightScore": 0.0,
-   "rightProj": 69.52,
+   "rightProj": 69.57,
    "leftPct": 76,
    "leftRem": 8,
    "rightRem": 6,
@@ -161,11 +161,11 @@
      "player": "B. Robinson",
      "pos": "RB",
      "slot": "RB",
-     "rem": 21.35,
+     "rem": 21.4,
      "state": "pending",
      "pts": 0.0,
-     "proj": 21.35,
-     "live": 21.35,
+     "proj": 21.4,
+     "live": 21.4,
      "game": "Sun 1:00 pm @ TB"
     },
     {
@@ -454,7 +454,7 @@
    "right": "Alex Michael Pagels",
    "rightRec": "1-5",
    "leftScore": 0.0,
-   "leftProj": 125.38,
+   "leftProj": 125.43,
    "rightScore": 0.0,
    "rightProj": 89.11,
    "leftPct": 78,
@@ -580,11 +580,11 @@
      "player": "D. Boston",
      "pos": "WR",
      "slot": "WR",
-     "rem": 9.56,
+     "rem": 9.61,
      "state": "pending",
      "pts": 0.0,
-     "proj": 9.56,
-     "live": 9.56,
+     "proj": 9.61,
+     "live": 9.61,
      "game": "Sun 1:00 pm @ Pit"
     }
    ],
@@ -675,7 +675,7 @@
    "right": "Tuten Brown",
    "rightRec": "4-2",
    "leftScore": 0.0,
-   "leftProj": 101.54,
+   "leftProj": 101.63,
    "rightScore": 0.0,
    "rightProj": 118.16,
    "leftPct": 36,
@@ -722,11 +722,11 @@
      "player": "A. Rodgers",
      "pos": "QB",
      "slot": "QB",
-     "rem": 17.68,
+     "rem": 17.74,
      "state": "pending",
      "pts": 0.0,
-     "proj": 17.68,
-     "live": 17.68,
+     "proj": 17.74,
+     "live": 17.74,
      "game": "Sun 1:00 pm vs Cle"
     },
     {
@@ -766,11 +766,11 @@
      "player": "P. Freiermuth",
      "pos": "TE",
      "slot": "TE",
-     "rem": 7.97,
+     "rem": 8.0,
      "state": "pending",
      "pts": 0.0,
-     "proj": 7.97,
-     "live": 7.97,
+     "proj": 8.0,
+     "live": 8.0,
      "game": "Sun 1:00 pm vs Cle"
     },
     {
@@ -894,7 +894,7 @@
    "right": "Zen Buddha Boys 🪷💨",
    "rightRec": "3-3",
    "leftScore": 0.0,
-   "leftProj": 135.2,
+   "leftProj": 135.14,
    "rightScore": 0.0,
    "rightProj": 105.95,
    "leftPct": 71,
@@ -964,33 +964,33 @@
      "player": "J. Warren",
      "pos": "RB",
      "slot": "RB",
-     "rem": 16.07,
+     "rem": 16.03,
      "state": "pending",
      "pts": 0.0,
-     "proj": 16.07,
-     "live": 16.07,
+     "proj": 16.03,
+     "live": 16.03,
      "game": "Sun 1:00 pm vs Cle"
     },
     {
      "player": "B. Irving",
      "pos": "RB",
      "slot": "RB",
-     "rem": 15.96,
+     "rem": 16.02,
      "state": "pending",
      "pts": 0.0,
-     "proj": 15.96,
-     "live": 15.96,
+     "proj": 16.02,
+     "live": 16.02,
      "game": "Sun 1:00 pm vs Atl"
     },
     {
      "player": "D. London",
      "pos": "WR",
      "slot": "WR",
-     "rem": 15.66,
+     "rem": 15.58,
      "state": "pending",
      "pts": 0.0,
-     "proj": 15.66,
-     "live": 15.66,
+     "proj": 15.58,
+     "live": 15.58,
      "game": "Sun 1:00 pm @ TB"
     },
     {
@@ -1116,7 +1116,7 @@
    "leftScore": 0.0,
    "leftProj": 81.69,
    "rightScore": 0.0,
-   "rightProj": 97.24,
+   "rightProj": 97.29,
    "leftPct": 35,
    "leftRem": 8,
    "rightRem": 8,
@@ -1173,11 +1173,11 @@
      "player": "G. Bernard",
      "pos": "WR",
      "slot": "WR",
-     "rem": 9.14,
+     "rem": 9.18,
      "state": "pending",
      "pts": 0.0,
-     "proj": 9.14,
-     "live": 9.14,
+     "proj": 9.18,
+     "live": 9.18,
      "game": "Sun 1:00 pm vs Cle"
     },
     {
@@ -1203,17 +1203,6 @@
      "game": "Sun 1:00 pm @ NYJ"
     },
     {
-     "player": "K. Pitts Sr.",
-     "pos": "TE",
-     "slot": "TE",
-     "rem": 7.33,
-     "state": "pending",
-     "pts": 0.0,
-     "proj": 7.33,
-     "live": 7.33,
-     "game": "Sun 1:00 pm @ TB"
-    },
-    {
      "player": "O. Cooper Jr.",
      "pos": "WR",
      "slot": "W/R/T",
@@ -1223,6 +1212,17 @@
      "proj": 7.33,
      "live": 7.33,
      "game": "Sun 1:00 pm vs LV"
+    },
+    {
+     "player": "K. Pitts Sr.",
+     "pos": "TE",
+     "slot": "TE",
+     "rem": 7.29,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 7.29,
+     "live": 7.29,
+     "game": "Sun 1:00 pm @ TB"
     },
     {
      "player": "Chiefs",
@@ -1285,11 +1285,11 @@
      "player": "DK Metcalf",
      "pos": "WR",
      "slot": "WR",
-     "rem": 10.92,
+     "rem": 10.97,
      "state": "pending",
      "pts": 0.0,
-     "proj": 10.92,
-     "live": 10.92,
+     "proj": 10.97,
+     "live": 10.97,
      "game": "Sun 1:00 pm vs Cle"
     },
     {
