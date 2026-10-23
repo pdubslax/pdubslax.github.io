@@ -1,7 +1,7 @@
 {
  "v": 2,
  "week": 8,
- "ts": "2026-10-23T13:51:15+00:00",
+ "ts": "2026-10-23T14:21:26+00:00",
  "matchups": [
   {
    "id": "1v6",
@@ -54,7 +54,7 @@
      "locked": false
     },
     {
-     "player": "Texans",
+     "player": "Houston",
      "pos": "DEF",
      "team": "Hou",
      "pts": 0.0,
@@ -213,7 +213,7 @@
      "game": "Sun 1:00 pm vs Atl"
     },
     {
-     "player": "Panthers",
+     "player": "Carolina",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 4.95,
