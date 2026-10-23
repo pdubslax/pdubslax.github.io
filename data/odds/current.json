@@ -142569,7 +142569,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-10-23T18:21:36+00:00",
+  "ts": "2026-10-23T18:41:24+00:00",
   "week": 7,
   "matchups": [
    {
@@ -143155,7 +143155,7 @@
     "leftScore": 0.0,
     "leftProj": 109.19,
     "rightScore": 0.0,
-    "rightProj": 103.26,
+    "rightProj": 92.21,
     "shotgun": [],
     "leftActive": [
      {
@@ -143282,17 +143282,6 @@
       "game": "Sun 8:20 pm @ Sea"
      },
      {
-      "player": "R. Rice",
-      "pos": "WR",
-      "slot": "WR",
-      "rem": 11.05,
-      "state": "pending",
-      "pts": 0.0,
-      "proj": 11.05,
-      "live": 11.05,
-      "game": "Sun 8:20 pm @ Sea"
-     },
-     {
       "player": "G. Bernard",
       "pos": "WR",
       "slot": "WR",
@@ -143359,7 +143348,7 @@
       "game": "Sun 8:20 pm @ Sea"
      }
     ],
-    "leftPct": 56,
+    "leftPct": 66,
     "leftRem": 9,
     "rightRem": 9
    },
