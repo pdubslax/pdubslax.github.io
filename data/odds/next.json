@@ -1,7 +1,7 @@
 {
  "v": 2,
  "week": 8,
- "ts": "2026-10-23T22:02:05+00:00",
+ "ts": "2026-10-23T22:42:04+00:00",
  "matchups": [
   {
    "id": "1v6",
@@ -486,7 +486,7 @@
      "locked": false
     },
     {
-     "player": "Saints",
+     "player": "N. Orleans",
      "pos": "DEF",
      "team": "NO",
      "pts": 0.0,
@@ -656,7 +656,7 @@
      "game": "Sun 8:20 pm @ Was"
     },
     {
-     "player": "Titans",
+     "player": "Tennessee",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 3.46,
@@ -774,7 +774,7 @@
      "game": "Sun 1:00 pm vs Cle"
     },
     {
-     "player": "Seahawks",
+     "player": "Seattle",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 6.92,
@@ -853,7 +853,7 @@
      "game": "Sun 1:00 pm vs Bal"
     },
     {
-     "player": "Steelers",
+     "player": "Pittsburgh",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 10.39,
