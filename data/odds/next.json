@@ -1,7 +1,7 @@
 {
  "v": 2,
  "week": 8,
- "ts": "2026-10-23T03:13:10+00:00",
+ "ts": "2026-10-23T03:34:09+00:00",
  "matchups": [
   {
    "id": "1v6",
@@ -10,7 +10,7 @@
    "right": "MELONHEADS (daniel)",
    "rightRec": "3-3",
    "leftScore": 0.0,
-   "leftProj": 99.99,
+   "leftProj": 100.01,
    "rightScore": 0.0,
    "rightProj": 69.5,
    "leftPct": 76,
@@ -54,7 +54,7 @@
      "locked": false
     },
     {
-     "player": "Houston",
+     "player": "Texans",
      "pos": "DEF",
      "team": "Hou",
      "pts": 0.0,
@@ -93,22 +93,22 @@
      "player": "M. Golden",
      "pos": "WR",
      "slot": "WR",
-     "rem": 13.65,
+     "rem": 13.66,
      "state": "pending",
      "pts": 0.0,
-     "proj": 13.65,
-     "live": 13.65,
+     "proj": 13.66,
+     "live": 13.66,
      "game": "Thu 8:15 pm vs Car"
     },
     {
      "player": "J. Coker",
      "pos": "WR",
      "slot": "WR",
-     "rem": 13.06,
+     "rem": 13.07,
      "state": "pending",
      "pts": 0.0,
-     "proj": 13.06,
-     "live": 13.06,
+     "proj": 13.07,
+     "live": 13.07,
      "game": "Thu 8:15 pm @ GB"
     },
     {
@@ -213,7 +213,7 @@
      "game": "Sun 1:00 pm vs Atl"
     },
     {
-     "player": "Carolina",
+     "player": "Panthers",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 4.95,
@@ -234,7 +234,7 @@
    "leftScore": 0.0,
    "leftProj": 97.78,
    "rightScore": 0.0,
-   "rightProj": 92.2,
+   "rightProj": 92.22,
    "leftPct": 55,
    "leftRem": 6,
    "rightRem": 8,
@@ -361,11 +361,11 @@
      "player": "J. Love",
      "pos": "QB",
      "slot": "QB",
-     "rem": 20.58,
+     "rem": 20.6,
      "state": "pending",
      "pts": 0.0,
-     "proj": 20.58,
-     "live": 20.58,
+     "proj": 20.6,
+     "live": 20.6,
      "game": "Thu 8:15 pm vs Car"
     },
     {
@@ -454,9 +454,9 @@
    "right": "Alex Michael Pagels",
    "rightRec": "1-5",
    "leftScore": 0.0,
-   "leftProj": 125.58,
+   "leftProj": 125.6,
    "rightScore": 0.0,
-   "rightProj": 89.11,
+   "rightProj": 89.1,
    "leftPct": 78,
    "leftRem": 8,
    "rightRem": 7,
@@ -547,11 +547,11 @@
      "player": "T. McMillan",
      "pos": "WR",
      "slot": "WR",
-     "rem": 13.56,
+     "rem": 13.58,
      "state": "pending",
      "pts": 0.0,
-     "proj": 13.56,
-     "live": 13.56,
+     "proj": 13.58,
+     "live": 13.58,
      "game": "Thu 8:15 pm @ GB"
     },
     {
@@ -604,11 +604,11 @@
      "player": "J. Jacobs",
      "pos": "RB",
      "slot": "RB",
-     "rem": 15.06,
+     "rem": 15.05,
      "state": "pending",
      "pts": 0.0,
-     "proj": 15.06,
-     "live": 15.06,
+     "proj": 15.05,
+     "live": 15.05,
      "game": "Thu 8:15 pm vs Car"
     },
     {
@@ -894,7 +894,7 @@
    "leftScore": 0.0,
    "leftProj": 135.12,
    "rightScore": 0.0,
-   "rightProj": 106.0,
+   "rightProj": 105.99,
    "leftPct": 71,
    "leftRem": 8,
    "rightRem": 8,
@@ -992,7 +992,7 @@
      "game": "Sun 1:00 pm @ TB"
     },
     {
-     "player": "Bengals",
+     "player": "Cincinnati",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 10.88,
@@ -1041,11 +1041,11 @@
      "player": "C. Hubbard",
      "pos": "RB",
      "slot": "RB",
-     "rem": 16.86,
+     "rem": 16.85,
      "state": "pending",
      "pts": 0.0,
-     "proj": 16.86,
-     "live": 16.86,
+     "proj": 16.85,
+     "live": 16.85,
      "game": "Thu 8:15 pm @ GB"
     },
     {
@@ -1093,7 +1093,7 @@
      "game": "Mon 8:15 pm @ Sea"
     },
     {
-     "player": "Colts",
+     "player": "Indianapolis",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 4.44,
