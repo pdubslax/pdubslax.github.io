@@ -142569,7 +142569,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-10-23T18:01:24+00:00",
+  "ts": "2026-10-23T18:21:36+00:00",
   "week": 7,
   "matchups": [
    {
@@ -142765,7 +142765,7 @@
     "leftScore": 31.54,
     "leftProj": 130.33,
     "rightScore": 0.0,
-    "rightProj": 121.51,
+    "rightProj": 122.35,
     "shotgun": [],
     "leftActive": [
      {
@@ -142862,11 +142862,11 @@
       "player": "B. Robinson",
       "pos": "RB",
       "slot": "RB",
-      "rem": 24.36,
+      "rem": 25.21,
       "state": "pending",
       "pts": 0.0,
-      "proj": 24.36,
-      "live": 24.36,
+      "proj": 25.21,
+      "live": 25.21,
       "game": "Sun 1:00 pm vs SF"
      },
      {
@@ -142884,11 +142884,11 @@
       "player": "G. Kittle",
       "pos": "TE",
       "slot": "TE",
-      "rem": 14.72,
+      "rem": 14.71,
       "state": "pending",
       "pts": 0.0,
-      "proj": 14.72,
-      "live": 14.72,
+      "proj": 14.71,
+      "live": 14.71,
       "game": "Sun 1:00 pm @ Atl"
      },
      {
@@ -142958,7 +142958,7 @@
       "game": "Sun 1:00 pm @ Car"
      }
     ],
-    "leftPct": 57,
+    "leftPct": 56,
     "leftRem": 8,
     "rightRem": 9
    },
@@ -143263,11 +143263,11 @@
       "player": "B. Purdy",
       "pos": "QB",
       "slot": "QB",
-      "rem": 22.96,
+      "rem": 22.95,
       "state": "pending",
       "pts": 0.0,
-      "proj": 22.96,
-      "live": 22.96,
+      "proj": 22.95,
+      "live": 22.95,
       "game": "Sun 1:00 pm @ Atl"
      },
      {
@@ -143318,11 +143318,11 @@
       "player": "K. Pitts Sr.",
       "pos": "TE",
       "slot": "TE",
-      "rem": 8.21,
+      "rem": 8.22,
       "state": "pending",
       "pts": 0.0,
-      "proj": 8.21,
-      "live": 8.21,
+      "proj": 8.22,
+      "live": 8.22,
       "game": "Sun 1:00 pm vs SF"
      },
      {
@@ -143372,7 +143372,7 @@
     "leftScore": 12.1,
     "leftProj": 100.51,
     "rightScore": 0.0,
-    "rightProj": 141.63,
+    "rightProj": 141.65,
     "shotgun": [],
     "leftActive": [
      {
@@ -143502,11 +143502,11 @@
       "player": "D. London",
       "pos": "WR",
       "slot": "WR",
-      "rem": 16.82,
+      "rem": 16.84,
       "state": "pending",
       "pts": 0.0,
-      "proj": 16.82,
-      "live": 16.82,
+      "proj": 16.84,
+      "live": 16.84,
       "game": "Sun 1:00 pm vs SF"
      },
      {
@@ -143565,9 +143565,9 @@
     "right": "Kiwis are better than mid",
     "rightRec": "4-2",
     "leftScore": 0.0,
-    "leftProj": 121.01,
+    "leftProj": 120.99,
     "rightScore": 0.0,
-    "rightProj": 124.65,
+    "rightProj": 124.64,
     "shotgun": [],
     "leftActive": [
      {
@@ -143596,11 +143596,11 @@
       "player": "S. Barkley",
       "pos": "RB",
       "slot": "RB",
-      "rem": 14.79,
+      "rem": 14.77,
       "state": "pending",
       "pts": 0.0,
-      "proj": 14.79,
-      "live": 14.79,
+      "proj": 14.77,
+      "live": 14.77,
       "game": "Mon 8:15 pm vs Dal"
      },
      {
@@ -143686,11 +143686,11 @@
       "player": "C. McCaffrey",
       "pos": "RB",
       "slot": "RB",
-      "rem": 20.34,
+      "rem": 20.33,
       "state": "pending",
       "pts": 0.0,
-      "proj": 20.34,
-      "live": 20.34,
+      "proj": 20.33,
+      "live": 20.33,
       "game": "Sun 1:00 pm @ Atl"
      },
      {
