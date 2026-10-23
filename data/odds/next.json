@@ -1,7 +1,7 @@
 {
  "v": 2,
  "week": 8,
- "ts": "2026-10-23T16:21:24+00:00",
+ "ts": "2026-10-23T17:01:25+00:00",
  "matchups": [
   {
    "id": "1v6",
@@ -675,13 +675,26 @@
    "right": "Tuten Brown",
    "rightRec": "4-2",
    "leftScore": 0.0,
-   "leftProj": 112.17,
+   "leftProj": 101.54,
    "rightScore": 0.0,
    "rightProj": 118.16,
-   "leftPct": 45,
-   "leftRem": 9,
+   "leftPct": 36,
+   "leftRem": 8,
    "rightRem": 9,
-   "shotgun": [],
+   "shotgun": [
+    {
+     "player": "J. Noel",
+     "pos": "WR",
+     "team": "Hou",
+     "pts": 0.0,
+     "game": "Bye",
+     "tag": null,
+     "state": "bye",
+     "slot": "W/R/T",
+     "manager": "Matthew Chen #4",
+     "locked": false
+    }
+   ],
    "leftActive": [
     {
      "player": "J. Chase",
@@ -726,17 +739,6 @@
      "proj": 15.04,
      "live": 15.04,
      "game": "Sun 1:00 pm @ NYJ"
-    },
-    {
-     "player": "T. Warren",
-     "pos": "TE",
-     "slot": "W/R/T",
-     "rem": 10.63,
-     "state": "pending",
-     "pts": 0.0,
-     "proj": 10.63,
-     "live": 10.63,
-     "game": "Sun 1:00 pm @ Jax"
     },
     {
      "player": "J. Sanders",
