@@ -142569,7 +142569,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-10-23T20:22:03+00:00",
+  "ts": "2026-10-23T20:42:09+00:00",
   "week": 7,
   "matchups": [
    {
@@ -142969,7 +142969,7 @@
     "right": "Sir this is a FF league",
     "rightRec": "2-4",
     "leftScore": 19.0,
-    "leftProj": 139.24,
+    "leftProj": 139.21,
     "rightScore": 34.1,
     "rightProj": 120.08,
     "shotgun": [],
@@ -143044,11 +143044,11 @@
       "player": "D. Boston",
       "pos": "WR",
       "slot": "WR",
-      "rem": 10.42,
+      "rem": 10.39,
       "state": "pending",
       "pts": 0.0,
-      "proj": 10.42,
-      "live": 10.42,
+      "proj": 10.39,
+      "live": 10.39,
       "game": "Sun 1:00 pm @ Ten"
      },
      {
@@ -143361,7 +143361,7 @@
     "leftScore": 12.1,
     "leftProj": 100.76,
     "rightScore": 0.0,
-    "rightProj": 142.6,
+    "rightProj": 142.57,
     "shotgun": [],
     "leftActive": [
      {
@@ -143535,11 +143535,11 @@
       "player": "Browns",
       "pos": "DEF",
       "slot": "DEF",
-      "rem": 10.52,
+      "rem": 10.49,
       "state": "pending",
       "pts": 0.0,
-      "proj": 10.52,
-      "live": 10.52,
+      "proj": 10.49,
+      "live": 10.49,
       "game": "Sun 1:00 pm @ Ten"
      }
     ],
@@ -143554,9 +143554,9 @@
     "right": "Kiwis are better than mid",
     "rightRec": "4-2",
     "leftScore": 0.0,
-    "leftProj": 121.33,
+    "leftProj": 121.3,
     "rightScore": 0.0,
-    "rightProj": 124.65,
+    "rightProj": 124.63,
     "shotgun": [],
     "leftActive": [
      {
@@ -143626,14 +143626,14 @@
       "game": "Sun 4:25 pm @ Det"
      },
      {
-      "player": "Tennessee",
+      "player": "Titans",
       "pos": "DEF",
       "slot": "DEF",
-      "rem": 10.2,
+      "rem": 10.17,
       "state": "pending",
       "pts": 0.0,
-      "proj": 10.2,
-      "live": 10.2,
+      "proj": 10.17,
+      "live": 10.17,
       "game": "Sun 1:00 pm vs Cle"
      },
      {
@@ -143730,15 +143730,15 @@
       "player": "C. Tate",
       "pos": "WR",
       "slot": "W/R/T",
-      "rem": 10.46,
+      "rem": 10.44,
       "state": "pending",
       "pts": 0.0,
-      "proj": 10.46,
-      "live": 10.46,
+      "proj": 10.44,
+      "live": 10.44,
       "game": "Sun 1:00 pm vs Cle"
      },
      {
-      "player": "N. York",
+      "player": "Jets",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 10.35,
