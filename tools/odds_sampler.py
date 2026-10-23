@@ -233,7 +233,9 @@ async def main(out_dir):
     underway = any(a.get("state") in ("live", "final") for r in good for k in ("leftActive", "rightActive", "shotgun") for a in r.get(k, []))
     any_live = any(a.get("state") == "live" for r in good for k in ("leftActive", "rightActive") for a in r.get(k, []))
     # Record while a game is on, or while a window is open once the week is underway; idle runs between windows only refresh the preview.
-    if any_live or (in_window() and underway):
+    # Also record one closing sample when the previous sample still had players live, so finals replace "4th 0:00" readings.
+    last_had_live = bool(hist["samples"]) and any(a.get("state") == "live" for r in hist["samples"][-1]["matchups"] for k in ("leftActive", "rightActive") for a in r.get(k, []))
+    if any_live or last_had_live or (in_window() and underway):
         hist["samples"].append(snapshot); hist.pop("preview", None)
     else:
         hist["preview"] = snapshot
