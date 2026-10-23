@@ -141360,7 +141360,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-10-23T12:51:13+00:00",
+  "ts": "2026-10-23T13:11:25+00:00",
   "week": 7,
   "matchups": [
    {
@@ -141556,7 +141556,7 @@
     "leftScore": 31.54,
     "leftProj": 129.9,
     "rightScore": 0.0,
-    "rightProj": 118.73,
+    "rightProj": 118.74,
     "shotgun": [],
     "leftActive": [
      {
@@ -141719,12 +141719,12 @@
       "player": "D. Vele",
       "pos": "WR",
       "slot": "W/R/T",
-      "rem": 9.68,
+      "rem": 9.69,
       "state": "pending",
       "pts": 0.0,
-      "proj": 9.68,
-      "live": 9.68,
-      "game": "Sun 9:30 am vs Pit"
+      "proj": 9.69,
+      "live": 9.69,
+      "game": "Sun 9:30 am vs Pit"
      },
      {
       "player": "Panthers",
@@ -141760,7 +141760,7 @@
     "right": "Sir this is a FF league",
     "rightRec": "2-4",
     "leftScore": 19.0,
-    "leftProj": 138.62,
+    "leftProj": 138.64,
     "rightScore": 34.1,
     "rightProj": 120.1,
     "shotgun": [],
@@ -141846,12 +141846,12 @@
       "player": "Saints",
       "pos": "DEF",
       "slot": "DEF",
-      "rem": 6.13,
+      "rem": 6.15,
       "state": "pending",
       "pts": 0.0,
-      "proj": 6.13,
-      "live": 6.13,
-      "game": "Sun 9:30 am vs Pit"
+      "proj": 6.15,
+      "live": 6.15,
+      "game": "Sun 9:30 am vs Pit"
      }
     ],
     "rightActive": [
@@ -141944,21 +141944,21 @@
     "right": "RosterMogged",
     "rightRec": "3-3",
     "leftScore": 0.0,
-    "leftProj": 112.0,
+    "leftProj": 111.97,
     "rightScore": 0.0,
-    "rightProj": 104.44,
+    "rightProj": 104.43,
     "shotgun": [],
     "leftActive": [
      {
       "player": "A. Rodgers",
       "pos": "QB",
       "slot": "QB",
-      "rem": 20.14,
+      "rem": 20.11,
       "state": "pending",
       "pts": 0.0,
-      "proj": 20.14,
-      "live": 20.14,
-      "game": "Sun 9:30 am @ NO"
+      "proj": 20.11,
+      "live": 20.11,
+      "game": "Sun 9:30 am @ NO"
      },
      {
       "player": "J. Chase",
@@ -142024,7 +142024,7 @@
       "pts": 0.0,
       "proj": 8.78,
       "live": 8.78,
-      "game": "Sun 9:30 am @ NO"
+      "game": "Sun 9:30 am @ NO"
      },
      {
       "player": "T. Warren",
@@ -142087,12 +142087,12 @@
       "player": "G. Bernard",
       "pos": "WR",
       "slot": "WR",
-      "rem": 11.22,
+      "rem": 11.21,
       "state": "pending",
       "pts": 0.0,
-      "proj": 11.22,
-      "live": 11.22,
-      "game": "Sun 9:30 am @ NO"
+      "proj": 11.21,
+      "live": 11.21,
+      "game": "Sun 9:30 am @ NO"
      },
      {
       "player": "M. Gay",
@@ -142163,7 +142163,7 @@
     "leftScore": 12.1,
     "leftProj": 100.09,
     "rightScore": 0.0,
-    "rightProj": 141.21,
+    "rightProj": 141.19,
     "shotgun": [],
     "leftActive": [
      {
@@ -142271,12 +142271,12 @@
       "player": "J. Warren",
       "pos": "RB",
       "slot": "RB",
-      "rem": 17.03,
+      "rem": 17.01,
       "state": "pending",
       "pts": 0.0,
-      "proj": 17.03,
-      "live": 17.03,
-      "game": "Sun 9:30 am @ NO"
+      "proj": 17.01,
+      "live": 17.01,
+      "game": "Sun 9:30 am @ NO"
      },
      {
       "player": "B. Irving",
@@ -142358,7 +142358,7 @@
     "leftScore": 0.0,
     "leftProj": 121.75,
     "rightScore": 0.0,
-    "rightProj": 125.24,
+    "rightProj": 125.23,
     "shotgun": [],
     "leftActive": [
      {
@@ -142376,12 +142376,12 @@
       "player": "C. Olave",
       "pos": "WR",
       "slot": "WR",
-      "rem": 15.78,
+      "rem": 15.8,
       "state": "pending",
       "pts": 0.0,
-      "proj": 15.78,
-      "live": 15.78,
-      "game": "Sun 9:30 am vs Pit"
+      "proj": 15.8,
+      "live": 15.8,
+      "game": "Sun 9:30 am vs Pit"
      },
      {
       "player": "S. Barkley",
@@ -142453,12 +142453,12 @@
       "player": "C. Boswell",
       "pos": "K",
       "slot": "K",
-      "rem": 9.56,
+      "rem": 9.54,
       "state": "pending",
       "pts": 0.0,
-      "proj": 9.56,
-      "live": 9.56,
-      "game": "Sun 9:30 am @ NO"
+      "proj": 9.54,
+      "live": 9.54,
+      "game": "Sun 9:30 am @ NO"
      }
     ],
     "rightActive": [
@@ -142510,12 +142510,12 @@
       "player": "DK Metcalf",
       "pos": "WR",
       "slot": "WR",
-      "rem": 12.52,
+      "rem": 12.51,
       "state": "pending",
       "pts": 0.0,
-      "proj": 12.52,
-      "live": 12.52,
-      "game": "Sun 9:30 am @ NO"
+      "proj": 12.51,
+      "live": 12.51,
+      "game": "Sun 9:30 am @ NO"
      },
      {
       "player": "A. Jones Sr.",
