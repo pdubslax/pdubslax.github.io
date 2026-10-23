@@ -1,7 +1,7 @@
 {
  "v": 2,
  "week": 8,
- "ts": "2026-10-23T14:21:26+00:00",
+ "ts": "2026-10-23T15:01:25+00:00",
  "matchups": [
   {
    "id": "1v6",
@@ -10,7 +10,7 @@
    "right": "MELONHEADS (daniel)",
    "rightRec": "3-3",
    "leftScore": 0.0,
-   "leftProj": 100.03,
+   "leftProj": 100.05,
    "rightScore": 0.0,
    "rightProj": 69.52,
    "leftPct": 76,
@@ -54,7 +54,7 @@
      "locked": false
     },
     {
-     "player": "Houston",
+     "player": "Texans",
      "pos": "DEF",
      "team": "Hou",
      "pts": 0.0,
@@ -71,11 +71,11 @@
      "player": "J. Smith-Njigba",
      "pos": "WR",
      "slot": "W/R/T",
-     "rem": 22.32,
+     "rem": 22.34,
      "state": "pending",
      "pts": 0.0,
-     "proj": 22.32,
-     "live": 22.32,
+     "proj": 22.34,
+     "live": 22.34,
      "game": "Mon 8:15 pm vs Chi"
     },
     {
@@ -213,7 +213,7 @@
      "game": "Sun 1:00 pm vs Atl"
     },
     {
-     "player": "Carolina",
+     "player": "Panthers",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 4.95,
@@ -232,7 +232,7 @@
    "right": "Sir this is a FF league",
    "rightRec": "2-4",
    "leftScore": 0.0,
-   "leftProj": 97.72,
+   "leftProj": 97.73,
    "rightScore": 0.0,
    "rightProj": 92.2,
    "leftPct": 55,
@@ -293,11 +293,11 @@
      "player": "D. Maye",
      "pos": "QB",
      "slot": "QB",
-     "rem": 24.66,
+     "rem": 24.67,
      "state": "pending",
      "pts": 0.0,
-     "proj": 24.66,
-     "live": 24.66,
+     "proj": 24.67,
+     "live": 24.67,
      "game": "Sun 4:25 pm @ Mia"
     },
     {
@@ -383,11 +383,11 @@
      "player": "R. Stevenson",
      "pos": "RB",
      "slot": "RB",
-     "rem": 11.76,
+     "rem": 11.75,
      "state": "pending",
      "pts": 0.0,
-     "proj": 11.76,
-     "live": 11.76,
+     "proj": 11.75,
+     "live": 11.75,
      "game": "Sun 4:25 pm @ Mia"
     },
     {
@@ -416,11 +416,11 @@
      "player": "H. Henry",
      "pos": "TE",
      "slot": "TE",
-     "rem": 8.57,
+     "rem": 8.58,
      "state": "pending",
      "pts": 0.0,
-     "proj": 8.57,
-     "live": 8.57,
+     "proj": 8.58,
+     "live": 8.58,
      "game": "Sun 4:25 pm @ Mia"
     },
     {
@@ -454,7 +454,7 @@
    "right": "Alex Michael Pagels",
    "rightRec": "1-5",
    "leftScore": 0.0,
-   "leftProj": 125.46,
+   "leftProj": 125.43,
    "rightScore": 0.0,
    "rightProj": 89.11,
    "leftPct": 78,
@@ -558,11 +558,11 @@
      "player": "D. Swift",
      "pos": "RB",
      "slot": "RB",
-     "rem": 13.0,
+     "rem": 12.97,
      "state": "pending",
      "pts": 0.0,
-     "proj": 13.0,
-     "live": 13.0,
+     "proj": 12.97,
+     "live": 12.97,
      "game": "Mon 8:15 pm @ Sea"
     },
     {
@@ -675,9 +675,9 @@
    "right": "Tuten Brown",
    "rightRec": "4-2",
    "leftScore": 0.0,
-   "leftProj": 112.24,
+   "leftProj": 112.26,
    "rightScore": 0.0,
-   "rightProj": 118.13,
+   "rightProj": 118.16,
    "leftPct": 45,
    "leftRem": 9,
    "rightRem": 9,
@@ -775,11 +775,11 @@
      "player": "Seahawks",
      "pos": "DEF",
      "slot": "DEF",
-     "rem": 6.9,
+     "rem": 6.92,
      "state": "pending",
      "pts": 0.0,
-     "proj": 6.9,
-     "live": 6.9,
+     "proj": 6.92,
+     "live": 6.92,
      "game": "Mon 8:15 pm vs Chi"
     }
    ],
@@ -821,11 +821,11 @@
      "player": "A.J. Brown",
      "pos": "WR",
      "slot": "WR",
-     "rem": 14.12,
+     "rem": 14.15,
      "state": "pending",
      "pts": 0.0,
-     "proj": 14.12,
-     "live": 14.12,
+     "proj": 14.15,
+     "live": 14.15,
      "game": "Sun 4:25 pm @ Mia"
     },
     {
@@ -894,7 +894,7 @@
    "leftScore": 0.0,
    "leftProj": 135.16,
    "rightScore": 0.0,
-   "rightProj": 105.91,
+   "rightProj": 105.95,
    "leftPct": 71,
    "leftRem": 8,
    "rightRem": 8,
@@ -992,7 +992,7 @@
      "game": "Sun 1:00 pm @ TB"
     },
     {
-     "player": "Bengals",
+     "player": "Cincinnati",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 10.88,
@@ -1019,11 +1019,11 @@
      "player": "C. Williams",
      "pos": "QB",
      "slot": "QB",
-     "rem": 20.42,
+     "rem": 20.38,
      "state": "pending",
      "pts": 0.0,
-     "proj": 20.42,
-     "live": 20.42,
+     "proj": 20.38,
+     "live": 20.38,
      "game": "Mon 8:15 pm @ Sea"
     },
     {
@@ -1063,37 +1063,37 @@
      "player": "O. Gordon II",
      "pos": "RB",
      "slot": "RB",
-     "rem": 11.7,
+     "rem": 11.72,
      "state": "pending",
      "pts": 0.0,
-     "proj": 11.7,
-     "live": 11.7,
+     "proj": 11.72,
+     "live": 11.72,
      "game": "Sun 4:25 pm vs NE"
     },
     {
      "player": "J. Myers",
      "pos": "K",
      "slot": "K",
-     "rem": 9.93,
+     "rem": 9.96,
      "state": "pending",
      "pts": 0.0,
-     "proj": 9.93,
-     "live": 9.93,
+     "proj": 9.96,
+     "live": 9.96,
      "game": "Mon 8:15 pm vs Chi"
     },
     {
      "player": "C. Loveland",
      "pos": "TE",
      "slot": "TE",
-     "rem": 8.79,
+     "rem": 8.78,
      "state": "pending",
      "pts": 0.0,
-     "proj": 8.79,
-     "live": 8.79,
+     "proj": 8.78,
+     "live": 8.78,
      "game": "Mon 8:15 pm @ Sea"
     },
     {
-     "player": "Colts",
+     "player": "Indianapolis",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 4.44,
@@ -1112,7 +1112,7 @@
    "right": "Kiwis are better than mid",
    "rightRec": "4-2",
    "leftScore": 0.0,
-   "leftProj": 81.72,
+   "leftProj": 81.73,
    "rightScore": 0.0,
    "rightProj": 97.29,
    "leftPct": 35,
@@ -1182,11 +1182,11 @@
      "player": "Z. Charbonnet",
      "pos": "RB",
      "slot": "RB",
-     "rem": 9.11,
+     "rem": 9.12,
      "state": "pending",
      "pts": 0.0,
-     "proj": 9.11,
-     "live": 9.11,
+     "proj": 9.12,
+     "live": 9.12,
      "game": "Mon 8:15 pm vs Chi"
     },
     {
@@ -1223,7 +1223,7 @@
      "game": "Sun 1:00 pm vs LV"
     },
     {
-     "player": "Chiefs",
+     "player": "K. City",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 6.64,
@@ -1313,7 +1313,7 @@
      "game": "Sun 4:25 pm vs KC"
     },
     {
-     "player": "Jets",
+     "player": "N. York",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 7.11,
