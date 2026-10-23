@@ -142569,7 +142569,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-10-23T19:22:12+00:00",
+  "ts": "2026-10-23T19:42:04+00:00",
   "week": 7,
   "matchups": [
    {
@@ -142579,31 +142579,31 @@
     "right": "Zen Buddha Boys 🪷💨",
     "rightRec": "3-3",
     "leftScore": 1.3,
-    "leftProj": 114.3,
+    "leftProj": 114.27,
     "rightScore": 42.72,
-    "rightProj": 139.95,
+    "rightProj": 139.92,
     "shotgun": [],
     "leftActive": [
      {
       "player": "M. Stafford",
       "pos": "QB",
       "slot": "QB",
-      "rem": 21.4,
+      "rem": 21.38,
       "state": "pending",
       "pts": 0.0,
-      "proj": 21.4,
-      "live": 21.4,
+      "proj": 21.38,
+      "live": 21.38,
       "game": "Sun 4:25 pm @ LV"
      },
      {
       "player": "J. Smith-Njigba",
       "pos": "WR",
       "slot": "W/R/T",
-      "rem": 21.3,
+      "rem": 21.29,
       "state": "pending",
       "pts": 0.0,
-      "proj": 21.3,
-      "live": 21.3,
+      "proj": 21.29,
+      "live": 21.29,
       "game": "Sun 8:20 pm vs KC"
      },
      {
@@ -142711,11 +142711,11 @@
       "player": "N. Collins",
       "pos": "WR",
       "slot": "WR",
-      "rem": 16.22,
+      "rem": 16.19,
       "state": "pending",
       "pts": 0.0,
-      "proj": 16.22,
-      "live": 16.22,
+      "proj": 16.19,
+      "live": 16.19,
       "game": "Sun 1:00 pm vs NYG"
      },
      {
@@ -142763,20 +142763,20 @@
     "right": "MELONHEADS (daniel)",
     "rightRec": "3-3",
     "leftScore": 31.54,
-    "leftProj": 130.33,
+    "leftProj": 130.17,
     "rightScore": 0.0,
-    "rightProj": 121.35,
+    "rightProj": 122.06,
     "shotgun": [],
     "leftActive": [
      {
       "player": "D. Henry",
       "pos": "RB",
       "slot": "RB",
-      "rem": 19.36,
+      "rem": 19.2,
       "state": "pending",
       "pts": 0.0,
-      "proj": 19.36,
-      "live": 19.36,
+      "proj": 19.2,
+      "live": 19.2,
       "game": "Sun 1:00 pm vs Cin"
      },
      {
@@ -142862,22 +142862,22 @@
       "player": "B. Robinson",
       "pos": "RB",
       "slot": "RB",
-      "rem": 24.53,
+      "rem": 25.06,
       "state": "pending",
       "pts": 0.0,
-      "proj": 24.53,
-      "live": 24.53,
+      "proj": 25.06,
+      "live": 25.06,
       "game": "Sun 1:00 pm vs SF"
      },
      {
       "player": "C.J. Stroud",
       "pos": "QB",
       "slot": "QB",
-      "rem": 22.19,
+      "rem": 22.37,
       "state": "pending",
       "pts": 0.0,
-      "proj": 22.19,
-      "live": 22.19,
+      "proj": 22.37,
+      "live": 22.37,
       "game": "Sun 1:00 pm vs NYG"
      },
      {
@@ -142969,9 +142969,9 @@
     "right": "Sir this is a FF league",
     "rightRec": "2-4",
     "leftScore": 19.0,
-    "leftProj": 139.38,
+    "leftProj": 139.22,
     "rightScore": 34.1,
-    "rightProj": 120.09,
+    "rightProj": 120.08,
     "shotgun": [],
     "leftActive": [
      {
@@ -142989,22 +142989,22 @@
       "player": "K. Williams",
       "pos": "RB",
       "slot": "RB",
-      "rem": 20.17,
+      "rem": 20.13,
       "state": "pending",
       "pts": 0.0,
-      "proj": 20.17,
-      "live": 20.17,
+      "proj": 20.13,
+      "live": 20.13,
       "game": "Sun 4:25 pm @ LV"
      },
      {
       "player": "P. Mahomes",
       "pos": "QB",
       "slot": "QB",
-      "rem": 19.29,
+      "rem": 19.17,
       "state": "pending",
       "pts": 0.0,
-      "proj": 19.29,
-      "live": 19.29,
+      "proj": 19.17,
+      "live": 19.17,
       "game": "Sun 8:20 pm @ Sea"
      },
      {
@@ -143112,11 +143112,11 @@
       "player": "B. Corum",
       "pos": "RB",
       "slot": "W/R/T",
-      "rem": 9.1,
+      "rem": 9.09,
       "state": "pending",
       "pts": 0.0,
-      "proj": 9.1,
-      "live": 9.1,
+      "proj": 9.09,
+      "live": 9.09,
       "game": "Sun 4:25 pm @ LV"
      },
      {
@@ -143142,7 +143142,7 @@
       "game": "Sun 1:00 pm vs Mia"
      }
     ],
-    "leftPct": 67,
+    "leftPct": 66,
     "leftRem": 8,
     "rightRem": 7
    },
@@ -143153,9 +143153,9 @@
     "right": "RosterMogged",
     "rightRec": "3-3",
     "leftScore": 0.0,
-    "leftProj": 109.2,
+    "leftProj": 109.24,
     "rightScore": 0.0,
-    "rightProj": 92.69,
+    "rightProj": 92.62,
     "shotgun": [],
     "leftActive": [
      {
@@ -143195,11 +143195,11 @@
       "player": "A. Jeanty",
       "pos": "RB",
       "slot": "RB",
-      "rem": 15.25,
+      "rem": 15.28,
       "state": "pending",
       "pts": 0.0,
-      "proj": 15.25,
-      "live": 15.25,
+      "proj": 15.28,
+      "live": 15.28,
       "game": "Sun 4:25 pm vs LAR"
      },
      {
@@ -143217,11 +143217,11 @@
       "player": "T. Tucker",
       "pos": "WR",
       "slot": "WR",
-      "rem": 8.99,
+      "rem": 9.01,
       "state": "pending",
       "pts": 0.0,
-      "proj": 8.99,
-      "live": 8.99,
+      "proj": 9.01,
+      "live": 9.01,
       "game": "Sun 4:25 pm vs LAR"
      },
      {
@@ -143250,11 +143250,11 @@
       "player": "J. Noel",
       "pos": "WR",
       "slot": "W/R/T",
-      "rem": 6.26,
+      "rem": 6.25,
       "state": "pending",
       "pts": 0.0,
-      "proj": 6.26,
-      "live": 6.26,
+      "proj": 6.25,
+      "live": 6.25,
       "game": "Sun 1:00 pm vs NYG"
      }
     ],
@@ -143274,11 +143274,11 @@
       "player": "K. Walker III",
       "pos": "RB",
       "slot": "RB",
-      "rem": 20.52,
+      "rem": 20.44,
       "state": "pending",
       "pts": 0.0,
-      "proj": 20.52,
-      "live": 20.52,
+      "proj": 20.44,
+      "live": 20.44,
       "game": "Sun 8:20 pm @ Sea"
      },
      {
@@ -143296,22 +143296,22 @@
       "player": "M. Gay",
       "pos": "K",
       "slot": "K",
-      "rem": 8.99,
+      "rem": 9.01,
       "state": "pending",
       "pts": 0.0,
-      "proj": 8.99,
-      "live": 8.99,
+      "proj": 9.01,
+      "live": 9.01,
       "game": "Sun 4:25 pm vs LAR"
      },
      {
       "player": "K. Pitts Sr.",
       "pos": "TE",
       "slot": "TE",
-      "rem": 8.18,
+      "rem": 8.17,
       "state": "pending",
       "pts": 0.0,
-      "proj": 8.18,
-      "live": 8.18,
+      "proj": 8.17,
+      "live": 8.17,
       "game": "Sun 1:00 pm vs SF"
      },
      {
@@ -143359,9 +143359,9 @@
     "right": "James Ray Ervin Yonts",
     "rightRec": "3-3",
     "leftScore": 12.1,
-    "leftProj": 100.81,
+    "leftProj": 100.76,
     "rightScore": 0.0,
-    "rightProj": 142.61,
+    "rightProj": 142.57,
     "shotgun": [],
     "leftActive": [
      {
@@ -143390,11 +143390,11 @@
       "player": "W. Marks",
       "pos": "RB",
       "slot": "RB",
-      "rem": 15.56,
+      "rem": 15.51,
       "state": "pending",
       "pts": 0.0,
-      "proj": 15.56,
-      "live": 15.56,
+      "proj": 15.51,
+      "live": 15.51,
       "game": "Sun 1:00 pm vs NYG"
      },
      {
@@ -143447,11 +143447,11 @@
       "player": "P. Nacua",
       "pos": "WR",
       "slot": "WR",
-      "rem": 22.36,
+      "rem": 22.35,
       "state": "pending",
       "pts": 0.0,
-      "proj": 22.36,
-      "live": 22.36,
+      "proj": 22.35,
+      "live": 22.35,
       "game": "Sun 4:25 pm @ LV"
      },
      {
@@ -143513,11 +143513,11 @@
       "player": "T. Kelce",
       "pos": "TE",
       "slot": "TE",
-      "rem": 11.17,
+      "rem": 11.14,
       "state": "pending",
       "pts": 0.0,
-      "proj": 11.17,
-      "live": 11.17,
+      "proj": 11.14,
+      "live": 11.14,
       "game": "Sun 8:20 pm @ Sea"
      },
      {
@@ -143556,7 +143556,7 @@
     "leftScore": 0.0,
     "leftProj": 120.94,
     "rightScore": 0.0,
-    "rightProj": 124.64,
+    "rightProj": 124.67,
     "shotgun": [],
     "leftActive": [
      {
@@ -143686,11 +143686,11 @@
       "player": "B. Bowers",
       "pos": "TE",
       "slot": "TE",
-      "rem": 14.97,
+      "rem": 15.0,
       "state": "pending",
       "pts": 0.0,
-      "proj": 14.97,
-      "live": 14.97,
+      "proj": 15.0,
+      "live": 15.0,
       "game": "Sun 4:25 pm vs LAR"
      },
      {
