@@ -142569,7 +142569,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-10-24T20:46:07+00:00",
+  "ts": "2026-10-24T21:06:15+00:00",
   "week": 7,
   "matchups": [
    {
@@ -142765,7 +142765,7 @@
     "leftScore": 31.54,
     "leftProj": 133.91,
     "rightScore": 0.0,
-    "rightProj": 108.35,
+    "rightProj": 108.36,
     "shotgun": [],
     "leftActive": [
      {
@@ -142895,11 +142895,11 @@
       "player": "G. Pickens",
       "pos": "WR",
       "slot": "WR",
-      "rem": 12.62,
+      "rem": 12.63,
       "state": "pending",
       "pts": 0.0,
-      "proj": 12.62,
-      "live": 12.62,
+      "proj": 12.63,
+      "live": 12.63,
       "game": "Mon 8:15 pm @ Phi"
      },
      {
@@ -143142,7 +143142,7 @@
     "right": "RosterMogged",
     "rightRec": "3-3",
     "leftScore": 0.0,
-    "leftProj": 111.3,
+    "leftProj": 111.34,
     "rightScore": 0.0,
     "rightProj": 104.08,
     "shotgun": [],
@@ -143173,11 +143173,11 @@
       "player": "J. Williams",
       "pos": "RB",
       "slot": "RB",
-      "rem": 16.8,
+      "rem": 16.84,
       "state": "pending",
       "pts": 0.0,
-      "proj": 16.8,
-      "live": 16.8,
+      "proj": 16.84,
+      "live": 16.84,
       "game": "Mon 8:15 pm @ Phi"
      },
      {
@@ -143361,7 +143361,7 @@
     "leftScore": 12.1,
     "leftProj": 102.12,
     "rightScore": 0.0,
-    "rightProj": 143.18,
+    "rightProj": 143.22,
     "shotgun": [],
     "leftActive": [
      {
@@ -143458,11 +143458,11 @@
       "player": "D. Prescott",
       "pos": "QB",
       "slot": "QB",
-      "rem": 20.45,
+      "rem": 20.48,
       "state": "pending",
       "pts": 0.0,
-      "proj": 20.45,
-      "live": 20.45,
+      "proj": 20.48,
+      "live": 20.48,
       "game": "Mon 8:15 pm @ Phi"
      },
      {
@@ -143502,11 +143502,11 @@
       "player": "C. Lamb",
       "pos": "WR",
       "slot": "WR",
-      "rem": 16.76,
+      "rem": 16.77,
       "state": "pending",
       "pts": 0.0,
-      "proj": 16.76,
-      "live": 16.76,
+      "proj": 16.77,
+      "live": 16.77,
       "game": "Mon 8:15 pm @ Phi"
      },
      {
