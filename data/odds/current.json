@@ -142569,7 +142569,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-10-24T07:24:09+00:00",
+  "ts": "2026-10-24T07:43:58+00:00",
   "week": 7,
   "matchups": [
    {
@@ -143372,7 +143372,7 @@
     "leftScore": 12.1,
     "leftProj": 100.73,
     "rightScore": 0.0,
-    "rightProj": 142.96,
+    "rightProj": 142.95,
     "shotgun": [],
     "leftActive": [
      {
@@ -143524,11 +143524,11 @@
       "player": "T. Kelce",
       "pos": "TE",
       "slot": "TE",
-      "rem": 11.36,
+      "rem": 11.35,
       "state": "pending",
       "pts": 0.0,
-      "proj": 11.36,
-      "live": 11.36,
+      "proj": 11.35,
+      "live": 11.35,
       "game": "Sun 8:20 pm @ Sea"
      },
      {
