@@ -142569,7 +142569,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-10-24T05:43:58+00:00",
+  "ts": "2026-10-24T06:04:08+00:00",
   "week": 7,
   "matchups": [
    {
@@ -143431,7 +143431,7 @@
       "game": "Mon 8:15 pm @ Phi"
      },
      {
-      "player": "Vikings",
+      "player": "Minnesota",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 9.46,
@@ -143543,7 +143543,7 @@
       "game": "Sun 1:00 pm vs NYG"
      },
      {
-      "player": "Browns",
+      "player": "Cleveland",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 10.56,
@@ -143637,7 +143637,7 @@
       "game": "Sun 4:25 pm @ Det"
      },
      {
-      "player": "Titans",
+      "player": "Tennessee",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 10.15,
@@ -143749,7 +143749,7 @@
       "game": "Sun 1:00 pm vs Cle"
      },
      {
-      "player": "Jets",
+      "player": "N. York",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 10.34,

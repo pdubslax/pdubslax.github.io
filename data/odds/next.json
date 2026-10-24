@@ -1,7 +1,7 @@
 {
  "v": 2,
  "week": 8,
- "ts": "2026-10-24T05:23:59+00:00",
+ "ts": "2026-10-24T06:03:57+00:00",
  "matchups": [
   {
    "id": "1v6",
@@ -10,7 +10,7 @@
    "right": "MELONHEADS (daniel)",
    "rightRec": "3-3",
    "leftScore": 0.0,
-   "leftProj": 99.99,
+   "leftProj": 100.09,
    "rightScore": 0.0,
    "rightProj": 69.28,
    "leftPct": 76,
@@ -126,11 +126,11 @@
      "player": "J.K. Dobbins",
      "pos": "RB",
      "slot": "RB",
-     "rem": 9.69,
+     "rem": 9.79,
      "state": "pending",
      "pts": 0.0,
-     "proj": 9.69,
-     "live": 9.69,
+     "proj": 9.79,
+     "live": 9.79,
      "game": "Sun 4:25 pm vs KC"
     },
     {
@@ -232,7 +232,7 @@
    "right": "Sir this is a FF league",
    "rightRec": "2-4",
    "leftScore": 0.0,
-   "leftProj": 97.76,
+   "leftProj": 97.64,
    "rightScore": 0.0,
    "rightProj": 92.17,
    "leftPct": 55,
@@ -348,11 +348,11 @@
      "player": "J. Waddle",
      "pos": "WR",
      "slot": "WR",
-     "rem": 10.67,
+     "rem": 10.55,
      "state": "pending",
      "pts": 0.0,
-     "proj": 10.67,
-     "live": 10.67,
+     "proj": 10.55,
+     "live": 10.55,
      "game": "Sun 4:25 pm vs KC"
     }
    ],
@@ -454,7 +454,7 @@
    "right": "Alex Michael Pagels",
    "rightRec": "1-5",
    "leftScore": 0.0,
-   "leftProj": 125.49,
+   "leftProj": 125.36,
    "rightScore": 0.0,
    "rightProj": 87.86,
    "leftPct": 79,
@@ -525,11 +525,11 @@
      "player": "P. Mahomes",
      "pos": "QB",
      "slot": "QB",
-     "rem": 19.97,
+     "rem": 19.84,
      "state": "pending",
      "pts": 0.0,
-     "proj": 19.97,
-     "live": 19.97,
+     "proj": 19.84,
+     "live": 19.84,
      "game": "Sun 4:25 pm @ Den"
     },
     {
@@ -894,7 +894,7 @@
    "right": "Zen Buddha Boys 🪷💨",
    "rightRec": "3-3",
    "leftScore": 0.0,
-   "leftProj": 135.14,
+   "leftProj": 135.01,
    "rightScore": 0.0,
    "rightProj": 106.09,
    "leftPct": 71,
@@ -1008,11 +1008,11 @@
      "player": "T. Kelce",
      "pos": "TE",
      "slot": "TE",
-     "rem": 10.28,
+     "rem": 10.15,
      "state": "pending",
      "pts": 0.0,
-     "proj": 10.28,
-     "live": 10.28,
+     "proj": 10.15,
+     "live": 10.15,
      "game": "Sun 4:25 pm @ Den"
     }
    ],
@@ -1114,7 +1114,7 @@
    "right": "Kiwis are better than mid",
    "rightRec": "4-2",
    "leftScore": 0.0,
-   "leftProj": 72.59,
+   "leftProj": 72.67,
    "rightScore": 0.0,
    "rightProj": 97.39,
    "leftPct": 26,
@@ -1151,11 +1151,11 @@
      "player": "K. Walker III",
      "pos": "RB",
      "slot": "RB",
-     "rem": 21.24,
+     "rem": 21.39,
      "state": "pending",
      "pts": 0.0,
-     "proj": 21.24,
-     "live": 21.24,
+     "proj": 21.39,
+     "live": 21.39,
      "game": "Sun 4:25 pm @ Den"
     },
     {
@@ -1184,11 +1184,11 @@
      "player": "X. Worthy",
      "pos": "WR",
      "slot": "WR",
-     "rem": 8.73,
+     "rem": 8.66,
      "state": "pending",
      "pts": 0.0,
-     "proj": 8.73,
-     "live": 8.73,
+     "proj": 8.66,
+     "live": 8.66,
      "game": "Sun 4:25 pm @ Den"
     },
     {
@@ -1214,7 +1214,7 @@
      "game": "Sun 1:00 pm @ TB"
     },
     {
-     "player": "Chiefs",
+     "player": "K. City",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 6.64,
@@ -1315,7 +1315,7 @@
      "game": "Sun 4:25 pm vs KC"
     },
     {
-     "player": "Jets",
+     "player": "N. York",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 7.11,
