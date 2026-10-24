@@ -1,7 +1,7 @@
 {
  "v": 2,
  "week": 8,
- "ts": "2026-10-24T03:43:08+00:00",
+ "ts": "2026-10-24T04:23:08+00:00",
  "matchups": [
   {
    "id": "1v6",
@@ -456,8 +456,8 @@
    "leftScore": 0.0,
    "leftProj": 125.49,
    "rightScore": 0.0,
-   "rightProj": 89.05,
-   "leftPct": 78,
+   "rightProj": 87.86,
+   "leftPct": 79,
    "leftRem": 8,
    "rightRem": 7,
    "shotgun": [
@@ -645,15 +645,15 @@
      "game": "Sun 1:00 pm vs Cle"
     },
     {
-     "player": "D. Goedert",
+     "player": "T. Higbee",
      "pos": "TE",
      "slot": "TE",
-     "rem": 9.07,
+     "rem": 7.88,
      "state": "pending",
      "pts": 0.0,
-     "proj": 9.07,
-     "live": 9.07,
-     "game": "Sun 8:20 pm @ Was"
+     "proj": 7.88,
+     "live": 7.88,
+     "game": "Sun 4:05 pm vs LAC"
     },
     {
      "player": "Titans",
