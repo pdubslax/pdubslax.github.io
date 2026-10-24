@@ -142569,7 +142569,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-10-24T02:23:18+00:00",
+  "ts": "2026-10-24T02:43:06+00:00",
   "week": 7,
   "matchups": [
    {
@@ -143457,7 +143457,7 @@
      {
       "player": "P. Nacua",
       "pos": "WR",
-      "slot": "WR",
+      "slot": "W/R/T",
       "rem": 22.34,
       "state": "pending",
       "pts": 0.0,
@@ -143512,7 +143512,7 @@
      {
       "player": "C. Lamb",
       "pos": "WR",
-      "slot": "W/R/T",
+      "slot": "WR",
       "rem": 16.67,
       "state": "pending",
       "pts": 0.0,
