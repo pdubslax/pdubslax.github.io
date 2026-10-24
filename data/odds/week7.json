@@ -142569,7 +142569,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-10-24T01:43:17+00:00",
+  "ts": "2026-10-24T02:03:06+00:00",
   "week": 7,
   "matchups": [
    {
@@ -142579,7 +142579,7 @@
     "right": "Zen Buddha Boys 🪷💨",
     "rightRec": "3-3",
     "leftScore": 1.3,
-    "leftProj": 114.24,
+    "leftProj": 114.33,
     "rightScore": 42.72,
     "rightProj": 139.67,
     "shotgun": [],
@@ -142654,11 +142654,11 @@
       "player": "Texans",
       "pos": "DEF",
       "slot": "DEF",
-      "rem": 10.14,
+      "rem": 10.23,
       "state": "pending",
       "pts": 0.0,
-      "proj": 10.14,
-      "live": 10.14,
+      "proj": 10.23,
+      "live": 10.23,
       "game": "Sun 1:00 pm vs NYG"
      },
      {
@@ -142765,7 +142765,7 @@
     "leftScore": 31.54,
     "leftProj": 129.67,
     "rightScore": 0.0,
-    "rightProj": 122.07,
+    "rightProj": 122.1,
     "shotgun": [],
     "leftActive": [
      {
@@ -142939,11 +142939,11 @@
       "player": "Panthers",
       "pos": "DEF",
       "slot": "DEF",
-      "rem": 6.9,
+      "rem": 6.93,
       "state": "pending",
       "pts": 0.0,
-      "proj": 6.9,
-      "live": 6.9,
+      "proj": 6.93,
+      "live": 6.93,
       "game": "Sun 1:00 pm vs TB"
      },
      {
@@ -142969,9 +142969,9 @@
     "right": "Sir this is a FF league",
     "rightRec": "2-4",
     "leftScore": 19.0,
-    "leftProj": 139.17,
+    "leftProj": 139.22,
     "rightScore": 34.1,
-    "rightProj": 120.12,
+    "rightProj": 120.1,
     "shotgun": [],
     "leftActive": [
      {
@@ -143055,11 +143055,11 @@
       "player": "Saints",
       "pos": "DEF",
       "slot": "DEF",
-      "rem": 6.6,
+      "rem": 6.65,
       "state": "pending",
       "pts": 0.0,
-      "proj": 6.6,
-      "live": 6.6,
+      "proj": 6.65,
+      "live": 6.65,
       "game": "Sun 9:30 am vs Pit"
      }
     ],
@@ -143123,11 +143123,11 @@
       "player": "Broncos",
       "pos": "DEF",
       "slot": "DEF",
-      "rem": 8.55,
+      "rem": 8.53,
       "state": "pending",
       "pts": 0.0,
-      "proj": 8.55,
-      "live": 8.55,
+      "proj": 8.53,
+      "live": 8.53,
       "game": "Sun 4:05 pm @ Ari"
      },
      {
@@ -143153,9 +143153,9 @@
     "right": "RosterMogged",
     "rightRec": "3-3",
     "leftScore": 0.0,
-    "leftProj": 111.45,
+    "leftProj": 111.39,
     "rightScore": 0.0,
-    "rightProj": 103.93,
+    "rightProj": 104.01,
     "shotgun": [],
     "leftActive": [
      {
@@ -143239,11 +143239,11 @@
       "player": "Seahawks",
       "pos": "DEF",
       "slot": "DEF",
-      "rem": 7.7,
+      "rem": 7.64,
       "state": "pending",
       "pts": 0.0,
-      "proj": 7.7,
-      "live": 7.7,
+      "proj": 7.64,
+      "live": 7.64,
       "game": "Sun 8:20 pm vs KC"
      },
      {
@@ -143351,11 +143351,11 @@
       "player": "Chiefs",
       "pos": "DEF",
       "slot": "DEF",
-      "rem": 6.03,
+      "rem": 6.11,
       "state": "pending",
       "pts": 0.0,
-      "proj": 6.03,
-      "live": 6.03,
+      "proj": 6.11,
+      "live": 6.11,
       "game": "Sun 8:20 pm @ Sea"
      }
     ],
@@ -143370,9 +143370,9 @@
     "right": "James Ray Ervin Yonts",
     "rightRec": "3-3",
     "leftScore": 12.1,
-    "leftProj": 100.74,
+    "leftProj": 100.75,
     "rightScore": 0.0,
-    "rightProj": 142.73,
+    "rightProj": 142.8,
     "shotgun": [],
     "leftActive": [
      {
@@ -143434,11 +143434,11 @@
       "player": "Vikings",
       "pos": "DEF",
       "slot": "DEF",
-      "rem": 9.45,
+      "rem": 9.46,
       "state": "pending",
       "pts": 0.0,
-      "proj": 9.45,
-      "live": 9.45,
+      "proj": 9.46,
+      "live": 9.46,
       "game": "Sun 1:00 pm vs Ind"
      },
      {
@@ -143546,11 +143546,11 @@
       "player": "Browns",
       "pos": "DEF",
       "slot": "DEF",
-      "rem": 10.49,
+      "rem": 10.56,
       "state": "pending",
       "pts": 0.0,
-      "proj": 10.49,
-      "live": 10.49,
+      "proj": 10.56,
+      "live": 10.56,
       "game": "Sun 1:00 pm @ Ten"
      }
     ],
@@ -143565,9 +143565,9 @@
     "right": "Kiwis are better than mid",
     "rightRec": "4-2",
     "leftScore": 0.0,
-    "leftProj": 121.78,
+    "leftProj": 121.76,
     "rightScore": 0.0,
-    "rightProj": 125.5,
+    "rightProj": 125.49,
     "shotgun": [],
     "leftActive": [
      {
@@ -143640,11 +143640,11 @@
       "player": "Titans",
       "pos": "DEF",
       "slot": "DEF",
-      "rem": 10.17,
+      "rem": 10.15,
       "state": "pending",
       "pts": 0.0,
-      "proj": 10.17,
-      "live": 10.17,
+      "proj": 10.15,
+      "live": 10.15,
       "game": "Sun 1:00 pm vs Cle"
      },
      {
@@ -143752,11 +143752,11 @@
       "player": "Jets",
       "pos": "DEF",
       "slot": "DEF",
-      "rem": 10.35,
+      "rem": 10.34,
       "state": "pending",
       "pts": 0.0,
-      "proj": 10.35,
-      "live": 10.35,
+      "proj": 10.34,
+      "live": 10.34,
       "game": "Sun 1:00 pm vs Mia"
      },
      {
