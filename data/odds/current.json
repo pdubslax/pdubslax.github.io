@@ -142569,7 +142569,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-10-24T14:44:39+00:00",
+  "ts": "2026-10-24T15:04:48+00:00",
   "week": 7,
   "matchups": [
    {
@@ -142581,7 +142581,7 @@
     "leftScore": 1.3,
     "leftProj": 113.97,
     "rightScore": 42.72,
-    "rightProj": 139.67,
+    "rightProj": 139.61,
     "shotgun": [],
     "leftActive": [
      {
@@ -142700,11 +142700,11 @@
       "player": "Z. Flowers",
       "pos": "WR",
       "slot": "WR",
-      "rem": 17.09,
+      "rem": 17.03,
       "state": "pending",
       "pts": 0.0,
-      "proj": 17.09,
-      "live": 17.09,
+      "proj": 17.03,
+      "live": 17.03,
       "game": "Sun 1:00 pm vs Cin"
      },
      {
@@ -142763,7 +142763,7 @@
     "right": "MELONHEADS (daniel)",
     "rightRec": "3-3",
     "leftScore": 31.54,
-    "leftProj": 129.46,
+    "leftProj": 129.39,
     "rightScore": 0.0,
     "rightProj": 122.19,
     "shotgun": [],
@@ -142772,11 +142772,11 @@
       "player": "D. Henry",
       "pos": "RB",
       "slot": "RB",
-      "rem": 18.32,
+      "rem": 18.27,
       "state": "pending",
       "pts": 0.0,
-      "proj": 18.32,
-      "live": 18.32,
+      "proj": 18.27,
+      "live": 18.27,
       "game": "Sun 1:00 pm vs Cin"
      },
      {
@@ -142794,11 +142794,11 @@
       "player": "C. Brown",
       "pos": "RB",
       "slot": "RB",
-      "rem": 15.19,
+      "rem": 15.17,
       "state": "pending",
       "pts": 0.0,
-      "proj": 15.19,
-      "live": 15.19,
+      "proj": 15.17,
+      "live": 15.17,
       "game": "Sun 1:00 pm @ Bal"
      },
      {
@@ -143153,7 +143153,7 @@
     "right": "RosterMogged",
     "rightRec": "3-3",
     "leftScore": 0.0,
-    "leftProj": 111.5,
+    "leftProj": 111.46,
     "rightScore": 0.0,
     "rightProj": 104.03,
     "shotgun": [],
@@ -143173,11 +143173,11 @@
       "player": "J. Chase",
       "pos": "WR",
       "slot": "WR",
-      "rem": 17.37,
+      "rem": 17.33,
       "state": "pending",
       "pts": 0.0,
-      "proj": 17.37,
-      "live": 17.37,
+      "proj": 17.33,
+      "live": 17.33,
       "game": "Sun 1:00 pm @ Bal"
      },
      {
@@ -143565,7 +143565,7 @@
     "right": "Kiwis are better than mid",
     "rightRec": "4-2",
     "leftScore": 0.0,
-    "leftProj": 120.38,
+    "leftProj": 120.29,
     "rightScore": 0.0,
     "rightProj": 125.56,
     "shotgun": [],
@@ -143574,11 +143574,11 @@
       "player": "J. Burrow",
       "pos": "QB",
       "slot": "QB",
-      "rem": 22.2,
+      "rem": 22.14,
       "state": "pending",
       "pts": 0.0,
-      "proj": 22.2,
-      "live": 22.2,
+      "proj": 22.14,
+      "live": 22.14,
       "game": "Sun 1:00 pm @ Bal"
      },
      {
@@ -143607,11 +143607,11 @@
       "player": "T. Higgins",
       "pos": "WR",
       "slot": "W/R/T",
-      "rem": 13.76,
+      "rem": 13.73,
       "state": "pending",
       "pts": 0.0,
-      "proj": 13.76,
-      "live": 13.76,
+      "proj": 13.73,
+      "live": 13.73,
       "game": "Sun 1:00 pm @ Bal"
      },
      {
