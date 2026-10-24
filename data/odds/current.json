@@ -142569,7 +142569,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-10-24T09:24:09+00:00",
+  "ts": "2026-10-24T09:43:57+00:00",
   "week": 7,
   "matchups": [
    {
@@ -142579,7 +142579,7 @@
     "right": "Zen Buddha Boys 🪷💨",
     "rightRec": "3-3",
     "leftScore": 1.3,
-    "leftProj": 113.94,
+    "leftProj": 113.97,
     "rightScore": 42.72,
     "rightProj": 139.67,
     "shotgun": [],
@@ -142588,12 +142588,12 @@
       "player": "J. Smith-Njigba",
       "pos": "WR",
       "slot": "W/R/T",
-      "rem": 21.58,
+      "rem": 21.61,
       "state": "pending",
       "pts": 0.0,
-      "proj": 21.58,
-      "live": 21.58,
-      "game": "Sun 8:20 pm vs KC"
+      "proj": 21.61,
+      "live": 21.61,
+      "game": "Sun 8:20 pm vs KC"
      },
      {
       "player": "M. Stafford",
@@ -142738,7 +142738,7 @@
       "pts": 0.0,
       "proj": 9.68,
       "live": 9.68,
-      "game": "Sun 8:20 pm vs KC"
+      "game": "Sun 8:20 pm vs KC"
      },
      {
       "player": "Colts",
@@ -142933,7 +142933,7 @@
       "pts": 0.0,
       "proj": 9.46,
       "live": 9.46,
-      "game": "Sun 9:30 am vs Pit"
+      "game": "Sun 9:30 am vs Pit"
      },
      {
       "player": "Panthers",
@@ -142969,7 +142969,7 @@
     "right": "Sir this is a FF league",
     "rightRec": "2-4",
     "leftScore": 19.0,
-    "leftProj": 139.22,
+    "leftProj": 139.23,
     "rightScore": 34.1,
     "rightProj": 119.99,
     "shotgun": [],
@@ -143000,12 +143000,12 @@
       "player": "P. Mahomes",
       "pos": "QB",
       "slot": "QB",
-      "rem": 19.2,
+      "rem": 19.21,
       "state": "pending",
       "pts": 0.0,
-      "proj": 19.2,
-      "live": 19.2,
-      "game": "Sun 8:20 pm @ Sea"
+      "proj": 19.21,
+      "live": 19.21,
+      "game": "Sun 8:20 pm @ Sea"
      },
      {
       "player": "T. McBride",
@@ -143060,7 +143060,7 @@
       "pts": 0.0,
       "proj": 6.66,
       "live": 6.66,
-      "game": "Sun 9:30 am vs Pit"
+      "game": "Sun 9:30 am vs Pit"
      }
     ],
     "rightActive": [
@@ -143155,7 +143155,7 @@
     "leftScore": 0.0,
     "leftProj": 111.5,
     "rightScore": 0.0,
-    "rightProj": 104.04,
+    "rightProj": 104.03,
     "shotgun": [],
     "leftActive": [
      {
@@ -143167,7 +143167,7 @@
       "pts": 0.0,
       "proj": 19.78,
       "live": 19.78,
-      "game": "Sun 9:30 am @ NO"
+      "game": "Sun 9:30 am @ NO"
      },
      {
       "player": "J. Chase",
@@ -143233,7 +143233,7 @@
       "pts": 0.0,
       "proj": 8.76,
       "live": 8.76,
-      "game": "Sun 9:30 am @ NO"
+      "game": "Sun 9:30 am @ NO"
      },
      {
       "player": "Seahawks",
@@ -143244,7 +143244,7 @@
       "pts": 0.0,
       "proj": 7.61,
       "live": 7.61,
-      "game": "Sun 8:20 pm vs KC"
+      "game": "Sun 8:20 pm vs KC"
      },
      {
       "player": "J. Noel",
@@ -143274,23 +143274,23 @@
       "player": "K. Walker III",
       "pos": "RB",
       "slot": "RB",
-      "rem": 20.29,
+      "rem": 20.27,
       "state": "pending",
       "pts": 0.0,
-      "proj": 20.29,
-      "live": 20.29,
-      "game": "Sun 8:20 pm @ Sea"
+      "proj": 20.27,
+      "live": 20.27,
+      "game": "Sun 8:20 pm @ Sea"
      },
      {
       "player": "X. Worthy",
       "pos": "WR",
       "slot": "WR",
-      "rem": 11.38,
+      "rem": 11.39,
       "state": "pending",
       "pts": 0.0,
-      "proj": 11.38,
-      "live": 11.38,
-      "game": "Sun 8:20 pm @ Sea"
+      "proj": 11.39,
+      "live": 11.39,
+      "game": "Sun 8:20 pm @ Sea"
      },
      {
       "player": "G. Bernard",
@@ -143301,7 +143301,7 @@
       "pts": 0.0,
       "proj": 10.98,
       "live": 10.98,
-      "game": "Sun 9:30 am @ NO"
+      "game": "Sun 9:30 am @ NO"
      },
      {
       "player": "M. Gay",
@@ -143356,7 +143356,7 @@
       "pts": 0.0,
       "proj": 6.11,
       "live": 6.11,
-      "game": "Sun 8:20 pm @ Sea"
+      "game": "Sun 8:20 pm @ Sea"
      }
     ],
     "leftPct": 57,
@@ -143372,7 +143372,7 @@
     "leftScore": 12.1,
     "leftProj": 100.72,
     "rightScore": 0.0,
-    "rightProj": 142.99,
+    "rightProj": 143.01,
     "shotgun": [],
     "leftActive": [
      {
@@ -143485,7 +143485,7 @@
       "pts": 0.0,
       "proj": 17.2,
       "live": 17.2,
-      "game": "Sun 9:30 am @ NO"
+      "game": "Sun 9:30 am @ NO"
      },
      {
       "player": "B. Irving",
@@ -143524,12 +143524,12 @@
       "player": "T. Kelce",
       "pos": "TE",
       "slot": "TE",
-      "rem": 11.36,
+      "rem": 11.38,
       "state": "pending",
       "pts": 0.0,
-      "proj": 11.36,
-      "live": 11.36,
-      "game": "Sun 8:20 pm @ Sea"
+      "proj": 11.38,
+      "live": 11.38,
+      "game": "Sun 8:20 pm @ Sea"
      },
      {
       "player": "K. Fairbairn",
@@ -143590,7 +143590,7 @@
       "pts": 0.0,
       "proj": 15.49,
       "live": 15.49,
-      "game": "Sun 9:30 am vs Pit"
+      "game": "Sun 9:30 am vs Pit"
      },
      {
       "player": "S. Barkley",
@@ -143656,7 +143656,7 @@
       "pts": 0.0,
       "proj": 9.45,
       "live": 9.45,
-      "game": "Sun 9:30 am @ NO"
+      "game": "Sun 9:30 am @ NO"
      },
      {
       "player": "T. Higbee",
@@ -143735,7 +143735,7 @@
       "pts": 0.0,
       "proj": 12.26,
       "live": 12.26,
-      "game": "Sun 9:30 am @ NO"
+      "game": "Sun 9:30 am @ NO"
      },
      {
       "player": "C. Tate",
