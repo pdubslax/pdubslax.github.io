@@ -142569,7 +142569,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-10-24T22:26:16+00:00",
+  "ts": "2026-10-24T22:46:07+00:00",
   "week": 7,
   "matchups": [
    {
@@ -142579,9 +142579,9 @@
     "right": "Zen Buddha Boys 🪷💨",
     "rightRec": "3-3",
     "leftScore": 1.3,
-    "leftProj": 113.99,
+    "leftProj": 114.27,
     "rightScore": 42.72,
-    "rightProj": 139.15,
+    "rightProj": 139.18,
     "shotgun": [],
     "leftActive": [
      {
@@ -142621,11 +142621,11 @@
       "player": "J. Coker",
       "pos": "WR",
       "slot": "WR",
-      "rem": 13.59,
+      "rem": 13.6,
       "state": "pending",
       "pts": 0.0,
-      "proj": 13.59,
-      "live": 13.59,
+      "proj": 13.6,
+      "live": 13.6,
       "game": "Sun 1:00 pm vs TB"
      },
      {
@@ -142665,11 +142665,11 @@
       "player": "S. Shrader",
       "pos": "K",
       "slot": "K",
-      "rem": 8.42,
+      "rem": 8.69,
       "state": "pending",
       "pts": 0.0,
-      "proj": 8.42,
-      "live": 8.42,
+      "proj": 8.69,
+      "live": 8.69,
       "game": "Sun 1:00 pm @ Min"
      }
     ],
@@ -142689,11 +142689,11 @@
       "player": "C. Hubbard",
       "pos": "RB",
       "slot": "RB",
-      "rem": 17.25,
+      "rem": 17.28,
       "state": "pending",
       "pts": 0.0,
-      "proj": 17.25,
-      "live": 17.25,
+      "proj": 17.28,
+      "live": 17.28,
       "game": "Sun 1:00 pm vs TB"
      },
      {
@@ -142928,22 +142928,22 @@
       "player": "Panthers",
       "pos": "DEF",
       "slot": "DEF",
-      "rem": 6.95,
+      "rem": 6.97,
       "state": "pending",
       "pts": 0.0,
-      "proj": 6.95,
-      "live": 6.95,
+      "proj": 6.97,
+      "live": 6.97,
       "game": "Sun 1:00 pm vs TB"
      },
      {
       "player": "K. Gainwell",
       "pos": "RB",
       "slot": "RB",
-      "rem": 6.75,
+      "rem": 6.73,
       "state": "pending",
       "pts": 0.0,
-      "proj": 6.75,
-      "live": 6.75,
+      "proj": 6.73,
+      "live": 6.73,
       "game": "Sun 1:00 pm @ Car"
      }
     ],
@@ -142958,7 +142958,7 @@
     "right": "Sir this is a FF league",
     "rightRec": "2-4",
     "leftScore": 19.0,
-    "leftProj": 139.22,
+    "leftProj": 139.34,
     "rightScore": 34.1,
     "rightProj": 119.97,
     "shotgun": [],
@@ -143011,11 +143011,11 @@
       "player": "T. McMillan",
       "pos": "WR",
       "slot": "WR",
-      "rem": 13.9,
+      "rem": 13.91,
       "state": "pending",
       "pts": 0.0,
-      "proj": 13.9,
-      "live": 13.9,
+      "proj": 13.91,
+      "live": 13.91,
       "game": "Sun 1:00 pm vs TB"
      },
      {
@@ -143044,11 +143044,11 @@
       "player": "Saints",
       "pos": "DEF",
       "slot": "DEF",
-      "rem": 6.66,
+      "rem": 6.77,
       "state": "pending",
       "pts": 0.0,
-      "proj": 6.66,
-      "live": 6.66,
+      "proj": 6.77,
+      "live": 6.77,
       "game": "Sun 9:30 am vs Pit"
      }
     ],
@@ -143131,7 +143131,7 @@
       "game": "Sun 1:00 pm vs Mia"
      }
     ],
-    "leftPct": 66,
+    "leftPct": 67,
     "leftRem": 8,
     "rightRem": 7
    },
@@ -143142,9 +143142,9 @@
     "right": "RosterMogged",
     "rightRec": "3-3",
     "leftScore": 0.0,
-    "leftProj": 111.25,
+    "leftProj": 111.24,
     "rightScore": 0.0,
-    "rightProj": 104.09,
+    "rightProj": 104.37,
     "shotgun": [],
     "leftActive": [
      {
@@ -143173,11 +143173,11 @@
       "player": "J. Williams",
       "pos": "RB",
       "slot": "RB",
-      "rem": 16.84,
+      "rem": 16.83,
       "state": "pending",
       "pts": 0.0,
-      "proj": 16.84,
-      "live": 16.84,
+      "proj": 16.83,
+      "live": 16.83,
       "game": "Mon 8:15 pm @ Phi"
      },
      {
@@ -143340,15 +143340,15 @@
       "player": "Chiefs",
       "pos": "DEF",
       "slot": "DEF",
-      "rem": 6.09,
+      "rem": 6.37,
       "state": "pending",
       "pts": 0.0,
-      "proj": 6.09,
-      "live": 6.09,
+      "proj": 6.37,
+      "live": 6.37,
       "game": "Sun 8:20 pm @ Sea"
      }
     ],
-    "leftPct": 57,
+    "leftPct": 56,
     "leftRem": 9,
     "rightRem": 9
    },
@@ -143361,7 +143361,7 @@
     "leftScore": 12.1,
     "leftProj": 102.12,
     "rightScore": 0.0,
-    "rightProj": 143.21,
+    "rightProj": 143.17,
     "shotgun": [],
     "leftActive": [
      {
@@ -143458,11 +143458,11 @@
       "player": "D. Prescott",
       "pos": "QB",
       "slot": "QB",
-      "rem": 20.49,
+      "rem": 20.48,
       "state": "pending",
       "pts": 0.0,
-      "proj": 20.49,
-      "live": 20.49,
+      "proj": 20.48,
+      "live": 20.48,
       "game": "Mon 8:15 pm @ Phi"
      },
      {
@@ -143480,11 +143480,11 @@
       "player": "B. Irving",
       "pos": "RB",
       "slot": "RB",
-      "rem": 16.9,
+      "rem": 16.86,
       "state": "pending",
       "pts": 0.0,
-      "proj": 16.9,
-      "live": 16.9,
+      "proj": 16.86,
+      "live": 16.86,
       "game": "Sun 1:00 pm @ Car"
      },
      {
@@ -143502,11 +143502,11 @@
       "player": "C. Lamb",
       "pos": "WR",
       "slot": "WR",
-      "rem": 16.76,
+      "rem": 16.77,
       "state": "pending",
       "pts": 0.0,
-      "proj": 16.76,
-      "live": 16.76,
+      "proj": 16.77,
+      "live": 16.77,
       "game": "Mon 8:15 pm @ Phi"
      },
      {
@@ -143554,7 +143554,7 @@
     "right": "Kiwis are better than mid",
     "rightRec": "4-2",
     "leftScore": 0.0,
-    "leftProj": 123.32,
+    "leftProj": 123.41,
     "rightScore": 0.0,
     "rightProj": 126.33,
     "shotgun": [],
@@ -143585,11 +143585,11 @@
       "player": "S. Barkley",
       "pos": "RB",
       "slot": "RB",
-      "rem": 15.26,
+      "rem": 15.35,
       "state": "pending",
       "pts": 0.0,
-      "proj": 15.26,
-      "live": 15.26,
+      "proj": 15.35,
+      "live": 15.35,
       "game": "Mon 8:15 pm vs Dal"
      },
      {
