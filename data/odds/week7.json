@@ -142569,7 +142569,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-10-24T03:43:19+00:00",
+  "ts": "2026-10-24T04:03:08+00:00",
   "week": 7,
   "matchups": [
    {
@@ -143565,7 +143565,7 @@
     "right": "Kiwis are better than mid",
     "rightRec": "4-2",
     "leftScore": 0.0,
-    "leftProj": 121.69,
+    "leftProj": 120.39,
     "rightScore": 0.0,
     "rightProj": 125.6,
     "shotgun": [],
@@ -143648,17 +143648,6 @@
       "game": "Sun 1:00 pm vs Cle"
      },
      {
-      "player": "D. Goedert",
-      "pos": "TE",
-      "slot": "TE",
-      "rem": 9.92,
-      "state": "pending",
-      "pts": 0.0,
-      "proj": 9.92,
-      "live": 9.92,
-      "game": "Mon 8:15 pm vs Dal"
-     },
-     {
       "player": "C. Boswell",
       "pos": "K",
       "slot": "K",
@@ -143668,6 +143657,17 @@
       "proj": 9.45,
       "live": 9.45,
       "game": "Sun 9:30 am @ NO"
+     },
+     {
+      "player": "T. Higbee",
+      "pos": "TE",
+      "slot": "TE",
+      "rem": 8.62,
+      "state": "pending",
+      "pts": 0.0,
+      "proj": 8.62,
+      "live": 8.62,
+      "game": "Sun 4:25 pm @ LV"
      }
     ],
     "rightActive": [
@@ -143771,7 +143771,7 @@
       "game": "Sun 4:05 pm @ Ari"
      }
     ],
-    "leftPct": 47,
+    "leftPct": 46,
     "leftRem": 9,
     "rightRem": 9
    }
