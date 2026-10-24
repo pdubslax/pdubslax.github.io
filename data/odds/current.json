@@ -142569,7 +142569,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-10-24T00:43:06+00:00",
+  "ts": "2026-10-24T01:03:21+00:00",
   "week": 7,
   "matchups": [
    {
@@ -142763,7 +142763,7 @@
     "right": "MELONHEADS (daniel)",
     "rightRec": "3-3",
     "leftScore": 31.54,
-    "leftProj": 129.6,
+    "leftProj": 129.67,
     "rightScore": 0.0,
     "rightProj": 122.07,
     "shotgun": [],
@@ -142838,11 +142838,11 @@
       "player": "D. Zvada",
       "pos": "K",
       "slot": "K",
-      "rem": 7.77,
+      "rem": 7.84,
       "state": "pending",
       "pts": 0.0,
-      "proj": 7.77,
-      "live": 7.77,
+      "proj": 7.84,
+      "live": 7.84,
       "game": "Sun 1:00 pm @ Hou"
      },
      {
@@ -142971,7 +142971,7 @@
     "leftScore": 19.0,
     "leftProj": 139.13,
     "rightScore": 34.1,
-    "rightProj": 120.17,
+    "rightProj": 120.12,
     "shotgun": [],
     "leftActive": [
      {
@@ -143101,11 +143101,11 @@
       "player": "E. Pineiro",
       "pos": "K",
       "slot": "K",
-      "rem": 9.54,
+      "rem": 9.49,
       "state": "pending",
       "pts": 0.0,
-      "proj": 9.54,
-      "live": 9.54,
+      "proj": 9.49,
+      "live": 9.49,
       "game": "Sun 1:00 pm @ Atl"
      },
      {
@@ -143565,7 +143565,7 @@
     "right": "Kiwis are better than mid",
     "rightRec": "4-2",
     "leftScore": 0.0,
-    "leftProj": 121.83,
+    "leftProj": 121.78,
     "rightScore": 0.0,
     "rightProj": 125.5,
     "shotgun": [],
@@ -143662,11 +143662,11 @@
       "player": "C. Boswell",
       "pos": "K",
       "slot": "K",
-      "rem": 9.54,
+      "rem": 9.49,
       "state": "pending",
       "pts": 0.0,
-      "proj": 9.54,
-      "live": 9.54,
+      "proj": 9.49,
+      "live": 9.49,
       "game": "Sun 9:30 am @ NO"
      }
     ],
