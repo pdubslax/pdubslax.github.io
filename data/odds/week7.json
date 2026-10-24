@@ -142569,7 +142569,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-10-24T12:24:51+00:00",
+  "ts": "2026-10-24T12:44:40+00:00",
   "week": 7,
   "matchups": [
    {
@@ -142933,7 +142933,7 @@
       "pts": 0.0,
       "proj": 9.46,
       "live": 9.46,
-      "game": "Sun 9:30 am vs Pit"
+      "game": "Sun 9:30 am vs Pit"
      },
      {
       "player": "Panthers",
@@ -143060,7 +143060,7 @@
       "pts": 0.0,
       "proj": 6.66,
       "live": 6.66,
-      "game": "Sun 9:30 am vs Pit"
+      "game": "Sun 9:30 am vs Pit"
      }
     ],
     "rightActive": [
@@ -143167,7 +143167,7 @@
       "pts": 0.0,
       "proj": 19.78,
       "live": 19.78,
-      "game": "Sun 9:30 am @ NO"
+      "game": "Sun 9:30 am @ NO"
      },
      {
       "player": "J. Chase",
@@ -143233,7 +143233,7 @@
       "pts": 0.0,
       "proj": 8.76,
       "live": 8.76,
-      "game": "Sun 9:30 am @ NO"
+      "game": "Sun 9:30 am @ NO"
      },
      {
       "player": "Seahawks",
@@ -143301,7 +143301,7 @@
       "pts": 0.0,
       "proj": 10.98,
       "live": 10.98,
-      "game": "Sun 9:30 am @ NO"
+      "game": "Sun 9:30 am @ NO"
      },
      {
       "player": "M. Gay",
@@ -143372,7 +143372,7 @@
     "leftScore": 12.1,
     "leftProj": 100.72,
     "rightScore": 0.0,
-    "rightProj": 143.01,
+    "rightProj": 143.03,
     "shotgun": [],
     "leftActive": [
      {
@@ -143485,7 +143485,7 @@
       "pts": 0.0,
       "proj": 17.2,
       "live": 17.2,
-      "game": "Sun 9:30 am @ NO"
+      "game": "Sun 9:30 am @ NO"
      },
      {
       "player": "B. Irving",
@@ -143546,11 +143546,11 @@
       "player": "Browns",
       "pos": "DEF",
       "slot": "DEF",
-      "rem": 10.58,
+      "rem": 10.6,
       "state": "pending",
       "pts": 0.0,
-      "proj": 10.58,
-      "live": 10.58,
+      "proj": 10.6,
+      "live": 10.6,
       "game": "Sun 1:00 pm @ Ten"
      }
     ],
@@ -143565,9 +143565,9 @@
     "right": "Kiwis are better than mid",
     "rightRec": "4-2",
     "leftScore": 0.0,
-    "leftProj": 120.4,
+    "leftProj": 120.38,
     "rightScore": 0.0,
-    "rightProj": 125.58,
+    "rightProj": 125.56,
     "shotgun": [],
     "leftActive": [
      {
@@ -143590,7 +143590,7 @@
       "pts": 0.0,
       "proj": 15.49,
       "live": 15.49,
-      "game": "Sun 9:30 am vs Pit"
+      "game": "Sun 9:30 am vs Pit"
      },
      {
       "player": "S. Barkley",
@@ -143640,11 +143640,11 @@
       "player": "Titans",
       "pos": "DEF",
       "slot": "DEF",
-      "rem": 10.13,
+      "rem": 10.11,
       "state": "pending",
       "pts": 0.0,
-      "proj": 10.13,
-      "live": 10.13,
+      "proj": 10.11,
+      "live": 10.11,
       "game": "Sun 1:00 pm vs Cle"
      },
      {
@@ -143656,7 +143656,7 @@
       "pts": 0.0,
       "proj": 9.45,
       "live": 9.45,
-      "game": "Sun 9:30 am @ NO"
+      "game": "Sun 9:30 am @ NO"
      },
      {
       "player": "T. Higbee",
@@ -143735,17 +143735,17 @@
       "pts": 0.0,
       "proj": 12.26,
       "live": 12.26,
-      "game": "Sun 9:30 am @ NO"
+      "game": "Sun 9:30 am @ NO"
      },
      {
       "player": "C. Tate",
       "pos": "WR",
       "slot": "W/R/T",
-      "rem": 10.43,
+      "rem": 10.41,
       "state": "pending",
       "pts": 0.0,
-      "proj": 10.43,
-      "live": 10.43,
+      "proj": 10.41,
+      "live": 10.41,
       "game": "Sun 1:00 pm vs Cle"
      },
      {
