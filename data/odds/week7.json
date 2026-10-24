@@ -142569,7 +142569,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-10-24T01:23:07+00:00",
+  "ts": "2026-10-24T01:43:17+00:00",
   "week": 7,
   "matchups": [
    {
@@ -142579,7 +142579,7 @@
     "right": "Zen Buddha Boys 🪷💨",
     "rightRec": "3-3",
     "leftScore": 1.3,
-    "leftProj": 114.14,
+    "leftProj": 114.24,
     "rightScore": 42.72,
     "rightProj": 139.67,
     "shotgun": [],
@@ -142588,11 +142588,11 @@
       "player": "J. Smith-Njigba",
       "pos": "WR",
       "slot": "W/R/T",
-      "rem": 21.5,
+      "rem": 21.6,
       "state": "pending",
       "pts": 0.0,
-      "proj": 21.5,
-      "live": 21.5,
+      "proj": 21.6,
+      "live": 21.6,
       "game": "Sun 8:20 pm vs KC"
      },
      {
@@ -142969,7 +142969,7 @@
     "right": "Sir this is a FF league",
     "rightRec": "2-4",
     "leftScore": 19.0,
-    "leftProj": 139.13,
+    "leftProj": 139.17,
     "rightScore": 34.1,
     "rightProj": 120.12,
     "shotgun": [],
@@ -143000,11 +143000,11 @@
       "player": "P. Mahomes",
       "pos": "QB",
       "slot": "QB",
-      "rem": 19.11,
+      "rem": 19.15,
       "state": "pending",
       "pts": 0.0,
-      "proj": 19.11,
-      "live": 19.11,
+      "proj": 19.15,
+      "live": 19.15,
       "game": "Sun 8:20 pm @ Sea"
      },
      {
@@ -143155,7 +143155,7 @@
     "leftScore": 0.0,
     "leftProj": 111.45,
     "rightScore": 0.0,
-    "rightProj": 103.95,
+    "rightProj": 103.93,
     "shotgun": [],
     "leftActive": [
      {
@@ -143274,22 +143274,22 @@
       "player": "K. Walker III",
       "pos": "RB",
       "slot": "RB",
-      "rem": 20.37,
+      "rem": 20.31,
       "state": "pending",
       "pts": 0.0,
-      "proj": 20.37,
-      "live": 20.37,
+      "proj": 20.31,
+      "live": 20.31,
       "game": "Sun 8:20 pm @ Sea"
      },
      {
       "player": "X. Worthy",
       "pos": "WR",
       "slot": "WR",
-      "rem": 11.32,
+      "rem": 11.36,
       "state": "pending",
       "pts": 0.0,
-      "proj": 11.32,
-      "live": 11.32,
+      "proj": 11.36,
+      "live": 11.36,
       "game": "Sun 8:20 pm @ Sea"
      },
      {
@@ -143372,7 +143372,7 @@
     "leftScore": 12.1,
     "leftProj": 100.74,
     "rightScore": 0.0,
-    "rightProj": 142.67,
+    "rightProj": 142.73,
     "shotgun": [],
     "leftActive": [
      {
@@ -143524,11 +143524,11 @@
       "player": "T. Kelce",
       "pos": "TE",
       "slot": "TE",
-      "rem": 11.31,
+      "rem": 11.37,
       "state": "pending",
       "pts": 0.0,
-      "proj": 11.31,
-      "live": 11.31,
+      "proj": 11.37,
+      "live": 11.37,
       "game": "Sun 8:20 pm @ Sea"
      },
      {
