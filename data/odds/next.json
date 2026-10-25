@@ -1,7 +1,7 @@
 {
  "v": 2,
  "week": 8,
- "ts": "2026-10-25T18:40:29+00:00",
+ "ts": "2026-10-25T19:01:13+00:00",
  "matchups": [
   {
    "id": "1v6",
@@ -27,7 +27,9 @@
      "state": "bye",
      "slot": "QB",
      "manager": "MELONHEADS (daniel)",
-     "locked": false
+     "locked": false,
+     "live": 0.0,
+     "reason": "pts"
     },
     {
      "player": "G. Kittle",
@@ -39,7 +41,9 @@
      "state": "bye",
      "slot": "TE",
      "manager": "MELONHEADS (daniel)",
-     "locked": false
+     "locked": false,
+     "live": 0.0,
+     "reason": "pts"
     },
     {
      "player": "D. Vele",
@@ -51,7 +55,9 @@
      "state": "bye",
      "slot": "W/R/T",
      "manager": "MELONHEADS (daniel)",
-     "locked": false
+     "locked": false,
+     "live": 0.0,
+     "reason": "pts"
     },
     {
      "player": "Texans",
@@ -63,7 +69,9 @@
      "state": "bye",
      "slot": "DEF",
      "manager": "Silly Shrek Squad",
-     "locked": false
+     "locked": false,
+     "live": 0.0,
+     "reason": "pts"
     }
    ],
    "leftActive": [
@@ -249,7 +257,9 @@
      "state": "bye",
      "slot": "TE",
      "manager": "BDSM AI Stealth Founder",
-     "locked": false
+     "locked": false,
+     "live": 0.0,
+     "reason": "pts"
     },
     {
      "player": "D. Zvada",
@@ -261,7 +271,9 @@
      "state": "bye",
      "slot": "K",
      "manager": "BDSM AI Stealth Founder",
-     "locked": false
+     "locked": false,
+     "live": 0.0,
+     "reason": "pts"
     },
     {
      "player": "E. Pineiro",
@@ -273,7 +285,9 @@
      "state": "bye",
      "slot": "K",
      "manager": "Sir this is a FF league",
-     "locked": false
+     "locked": false,
+     "live": 0.0,
+     "reason": "pts"
     }
    ],
    "leftActive": [
@@ -470,7 +484,9 @@
      "state": "bye",
      "slot": "WR",
      "manager": "Alex Michael Pagels",
-     "locked": false
+     "locked": false,
+     "live": 0.0,
+     "reason": "pts"
     },
     {
      "player": "M. Nabers",
@@ -482,7 +498,9 @@
      "state": "bye",
      "slot": "WR",
      "manager": "Alex Michael Pagels",
-     "locked": false
+     "locked": false,
+     "live": 0.0,
+     "reason": "pts"
     },
     {
      "player": "Saints",
@@ -494,7 +512,9 @@
      "state": "bye",
      "slot": "DEF",
      "manager": "Robotripping Gardener",
-     "locked": false
+     "locked": false,
+     "live": 0.0,
+     "reason": "pts"
     }
    ],
    "leftActive": [
@@ -691,7 +711,9 @@
      "state": "bye",
      "slot": "W/R/T",
      "manager": "Matthew Chen #4",
-     "locked": false
+     "locked": false,
+     "live": 0.0,
+     "reason": "pts"
     }
    ],
    "leftActive": [
@@ -910,7 +932,9 @@
      "state": "bye",
      "slot": "WR",
      "manager": "Zen Buddha Boys 🪷💨",
-     "locked": false
+     "locked": false,
+     "live": 0.0,
+     "reason": "pts"
     },
     {
      "player": "K. Fairbairn",
@@ -922,7 +946,9 @@
      "state": "bye",
      "slot": "K",
      "manager": "James Ray Ervin Yonts",
-     "locked": false
+     "locked": false,
+     "live": 0.0,
+     "reason": "pts"
     }
    ],
    "leftActive": [
@@ -1130,7 +1156,9 @@
      "state": "bye",
      "slot": "QB",
      "manager": "RosterMogged",
-     "locked": false
+     "locked": false,
+     "live": 0.0,
+     "reason": "pts"
     },
     {
      "player": "C. McCaffrey",
@@ -1142,7 +1170,9 @@
      "state": "bye",
      "slot": "RB",
      "manager": "Kiwis are better than mid",
-     "locked": false
+     "locked": false,
+     "live": 0.0,
+     "reason": "pts"
     }
    ],
    "leftActive": [
