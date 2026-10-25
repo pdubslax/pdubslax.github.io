@@ -218,6 +218,9 @@ function render(hist, mode, curWeek){
   // Band lengths match real game windows (minutes from the band's start): a night game runs about three hours, Sunday runs 1 PM to the end of SNF.
   const DUR = {TNF: 195, SUN: 690, MNF: 195};
   const SEG = hist.segments.map(g => { const a = new Date(g.start).getTime(); return {label:g.label, a, b: DUR[g.label] ? a + DUR[g.label]*60000 : new Date(g.end).getTime(), w:g.w}; });
+  // An early Sunday game (London, 9:30 AM ET) stretches the Sunday band back to 9:30 when samples exist before 1 PM.
+  { const sun = SEG.find(g => g.label === 'SUN'), tnf = SEG.find(g => g.label === 'TNF');
+    if (sun && S.some(s => { const t = new Date(s.ts).getTime(); return t < sun.a && t > (tnf ? tnf.b : 0) && t > sun.a - 4*3600000; })) sun.a -= 210*60000; }
   const GAP = 0.012; const usable = 1 - GAP*(SEG.length-1);
   SEG.reduce((off,g)=>{ g.x0 = off; g.x1 = off + g.w*usable; return g.x1 + GAP; }, 0);
   const frac = t => { for (let i = 0; i < SEG.length; i++){ const g = SEG[i]; if (t < g.a) return i === 0 ? g.x0 : SEG[i-1].x1; if (t <= g.b) return g.x0 + (g.x1-g.x0)*(t-g.a)/(g.b-g.a); } return SEG[SEG.length-1].x1; };

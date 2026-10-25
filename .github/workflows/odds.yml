@@ -48,9 +48,10 @@ jobs:
           end=$((SECONDS + $(python -c "print(int(float('$mins')*60))")))
           while :; do
             t0=$SECONDS
-            if python tools/odds_sampler.py --in-window >/dev/null; then gap=60; else gap=1200; fi
             out=$(python tools/odds_sampler.py odds-data/data/odds 2>&1) || true
             echo "$(date -u +%H:%M) $out"
+            # A recorded sample means a game is on (or a window is open): keep sampling every minute. Otherwise idle for 20 minutes.
+            case "$out" in *"sample #"*) gap=60;; *) gap=1200;; esac
             ( cd odds-data && git add data/odds && if git diff --cached --quiet; then echo "nothing to commit"; else
                 git commit -qm "odds sample $(date -u +%Y-%m-%dT%H:%MZ)" && (git pull --rebase -q origin odds-data || true) && git push -q; fi )
             [ $SECONDS -ge $end ] && break
