@@ -1,7 +1,7 @@
 {
  "v": 2,
  "week": 8,
- "ts": "2026-10-25T15:24:31+00:00",
+ "ts": "2026-10-25T15:45:29+00:00",
  "matchups": [
   {
    "id": "1v6",
@@ -54,7 +54,7 @@
      "locked": false
     },
     {
-     "player": "Houston",
+     "player": "Texans",
      "pos": "DEF",
      "team": "Hou",
      "pts": 0.0,
@@ -213,7 +213,7 @@
      "game": "Sun 1:00 pm vs Atl"
     },
     {
-     "player": "Carolina",
+     "player": "Panthers",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 4.96,
@@ -232,9 +232,9 @@
    "right": "Sir this is a FF league",
    "rightRec": "2-4",
    "leftScore": 0.0,
-   "leftProj": 98.46,
+   "leftProj": 98.47,
    "rightScore": 0.0,
-   "rightProj": 92.6,
+   "rightProj": 92.59,
    "leftPct": 55,
    "leftRem": 6,
    "rightRem": 8,
@@ -348,11 +348,11 @@
      "player": "J. Waddle",
      "pos": "WR",
      "slot": "WR",
-     "rem": 10.58,
+     "rem": 10.59,
      "state": "pending",
      "pts": 0.0,
-     "proj": 10.58,
-     "live": 10.58,
+     "proj": 10.59,
+     "live": 10.59,
      "game": "Sun 4:25 pm vs KC"
     }
    ],
@@ -361,11 +361,11 @@
      "player": "J. Love",
      "pos": "QB",
      "slot": "QB",
-     "rem": 21.02,
+     "rem": 21.01,
      "state": "pending",
      "pts": 0.0,
-     "proj": 21.02,
-     "live": 21.02,
+     "proj": 21.01,
+     "live": 21.01,
      "game": "Thu 8:15 pm vs Car"
     },
     {
@@ -456,7 +456,7 @@
    "leftScore": 0.0,
    "leftProj": 125.84,
    "rightScore": 0.0,
-   "rightProj": 89.2,
+   "rightProj": 89.19,
    "leftPct": 78,
    "leftRem": 8,
    "rightRem": 7,
@@ -593,11 +593,11 @@
      "player": "J. Burrow",
      "pos": "QB",
      "slot": "QB",
-     "rem": 24.14,
+     "rem": 24.13,
      "state": "pending",
      "pts": 0.0,
-     "proj": 24.14,
-     "live": 24.14,
+     "proj": 24.13,
+     "live": 24.13,
      "game": "Sun 1:00 pm vs Ten"
     },
     {
@@ -675,9 +675,9 @@
    "right": "Tuten Brown",
    "rightRec": "4-2",
    "leftScore": 0.0,
-   "leftProj": 102.04,
+   "leftProj": 102.05,
    "rightScore": 0.0,
-   "rightProj": 118.43,
+   "rightProj": 118.42,
    "leftPct": 36,
    "leftRem": 8,
    "rightRem": 9,
@@ -722,11 +722,11 @@
      "player": "A. Rodgers",
      "pos": "QB",
      "slot": "QB",
-     "rem": 17.66,
+     "rem": 17.67,
      "state": "pending",
      "pts": 0.0,
-     "proj": 17.66,
-     "live": 17.66,
+     "proj": 17.67,
+     "live": 17.67,
      "game": "Sun 1:00 pm vs Cle"
     },
     {
@@ -823,11 +823,11 @@
      "player": "A.J. Brown",
      "pos": "WR",
      "slot": "WR",
-     "rem": 14.18,
+     "rem": 14.17,
      "state": "pending",
      "pts": 0.0,
-     "proj": 14.18,
-     "live": 14.18,
+     "proj": 14.17,
+     "live": 14.17,
      "game": "Sun 4:25 pm @ Mia"
     },
     {
@@ -894,9 +894,9 @@
    "right": "Zen Buddha Boys 🪷💨",
    "rightRec": "3-3",
    "leftScore": 0.0,
-   "leftProj": 135.14,
+   "leftProj": 135.13,
    "rightScore": 0.0,
-   "rightProj": 105.45,
+   "rightProj": 105.46,
    "leftPct": 71,
    "leftRem": 8,
    "rightRem": 8,
@@ -961,17 +961,6 @@
      "game": "Sun 1:00 pm vs Ari"
     },
     {
-     "player": "J. Warren",
-     "pos": "RB",
-     "slot": "RB",
-     "rem": 16.06,
-     "state": "pending",
-     "pts": 0.0,
-     "proj": 16.06,
-     "live": 16.06,
-     "game": "Sun 1:00 pm vs Cle"
-    },
-    {
      "player": "B. Irving",
      "pos": "RB",
      "slot": "RB",
@@ -981,6 +970,17 @@
      "proj": 16.05,
      "live": 16.05,
      "game": "Sun 1:00 pm vs Atl"
+    },
+    {
+     "player": "J. Warren",
+     "pos": "RB",
+     "slot": "RB",
+     "rem": 16.05,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 16.05,
+     "live": 16.05,
+     "game": "Sun 1:00 pm vs Cle"
     },
     {
      "player": "D. London",
@@ -1032,11 +1032,11 @@
      "player": "C. Hubbard",
      "pos": "RB",
      "slot": "RB",
-     "rem": 17.09,
+     "rem": 17.1,
      "state": "pending",
      "pts": 0.0,
-     "proj": 17.09,
-     "live": 17.09,
+     "proj": 17.1,
+     "live": 17.1,
      "game": "Thu 8:15 pm @ GB"
     },
     {
@@ -1114,9 +1114,9 @@
    "right": "Kiwis are better than mid",
    "rightRec": "4-2",
    "leftScore": 0.0,
-   "leftProj": 72.94,
+   "leftProj": 72.95,
    "rightScore": 0.0,
-   "rightProj": 98.3,
+   "rightProj": 98.31,
    "leftPct": 26,
    "leftRem": 8,
    "rightRem": 8,
@@ -1162,11 +1162,11 @@
      "player": "G. Bernard",
      "pos": "WR",
      "slot": "WR",
-     "rem": 9.77,
+     "rem": 9.78,
      "state": "pending",
      "pts": 0.0,
-     "proj": 9.77,
-     "live": 9.77,
+     "proj": 9.78,
+     "live": 9.78,
      "game": "Sun 1:00 pm vs Cle"
     },
     {
@@ -1214,7 +1214,7 @@
      "game": "Sun 1:00 pm @ TB"
     },
     {
-     "player": "Chiefs",
+     "player": "K. City",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 6.79,
@@ -1252,11 +1252,11 @@
      "player": "B. Bowers",
      "pos": "TE",
      "slot": "TE",
-     "rem": 14.46,
+     "rem": 14.47,
      "state": "pending",
      "pts": 0.0,
-     "proj": 14.46,
-     "live": 14.46,
+     "proj": 14.47,
+     "live": 14.47,
      "game": "Sun 1:00 pm @ NYJ"
     },
     {
@@ -1315,7 +1315,7 @@
      "game": "Sun 4:25 pm vs KC"
     },
     {
-     "player": "Jets",
+     "player": "N. York",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 7.15,
