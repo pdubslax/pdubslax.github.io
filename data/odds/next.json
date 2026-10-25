@@ -1,7 +1,7 @@
 {
  "v": 2,
  "week": 8,
- "ts": "2026-10-25T22:52:13+00:00",
+ "ts": "2026-10-25T23:13:13+00:00",
  "matchups": [
   {
    "id": "1v6",
@@ -240,10 +240,10 @@
    "right": "Sir this is a FF league",
    "rightRec": "2-4",
    "leftScore": 0.0,
-   "leftProj": 103.94,
+   "leftProj": 104.05,
    "rightScore": 0.0,
-   "rightProj": 92.37,
-   "leftPct": 60,
+   "rightProj": 92.42,
+   "leftPct": 61,
    "leftRem": 7,
    "rightRem": 8,
    "shotgun": [
@@ -295,11 +295,11 @@
      "player": "D. Maye",
      "pos": "QB",
      "slot": "QB",
-     "rem": 24.57,
+     "rem": 24.68,
      "state": "pending",
      "pts": 0.0,
-     "proj": 24.57,
-     "live": 24.57,
+     "proj": 24.68,
+     "live": 24.68,
      "game": "Sun 4:25 pm @ Mia"
     },
     {
@@ -396,11 +396,11 @@
      "player": "R. Stevenson",
      "pos": "RB",
      "slot": "RB",
-     "rem": 11.73,
+     "rem": 11.75,
      "state": "pending",
      "pts": 0.0,
-     "proj": 11.73,
-     "live": 11.73,
+     "proj": 11.75,
+     "live": 11.75,
      "game": "Sun 4:25 pm @ Mia"
     },
     {
@@ -429,11 +429,11 @@
      "player": "H. Henry",
      "pos": "TE",
      "slot": "TE",
-     "rem": 8.55,
+     "rem": 8.58,
      "state": "pending",
      "pts": 0.0,
-     "proj": 8.55,
-     "live": 8.55,
+     "proj": 8.58,
+     "live": 8.58,
      "game": "Sun 4:25 pm @ Mia"
     },
     {
@@ -696,7 +696,7 @@
    "leftScore": 0.0,
    "leftProj": 102.15,
    "rightScore": 0.0,
-   "rightProj": 121.75,
+   "rightProj": 121.84,
    "leftPct": 33,
    "leftRem": 8,
    "rightRem": 9,
@@ -844,11 +844,11 @@
      "player": "A.J. Brown",
      "pos": "WR",
      "slot": "WR",
-     "rem": 14.1,
+     "rem": 14.16,
      "state": "pending",
      "pts": 0.0,
-     "proj": 14.1,
-     "live": 14.1,
+     "proj": 14.16,
+     "live": 14.16,
      "game": "Sun 4:25 pm @ Mia"
     },
     {
@@ -899,11 +899,11 @@
      "player": "D. Douglas",
      "pos": "WR",
      "slot": "W/R/T",
-     "rem": 9.12,
+     "rem": 9.15,
      "state": "pending",
      "pts": 0.0,
-     "proj": 9.12,
-     "live": 9.12,
+     "proj": 9.15,
+     "live": 9.15,
      "game": "Sun 4:25 pm @ Mia"
     }
    ]
@@ -917,7 +917,7 @@
    "leftScore": 0.0,
    "leftProj": 135.06,
    "rightScore": 0.0,
-   "rightProj": 106.08,
+   "rightProj": 106.12,
    "leftPct": 71,
    "leftRem": 8,
    "rightRem": 8,
@@ -1090,11 +1090,11 @@
      "player": "O. Gordon II",
      "pos": "RB",
      "slot": "RB",
-     "rem": 11.79,
+     "rem": 11.83,
      "state": "pending",
      "pts": 0.0,
-     "proj": 11.79,
-     "live": 11.79,
+     "proj": 11.83,
+     "live": 11.83,
      "game": "Sun 4:25 pm vs NE"
     },
     {
