@@ -223,7 +223,7 @@ function render(hist, mode, curWeek){
   const SEG = hist.segments.map(g => { const a = new Date(g.start).getTime(); return {label:g.label, a, b: DUR[g.label] ? a + DUR[g.label]*60000 : new Date(g.end).getTime(), w:g.w}; });
   // An early Sunday game (London, 9:30 AM ET) stretches the Sunday band back to 9:30 when samples exist before 1 PM.
   { const sun = SEG.find(g => g.label === 'SUN'), tnf = SEG.find(g => g.label === 'TNF');
-    if (sun && S.some(s => { const t = new Date(s.ts).getTime(); return t < sun.a && t > (tnf ? tnf.b : 0) && t > sun.a - 4*3600000; })) sun.a -= 210*60000; }
+    if (sun && S.some(s => { const t = new Date(s.ts).getTime(); return t < sun.a && t > (tnf ? tnf.b : 0) && t > sun.a - 4*3600000; })) { sun.a -= 210*60000; sun.early = true; } }
   const GAP = 0.012; const usable = 1 - GAP*(SEG.length-1);
   SEG.reduce((off,g)=>{ g.x0 = off; g.x1 = off + g.w*usable; return g.x1 + GAP; }, 0);
   const frac = t => { for (let i = 0; i < SEG.length; i++){ const g = SEG[i]; if (t < g.a) return i === 0 ? g.x0 : SEG[i-1].x1; if (t <= g.b) return g.x0 + (g.x1-g.x0)*(t-g.a)/(g.b-g.a); } return SEG[SEG.length-1].x1; };
@@ -244,7 +244,11 @@ function render(hist, mode, curWeek){
     }
     const n=vals.length, lastV=vals[n-1], lastX=x(tsList[n-1]);
     const bands = SEG.map((g,i)=>{ const x0=pl+(W-pl-pr)*g.x0, x1=pl+(W-pl-pr)*g.x1; return `<rect x="${x0.toFixed(1)}" y="${pt}" width="${(x1-x0).toFixed(1)}" height="${H-pt-pb}" fill="var(--grid)" opacity="${i%2?0.55:0.25}"/><text x="${((x0+x1)/2).toFixed(1)}" y="${H-6}" text-anchor="middle" font-size="10" font-family="var(--mono)" fill="var(--muted)">${g.label}</text>`; }).join('');
-    const ticks = hist.ticks.map(k => { const tx = x(new Date(k.at).getTime()); return `<line x1="${tx.toFixed(1)}" x2="${tx.toFixed(1)}" y1="${pt}" y2="${H-pb}" stroke="var(--line)" stroke-width="1"/>`; }).join('');
+    // Subtle dashed dividers between Sunday's windows: the 4:05 and 8:20 kickoffs, plus 1:00 on weeks that open with a London game.
+    const sunSeg = SEG.find(g => g.label === 'SUN');
+    const tickTimes = hist.ticks.map(k => new Date(k.at).getTime());
+    if (sunSeg && sunSeg.early) tickTimes.push(sunSeg.a + 210*60000);
+    const ticks = tickTimes.map(t => { const tx = x(t); return `<line x1="${tx.toFixed(1)}" x2="${tx.toFixed(1)}" y1="${pt}" y2="${H-pb}" stroke="var(--muted)" stroke-width="1" stroke-dasharray="2 3" opacity=".55"/>`; }).join('');
     const area = n>1 ? d+` L${lastX.toFixed(1)} ${y(50)} L${x(tsList[0]).toFixed(1)} ${y(50)} Z` : '';
     const cid = 'c' + Math.random().toString(36).slice(2,8);
     return `<svg viewBox="0 0 ${W} ${H}" preserveAspectRatio="none" role="img" aria-label="Win probability across the week">
