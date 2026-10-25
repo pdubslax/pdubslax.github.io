@@ -649319,6 +649319,640 @@
      "rightRem": 2
     }
    ]
+  },
+  {
+   "ts": "2026-10-25T22:59:15+00:00",
+   "week": 7,
+   "matchups": [
+    {
+     "id": "1v11",
+     "left": "Silly Shrek Squad",
+     "leftRec": "4-2",
+     "right": "Zen Buddha Boys 🪷💨",
+     "rightRec": "3-3",
+     "leftScore": 43.85,
+     "leftProj": 76.15,
+     "rightScore": 132.52,
+     "rightProj": 145.55,
+     "shotgun": [
+      {
+       "player": "S. LaPorta",
+       "pos": "TE",
+       "team": "Det",
+       "pts": 0.0,
+       "game": "4th 9:58, 17-14 vs GB",
+       "tag": null,
+       "state": "live",
+       "slot": "TE",
+       "manager": "Silly Shrek Squad",
+       "locked": false,
+       "live": 1.96,
+       "reason": "pts"
+      }
+     ],
+     "leftActive": [
+      {
+       "player": "J. Smith-Njigba",
+       "pos": "WR",
+       "slot": "W/R/T",
+       "rem": 21.68,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 21.68,
+       "live": 21.68,
+       "game": "Mon 12:20 AM vs KC"
+      },
+      {
+       "player": "M. Stafford",
+       "pos": "QB",
+       "slot": "QB",
+       "rem": 4.98,
+       "state": "live",
+       "pts": 19.0,
+       "proj": 21.39,
+       "live": 23.98,
+       "game": "4th 13:58, 28-12 @ LV"
+      },
+      {
+       "player": "M. Golden",
+       "pos": "WR",
+       "slot": "WR",
+       "rem": 2.58,
+       "state": "live",
+       "pts": 6.8,
+       "proj": 15.54,
+       "live": 9.38,
+       "game": "4th 9:58, 14-17 @ DET"
+      },
+      {
+       "player": "S. LaPorta",
+       "pos": "TE",
+       "slot": "TE",
+       "rem": 1.96,
+       "state": "live",
+       "pts": 0.0,
+       "proj": 11.81,
+       "live": 1.96,
+       "game": "4th 9:58, 17-14 vs GB"
+      },
+      {
+       "player": "J.K. Dobbins",
+       "pos": "RB",
+       "slot": "RB",
+       "rem": 1.1,
+       "state": "live",
+       "pts": 8.3,
+       "proj": 10.18,
+       "live": 9.4,
+       "game": "4th 6:29, 30-13 @ ARI"
+      }
+     ],
+     "rightActive": [
+      {
+       "player": "J. Myers",
+       "pos": "K",
+       "slot": "K",
+       "rem": 9.9,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 9.9,
+       "live": 9.9,
+       "game": "Mon 12:20 AM vs KC"
+      },
+      {
+       "player": "A. St. Brown",
+       "pos": "WR",
+       "slot": "W/R/T",
+       "rem": 3.13,
+       "state": "live",
+       "pts": 23.7,
+       "proj": 18.82,
+       "live": 26.83,
+       "game": "4th 9:58, 17-14 vs GB"
+      }
+     ],
+     "leftPct": 1,
+     "leftRem": 5,
+     "rightRem": 2
+    },
+    {
+     "id": "2v6",
+     "left": "BDSM AI Stealth Founder",
+     "leftRec": "2-4",
+     "right": "MELONHEADS (daniel)",
+     "rightRec": "3-3",
+     "leftScore": 77.44,
+     "leftProj": 89.99,
+     "rightScore": 85.22,
+     "rightProj": 100.43,
+     "shotgun": [
+      {
+       "player": "Panthers",
+       "pos": "DEF",
+       "team": "Car",
+       "pts": -5.0,
+       "game": "Final (L) 13-43 vs TB",
+       "tag": null,
+       "state": "final",
+       "slot": "DEF",
+       "manager": "MELONHEADS (daniel)",
+       "locked": true,
+       "live": 6.98,
+       "reason": "pts"
+      }
+     ],
+     "leftActive": [
+      {
+       "player": "Cowboys",
+       "pos": "DEF",
+       "slot": "DEF",
+       "rem": 7.21,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 7.21,
+       "live": 7.21,
+       "game": "Tue 12:15 AM @ PHI"
+      },
+      {
+       "player": "C. Watson",
+       "pos": "WR",
+       "slot": "W/R/T",
+       "rem": 2.77,
+       "state": "live",
+       "pts": 8.7,
+       "proj": 16.7,
+       "live": 11.47,
+       "game": "4th 9:58, 14-17 @ DET"
+      },
+      {
+       "player": "J. Waddle",
+       "pos": "WR",
+       "slot": "WR",
+       "rem": 1.31,
+       "state": "live",
+       "pts": 7.8,
+       "proj": 12.09,
+       "live": 9.11,
+       "game": "4th 6:29, 30-13 @ ARI"
+      },
+      {
+       "player": "M. Wilson",
+       "pos": "WR",
+       "slot": "WR",
+       "rem": 1.26,
+       "state": "live",
+       "pts": 8.0,
+       "proj": 11.65,
+       "live": 9.26,
+       "game": "4th 6:29, 13-30 vs DEN"
+      }
+     ],
+     "rightActive": [
+      {
+       "player": "G. Pickens",
+       "pos": "WR",
+       "slot": "WR",
+       "rem": 12.62,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 12.62,
+       "live": 12.62,
+       "game": "Tue 12:15 AM @ PHI"
+      },
+      {
+       "player": "J. Bates",
+       "pos": "K",
+       "slot": "K",
+       "rem": 1.65,
+       "state": "live",
+       "pts": 6.0,
+       "proj": 9.95,
+       "live": 7.65,
+       "game": "4th 9:58, 17-14 vs GB"
+      },
+      {
+       "player": "C. Sutton",
+       "pos": "WR",
+       "slot": "WR",
+       "rem": 0.94,
+       "state": "live",
+       "pts": 7.0,
+       "proj": 8.73,
+       "live": 7.94,
+       "game": "4th 6:29, 30-13 @ ARI"
+      }
+     ],
+     "leftPct": 26,
+     "leftRem": 4,
+     "rightRem": 3
+    },
+    {
+     "id": "3v9",
+     "left": "Robotripping Gardener",
+     "leftRec": "5-1",
+     "right": "Sir this is a FF league",
+     "rightRec": "2-4",
+     "leftScore": 99.55,
+     "leftProj": 129.34,
+     "rightScore": 127.27,
+     "rightProj": 134.55,
+     "shotgun": [],
+     "leftActive": [
+      {
+       "player": "P. Mahomes",
+       "pos": "QB",
+       "slot": "QB",
+       "rem": 19.19,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 19.19,
+       "live": 19.19,
+       "game": "Mon 12:20 AM @ SEA"
+      },
+      {
+       "player": "K. Williams",
+       "pos": "RB",
+       "slot": "RB",
+       "rem": 4.51,
+       "state": "live",
+       "pts": 15.9,
+       "proj": 20.2,
+       "live": 20.41,
+       "game": "4th 13:23, 28-12 @ LV"
+      },
+      {
+       "player": "J. Gibbs",
+       "pos": "RB",
+       "slot": "W/R/T",
+       "rem": 4.26,
+       "state": "live",
+       "pts": 11.7,
+       "proj": 26.32,
+       "live": 15.96,
+       "game": "4th 9:43, 17-14 vs GB"
+      },
+      {
+       "player": "T. McBride",
+       "pos": "TE",
+       "slot": "TE",
+       "rem": 1.53,
+       "state": "live",
+       "pts": 22.3,
+       "proj": 14.14,
+       "live": 23.83,
+       "game": "4th 6:29, 13-30 vs DEN"
+      }
+     ],
+     "rightActive": [
+      {
+       "player": "J. Love",
+       "pos": "QB",
+       "slot": "QB",
+       "rem": 3.72,
+       "state": "live",
+       "pts": 19.32,
+       "proj": 23.0,
+       "live": 23.04,
+       "game": "4th 9:43, 14-17 @ DET"
+      },
+      {
+       "player": "B. Corum",
+       "pos": "RB",
+       "slot": "W/R/T",
+       "rem": 2.02,
+       "state": "live",
+       "pts": 10.7,
+       "proj": 9.07,
+       "live": 12.72,
+       "game": "4th 13:23, 28-12 @ LV"
+      },
+      {
+       "player": "J. Williams",
+       "pos": "WR",
+       "slot": "WR",
+       "rem": 1.9,
+       "state": "live",
+       "pts": 24.6,
+       "proj": 11.74,
+       "live": 26.5,
+       "game": "4th 9:43, 17-14 vs GB"
+      },
+      {
+       "player": "Broncos",
+       "pos": "DEF",
+       "slot": "DEF",
+       "rem": 0.0,
+       "state": "live",
+       "pts": 9.25,
+       "proj": 8.46,
+       "live": 8.65,
+       "game": "4th 6:29, 30-13 @ ARI"
+      }
+     ],
+     "leftPct": 38,
+     "leftRem": 4,
+     "rightRem": 4
+    },
+    {
+     "id": "4v10",
+     "left": "Matthew Chen #4",
+     "leftRec": "2-4",
+     "right": "RosterMogged",
+     "rightRec": "3-3",
+     "leftScore": 71.28,
+     "leftProj": 101.48,
+     "rightScore": 68.42,
+     "rightProj": 109.03,
+     "shotgun": [],
+     "leftActive": [
+      {
+       "player": "J. Williams",
+       "pos": "RB",
+       "slot": "RB",
+       "rem": 16.81,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 16.81,
+       "live": 16.81,
+       "game": "Tue 12:15 AM @ PHI"
+      },
+      {
+       "player": "Seahawks",
+       "pos": "DEF",
+       "slot": "DEF",
+       "rem": 7.63,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 7.63,
+       "live": 7.63,
+       "game": "Mon 12:20 AM vs KC"
+      },
+      {
+       "player": "A. Jeanty",
+       "pos": "RB",
+       "slot": "RB",
+       "rem": 3.5,
+       "state": "live",
+       "pts": 10.1,
+       "proj": 15.67,
+       "live": 13.6,
+       "game": "4th 13:23, 12-28 vs LAR RZ"
+      },
+      {
+       "player": "T. Tucker",
+       "pos": "WR",
+       "slot": "WR",
+       "rem": 2.02,
+       "state": "live",
+       "pts": 20.3,
+       "proj": 9.06,
+       "live": 22.32,
+       "game": "4th 13:23, 12-28 vs LAR RZ"
+      }
+     ],
+     "rightActive": [
+      {
+       "player": "K. Walker III",
+       "pos": "RB",
+       "slot": "RB",
+       "rem": 20.01,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 20.01,
+       "live": 20.01,
+       "game": "Mon 12:20 AM @ SEA"
+      },
+      {
+       "player": "X. Worthy",
+       "pos": "WR",
+       "slot": "WR",
+       "rem": 11.26,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 11.26,
+       "live": 11.26,
+       "game": "Mon 12:20 AM @ SEA"
+      },
+      {
+       "player": "Chiefs",
+       "pos": "DEF",
+       "slot": "DEF",
+       "rem": 6.38,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 6.38,
+       "live": 6.38,
+       "game": "Mon 12:20 AM @ SEA"
+      },
+      {
+       "player": "M. Gay",
+       "pos": "K",
+       "slot": "K",
+       "rem": 2.05,
+       "state": "live",
+       "pts": 5.7,
+       "proj": 9.2,
+       "live": 7.75,
+       "game": "4th 13:23, 12-28 vs LAR RZ"
+      },
+      {
+       "player": "Z. Knight",
+       "pos": "RB",
+       "slot": "RB",
+       "rem": 0.82,
+       "state": "live",
+       "pts": 7.9,
+       "proj": 7.57,
+       "live": 8.72,
+       "game": "4th 6:29, 13-30 vs DEN"
+      }
+     ],
+     "leftPct": 39,
+     "leftRem": 4,
+     "rightRem": 5
+    },
+    {
+     "id": "5v7",
+     "left": "Tuten Brown",
+     "leftRec": "4-2",
+     "right": "James Ray Ervin Yonts",
+     "rightRec": "3-3",
+     "leftScore": 85.25,
+     "leftProj": 99.97,
+     "rightScore": 100.55,
+     "rightProj": 154.16,
+     "shotgun": [],
+     "leftActive": [
+      {
+       "player": "B. Aubrey",
+       "pos": "K",
+       "slot": "K",
+       "rem": 10.06,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 10.06,
+       "live": 10.06,
+       "game": "Tue 12:15 AM @ PHI"
+      },
+      {
+       "player": "J. Brissett",
+       "pos": "QB",
+       "slot": "QB",
+       "rem": 1.93,
+       "state": "live",
+       "pts": 16.5,
+       "proj": 17.82,
+       "live": 18.43,
+       "game": "4th 6:29, 13-30 vs DEN"
+      },
+      {
+       "player": "T. Kraft",
+       "pos": "TE",
+       "slot": "TE",
+       "rem": 1.9,
+       "state": "live",
+       "pts": 13.3,
+       "proj": 11.45,
+       "live": 15.2,
+       "game": "4th 9:58, 14-17 @ DET"
+      },
+      {
+       "player": "K. Bourne",
+       "pos": "WR",
+       "slot": "W/R/T",
+       "rem": 0.83,
+       "state": "live",
+       "pts": 1.5,
+       "proj": 7.67,
+       "live": 2.33,
+       "game": "4th 6:29, 13-30 vs DEN"
+      }
+     ],
+     "rightActive": [
+      {
+       "player": "D. Prescott",
+       "pos": "QB",
+       "slot": "QB",
+       "rem": 20.47,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 20.47,
+       "live": 20.47,
+       "game": "Tue 12:15 AM @ PHI"
+      },
+      {
+       "player": "C. Lamb",
+       "pos": "WR",
+       "slot": "WR",
+       "rem": 16.74,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 16.74,
+       "live": 16.74,
+       "game": "Tue 12:15 AM @ PHI"
+      },
+      {
+       "player": "T. Kelce",
+       "pos": "TE",
+       "slot": "TE",
+       "rem": 11.16,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 11.16,
+       "live": 11.16,
+       "game": "Mon 12:20 AM @ SEA"
+      },
+      {
+       "player": "P. Nacua",
+       "pos": "WR",
+       "slot": "W/R/T",
+       "rem": 5.02,
+       "state": "live",
+       "pts": 17.5,
+       "proj": 22.49,
+       "live": 22.52,
+       "game": "4th 13:23, 28-12 @ LV"
+      }
+     ],
+     "leftPct": 2,
+     "leftRem": 4,
+     "rightRem": 4
+    },
+    {
+     "id": "8v12",
+     "left": "Alex Michael Pagels",
+     "leftRec": "1-5",
+     "right": "Kiwis are better than mid",
+     "rightRec": "4-2",
+     "leftScore": 116.98,
+     "leftProj": 147.15,
+     "rightScore": 83.8,
+     "rightProj": 88.36,
+     "shotgun": [],
+     "leftActive": [
+      {
+       "player": "S. Barkley",
+       "pos": "RB",
+       "slot": "RB",
+       "rem": 15.65,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 15.65,
+       "live": 15.65,
+       "game": "Tue 12:15 AM vs DAL"
+      },
+      {
+       "player": "D. Goedert",
+       "pos": "TE",
+       "slot": "TE",
+       "rem": 12.45,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 12.45,
+       "live": 12.45,
+       "game": "Tue 12:15 AM vs DAL"
+      },
+      {
+       "player": "J. Jacobs",
+       "pos": "RB",
+       "slot": "RB",
+       "rem": 2.07,
+       "state": "live",
+       "pts": 19.1,
+       "proj": 12.48,
+       "live": 21.17,
+       "game": "4th 9:58, 14-17 @ DET"
+      }
+     ],
+     "rightActive": [
+      {
+       "player": "B. Bowers",
+       "pos": "TE",
+       "slot": "TE",
+       "rem": 3.43,
+       "state": "live",
+       "pts": 6.4,
+       "proj": 15.38,
+       "live": 9.83,
+       "game": "4th 13:23, 12-28 vs LAR RZ"
+      },
+      {
+       "player": "W. Lutz",
+       "pos": "K",
+       "slot": "K",
+       "rem": 0.98,
+       "state": "live",
+       "pts": 15.2,
+       "proj": 9.11,
+       "live": 16.18,
+       "game": "4th 6:29, 30-13 @ ARI"
+      }
+     ],
+     "leftPct": 99,
+     "leftRem": 3,
+     "rightRem": 2
+    }
+   ]
   }
  ],
  "segments": [
