@@ -1,7 +1,7 @@
 {
  "v": 2,
  "week": 8,
- "ts": "2026-10-25T18:19:30+00:00",
+ "ts": "2026-10-25T18:40:29+00:00",
  "matchups": [
   {
    "id": "1v6",
@@ -12,8 +12,8 @@
    "leftScore": 0.0,
    "leftProj": 100.84,
    "rightScore": 0.0,
-   "rightProj": 69.17,
-   "leftPct": 77,
+   "rightProj": 64.12,
+   "leftPct": 81,
    "leftRem": 8,
    "rightRem": 6,
    "shotgun": [
@@ -180,17 +180,6 @@
      "game": "Sun 1:00 pm vs Ari"
     },
     {
-     "player": "D. Smith",
-     "pos": "WR",
-     "slot": "WR",
-     "rem": 12.56,
-     "state": "pending",
-     "pts": 0.0,
-     "proj": 12.56,
-     "live": 12.56,
-     "game": "Sun 8:20 pm @ Was"
-    },
-    {
      "player": "J. Bates",
      "pos": "K",
      "slot": "K",
@@ -200,6 +189,17 @@
      "proj": 9.49,
      "live": 9.49,
      "game": "Sun 1:00 pm vs Min"
+    },
+    {
+     "player": "C. Sutton",
+     "pos": "WR",
+     "slot": "WR",
+     "rem": 7.51,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 7.51,
+     "live": 7.51,
+     "game": "Sun 4:25 pm vs KC"
     },
     {
      "player": "K. Gainwell",
@@ -455,7 +455,7 @@
    "leftScore": 0.0,
    "leftProj": 125.81,
    "rightScore": 0.0,
-   "rightProj": 89.66,
+   "rightProj": 90.19,
    "leftPct": 78,
    "leftRem": 8,
    "rightRem": 7,
@@ -614,11 +614,11 @@
      "player": "S. Barkley",
      "pos": "RB",
      "slot": "RB",
-     "rem": 14.4,
+     "rem": 14.61,
      "state": "pending",
      "pts": 0.0,
-     "proj": 14.4,
-     "live": 14.4,
+     "proj": 14.61,
+     "live": 14.61,
      "game": "Sun 8:20 pm @ Was"
     },
     {
@@ -633,6 +633,17 @@
      "game": "Sun 1:00 pm vs Ten"
     },
     {
+     "player": "D. Goedert",
+     "pos": "TE",
+     "slot": "TE",
+     "rem": 9.36,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 9.36,
+     "live": 9.36,
+     "game": "Sun 8:20 pm @ Was"
+    },
+    {
      "player": "C. Boswell",
      "pos": "K",
      "slot": "K",
@@ -642,17 +653,6 @@
      "proj": 9.29,
      "live": 9.29,
      "game": "Sun 1:00 pm vs Cle"
-    },
-    {
-     "player": "D. Goedert",
-     "pos": "TE",
-     "slot": "TE",
-     "rem": 9.04,
-     "state": "pending",
-     "pts": 0.0,
-     "proj": 9.04,
-     "live": 9.04,
-     "game": "Sun 8:20 pm @ Was"
     },
     {
      "player": "Titans",
