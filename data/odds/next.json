@@ -1,7 +1,7 @@
 {
  "v": 2,
  "week": 8,
- "ts": "2026-10-25T20:25:14+00:00",
+ "ts": "2026-10-25T20:46:13+00:00",
  "matchups": [
   {
    "id": "1v6",
@@ -358,7 +358,7 @@
      "game": "Sun 4:25 pm vs KC"
     },
     {
-     "player": "Cowboys",
+     "player": "Dallas",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 5.7,
@@ -448,7 +448,7 @@
      "game": "Sun 1:00 pm vs LV"
     },
     {
-     "player": "Broncos",
+     "player": "Denver",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 6.7,
@@ -795,7 +795,7 @@
      "game": "Sun 1:00 pm vs Cle"
     },
     {
-     "player": "Seahawks",
+     "player": "Seattle",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 6.9,
@@ -874,7 +874,7 @@
      "game": "Sun 1:00 pm vs Bal"
     },
     {
-     "player": "Steelers",
+     "player": "Pittsburgh",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 10.47,
@@ -1019,7 +1019,7 @@
      "game": "Sun 1:00 pm @ TB"
     },
     {
-     "player": "Bengals",
+     "player": "Cincinnati",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 10.88,
@@ -1120,7 +1120,7 @@
      "game": "Mon 8:15 pm @ Sea"
     },
     {
-     "player": "Colts",
+     "player": "Indianapolis",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 4.43,
@@ -1243,7 +1243,7 @@
      "game": "Sun 1:00 pm @ TB"
     },
     {
-     "player": "Chiefs",
+     "player": "K. City",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 6.79,
@@ -1344,7 +1344,7 @@
      "game": "Sun 4:25 pm vs KC"
     },
     {
-     "player": "Jets",
+     "player": "N. York",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 7.15,
