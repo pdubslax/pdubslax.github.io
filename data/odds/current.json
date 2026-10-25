@@ -142569,7 +142569,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-10-25T02:26:45+00:00",
+  "ts": "2026-10-25T02:46:56+00:00",
   "week": 7,
   "matchups": [
    {
@@ -142958,7 +142958,7 @@
     "right": "Sir this is a FF league",
     "rightRec": "2-4",
     "leftScore": 19.0,
-    "leftProj": 139.79,
+    "leftProj": 139.78,
     "rightScore": 34.1,
     "rightProj": 120.38,
     "shotgun": [],
@@ -143033,11 +143033,11 @@
       "player": "D. Boston",
       "pos": "WR",
       "slot": "WR",
-      "rem": 10.4,
+      "rem": 10.39,
       "state": "pending",
       "pts": 0.0,
-      "proj": 10.4,
-      "live": 10.4,
+      "proj": 10.39,
+      "live": 10.39,
       "game": "Sun 1:00 pm @ Ten"
      },
      {
@@ -143361,7 +143361,7 @@
     "leftScore": 12.1,
     "leftProj": 102.13,
     "rightScore": 0.0,
-    "rightProj": 143.03,
+    "rightProj": 143.0,
     "shotgun": [],
     "leftActive": [
      {
@@ -143535,11 +143535,11 @@
       "player": "Browns",
       "pos": "DEF",
       "slot": "DEF",
-      "rem": 10.6,
+      "rem": 10.57,
       "state": "pending",
       "pts": 0.0,
-      "proj": 10.6,
-      "live": 10.6,
+      "proj": 10.57,
+      "live": 10.57,
       "game": "Sun 1:00 pm @ Ten"
      }
     ],
@@ -143554,9 +143554,9 @@
     "right": "Kiwis are better than mid",
     "rightRec": "4-2",
     "leftScore": 0.0,
-    "leftProj": 124.39,
+    "leftProj": 124.42,
     "rightScore": 0.0,
-    "rightProj": 126.59,
+    "rightProj": 126.61,
     "shotgun": [],
     "leftActive": [
      {
@@ -143640,11 +143640,11 @@
       "player": "Titans",
       "pos": "DEF",
       "slot": "DEF",
-      "rem": 10.1,
+      "rem": 10.13,
       "state": "pending",
       "pts": 0.0,
-      "proj": 10.1,
-      "live": 10.1,
+      "proj": 10.13,
+      "live": 10.13,
       "game": "Sun 1:00 pm vs Cle"
      },
      {
@@ -143730,11 +143730,11 @@
       "player": "C. Tate",
       "pos": "WR",
       "slot": "W/R/T",
-      "rem": 10.41,
+      "rem": 10.43,
       "state": "pending",
       "pts": 0.0,
-      "proj": 10.41,
-      "live": 10.41,
+      "proj": 10.43,
+      "live": 10.43,
       "game": "Sun 1:00 pm vs Cle"
      },
      {
