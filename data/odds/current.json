@@ -142569,7 +142569,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-10-25T09:27:59+00:00",
+  "ts": "2026-10-25T09:48:10+00:00",
   "week": 7,
   "matchups": [
    {
@@ -142579,7 +142579,7 @@
     "right": "Zen Buddha Boys 🪷💨",
     "rightRec": "3-3",
     "leftScore": 1.3,
-    "leftProj": 114.69,
+    "leftProj": 114.67,
     "rightScore": 42.72,
     "rightProj": 139.13,
     "shotgun": [],
@@ -142588,11 +142588,11 @@
       "player": "J. Smith-Njigba",
       "pos": "WR",
       "slot": "W/R/T",
-      "rem": 21.5,
+      "rem": 21.48,
       "state": "pending",
       "pts": 0.0,
-      "proj": 21.5,
-      "live": 21.5,
+      "proj": 21.48,
+      "live": 21.48,
       "game": "Sun 8:20 pm vs KC"
      },
      {
@@ -143144,7 +143144,7 @@
     "leftScore": 0.0,
     "leftProj": 111.31,
     "rightScore": 0.0,
-    "rightProj": 104.64,
+    "rightProj": 104.65,
     "shotgun": [],
     "leftActive": [
      {
@@ -143263,11 +143263,11 @@
       "player": "K. Walker III",
       "pos": "RB",
       "slot": "RB",
-      "rem": 20.22,
+      "rem": 20.23,
       "state": "pending",
       "pts": 0.0,
-      "proj": 20.22,
-      "live": 20.22,
+      "proj": 20.23,
+      "live": 20.23,
       "game": "Sun 8:20 pm @ Sea"
      },
      {
@@ -143361,7 +143361,7 @@
     "leftScore": 12.1,
     "leftProj": 102.23,
     "rightScore": 0.0,
-    "rightProj": 142.98,
+    "rightProj": 142.97,
     "shotgun": [],
     "leftActive": [
      {
@@ -143513,11 +143513,11 @@
       "player": "T. Kelce",
       "pos": "TE",
       "slot": "TE",
-      "rem": 11.32,
+      "rem": 11.31,
       "state": "pending",
       "pts": 0.0,
-      "proj": 11.32,
-      "live": 11.32,
+      "proj": 11.31,
+      "live": 11.31,
       "game": "Sun 8:20 pm @ Sea"
      },
      {
