@@ -1,7 +1,7 @@
 {
  "v": 2,
  "week": 8,
- "ts": "2026-10-25T20:04:14+00:00",
+ "ts": "2026-10-25T20:25:14+00:00",
  "matchups": [
   {
    "id": "1v6",
@@ -358,7 +358,7 @@
      "game": "Sun 4:25 pm vs KC"
     },
     {
-     "player": "Dallas",
+     "player": "Cowboys",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 5.7,
@@ -448,7 +448,7 @@
      "game": "Sun 1:00 pm vs LV"
     },
     {
-     "player": "Denver",
+     "player": "Broncos",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 6.7,
@@ -503,7 +503,7 @@
      "reason": "pts"
     },
     {
-     "player": "N. Orleans",
+     "player": "Saints",
      "pos": "DEF",
      "team": "NO",
      "pts": 0.0,
@@ -675,7 +675,7 @@
      "game": "Sun 1:00 pm vs Cle"
     },
     {
-     "player": "Tennessee",
+     "player": "Titans",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 3.44,
@@ -795,7 +795,7 @@
      "game": "Sun 1:00 pm vs Cle"
     },
     {
-     "player": "Seattle",
+     "player": "Seahawks",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 6.9,
@@ -874,7 +874,7 @@
      "game": "Sun 1:00 pm vs Bal"
     },
     {
-     "player": "Pittsburgh",
+     "player": "Steelers",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 10.47,
