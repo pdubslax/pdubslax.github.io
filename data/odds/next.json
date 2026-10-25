@@ -1,7 +1,7 @@
 {
  "v": 2,
  "week": 8,
- "ts": "2026-10-24T23:46:06+00:00",
+ "ts": "2026-10-25T00:26:05+00:00",
  "matchups": [
   {
    "id": "1v6",
@@ -462,9 +462,9 @@
    "rightRem": 7,
    "shotgun": [
     {
-     "player": "M. Nabers",
+     "player": "C. Olave",
      "pos": "WR",
-     "team": "NYG",
+     "team": "NO",
      "pts": 0.0,
      "game": "Bye",
      "tag": null,
@@ -474,9 +474,9 @@
      "locked": false
     },
     {
-     "player": "C. Olave",
+     "player": "M. Nabers",
      "pos": "WR",
-     "team": "NO",
+     "team": "NYG",
      "pts": 0.0,
      "game": "Bye",
      "tag": null,
