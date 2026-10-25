@@ -142569,7 +142569,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-10-25T03:46:45+00:00",
+  "ts": "2026-10-25T04:06:56+00:00",
   "week": 7,
   "matchups": [
    {
@@ -142581,7 +142581,7 @@
     "leftScore": 1.3,
     "leftProj": 114.56,
     "rightScore": 42.72,
-    "rightProj": 138.93,
+    "rightProj": 138.98,
     "shotgun": [],
     "leftActive": [
      {
@@ -142722,11 +142722,11 @@
       "player": "O. Gordon II",
       "pos": "RB",
       "slot": "RB",
-      "rem": 12.33,
+      "rem": 12.38,
       "state": "pending",
       "pts": 0.0,
-      "proj": 12.33,
-      "live": 12.33,
+      "proj": 12.38,
+      "live": 12.38,
       "game": "Sun 1:00 pm @ NYJ"
      },
      {
@@ -142763,7 +142763,7 @@
     "right": "MELONHEADS (daniel)",
     "rightRec": "3-3",
     "leftScore": 31.54,
-    "leftProj": 129.76,
+    "leftProj": 129.91,
     "rightScore": 0.0,
     "rightProj": 108.52,
     "shotgun": [],
@@ -142772,11 +142772,11 @@
       "player": "D. Henry",
       "pos": "RB",
       "slot": "RB",
-      "rem": 18.31,
+      "rem": 18.45,
       "state": "pending",
       "pts": 0.0,
-      "proj": 18.31,
-      "live": 18.31,
+      "proj": 18.45,
+      "live": 18.45,
       "game": "Sun 1:00 pm vs Cin"
      },
      {
@@ -142794,11 +142794,11 @@
       "player": "C. Brown",
       "pos": "RB",
       "slot": "RB",
-      "rem": 14.99,
+      "rem": 15.0,
       "state": "pending",
       "pts": 0.0,
-      "proj": 14.99,
-      "live": 14.99,
+      "proj": 15.0,
+      "live": 15.0,
       "game": "Sun 1:00 pm @ Bal"
      },
      {
@@ -142947,7 +142947,7 @@
       "game": "Sun 1:00 pm @ Car"
      }
     ],
-    "leftPct": 67,
+    "leftPct": 68,
     "leftRem": 8,
     "rightRem": 9
    },
@@ -142960,7 +142960,7 @@
     "leftScore": 19.0,
     "leftProj": 140.32,
     "rightScore": 34.1,
-    "rightProj": 120.31,
+    "rightProj": 120.3,
     "shotgun": [],
     "leftActive": [
      {
@@ -143123,11 +143123,11 @@
       "player": "B. Allen",
       "pos": "RB",
       "slot": "RB",
-      "rem": 8.23,
+      "rem": 8.22,
       "state": "pending",
       "pts": 0.0,
-      "proj": 8.23,
-      "live": 8.23,
+      "proj": 8.22,
+      "live": 8.22,
       "game": "Sun 1:00 pm vs Mia"
      }
     ],
@@ -143142,9 +143142,9 @@
     "right": "RosterMogged",
     "rightRec": "3-3",
     "leftScore": 0.0,
-    "leftProj": 111.26,
+    "leftProj": 111.19,
     "rightScore": 0.0,
-    "rightProj": 104.75,
+    "rightProj": 104.74,
     "shotgun": [],
     "leftActive": [
      {
@@ -143162,11 +143162,11 @@
       "player": "J. Chase",
       "pos": "WR",
       "slot": "WR",
-      "rem": 17.15,
+      "rem": 17.1,
       "state": "pending",
       "pts": 0.0,
-      "proj": 17.15,
-      "live": 17.15,
+      "proj": 17.1,
+      "live": 17.1,
       "game": "Sun 1:00 pm @ Bal"
      },
      {
@@ -143195,11 +143195,11 @@
       "player": "J. Sanders",
       "pos": "K",
       "slot": "K",
-      "rem": 9.31,
+      "rem": 9.29,
       "state": "pending",
       "pts": 0.0,
-      "proj": 9.31,
-      "live": 9.31,
+      "proj": 9.29,
+      "live": 9.29,
       "game": "Sun 1:00 pm vs Mia"
      },
      {
@@ -143318,11 +143318,11 @@
       "player": "O. Cooper Jr.",
       "pos": "WR",
       "slot": "W/R/T",
-      "rem": 7.8,
+      "rem": 7.79,
       "state": "pending",
       "pts": 0.0,
-      "proj": 7.8,
-      "live": 7.8,
+      "proj": 7.79,
+      "live": 7.79,
       "game": "Sun 1:00 pm vs Mia"
      },
      {
@@ -143554,20 +143554,20 @@
     "right": "Kiwis are better than mid",
     "rightRec": "4-2",
     "leftScore": 0.0,
-    "leftProj": 124.23,
+    "leftProj": 124.19,
     "rightScore": 0.0,
-    "rightProj": 126.6,
+    "rightProj": 126.57,
     "shotgun": [],
     "leftActive": [
      {
       "player": "J. Burrow",
       "pos": "QB",
       "slot": "QB",
-      "rem": 21.48,
+      "rem": 21.45,
       "state": "pending",
       "pts": 0.0,
-      "proj": 21.48,
-      "live": 21.48,
+      "proj": 21.45,
+      "live": 21.45,
       "game": "Sun 1:00 pm @ Bal"
      },
      {
@@ -143607,11 +143607,11 @@
       "player": "T. Higgins",
       "pos": "WR",
       "slot": "W/R/T",
-      "rem": 13.49,
+      "rem": 13.48,
       "state": "pending",
       "pts": 0.0,
-      "proj": 13.49,
-      "live": 13.49,
+      "proj": 13.48,
+      "live": 13.48,
       "game": "Sun 1:00 pm @ Bal"
      },
      {
@@ -143697,11 +143697,11 @@
       "player": "G. Wilson",
       "pos": "WR",
       "slot": "WR",
-      "rem": 14.33,
+      "rem": 14.32,
       "state": "pending",
       "pts": 0.0,
-      "proj": 14.33,
-      "live": 14.33,
+      "proj": 14.32,
+      "live": 14.32,
       "game": "Sun 1:00 pm vs Mia"
      },
      {
@@ -143741,11 +143741,11 @@
       "player": "Jets",
       "pos": "DEF",
       "slot": "DEF",
-      "rem": 10.35,
+      "rem": 10.33,
       "state": "pending",
       "pts": 0.0,
-      "proj": 10.35,
-      "live": 10.35,
+      "proj": 10.33,
+      "live": 10.33,
       "game": "Sun 1:00 pm vs Mia"
      },
      {
