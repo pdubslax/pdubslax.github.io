@@ -219,11 +219,22 @@ function render(hist, mode, curWeek){
   // cards sorted by the favorite's win percentage, then projected margin as the tiebreaker
   const cards = last.matchups.map(m => ({m, fav: Math.max(m.leftPct, 100-m.leftPct), margin: Math.abs(m.leftProj-m.rightProj)})).sort((a,b)=>b.fav-a.fav || b.margin-a.margin);
   // Band lengths match real game windows (minutes from the band's start): a night game runs about three hours, Sunday runs 1 PM to the end of SNF.
-  const DUR = {TNF: 195, SUN: 690, MNF: 195};
-  const SEG = hist.segments.map(g => { const a = new Date(g.start).getTime(); return {label:g.label, a, b: DUR[g.label] ? a + DUR[g.label]*60000 : new Date(g.end).getTime(), w:g.w}; });
-  // An early Sunday game (London, 9:30 AM ET) stretches the Sunday band back to 9:30 when samples exist before 1 PM.
-  { const sun = SEG.find(g => g.label === 'SUN'), tnf = SEG.find(g => g.label === 'TNF');
-    if (sun && S.some(s => { const t = new Date(s.ts).getTime(); return t < sun.a && t > (tnf ? tnf.b : 0) && t > sun.a - 4*3600000; })) { sun.a -= 210*60000; sun.early = true; } }
+  // The x-axis is weighted by action, not time: each game window gets width in proportion to how much of the league plays in it.
+  // Windows (ET): TNF, an optional 9:30 London game, the 1 PM slate, the 4 PM slate, SNF, MNF.
+  const M = 60000;
+  const thu = new Date(hist.segments.find(g => g.label === 'TNF').start).getTime();
+  const sun = new Date(hist.segments.find(g => g.label === 'SUN').start).getTime();   // Sunday 1:00 PM ET
+  const mon = new Date(hist.segments.find(g => g.label === 'MNF').start).getTime();
+  const hasEarly = S.some(s => { const t = new Date(s.ts).getTime(); return t >= sun - 210*M && t < sun; });
+  const SEG = [
+    {label:'TNF', a: thu, b: thu + 195*M, w: 0.10},
+    ...(hasEarly ? [{label:'9:30', a: sun - 210*M, b: sun, w: 0.06}] : []),
+    {label:'1PM', a: sun, b: sun + 185*M, w: 0.36},
+    {label:'4PM', a: sun + 185*M, b: sun + 440*M, w: 0.24},
+    {label:'SNF', a: sun + 440*M, b: sun + 660*M, w: 0.10},
+    {label:'MNF', a: mon, b: mon + 195*M, w: 0.14},
+  ];
+  { const tw = SEG.reduce((s,g)=>s+g.w, 0); SEG.forEach(g => g.w /= tw); }
   const GAP = 0.012; const usable = 1 - GAP*(SEG.length-1);
   SEG.reduce((off,g)=>{ g.x0 = off; g.x1 = off + g.w*usable; return g.x1 + GAP; }, 0);
   const frac = t => { for (let i = 0; i < SEG.length; i++){ const g = SEG[i]; if (t < g.a) return i === 0 ? g.x0 : SEG[i-1].x1; if (t <= g.b) return g.x0 + (g.x1-g.x0)*(t-g.a)/(g.b-g.a); } return SEG[SEG.length-1].x1; };
@@ -243,12 +254,8 @@ function render(hist, mode, curWeek){
       for(let i=0;i<n-1;i++){ const h3=dx[i]/3; d += ` C${(P[i].x+h3).toFixed(1)} ${(P[i].y+m[i]*h3).toFixed(1)} ${(P[i+1].x-h3).toFixed(1)} ${(P[i+1].y-m[i+1]*h3).toFixed(1)} ${P[i+1].x.toFixed(1)} ${P[i+1].y.toFixed(1)}`; }
     }
     const n=vals.length, lastV=vals[n-1], lastX=x(tsList[n-1]);
-    const bands = SEG.map((g,i)=>{ const x0=pl+(W-pl-pr)*g.x0, x1=pl+(W-pl-pr)*g.x1; return `<rect x="${x0.toFixed(1)}" y="${pt}" width="${(x1-x0).toFixed(1)}" height="${H-pt-pb}" fill="var(--grid)" opacity="${i%2?0.55:0.25}"/><text x="${((x0+x1)/2).toFixed(1)}" y="${H-6}" text-anchor="middle" font-size="10" font-family="var(--mono)" fill="var(--muted)">${g.label}</text>`; }).join('');
-    // Subtle dashed dividers between Sunday's windows: the 4:05 and 8:20 kickoffs, plus 1:00 on weeks that open with a London game.
-    const sunSeg = SEG.find(g => g.label === 'SUN');
-    const tickTimes = hist.ticks.map(k => new Date(k.at).getTime());
-    if (sunSeg && sunSeg.early) tickTimes.push(sunSeg.a + 210*60000);
-    const ticks = tickTimes.map(t => { const tx = x(t); return `<line x1="${tx.toFixed(1)}" x2="${tx.toFixed(1)}" y1="${pt}" y2="${H-pb}" stroke="var(--muted)" stroke-width="1" stroke-dasharray="2 3" opacity=".55"/>`; }).join('');
+    const bands = SEG.map((g,i)=>{ const x0=pl+(W-pl-pr)*g.x0, x1=pl+(W-pl-pr)*g.x1; const lbl = (x1-x0) > 22 ? `<text x="${((x0+x1)/2).toFixed(1)}" y="${H-6}" text-anchor="middle" font-size="9.5" font-family="var(--mono)" fill="var(--muted)">${g.label}</text>` : ''; const div = i ? `<line x1="${(x0-1.9).toFixed(1)}" x2="${(x0-1.9).toFixed(1)}" y1="${pt}" y2="${H-pb}" stroke="var(--muted)" stroke-width="1" stroke-dasharray="2 3" opacity=".5"/>` : ''; return `<rect x="${x0.toFixed(1)}" y="${pt}" width="${(x1-x0).toFixed(1)}" height="${H-pt-pb}" fill="var(--grid)" opacity="${i%2?0.55:0.25}"/>${div}${lbl}`; }).join('');
+    const ticks = '';
     const area = n>1 ? d+` L${lastX.toFixed(1)} ${y(50)} L${x(tsList[0]).toFixed(1)} ${y(50)} Z` : '';
     const cid = 'c' + Math.random().toString(36).slice(2,8);
     return `<svg viewBox="0 0 ${W} ${H}" preserveAspectRatio="none" role="img" aria-label="Win probability across the week">
