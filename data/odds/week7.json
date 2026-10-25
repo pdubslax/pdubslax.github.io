@@ -142569,7 +142569,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-10-25T12:28:45+00:00",
+  "ts": "2026-10-25T12:48:53+00:00",
   "week": 7,
   "matchups": [
    {
@@ -142960,7 +142960,7 @@
     "leftScore": 19.0,
     "leftProj": 140.75,
     "rightScore": 34.1,
-    "rightProj": 126.91,
+    "rightProj": 126.95,
     "shotgun": [],
     "leftActive": [
      {
@@ -143079,11 +143079,11 @@
       "player": "B. Allen",
       "pos": "RB",
       "slot": "RB",
-      "rem": 14.43,
+      "rem": 14.47,
       "state": "pending",
       "pts": 0.0,
-      "proj": 14.43,
-      "live": 14.43,
+      "proj": 14.47,
+      "live": 14.47,
       "game": "Sun 1:00 pm vs Mia"
      },
      {
@@ -143142,20 +143142,20 @@
     "right": "RosterMogged",
     "rightRec": "3-3",
     "leftScore": 0.0,
-    "leftProj": 110.9,
+    "leftProj": 110.78,
     "rightScore": 0.0,
-    "rightProj": 104.44,
+    "rightProj": 104.41,
     "shotgun": [],
     "leftActive": [
      {
       "player": "A. Rodgers",
       "pos": "QB",
       "slot": "QB",
-      "rem": 19.35,
+      "rem": 19.34,
       "state": "pending",
       "pts": 0.0,
-      "proj": 19.35,
-      "live": 19.35,
+      "proj": 19.34,
+      "live": 19.34,
       "game": "Sun 9:30 am @ NO"
      },
      {
@@ -143217,11 +143217,11 @@
       "player": "P. Freiermuth",
       "pos": "TE",
       "slot": "TE",
-      "rem": 8.53,
+      "rem": 8.42,
       "state": "pending",
       "pts": 0.0,
-      "proj": 8.53,
-      "live": 8.53,
+      "proj": 8.42,
+      "live": 8.42,
       "game": "Sun 9:30 am @ NO"
      },
      {
@@ -143285,11 +143285,11 @@
       "player": "G. Bernard",
       "pos": "WR",
       "slot": "WR",
-      "rem": 10.95,
+      "rem": 10.94,
       "state": "pending",
       "pts": 0.0,
-      "proj": 10.95,
-      "live": 10.95,
+      "proj": 10.94,
+      "live": 10.94,
       "game": "Sun 9:30 am @ NO"
      },
      {
@@ -143318,11 +143318,11 @@
       "player": "O. Cooper Jr.",
       "pos": "WR",
       "slot": "W/R/T",
-      "rem": 7.81,
+      "rem": 7.79,
       "state": "pending",
       "pts": 0.0,
-      "proj": 7.81,
-      "live": 7.81,
+      "proj": 7.79,
+      "live": 7.79,
       "game": "Sun 1:00 pm vs Mia"
      },
      {
@@ -143361,7 +143361,7 @@
     "leftScore": 12.1,
     "leftProj": 102.15,
     "rightScore": 0.0,
-    "rightProj": 142.97,
+    "rightProj": 142.96,
     "shotgun": [],
     "leftActive": [
      {
@@ -143469,11 +143469,11 @@
       "player": "J. Warren",
       "pos": "RB",
       "slot": "RB",
-      "rem": 17.24,
+      "rem": 17.23,
       "state": "pending",
       "pts": 0.0,
-      "proj": 17.24,
-      "live": 17.24,
+      "proj": 17.23,
+      "live": 17.23,
       "game": "Sun 9:30 am @ NO"
      },
      {
@@ -143556,7 +143556,7 @@
     "leftScore": 0.0,
     "leftProj": 124.01,
     "rightScore": 0.0,
-    "rightProj": 126.38,
+    "rightProj": 126.28,
     "shotgun": [],
     "leftActive": [
      {
@@ -143697,22 +143697,22 @@
       "player": "G. Wilson",
       "pos": "WR",
       "slot": "WR",
-      "rem": 14.36,
+      "rem": 14.33,
       "state": "pending",
       "pts": 0.0,
-      "proj": 14.36,
-      "live": 14.36,
+      "proj": 14.33,
+      "live": 14.33,
       "game": "Sun 1:00 pm vs Mia"
      },
      {
       "player": "DK Metcalf",
       "pos": "WR",
       "slot": "WR",
-      "rem": 12.39,
+      "rem": 12.32,
       "state": "pending",
       "pts": 0.0,
-      "proj": 12.39,
-      "live": 12.39,
+      "proj": 12.32,
+      "live": 12.32,
       "game": "Sun 9:30 am @ NO"
      },
      {
