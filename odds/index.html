@@ -208,7 +208,7 @@ function render(hist, mode, curWeek){
   const secondHalf = g => /^(Half|3rd|4th|OT)/.test(g) || /^2nd ([01]:\d\d|2:00)\b/.test(g);
   const inPlay = x => x.state === 'final' || (x.state === 'live' && (x.reason === 'proj' || secondHalf(x.game || ''))) || (underway && (x.state === 'bye' || x.state === 'empty' || INACTIVE.includes(x.tag)));
   const shots = last.matchups.flatMap(m => (m.shotgun || []).filter(inPlay).map(x => ({...x, label: (firstName(m, x.manager===m.left?0:1) ? firstName(m, x.manager===m.left?0:1) + ' - ' : '') + x.manager}))).map(x => ({...x, locked: x.locked || weekDone}));
-  const line = x => `<li><span class="who">${esc(x.label)} <small>${esc(x.player)}${x.pos?' · '+esc(x.pos):''}${x.tag?' · '+esc(x.tag):''}${x.game&&x.state!=='final'?' · '+esc(x.game):''}${x.reason==='proj'&&x.live!=null?` · <em class="down">proj ${x.live.toFixed(1)}</em>`:''}</small></span></li>`;
+  const line = x => `<li><span class="who">${esc(x.label)} <small>${esc(x.player)}${x.pos?' · '+esc(x.pos):''}${x.tag?' · '+esc(x.tag):''}${x.game&&x.state!=='final'?' · '+esc(x.game):''}${x.reason==='proj'&&x.live!=null?` · <em class="down">proj ${x.live.toFixed(1)}</em>`:` · <em class="down">${(x.pts||0).toFixed(1)}</em>`}</small></span></li>`;
   shots.sort((a,b)=>a.pts-b.pts);
   const locked = shots.filter(x=>x.locked), risk = shots.filter(x=>!x.locked);
   const col = (title, chipCls, items, empty) => `<div class="col"><span class="lab"><span class="chip ${chipCls}">${title}</span></span>${items.length ? `<ul>${items.map(line).join('')}</ul>` : `<div class="none">${empty}</div>`}</div>`;
