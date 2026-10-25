@@ -1,7 +1,7 @@
 {
  "v": 2,
  "week": 8,
- "ts": "2026-10-25T17:58:31+00:00",
+ "ts": "2026-10-25T18:19:30+00:00",
  "matchups": [
   {
    "id": "1v6",
@@ -232,10 +232,10 @@
    "right": "Sir this is a FF league",
    "rightRec": "2-4",
    "leftScore": 0.0,
-   "leftProj": 104.25,
+   "leftProj": 104.05,
    "rightScore": 0.0,
-   "rightProj": 92.55,
-   "leftPct": 61,
+   "rightProj": 92.49,
+   "leftPct": 60,
    "leftRem": 7,
    "rightRem": 8,
    "shotgun": [
@@ -281,11 +281,11 @@
      "player": "D. Maye",
      "pos": "QB",
      "slot": "QB",
-     "rem": 24.76,
+     "rem": 24.65,
      "state": "pending",
      "pts": 0.0,
-     "proj": 24.76,
-     "live": 24.76,
+     "proj": 24.65,
+     "live": 24.65,
      "game": "Sun 4:25 pm @ Mia"
     },
     {
@@ -303,11 +303,11 @@
      "player": "C. Brown",
      "pos": "RB",
      "slot": "RB",
-     "rem": 17.12,
+     "rem": 17.03,
      "state": "pending",
      "pts": 0.0,
-     "proj": 17.12,
-     "live": 17.12,
+     "proj": 17.03,
+     "live": 17.03,
      "game": "Sun 1:00 pm vs Ten"
     },
     {
@@ -382,11 +382,11 @@
      "player": "R. Stevenson",
      "pos": "RB",
      "slot": "RB",
-     "rem": 11.79,
+     "rem": 11.76,
      "state": "pending",
      "pts": 0.0,
-     "proj": 11.79,
-     "live": 11.79,
+     "proj": 11.76,
+     "live": 11.76,
      "game": "Sun 4:25 pm @ Mia"
     },
     {
@@ -415,11 +415,11 @@
      "player": "H. Henry",
      "pos": "TE",
      "slot": "TE",
-     "rem": 8.59,
+     "rem": 8.56,
      "state": "pending",
      "pts": 0.0,
-     "proj": 8.59,
-     "live": 8.59,
+     "proj": 8.56,
+     "live": 8.56,
      "game": "Sun 4:25 pm @ Mia"
     },
     {
@@ -455,7 +455,7 @@
    "leftScore": 0.0,
    "leftProj": 125.81,
    "rightScore": 0.0,
-   "rightProj": 89.33,
+   "rightProj": 89.66,
    "leftPct": 78,
    "leftRem": 8,
    "rightRem": 7,
@@ -592,11 +592,11 @@
      "player": "J. Burrow",
      "pos": "QB",
      "slot": "QB",
-     "rem": 24.24,
+     "rem": 24.04,
      "state": "pending",
      "pts": 0.0,
-     "proj": 24.24,
-     "live": 24.24,
+     "proj": 24.04,
+     "live": 24.04,
      "game": "Sun 1:00 pm vs Ten"
     },
     {
@@ -611,17 +611,6 @@
      "game": "Thu 8:15 pm vs Car"
     },
     {
-     "player": "T. Higgins",
-     "pos": "WR",
-     "slot": "W/R/T",
-     "rem": 14.45,
-     "state": "pending",
-     "pts": 0.0,
-     "proj": 14.45,
-     "live": 14.45,
-     "game": "Sun 1:00 pm vs Ten"
-    },
-    {
      "player": "S. Barkley",
      "pos": "RB",
      "slot": "RB",
@@ -631,6 +620,17 @@
      "proj": 14.4,
      "live": 14.4,
      "game": "Sun 8:20 pm @ Was"
+    },
+    {
+     "player": "T. Higgins",
+     "pos": "WR",
+     "slot": "W/R/T",
+     "rem": 14.34,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 14.34,
+     "live": 14.34,
+     "game": "Sun 1:00 pm vs Ten"
     },
     {
      "player": "C. Boswell",
@@ -658,11 +658,11 @@
      "player": "Titans",
      "pos": "DEF",
      "slot": "DEF",
-     "rem": 2.8,
+     "rem": 3.44,
      "state": "pending",
      "pts": 0.0,
-     "proj": 2.8,
-     "live": 2.8,
+     "proj": 3.44,
+     "live": 3.44,
      "game": "Sun 1:00 pm @ Cin"
     }
    ]
@@ -674,9 +674,9 @@
    "right": "Tuten Brown",
    "rightRec": "4-2",
    "leftScore": 0.0,
-   "leftProj": 102.12,
+   "leftProj": 101.98,
    "rightScore": 0.0,
-   "rightProj": 118.4,
+   "rightProj": 118.34,
    "leftPct": 36,
    "leftRem": 8,
    "rightRem": 9,
@@ -699,11 +699,11 @@
      "player": "J. Chase",
      "pos": "WR",
      "slot": "WR",
-     "rem": 18.47,
+     "rem": 18.33,
      "state": "pending",
      "pts": 0.0,
-     "proj": 18.47,
-     "live": 18.47,
+     "proj": 18.33,
+     "live": 18.33,
      "game": "Sun 1:00 pm vs Ten"
     },
     {
@@ -822,11 +822,11 @@
      "player": "A.J. Brown",
      "pos": "WR",
      "slot": "WR",
-     "rem": 14.17,
+     "rem": 14.11,
      "state": "pending",
      "pts": 0.0,
-     "proj": 14.17,
-     "live": 14.17,
+     "proj": 14.11,
+     "live": 14.11,
      "game": "Sun 4:25 pm @ Mia"
     },
     {
@@ -893,9 +893,9 @@
    "right": "Zen Buddha Boys 🪷💨",
    "rightRec": "3-3",
    "leftScore": 0.0,
-   "leftProj": 135.06,
+   "leftProj": 135.01,
    "rightScore": 0.0,
-   "rightProj": 106.11,
+   "rightProj": 106.06,
    "leftPct": 71,
    "leftRem": 8,
    "rightRem": 8,
@@ -996,11 +996,11 @@
      "player": "Bengals",
      "pos": "DEF",
      "slot": "DEF",
-     "rem": 10.93,
+     "rem": 10.88,
      "state": "pending",
      "pts": 0.0,
-     "proj": 10.93,
-     "live": 10.93,
+     "proj": 10.88,
+     "live": 10.88,
      "game": "Sun 1:00 pm vs Ten"
     },
     {
@@ -1064,11 +1064,11 @@
      "player": "O. Gordon II",
      "pos": "RB",
      "slot": "RB",
-     "rem": 11.76,
+     "rem": 11.71,
      "state": "pending",
      "pts": 0.0,
-     "proj": 11.76,
-     "live": 11.76,
+     "proj": 11.71,
+     "live": 11.71,
      "game": "Sun 4:25 pm vs NE"
     },
     {
@@ -1115,7 +1115,7 @@
    "leftScore": 0.0,
    "leftProj": 72.91,
    "rightScore": 0.0,
-   "rightProj": 98.34,
+   "rightProj": 98.28,
    "leftPct": 26,
    "leftRem": 8,
    "rightRem": 8,
@@ -1213,7 +1213,7 @@
      "game": "Sun 1:00 pm @ TB"
     },
     {
-     "player": "K. City",
+     "player": "Chiefs",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 6.79,
@@ -1273,11 +1273,11 @@
      "player": "C. Tate",
      "pos": "WR",
      "slot": "W/R/T",
-     "rem": 11.2,
+     "rem": 11.14,
      "state": "pending",
      "pts": 0.0,
-     "proj": 11.2,
-     "live": 11.2,
+     "proj": 11.14,
+     "live": 11.14,
      "game": "Sun 1:00 pm @ Cin"
     },
     {
@@ -1314,7 +1314,7 @@
      "game": "Sun 4:25 pm vs KC"
     },
     {
-     "player": "N. York",
+     "player": "Jets",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 7.15,
