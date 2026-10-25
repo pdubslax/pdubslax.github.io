@@ -117,12 +117,16 @@ def shotgun_entries(rows, left_team, right_team):
     out = []
     for r in rows:
         for side, who in (("L", left_team), ("R", right_team)):
-            name, text = r[side]; pts = r["lp"] if side == "L" else r["rp"]
+            name, text = r[side]; pts = r["lp"] if side == "L" else r["rp"]; proj = r.get("lpr" if side == "L" else "rpr", "")
             d = parse_player(name, text, pts)
-            if d["pts"] > 0: continue
+            nums = re.findall(r"-?\d+\.\d+", proj or "")
+            live_proj = float(nums[-1]) if nums else None
+            # Two ways in: sitting at zero or below, or a live player Yahoo now projects to finish at zero or below (a defense getting shelled).
+            proj_neg = d["state"] == "live" and live_proj is not None and live_proj <= 0
+            if d["pts"] > 0 and not proj_neg: continue
             inactive = d["tag"] in ("O", "IR", "IR-R", "PUP", "SUSP", "NFI", "NA")
             if d["state"] == "pending" and not inactive: continue
-            d.update(slot=r["slot"], manager=who, locked=d["state"] == "final")
+            d.update(slot=r["slot"], manager=who, locked=d["state"] == "final", live=live_proj, reason="proj" if (d["pts"] > 0 and proj_neg) else "pts")
             out.append(d)
     return out
 
