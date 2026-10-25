@@ -1,7 +1,7 @@
 {
  "v": 2,
  "week": 8,
- "ts": "2026-10-25T01:06:07+00:00",
+ "ts": "2026-10-25T01:26:47+00:00",
  "matchups": [
   {
    "id": "1v6",
@@ -1032,11 +1032,11 @@
      "player": "C. Hubbard",
      "pos": "RB",
      "slot": "RB",
-     "rem": 17.05,
+     "rem": 17.13,
      "state": "pending",
      "pts": 0.0,
-     "proj": 17.05,
-     "live": 17.05,
+     "proj": 17.13,
+     "live": 17.13,
      "game": "Thu 8:15 pm @ GB"
     },
     {
@@ -1054,11 +1054,11 @@
      "player": "Z. Flowers",
      "pos": "WR",
      "slot": "WR",
-     "rem": 16.36,
+     "rem": 16.25,
      "state": "pending",
      "pts": 0.0,
-     "proj": 16.36,
-     "live": 16.36,
+     "proj": 16.25,
+     "live": 16.25,
      "game": "Sun 1:00 pm @ Buf"
     },
     {
