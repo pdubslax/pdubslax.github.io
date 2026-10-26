@@ -764833,7 +764833,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-10-26T07:42:50+00:00",
+  "ts": "2026-10-26T07:43:50+00:00",
   "week": 7,
   "matchups": [
    {
@@ -764865,7 +764865,7 @@
     "rightProj": 99.52,
     "shotgun": [
      {
-      "player": "Panthers",
+      "player": "Carolina",
       "pos": "DEF",
       "team": "Car",
       "pts": -5.0,
@@ -764881,7 +764881,7 @@
     ],
     "leftActive": [
      {
-      "player": "Cowboys",
+      "player": "Dallas",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 7.2,
