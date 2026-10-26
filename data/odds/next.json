@@ -1,7 +1,7 @@
 {
  "v": 2,
  "week": 8,
- "ts": "2026-10-26T03:46:03+00:00",
+ "ts": "2026-10-26T04:07:02+00:00",
  "matchups": [
   {
    "id": "1v6",
@@ -469,25 +469,11 @@
    "leftScore": 0.0,
    "leftProj": 125.99,
    "rightScore": 0.0,
-   "rightProj": 89.64,
-   "leftPct": 78,
+   "rightProj": 98.67,
+   "leftPct": 72,
    "leftRem": 8,
-   "rightRem": 7,
+   "rightRem": 8,
    "shotgun": [
-    {
-     "player": "C. Olave",
-     "pos": "WR",
-     "team": "NO",
-     "pts": 0.0,
-     "game": "Bye",
-     "tag": null,
-     "state": "bye",
-     "slot": "WR",
-     "manager": "Alex Michael Pagels",
-     "locked": false,
-     "live": 0.0,
-     "reason": "pts"
-    },
     {
      "player": "M. Nabers",
      "pos": "WR",
@@ -633,7 +619,7 @@
     {
      "player": "T. Higgins",
      "pos": "WR",
-     "slot": "W/R/T",
+     "slot": "WR",
      "rem": 14.51,
      "state": "pending",
      "pts": 0.0,
@@ -673,6 +659,17 @@
      "proj": 9.03,
      "live": 9.03,
      "game": "Sun 8:20 pm @ Was"
+    },
+    {
+     "player": "RJ Harvey",
+     "pos": "RB",
+     "slot": "W/R/T",
+     "rem": 9.03,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 9.03,
+     "live": 9.03,
+     "game": "Sun 4:25 pm vs KC"
     },
     {
      "player": "Titans",
