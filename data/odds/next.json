@@ -1,7 +1,7 @@
 {
  "v": 2,
  "week": 8,
- "ts": "2026-10-26T05:30:48+00:00",
+ "ts": "2026-10-26T05:51:49+00:00",
  "matchups": [
   {
    "id": "1v6",
@@ -243,7 +243,7 @@
    "leftProj": 104.49,
    "rightScore": 0.0,
    "rightProj": 107.3,
-   "leftPct": 47,
+   "leftPct": 48,
    "leftRem": 7,
    "rightRem": 8,
    "shotgun": [
@@ -339,11 +339,11 @@
      "player": "M. Wilson",
      "pos": "WR",
      "slot": "WR",
-     "rem": 13.19,
+     "rem": 13.28,
      "state": "pending",
      "pts": 0.0,
-     "proj": 13.19,
-     "live": 13.19,
+     "proj": 13.28,
+     "live": 13.28,
      "game": "Sun 1:00 pm @ Dal"
     },
     {
@@ -361,11 +361,11 @@
      "player": "Cowboys",
      "pos": "DEF",
      "slot": "DEF",
-     "rem": 5.74,
+     "rem": 5.76,
      "state": "pending",
      "pts": 0.0,
-     "proj": 5.74,
-     "live": 5.74,
+     "proj": 5.76,
+     "live": 5.76,
      "game": "Sun 1:00 pm vs Ari"
     }
    ],
@@ -541,11 +541,11 @@
      "player": "T. McBride",
      "pos": "TE",
      "slot": "TE",
-     "rem": 15.97,
+     "rem": 16.06,
      "state": "pending",
      "pts": 0.0,
-     "proj": 15.97,
-     "live": 15.97,
+     "proj": 16.06,
+     "live": 16.06,
      "game": "Sun 1:00 pm @ Dal"
     },
     {
@@ -729,11 +729,11 @@
      "player": "J. Williams",
      "pos": "RB",
      "slot": "RB",
-     "rem": 18.27,
+     "rem": 18.29,
      "state": "pending",
      "pts": 0.0,
-     "proj": 18.27,
-     "live": 18.27,
+     "proj": 18.29,
+     "live": 18.29,
      "game": "Sun 1:00 pm vs Ari"
     },
     {
@@ -792,7 +792,7 @@
      "game": "Sun 1:00 pm vs Cle"
     },
     {
-     "player": "Seahawks",
+     "player": "Seattle",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 6.92,
@@ -852,11 +852,11 @@
      "player": "B. Aubrey",
      "pos": "K",
      "slot": "K",
-     "rem": 10.97,
+     "rem": 10.99,
      "state": "pending",
      "pts": 0.0,
-     "proj": 10.97,
-     "live": 10.97,
+     "proj": 10.99,
+     "live": 10.99,
      "game": "Sun 1:00 pm vs Ari"
     },
     {
@@ -882,7 +882,7 @@
      "game": "Thu 8:15 pm vs Car"
     },
     {
-     "player": "Steelers",
+     "player": "Pittsburgh",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 10.42,
@@ -953,11 +953,11 @@
      "player": "D. Prescott",
      "pos": "QB",
      "slot": "QB",
-     "rem": 25.33,
+     "rem": 25.44,
      "state": "pending",
      "pts": 0.0,
-     "proj": 25.33,
-     "live": 25.33,
+     "proj": 25.44,
+     "live": 25.44,
      "game": "Sun 1:00 pm vs Ari"
     },
     {
@@ -975,11 +975,11 @@
      "player": "C. Lamb",
      "pos": "WR",
      "slot": "W/R/T",
-     "rem": 19.71,
+     "rem": 19.8,
      "state": "pending",
      "pts": 0.0,
-     "proj": 19.71,
-     "live": 19.71,
+     "proj": 19.8,
+     "live": 19.8,
      "game": "Sun 1:00 pm vs Ari"
     },
     {
@@ -1254,11 +1254,11 @@
      "player": "B. Knight",
      "pos": "RB",
      "slot": "RB",
-     "rem": 2.82,
+     "rem": 2.85,
      "state": "pending",
      "pts": 0.0,
-     "proj": 2.82,
-     "live": 2.82,
+     "proj": 2.85,
+     "live": 2.85,
      "game": "Sun 1:00 pm @ Dal"
     }
    ],
