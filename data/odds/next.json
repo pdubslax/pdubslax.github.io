@@ -1,7 +1,7 @@
 {
  "v": 2,
  "week": 8,
- "ts": "2026-10-26T02:43:02+00:00",
+ "ts": "2026-10-26T03:04:03+00:00",
  "matchups": [
   {
    "id": "1v6",
@@ -10,7 +10,7 @@
    "right": "MELONHEADS (daniel)",
    "rightRec": "3-3",
    "leftScore": 0.0,
-   "leftProj": 100.7,
+   "leftProj": 100.68,
    "rightScore": 0.0,
    "rightProj": 64.18,
    "leftPct": 80,
@@ -145,11 +145,11 @@
      "player": "S. Shrader",
      "pos": "K",
      "slot": "K",
-     "rem": 8.68,
+     "rem": 8.66,
      "state": "pending",
      "pts": 0.0,
-     "proj": 8.68,
-     "live": 8.68,
+     "proj": 8.66,
+     "live": 8.66,
      "game": "Sun 1:00 pm @ Jax"
     },
     {
@@ -696,7 +696,7 @@
    "leftScore": 0.0,
    "leftProj": 101.98,
    "rightScore": 0.0,
-   "rightProj": 122.17,
+   "rightProj": 122.07,
    "leftPct": 33,
    "leftRem": 8,
    "rightRem": 9,
@@ -811,33 +811,33 @@
      "player": "T. Lawrence",
      "pos": "QB",
      "slot": "QB",
-     "rem": 23.61,
+     "rem": 23.55,
      "state": "pending",
      "pts": 0.0,
-     "proj": 23.61,
-     "live": 23.61,
+     "proj": 23.55,
+     "live": 23.55,
      "game": "Sun 1:00 pm vs Ind"
     },
     {
      "player": "J. Taylor",
      "pos": "RB",
      "slot": "RB",
-     "rem": 17.68,
+     "rem": 17.65,
      "state": "pending",
      "pts": 0.0,
-     "proj": 17.68,
-     "live": 17.68,
+     "proj": 17.65,
+     "live": 17.65,
      "game": "Sun 1:00 pm @ Jax"
     },
     {
      "player": "B. Tuten",
      "pos": "RB",
      "slot": "RB",
-     "rem": 15.02,
+     "rem": 15.01,
      "state": "pending",
      "pts": 0.0,
-     "proj": 15.02,
-     "live": 15.02,
+     "proj": 15.01,
+     "live": 15.01,
      "game": "Sun 1:00 pm vs Ind"
     },
     {
@@ -917,7 +917,7 @@
    "leftScore": 0.0,
    "leftProj": 135.26,
    "rightScore": 0.0,
-   "rightProj": 106.05,
+   "rightProj": 106.04,
    "leftPct": 71,
    "leftRem": 8,
    "rightRem": 8,
@@ -1123,11 +1123,11 @@
      "player": "Colts",
      "pos": "DEF",
      "slot": "DEF",
-     "rem": 4.41,
+     "rem": 4.4,
      "state": "pending",
      "pts": 0.0,
-     "proj": 4.41,
-     "live": 4.41,
+     "proj": 4.4,
+     "live": 4.4,
      "game": "Sun 1:00 pm @ Jax"
     }
    ]
