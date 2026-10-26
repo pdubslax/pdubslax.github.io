@@ -232,8 +232,8 @@ function render(hist, mode, curWeek){
   const series = id => { const v = S.map(s => { const m = s.matchups.find(x=>x.id===id); return m ? m.leftPct : null; });
     for (let i = 1; i < v.length-1; i++) { const a=v[i-1], b=v[i], c=v[i+1]; if (a!=null && b!=null && c!=null && Math.abs(a-c) <= 5 && Math.abs(b-a) >= 30 && Math.abs(b-c) >= 30) v[i] = Math.round((a+c)/2); }
     return v; };
-  // cards sorted by the favorite's win percentage, then projected margin as the tiebreaker
-  const cards = last.matchups.map(m => ({m, fav: Math.max(m.leftPct, 100-m.leftPct), margin: Math.abs(m.leftProj-m.rightProj)})).sort((a,b)=>b.fav-a.fav || b.margin-a.margin);
+  // cards sorted by projected margin of victory, biggest first (the same order as the blowout race and the blog post)
+  const cards = last.matchups.map(m => ({m, margin: Math.abs(m.leftProj-m.rightProj)})).sort((a,b)=>b.margin-a.margin);
   // Band lengths match real game windows (minutes from the band's start): a night game runs about three hours, Sunday runs 1 PM to the end of SNF.
   // The x-axis is weighted by action, not time: each game window gets width in proportion to how much of the league plays in it.
   // Windows (ET): TNF, an optional 9:30 London game, the 1 PM slate, the 4 PM slate, SNF, MNF.
