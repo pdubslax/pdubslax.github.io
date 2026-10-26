@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Monday Night Football - 2026 Fantasy Preview - Week 7
-published: false
 ---
 
 A weekly newsletter for members of the Harry Koch Memorial Cup Fantasy Football league - all others will **BE CALLED CHOPPED BY AN ISOLATED GEN Z**
@@ -25,27 +24,27 @@ The league's best all did their darndest "imagine if my team wasn't good" impres
 
 **✅ 100% - 61.47 points: Zen Buddha Boys 🪷💨 (3-3) vs Silly Shrek Squad (4-2)**  
 
-In this week's leading contender for biggest blowout of the BEAK, sponsored by _wet my beak and call me tucker_ sparkling water - Skylar 2.0 stormed back, absolutely punishing our fearless commish and his (puntable) football sized dog. Nick went with the "what if JSN scored all my points" approach, while Zen reached for the "what if I had 5 players score 20+" approach. 
+In this week's leading contender for biggest blowout of the BEAK, sponsored by _wet my beak and call me tucker_ sparkling water - Skylar 2.0 stormed back, absolutely punishing our fearless commish and his (puntable) football-sized dog. Nick went with the "what if JSN scored all my points" approach, while Zen reached for the "what if I had 5 players score 20+" approach. 
 
 **✅ 99% - 58.35 points: Alex Michael Pagels (1-5) vs Kiwis are better than mid (4-2)**  
 
-Make that T U (two) in a row for the formerlly downtrodden but now quickly evolving into the league's biggest threat Alex [MICHAEL](https://i.ytimg.com/vi/JMNFRk9WojM/maxresdefault.jpg)! Pagels. With a healthy lead of 30 heading into MNF, it will be up to Saquan (I remember him) Barkley and Dallas (wait, you mean the name of the te..) Gogurt still to be squeezed for all the remaing points they can muster to see if Alex can turn tables and grab the biggest blower outer for the SECOND STRAIGHT WEEK. Ehhhh.. were gonna need an embargo over here.
+Make that T U (two) in a row for the formerly downtrodden but now quickly evolving into the league's biggest threat Alex [MICHAEL](https://i.ytimg.com/vi/JMNFRk9WojM/maxresdefault.jpg)! Pagels. With a healthy lead of 30 heading into MNF, it will be up to Saquon (I remember him) Barkley and Dallas (wait, you mean the name of the te..) Gogurt still to be squeezed for all the remaining points they can muster to see if Alex can turn the tables and grab the biggest blower outer for the SECOND STRAIGHT WEEK. Ehhhh.. we're gonna need an embargo over here.
 
 **✅ 99% - 46.61 points: James Ray Ervin Yonts (3-3) vs Tuten Brown (4-2)**  
 
-Jimmy continues to play mr. coyboy en route to another belting of señor tuten in the battle of the fathers. Keith is down 20 with hacker Aubrey still to toot it and boot it tonight. Unfortunately, he will need to close that deficit, AND whatever Dak + Ceedee can do to further extend it - making this one done and dusted. Look for Jam to slide into 2nd overall next week as he sees his championship odds eclipse 20%.
+Jimmy continues to play Mr. coyboy en route to another belting of señor tuten in the battle of the fathers. Keith is down 20 with hacker Aubrey still to toot it and boot it tonight. Unfortunately, he will need to close that deficit, AND whatever Dak + CeeDee can do to further extend it - making this one done and dusted. Look for Jam to slide into 2nd overall next week as he sees his championship odds eclipse 20%.
 
 **✅ 94% - 21.83 points: Matthew Chen #4 (2-4) vs RosterMogged (3-3)**  
 
-Matt is up 5 with his RB1 Javonte Williams the final player to take the field tonight. Why Yahoo is assigning a 6% liklihood that this man will undo his 5pt lead (hes averaging >18ppg this season) we may never know. This must be another Marrissa Mayer special logic addition. Kyle will likely be looking for answers, and looking at dropping Kenneth walker here after his 8.7 pt bed wetting. 
+Matt is up 5 with his RB1 Javonte Williams the final player to take the field tonight. Why Yahoo is assigning a 6% likelihood that this man will undo his 5pt lead (he's averaging >18ppg this season) we may never know. This must be another Marissa Mayer special logic addition. Kyle will likely be looking for answers, and looking at dropping Kenneth Walker here after his 8.7 pt bed wetting. 
 
 **✅ 100% - 14.81 points: Sir this is a FF league (2-4) vs Robotripping Gardener (5-1)**  
 
-As soft rock icon Howie Day once said in his hit single "Collide" - even the best fall down some times. Unfortunately this makes two in a row for the formally unstoppable problem child from the mean streets of briarcliff drive. Scott showed his propspecting prowess - striking gold in the sunday afternoon window as he saw Love, Corum, and Jamo all pop their weasles for 20+. 
+As soft rock icon Howie Day once said in his hit single "Collide" - even the best fall down sometimes. Unfortunately this makes two in a row for the formerly unstoppable problem child from the mean streets of Briarcliff Drive. Scott showed his prospecting prowess - striking gold in the Sunday afternoon window as he saw Love, Corum, and Jamo all pop their weasels for 20+. The win vaults Scott 5 places up the FP projected standings, as he now has a 60% chance of making playoffs.
 
 **80% - 11.48 points: MELONHEADS (daniel) (3-3) vs BDSM AI Stealth Founder (2-4)**  
 
-
+In tonight's MAIN EVENT - MELONHEADS holds a 6 pt lead over the BDSM AI Stealth Founder. Hy will need the staunch Dallas D to outscore George "[I am not happy Bob](https://i.redd.it/pzgokwxugxe11.jpg)" Pickens. Since George's time on the team, this has actually never happened - according to our heavily subsidized and overall underworked research agent swarm. Another 1000IQ move from Yahoo odds. Btw, Dan has locked up yet another shotgun 🍺🔫 in this one, bringing his [league debt](https://claude.ai/artifact/KxHXd3RkvzgBGxhL7ATT2Q#shotguns) up to 4. It's time for some FOOTBALL
 
 <br/>
 
