@@ -764833,7 +764833,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-10-26T06:30:50+00:00",
+  "ts": "2026-10-26T06:31:49+00:00",
   "week": 7,
   "matchups": [
    {
@@ -764861,8 +764861,8 @@
     "rightRec": "3-3",
     "leftScore": 81.04,
     "leftProj": 88.24,
-    "rightScore": 87.42,
-    "rightProj": 100.02,
+    "rightScore": 86.92,
+    "rightProj": 99.52,
     "shotgun": [
      {
       "player": "Panthers",
@@ -764905,7 +764905,7 @@
       "game": "Mon 8:15 pm @ Phi"
      }
     ],
-    "leftPct": 19,
+    "leftPct": 20,
     "leftRem": 1,
     "rightRem": 1
    },
@@ -764917,8 +764917,8 @@
     "rightRec": "2-4",
     "leftScore": 120.25,
     "leftProj": 120.25,
-    "rightScore": 134.56,
-    "rightProj": 134.56,
+    "rightScore": 135.06,
+    "rightProj": 135.06,
     "shotgun": [],
     "leftActive": [],
     "rightActive": [],
@@ -764934,8 +764934,8 @@
     "rightRec": "3-3",
     "leftScore": 92.03,
     "leftProj": 108.81,
-    "rightScore": 87.22,
-    "rightProj": 87.22,
+    "rightScore": 87.02,
+    "rightProj": 87.02,
     "shotgun": [],
     "leftActive": [
      {
@@ -764951,7 +764951,7 @@
      }
     ],
     "rightActive": [],
-    "leftPct": 93,
+    "leftPct": 94,
     "leftRem": 1,
     "rightRem": 0
    },
@@ -765015,8 +765015,8 @@
     "rightRec": "4-2",
     "leftScore": 119.48,
     "leftProj": 147.54,
-    "rightScore": 89.2,
-    "rightProj": 89.2,
+    "rightScore": 88.7,
+    "rightProj": 88.7,
     "shotgun": [],
     "leftActive": [
      {
