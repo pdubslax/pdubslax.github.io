@@ -764833,7 +764833,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-10-26T07:48:50+00:00",
+  "ts": "2026-10-26T07:50:40+00:00",
   "week": 7,
   "matchups": [
    {
@@ -764849,6 +764849,7 @@
     "shotgun": [],
     "leftActive": [],
     "rightActive": [],
+    "stale": true,
     "leftPct": 0,
     "leftRem": 0,
     "rightRem": 0
