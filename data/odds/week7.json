@@ -764833,7 +764833,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-10-26T07:59:54+00:00",
+  "ts": "2026-10-26T08:00:55+00:00",
   "week": 7,
   "matchups": [
    {
@@ -764862,7 +764862,7 @@
     "leftScore": 81.04,
     "leftProj": 88.24,
     "rightScore": 86.92,
-    "rightProj": 99.52,
+    "rightProj": 99.51,
     "shotgun": [
      {
       "player": "Panthers",
@@ -764875,7 +764875,7 @@
       "slot": "DEF",
       "manager": "MELONHEADS (daniel)",
       "locked": true,
-      "live": 6.98,
+      "live": 6.96,
       "reason": "pts"
      }
     ],
@@ -764897,11 +764897,11 @@
       "player": "G. Pickens",
       "pos": "WR",
       "slot": "WR",
-      "rem": 12.6,
+      "rem": 12.59,
       "state": "pending",
       "pts": 0.0,
-      "proj": 12.6,
-      "live": 12.6,
+      "proj": 12.59,
+      "live": 12.59,
       "game": "Mon 8:15 pm @ Phi"
      }
     ],
@@ -764964,7 +764964,7 @@
     "leftScore": 90.33,
     "leftProj": 100.36,
     "rightScore": 109.75,
-    "rightProj": 146.88,
+    "rightProj": 146.93,
     "shotgun": [],
     "leftActive": [
      {
@@ -764995,11 +764995,11 @@
       "player": "C. Lamb",
       "pos": "WR",
       "slot": "WR",
-      "rem": 16.71,
+      "rem": 16.76,
       "state": "pending",
       "pts": 0.0,
-      "proj": 16.71,
-      "live": 16.71,
+      "proj": 16.76,
+      "live": 16.76,
       "game": "Mon 8:15 pm @ Phi"
      }
     ],
@@ -765014,7 +765014,7 @@
     "right": "Kiwis are better than mid",
     "rightRec": "4-2",
     "leftScore": 119.48,
-    "leftProj": 147.54,
+    "leftProj": 147.52,
     "rightScore": 88.7,
     "rightProj": 88.7,
     "shotgun": [],
@@ -765034,11 +765034,11 @@
       "player": "D. Goedert",
       "pos": "TE",
       "slot": "TE",
-      "rem": 12.42,
+      "rem": 12.4,
       "state": "pending",
       "pts": 0.0,
-      "proj": 12.42,
-      "live": 12.42,
+      "proj": 12.4,
+      "live": 12.4,
       "game": "Mon 8:15 pm vs Dal"
      }
     ],
