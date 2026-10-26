@@ -565124,9 +565124,10 @@
        "game": "Mon 12:20 AM vs KC"
       }
      ],
-     "leftPct": 90,
+     "leftPct": 9,
      "leftRem": 5,
-     "rightRem": 2
+     "rightRem": 2,
+     "repaired": true
     },
     {
      "id": "2v6",
@@ -565791,9 +565792,10 @@
        "game": "1st 0:53, 6-0 @ ARI"
       }
      ],
-     "leftPct": 86,
+     "leftPct": 40,
      "leftRem": 4,
-     "rightRem": 4
+     "rightRem": 4,
+     "repaired": true
     },
     {
      "id": "4v10",
