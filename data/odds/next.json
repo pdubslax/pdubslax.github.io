@@ -1,7 +1,7 @@
 {
  "v": 2,
  "week": 8,
- "ts": "2026-10-26T12:09:41+00:00",
+ "ts": "2026-10-26T12:30:39+00:00",
  "matchups": [
   {
    "id": "1v6",
@@ -242,7 +242,7 @@
    "leftScore": 0.0,
    "leftProj": 104.58,
    "rightScore": 0.0,
-   "rightProj": 107.32,
+   "rightProj": 107.17,
    "leftPct": 48,
    "leftRem": 7,
    "rightRem": 8,
@@ -407,11 +407,11 @@
      "player": "B. Hall",
      "pos": "RB",
      "slot": "RB",
-     "rem": 14.65,
+     "rem": 14.5,
      "state": "pending",
      "pts": 0.0,
-     "proj": 14.65,
-     "live": 14.65,
+     "proj": 14.5,
+     "live": 14.5,
      "game": "Sun 1:00 pm vs LV"
     },
     {
@@ -691,7 +691,7 @@
    "right": "Tuten Brown",
    "rightRec": "4-2",
    "leftScore": 0.0,
-   "leftProj": 101.93,
+   "leftProj": 102.04,
    "rightScore": 0.0,
    "rightProj": 122.09,
    "leftPct": 33,
@@ -751,33 +751,33 @@
      "player": "A. Jeanty",
      "pos": "RB",
      "slot": "RB",
-     "rem": 15.09,
+     "rem": 15.24,
      "state": "pending",
      "pts": 0.0,
-     "proj": 15.09,
-     "live": 15.09,
+     "proj": 15.24,
+     "live": 15.24,
      "game": "Sun 1:00 pm @ NYJ"
     },
     {
      "player": "J. Sanders",
      "pos": "K",
      "slot": "K",
-     "rem": 8.83,
+     "rem": 8.73,
      "state": "pending",
      "pts": 0.0,
-     "proj": 8.83,
-     "live": 8.83,
+     "proj": 8.73,
+     "live": 8.73,
      "game": "Sun 1:00 pm vs LV"
     },
     {
      "player": "T. Tucker",
      "pos": "WR",
      "slot": "WR",
-     "rem": 8.66,
+     "rem": 8.72,
      "state": "pending",
      "pts": 0.0,
-     "proj": 8.66,
-     "live": 8.66,
+     "proj": 8.72,
+     "live": 8.72,
      "game": "Sun 1:00 pm @ NYJ"
     },
     {
@@ -792,7 +792,7 @@
      "game": "Sun 1:00 pm vs Cle"
     },
     {
-     "player": "Seahawks",
+     "player": "Seattle",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 6.94,
@@ -882,7 +882,7 @@
      "game": "Thu 8:15 pm vs Car"
     },
     {
-     "player": "Steelers",
+     "player": "Pittsburgh",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 10.42,
@@ -1016,7 +1016,7 @@
      "game": "Sun 1:00 pm @ TB"
     },
     {
-     "player": "Cincinnati",
+     "player": "Bengals",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 10.98,
@@ -1117,7 +1117,7 @@
      "game": "Mon 8:15 pm @ Sea"
     },
     {
-     "player": "Indianapolis",
+     "player": "Colts",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 4.4,
@@ -1136,9 +1136,9 @@
    "right": "Kiwis are better than mid",
    "rightRec": "4-2",
    "leftScore": 0.0,
-   "leftProj": 73.39,
+   "leftProj": 73.46,
    "rightScore": 0.0,
-   "rightProj": 98.07,
+   "rightProj": 97.99,
    "leftPct": 26,
    "leftRem": 8,
    "rightRem": 8,
@@ -1199,11 +1199,11 @@
      "player": "M. Gay",
      "pos": "K",
      "slot": "K",
-     "rem": 8.77,
+     "rem": 8.88,
      "state": "pending",
      "pts": 0.0,
-     "proj": 8.77,
-     "live": 8.77,
+     "proj": 8.88,
+     "live": 8.88,
      "game": "Sun 1:00 pm @ NYJ"
     },
     {
@@ -1232,11 +1232,11 @@
      "player": "O. Cooper Jr.",
      "pos": "WR",
      "slot": "W/R/T",
-     "rem": 7.39,
+     "rem": 7.35,
      "state": "pending",
      "pts": 0.0,
-     "proj": 7.39,
-     "live": 7.39,
+     "proj": 7.35,
+     "live": 7.35,
      "game": "Sun 1:00 pm vs LV"
     },
     {
@@ -1278,22 +1278,22 @@
      "player": "B. Bowers",
      "pos": "TE",
      "slot": "TE",
-     "rem": 14.23,
+     "rem": 14.34,
      "state": "pending",
      "pts": 0.0,
-     "proj": 14.23,
-     "live": 14.23,
+     "proj": 14.34,
+     "live": 14.34,
      "game": "Sun 1:00 pm @ NYJ"
     },
     {
      "player": "G. Wilson",
      "pos": "WR",
      "slot": "WR",
-     "rem": 13.92,
+     "rem": 13.84,
      "state": "pending",
      "pts": 0.0,
-     "proj": 13.92,
-     "live": 13.92,
+     "proj": 13.84,
+     "live": 13.84,
      "game": "Sun 1:00 pm vs LV"
     },
     {
@@ -1344,11 +1344,11 @@
      "player": "Jets",
      "pos": "DEF",
      "slot": "DEF",
-     "rem": 7.17,
+     "rem": 7.06,
      "state": "pending",
      "pts": 0.0,
-     "proj": 7.17,
-     "live": 7.17,
+     "proj": 7.06,
+     "live": 7.06,
      "game": "Sun 1:00 pm vs LV"
     }
    ]
