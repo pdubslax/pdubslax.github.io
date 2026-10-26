@@ -299,6 +299,9 @@ function render(hist, mode, curWeek){
     </a>`;
   }).join('');
 }
+const grid = document.getElementById('grid');
+let hoverRaf = null;
+// Hover over a chart: a guide line follows the cursor and the readout interpolates between samples.
 function showHover(c, clientX){
   const d = HOVER[c.dataset.id]; if (!d || !d.xs.length) return;
   const svg = c.querySelector('svg'), r = svg.getBoundingClientRect();
