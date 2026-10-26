@@ -1,7 +1,7 @@
 {
  "v": 2,
  "week": 8,
- "ts": "2026-10-26T13:33:41+00:00",
+ "ts": "2026-10-26T13:54:40+00:00",
  "matchups": [
   {
    "id": "1v6",
@@ -60,7 +60,7 @@
      "reason": "pts"
     },
     {
-     "player": "Texans",
+     "player": "Houston",
      "pos": "DEF",
      "team": "Hou",
      "pts": 0.0,
@@ -101,22 +101,22 @@
      "player": "M. Golden",
      "pos": "WR",
      "slot": "WR",
-     "rem": 13.92,
+     "rem": 13.86,
      "state": "pending",
      "pts": 0.0,
-     "proj": 13.92,
-     "live": 13.92,
+     "proj": 13.86,
+     "live": 13.86,
      "game": "Thu 8:15 pm vs Car"
     },
     {
      "player": "J. Coker",
      "pos": "WR",
      "slot": "WR",
-     "rem": 13.55,
+     "rem": 13.49,
      "state": "pending",
      "pts": 0.0,
-     "proj": 13.55,
-     "live": 13.55,
+     "proj": 13.49,
+     "live": 13.49,
      "game": "Thu 8:15 pm @ GB"
     },
     {
@@ -134,11 +134,11 @@
      "player": "J.K. Dobbins",
      "pos": "RB",
      "slot": "RB",
-     "rem": 9.88,
+     "rem": 9.83,
      "state": "pending",
      "pts": 0.0,
-     "proj": 9.88,
-     "live": 9.88,
+     "proj": 9.83,
+     "live": 9.83,
      "game": "Sun 4:25 pm vs KC"
     },
     {
@@ -202,11 +202,11 @@
      "player": "C. Sutton",
      "pos": "WR",
      "slot": "WR",
-     "rem": 7.49,
+     "rem": 7.51,
      "state": "pending",
      "pts": 0.0,
-     "proj": 7.49,
-     "live": 7.49,
+     "proj": 7.51,
+     "live": 7.51,
      "game": "Sun 4:25 pm vs KC"
     },
     {
@@ -221,7 +221,7 @@
      "game": "Sun 1:00 pm vs Atl"
     },
     {
-     "player": "Panthers",
+     "player": "Carolina",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 4.96,
@@ -358,7 +358,7 @@
      "game": "Sun 4:25 pm vs KC"
     },
     {
-     "player": "Cowboys",
+     "player": "Dallas",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 5.76,
@@ -448,7 +448,7 @@
      "game": "Sun 4:25 pm @ Mia"
     },
     {
-     "player": "Broncos",
+     "player": "Denver",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 6.67,
@@ -792,7 +792,7 @@
      "game": "Sun 1:00 pm vs Cle"
     },
     {
-     "player": "Seahawks",
+     "player": "Seattle",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 6.94,
@@ -871,7 +871,7 @@
      "game": "Sun 1:00 pm vs Bal"
     },
     {
-     "player": "Steelers",
+     "player": "Pittsburgh",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 10.42,
@@ -1218,7 +1218,7 @@
      "game": "Sun 4:25 pm @ Den"
     },
     {
-     "player": "K. City",
+     "player": "Chiefs",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 7.4,
@@ -1341,7 +1341,7 @@
      "game": "Sun 4:25 pm vs KC"
     },
     {
-     "player": "N. York",
+     "player": "Jets",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 7.06,
