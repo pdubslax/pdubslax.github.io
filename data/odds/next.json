@@ -1,7 +1,7 @@
 {
  "v": 2,
  "week": 8,
- "ts": "2026-10-26T02:22:02+00:00",
+ "ts": "2026-10-26T02:43:02+00:00",
  "matchups": [
   {
    "id": "1v6",
@@ -10,9 +10,9 @@
    "right": "MELONHEADS (daniel)",
    "rightRec": "3-3",
    "leftScore": 0.0,
-   "leftProj": 100.64,
+   "leftProj": 100.7,
    "rightScore": 0.0,
-   "rightProj": 64.17,
+   "rightProj": 64.18,
    "leftPct": 80,
    "leftRem": 8,
    "rightRem": 6,
@@ -101,22 +101,22 @@
      "player": "M. Golden",
      "pos": "WR",
      "slot": "WR",
-     "rem": 13.87,
+     "rem": 13.9,
      "state": "pending",
      "pts": 0.0,
-     "proj": 13.87,
-     "live": 13.87,
+     "proj": 13.9,
+     "live": 13.9,
      "game": "Thu 8:15 pm vs Car"
     },
     {
      "player": "J. Coker",
      "pos": "WR",
      "slot": "WR",
-     "rem": 13.46,
+     "rem": 13.49,
      "state": "pending",
      "pts": 0.0,
-     "proj": 13.46,
-     "live": 13.46,
+     "proj": 13.49,
+     "live": 13.49,
      "game": "Thu 8:15 pm @ GB"
     },
     {
@@ -224,11 +224,11 @@
      "player": "Panthers",
      "pos": "DEF",
      "slot": "DEF",
-     "rem": 4.92,
+     "rem": 4.93,
      "state": "pending",
      "pts": 0.0,
-     "proj": 4.92,
-     "live": 4.92,
+     "proj": 4.93,
+     "live": 4.93,
      "game": "Thu 8:15 pm @ GB"
     }
    ]
@@ -240,9 +240,9 @@
    "right": "Sir this is a FF league",
    "rightRec": "2-4",
    "leftScore": 0.0,
-   "leftProj": 104.35,
+   "leftProj": 104.39,
    "rightScore": 0.0,
-   "rightProj": 92.7,
+   "rightProj": 92.75,
    "leftPct": 61,
    "leftRem": 7,
    "rightRem": 8,
@@ -328,11 +328,11 @@
      "player": "C. Watson",
      "pos": "WR",
      "slot": "W/R/T",
-     "rem": 15.23,
+     "rem": 15.27,
      "state": "pending",
      "pts": 0.0,
-     "proj": 15.23,
-     "live": 15.23,
+     "proj": 15.27,
+     "live": 15.27,
      "game": "Thu 8:15 pm vs Car"
     },
     {
@@ -374,11 +374,11 @@
      "player": "J. Love",
      "pos": "QB",
      "slot": "QB",
-     "rem": 21.1,
+     "rem": 21.15,
      "state": "pending",
      "pts": 0.0,
-     "proj": 21.1,
-     "live": 21.1,
+     "proj": 21.15,
+     "live": 21.15,
      "game": "Thu 8:15 pm vs Car"
     },
     {
@@ -467,9 +467,9 @@
    "right": "Alex Michael Pagels",
    "rightRec": "1-5",
    "leftScore": 0.0,
-   "leftProj": 125.94,
+   "leftProj": 125.96,
    "rightScore": 0.0,
-   "rightProj": 89.63,
+   "rightProj": 89.64,
    "leftPct": 78,
    "leftRem": 8,
    "rightRem": 7,
@@ -566,11 +566,11 @@
      "player": "T. McMillan",
      "pos": "WR",
      "slot": "WR",
-     "rem": 13.95,
+     "rem": 13.97,
      "state": "pending",
      "pts": 0.0,
-     "proj": 13.95,
-     "live": 13.95,
+     "proj": 13.97,
+     "live": 13.97,
      "game": "Thu 8:15 pm @ GB"
     },
     {
@@ -623,11 +623,11 @@
      "player": "J. Jacobs",
      "pos": "RB",
      "slot": "RB",
-     "rem": 15.23,
+     "rem": 15.24,
      "state": "pending",
      "pts": 0.0,
-     "proj": 15.23,
-     "live": 15.23,
+     "proj": 15.24,
+     "live": 15.24,
      "game": "Thu 8:15 pm vs Car"
     },
     {
@@ -696,7 +696,7 @@
    "leftScore": 0.0,
    "leftProj": 101.98,
    "rightScore": 0.0,
-   "rightProj": 122.15,
+   "rightProj": 122.17,
    "leftPct": 33,
    "leftRem": 8,
    "rightRem": 9,
@@ -888,11 +888,11 @@
      "player": "T. Kraft",
      "pos": "TE",
      "slot": "TE",
-     "rem": 10.42,
+     "rem": 10.44,
      "state": "pending",
      "pts": 0.0,
-     "proj": 10.42,
-     "live": 10.42,
+     "proj": 10.44,
+     "live": 10.44,
      "game": "Thu 8:15 pm vs Car"
     },
     {
@@ -917,7 +917,7 @@
    "leftScore": 0.0,
    "leftProj": 135.26,
    "rightScore": 0.0,
-   "rightProj": 106.02,
+   "rightProj": 106.05,
    "leftPct": 71,
    "leftRem": 8,
    "rightRem": 8,
@@ -1054,6 +1054,17 @@
      "game": "Mon 8:15 pm @ Sea"
     },
     {
+     "player": "C. Hubbard",
+     "pos": "RB",
+     "slot": "RB",
+     "rem": 17.01,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 17.01,
+     "live": 17.01,
+     "game": "Thu 8:15 pm @ GB"
+    },
+    {
      "player": "Z. Flowers",
      "pos": "WR",
      "slot": "WR",
@@ -1063,17 +1074,6 @@
      "proj": 17.0,
      "live": 17.0,
      "game": "Sun 1:00 pm @ Buf"
-    },
-    {
-     "player": "C. Hubbard",
-     "pos": "RB",
-     "slot": "RB",
-     "rem": 16.98,
-     "state": "pending",
-     "pts": 0.0,
-     "proj": 16.98,
-     "live": 16.98,
-     "game": "Thu 8:15 pm @ GB"
     },
     {
      "player": "A. St. Brown",
