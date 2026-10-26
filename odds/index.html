@@ -162,11 +162,11 @@ async function renderView(){
 function renderOnce(hist, mode, curWeek){ const txt = JSON.stringify([hist, mode, viewWeek]); if (txt === lastJson) return; lastJson = txt; render(hist, mode, curWeek); }
 function pickWeek(w){ viewWeek = w; lastJson = null; history.replaceState(null, '', w ? '#week' + w : location.pathname); renderView(); }
 const decidedOf = m => { const lp = m.leftPct; const leftAhead = m.leftScore > m.rightScore, rightAhead = m.rightScore > m.leftScore;
-  // Out of reach on paper: at 95/5 or beyond, the trailing side's deficit exceeds everything its remaining players are projected to score,
-  // so even hitting every projection while the leader's players score nothing would not be enough.
+  // Out of reach on paper: at 99/1, the trailing side's deficit is more than one and a half times what its remaining players are projected
+  // to score, so a big game from what is left still would not be enough.
   const remProj = side => ((side === 'left' ? m.leftActive : m.rightActive) || []).filter(a => a.state === 'live' || a.state === 'pending').reduce((s,a) => s + (a.rem || 0), 0);
   const deficit = Math.abs(m.leftScore - m.rightScore);
-  const outOfReach = (lp >= 95 && leftAhead && deficit > remProj('right')) || (lp <= 5 && rightAhead && deficit > remProj('left'));
+  const outOfReach = (lp >= 99 && leftAhead && deficit > 1.5 * remProj('right')) || (lp <= 1 && rightAhead && deficit > 1.5 * remProj('left'));
   return (m.leftRem===0 && m.rightRem===0) || ((lp===100 || lp===0) && (m.leftRem===0 || m.rightRem===0)) || (lp>=99 && m.rightRem===0) || (lp<=1 && m.leftRem===0) || (leftAhead && m.rightRem===0) || (rightAhead && m.leftRem===0) || outOfReach; };
 async function load(){
   try {
