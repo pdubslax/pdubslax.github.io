@@ -27,23 +27,23 @@ A weekly newsletter for members of the Harry Koch Memorial Cup Fantasy Football 
 
 
 
-**✅ 99% - 58.34 points: Alex Michael Pagels (1-5) vs Kiwis are better than mid (4-2)**  
+**✅ 99% - 58.82 points: Alex Michael Pagels (1-5) vs Kiwis are better than mid (4-2)**  
 
 
 
-**99% - 46.52 points: James Ray Ervin Yonts (3-3) vs Tuten Brown (4-2)**  
+**99% - 46.57 points: James Ray Ervin Yonts (3-3) vs Tuten Brown (4-2)**  
 
 
 
-**✅ 93% - 21.59 points: Matthew Chen #4 (2-4) vs RosterMogged (3-3)**  
+**✅ 94% - 21.79 points: Matthew Chen #4 (2-4) vs RosterMogged (3-3)**  
 
 
 
-**✅ 100% - 14.31 points: Sir this is a FF league (2-4) vs Robotripping Gardener (5-1)**  
+**✅ 100% - 14.81 points: Sir this is a FF league (2-4) vs Robotripping Gardener (5-1)**  
 
 
 
-**81% - 11.78 points: MELONHEADS (daniel) (3-3) vs BDSM AI Stealth Founder (2-4)**  
+**80% - 11.27 points: MELONHEADS (daniel) (3-3) vs BDSM AI Stealth Founder (2-4)**  
 
 
 
