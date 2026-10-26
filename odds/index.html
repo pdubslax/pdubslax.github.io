@@ -224,7 +224,10 @@ function render(hist, mode, curWeek){
   document.getElementById('shot').innerHTML = `<div class="hd"><span class="lab">Punishment watch</span></div><div class="cols">` +
     `<div class="col blow"><span class="lab"><span class="chip">Biggest blowout</span></span>${blowHtml}</div>` +
     col('🍺🔫 shotgun confirmed', 'beer', locked, 'None yet.') + col('shotgun at risk', 'risk', risk, 'Nobody at zero past halftime.') + `</div>`;
-  const series = id => S.map(s => { const m = s.matchups.find(x=>x.id===id); return m ? m.leftPct : null; });
+  // A single sample that jumps 30+ points away from both neighbours while they agree within 5 is a misread, not a swing; replace it with the neighbours' value.
+  const series = id => { const v = S.map(s => { const m = s.matchups.find(x=>x.id===id); return m ? m.leftPct : null; });
+    for (let i = 1; i < v.length-1; i++) { const a=v[i-1], b=v[i], c=v[i+1]; if (a!=null && b!=null && c!=null && Math.abs(a-c) <= 5 && Math.abs(b-a) >= 30 && Math.abs(b-c) >= 30) v[i] = Math.round((a+c)/2); }
+    return v; };
   // cards sorted by the favorite's win percentage, then projected margin as the tiebreaker
   const cards = last.matchups.map(m => ({m, fav: Math.max(m.leftPct, 100-m.leftPct), margin: Math.abs(m.leftProj-m.rightProj)})).sort((a,b)=>b.fav-a.fav || b.margin-a.margin);
   // Band lengths match real game windows (minutes from the band's start): a night game runs about three hours, Sunday runs 1 PM to the end of SNF.

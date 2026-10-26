@@ -221,6 +221,13 @@ async def main(out_dir):
                     print("carried previous odds for", row["id"], file=sys.stderr)
             if rem is None:
                 rem = [0, 0] if pct in (0, 100) else [None, None]
+            # Guard against a misread percentage: a swing of 40+ points while scores and projections are unchanged is Yahoo's page
+            # rendering mid-update, not a real move. Keep the previous reading instead.
+            prev_m = next((x for x in (hist["samples"][-1]["matchups"] if hist["samples"] else []) if x["id"] == row["id"]), None)
+            if prev_m and prev_m.get("leftPct") is not None and abs(pct - prev_m["leftPct"]) >= 40 \
+               and all(abs(row[k] - prev_m.get(k, row[k])) < 0.5 for k in ("leftScore", "rightScore", "leftProj", "rightProj")):
+                print(f"suspicious odds jump for {row['id']}: {prev_m['leftPct']} -> {pct} with no score change; keeping {prev_m['leftPct']}", file=sys.stderr)
+                pct = prev_m["leftPct"]; row["stale"] = True
             row.update(leftPct=pct, leftRem=rem[0], rightRem=rem[1])
         await browser.close()
     good = [r for r in rows if "leftPct" in r]
