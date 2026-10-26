@@ -162,7 +162,12 @@ async function renderView(){
 function renderOnce(hist, mode, curWeek){ const txt = JSON.stringify([hist, mode, viewWeek]); if (txt === lastJson) return; lastJson = txt; render(hist, mode, curWeek); }
 function pickWeek(w){ viewWeek = w; lastJson = null; history.replaceState(null, '', w ? '#week' + w : location.pathname); renderView(); }
 const decidedOf = m => { const lp = m.leftPct; const leftAhead = m.leftScore > m.rightScore, rightAhead = m.rightScore > m.leftScore;
-  return (m.leftRem===0 && m.rightRem===0) || ((lp===100 || lp===0) && (m.leftRem===0 || m.rightRem===0)) || (lp>=99 && m.rightRem===0) || (lp<=1 && m.leftRem===0) || (leftAhead && m.rightRem===0) || (rightAhead && m.leftRem===0); };
+  // Out of reach on paper: at 95/5 or beyond, the trailing side's deficit exceeds everything its remaining players are projected to score,
+  // so even hitting every projection while the leader's players score nothing would not be enough.
+  const remProj = side => ((side === 'left' ? m.leftActive : m.rightActive) || []).filter(a => a.state === 'live' || a.state === 'pending').reduce((s,a) => s + (a.rem || 0), 0);
+  const deficit = Math.abs(m.leftScore - m.rightScore);
+  const outOfReach = (lp >= 95 && leftAhead && deficit > remProj('right')) || (lp <= 5 && rightAhead && deficit > remProj('left'));
+  return (m.leftRem===0 && m.rightRem===0) || ((lp===100 || lp===0) && (m.leftRem===0 || m.rightRem===0)) || (lp>=99 && m.rightRem===0) || (lp<=1 && m.leftRem===0) || (leftAhead && m.rightRem===0) || (rightAhead && m.leftRem===0) || outOfReach; };
 async function load(){
   try {
     if (Date.now() > apiBlockedUntil) {
@@ -292,7 +297,7 @@ function render(hist, mode, curWeek){
     // Decided: Yahoo says 100%, both sides are out of players, the trailing side has no players left while the leader is already ahead,
     const leftAhead = m.leftScore > m.rightScore, rightAhead = m.rightScore > m.leftScore;
     // Also decided at 99/1 when only the leading side still has players to play.
-    const decided = (m.leftRem===0 && m.rightRem===0) || ((lp===100 || lp===0) && (m.leftRem===0 || m.rightRem===0)) || (lp>=99 && m.rightRem===0) || (lp<=1 && m.leftRem===0) || (leftAhead && m.rightRem===0) || (rightAhead && m.leftRem===0);
+    const decided = decidedOf(m);
     const lm = m.leftProj-m.rightProj;
     // Key players: current points, green when Yahoo's live projection beats the pregame one (on pace), red when behind it.
     const ptsTag = a => a.state==='live' && a.pts!=null ? `<em class="${a.live>a.proj?'up':a.live<a.proj?'down':''}">${a.pts.toFixed(1)}</em>` : '';
