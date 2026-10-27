@@ -1,7 +1,7 @@
 {
  "v": 2,
  "week": 8,
- "ts": "2026-10-27T10:56:46+00:00",
+ "ts": "2026-10-27T11:22:47+00:00",
  "matchups": [
   {
    "id": "1v6",
@@ -1002,7 +1002,7 @@
      "game": "Sun 1:00 pm @ TB"
     },
     {
-     "player": "Bengals",
+     "player": "Cincinnati",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 10.83,
@@ -1103,7 +1103,7 @@
      "game": "Mon 8:15 pm @ Sea"
     },
     {
-     "player": "Colts",
+     "player": "Indianapolis",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 4.52,
@@ -1212,7 +1212,7 @@
      "game": "Sun 1:00 pm @ TB"
     },
     {
-     "player": "K. City",
+     "player": "Chiefs",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 6.69,
@@ -1324,7 +1324,7 @@
      "game": "Sun 4:25 pm vs KC"
     },
     {
-     "player": "N. York",
+     "player": "Jets",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 7.12,
