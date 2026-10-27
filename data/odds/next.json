@@ -1,7 +1,7 @@
 {
  "v": 2,
  "week": 8,
- "ts": "2026-10-27T05:02:38+00:00",
+ "ts": "2026-10-27T05:23:39+00:00",
  "matchups": [
   {
    "id": "1v6",
@@ -10,10 +10,10 @@
    "right": "MELONHEADS (daniel)",
    "rightRec": "3-3",
    "leftScore": 0.0,
-   "leftProj": 99.18,
+   "leftProj": 102.37,
    "rightScore": 0.0,
    "rightProj": 64.38,
-   "leftPct": 79,
+   "leftPct": 81,
    "leftRem": 8,
    "rightRem": 6,
    "shotgun": [
@@ -153,15 +153,15 @@
      "game": "Sun 4:25 pm vs KC"
     },
     {
-     "player": "R. Johnson",
+     "player": "D. Pierce",
      "pos": "RB",
      "slot": "RB",
-     "rem": 1.25,
+     "rem": 4.44,
      "state": "pending",
      "pts": 0.0,
-     "proj": 1.25,
-     "live": 1.25,
-     "game": "Mon 8:15 pm @ Sea"
+     "proj": 4.44,
+     "live": 4.44,
+     "game": "Sun 8:20 pm @ Was"
     }
    ],
    "rightActive": [
