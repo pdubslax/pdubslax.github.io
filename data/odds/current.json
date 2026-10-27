@@ -764802,6 +764802,129 @@
      "rightRem": 0
     }
    ]
+  },
+  {
+   "ts": "2026-10-27T05:55:50+00:00",
+   "week": 7,
+   "matchups": [
+    {
+     "id": "1v11",
+     "left": "Silly Shrek Squad",
+     "leftRec": "4-2",
+     "right": "Zen Buddha Boys 🪷💨",
+     "rightRec": "3-3",
+     "leftScore": 79.05,
+     "leftProj": 79.05,
+     "rightScore": 140.52,
+     "rightProj": 140.52,
+     "shotgun": [],
+     "leftActive": [],
+     "rightActive": [],
+     "leftPct": 0,
+     "leftRem": 0,
+     "rightRem": 0
+    },
+    {
+     "id": "2v6",
+     "left": "BDSM AI Stealth Founder",
+     "leftRec": "2-4",
+     "right": "MELONHEADS (daniel)",
+     "rightRec": "3-3",
+     "leftScore": 85.79,
+     "leftProj": 85.79,
+     "rightScore": 101.62,
+     "rightProj": 101.62,
+     "shotgun": [
+      {
+       "player": "Panthers",
+       "pos": "DEF",
+       "team": "Car",
+       "pts": -5.0,
+       "game": "Final L 13-43 vs TB",
+       "tag": null,
+       "state": "final",
+       "slot": "DEF",
+       "manager": "MELONHEADS (daniel)",
+       "locked": true,
+       "live": 6.96,
+       "reason": "pts"
+      }
+     ],
+     "leftActive": [],
+     "rightActive": [],
+     "leftPct": 0,
+     "leftRem": 0,
+     "rightRem": 0
+    },
+    {
+     "id": "3v9",
+     "left": "Robotripping Gardener",
+     "leftRec": "5-1",
+     "right": "Sir this is a FF league",
+     "rightRec": "2-4",
+     "leftScore": 120.25,
+     "leftProj": 120.25,
+     "rightScore": 135.06,
+     "rightProj": 135.06,
+     "shotgun": [],
+     "leftActive": [],
+     "rightActive": [],
+     "leftPct": 0,
+     "leftRem": 0,
+     "rightRem": 0
+    },
+    {
+     "id": "4v10",
+     "left": "Matthew Chen #4",
+     "leftRec": "2-4",
+     "right": "RosterMogged",
+     "rightRec": "3-3",
+     "leftScore": 117.03,
+     "leftProj": 117.03,
+     "rightScore": 87.02,
+     "rightProj": 87.02,
+     "shotgun": [],
+     "leftActive": [],
+     "rightActive": [],
+     "leftPct": 100,
+     "leftRem": 0,
+     "rightRem": 0
+    },
+    {
+     "id": "5v7",
+     "left": "Tuten Brown",
+     "leftRec": "4-2",
+     "right": "James Ray Ervin Yonts",
+     "rightRec": "3-3",
+     "leftScore": 103.93,
+     "leftProj": 103.93,
+     "rightScore": 158.73,
+     "rightProj": 158.73,
+     "shotgun": [],
+     "leftActive": [],
+     "rightActive": [],
+     "leftPct": 0,
+     "leftRem": 0,
+     "rightRem": 0
+    },
+    {
+     "id": "8v12",
+     "left": "Alex Michael Pagels",
+     "leftRec": "1-5",
+     "right": "Kiwis are better than mid",
+     "rightRec": "4-2",
+     "leftScore": 143.38,
+     "leftProj": 143.38,
+     "rightScore": 88.7,
+     "rightProj": 88.7,
+     "shotgun": [],
+     "leftActive": [],
+     "rightActive": [],
+     "leftPct": 100,
+     "leftRem": 0,
+     "rightRem": 0
+    }
+   ]
   }
  ],
  "segments": [
@@ -764831,128 +764954,5 @@
   {
    "at": "2026-10-25T20:20:00-04:00"
   }
- ],
- "preview": {
-  "ts": "2026-10-27T05:54:38+00:00",
-  "week": 7,
-  "matchups": [
-   {
-    "id": "1v11",
-    "left": "Silly Shrek Squad",
-    "leftRec": "4-2",
-    "right": "Zen Buddha Boys 🪷💨",
-    "rightRec": "3-3",
-    "leftScore": 79.05,
-    "leftProj": 79.05,
-    "rightScore": 140.52,
-    "rightProj": 140.52,
-    "shotgun": [],
-    "leftActive": [],
-    "rightActive": [],
-    "leftPct": 0,
-    "leftRem": 0,
-    "rightRem": 0
-   },
-   {
-    "id": "2v6",
-    "left": "BDSM AI Stealth Founder",
-    "leftRec": "2-4",
-    "right": "MELONHEADS (daniel)",
-    "rightRec": "3-3",
-    "leftScore": 85.79,
-    "leftProj": 85.79,
-    "rightScore": 101.62,
-    "rightProj": 101.62,
-    "shotgun": [
-     {
-      "player": "Panthers",
-      "pos": "DEF",
-      "team": "Car",
-      "pts": -5.0,
-      "game": "Final L 13-43 vs TB",
-      "tag": null,
-      "state": "final",
-      "slot": "DEF",
-      "manager": "MELONHEADS (daniel)",
-      "locked": true,
-      "live": 6.96,
-      "reason": "pts"
-     }
-    ],
-    "leftActive": [],
-    "rightActive": [],
-    "leftPct": 0,
-    "leftRem": 0,
-    "rightRem": 0
-   },
-   {
-    "id": "3v9",
-    "left": "Robotripping Gardener",
-    "leftRec": "5-1",
-    "right": "Sir this is a FF league",
-    "rightRec": "2-4",
-    "leftScore": 120.25,
-    "leftProj": 120.25,
-    "rightScore": 135.06,
-    "rightProj": 135.06,
-    "shotgun": [],
-    "leftActive": [],
-    "rightActive": [],
-    "leftPct": 0,
-    "leftRem": 0,
-    "rightRem": 0
-   },
-   {
-    "id": "4v10",
-    "left": "Matthew Chen #4",
-    "leftRec": "2-4",
-    "right": "RosterMogged",
-    "rightRec": "3-3",
-    "leftScore": 117.03,
-    "leftProj": 117.03,
-    "rightScore": 87.02,
-    "rightProj": 87.02,
-    "shotgun": [],
-    "leftActive": [],
-    "rightActive": [],
-    "leftPct": 100,
-    "leftRem": 0,
-    "rightRem": 0
-   },
-   {
-    "id": "5v7",
-    "left": "Tuten Brown",
-    "leftRec": "4-2",
-    "right": "James Ray Ervin Yonts",
-    "rightRec": "3-3",
-    "leftScore": 103.93,
-    "leftProj": 103.93,
-    "rightScore": 158.73,
-    "rightProj": 158.73,
-    "shotgun": [],
-    "leftActive": [],
-    "rightActive": [],
-    "leftPct": 0,
-    "leftRem": 0,
-    "rightRem": 0
-   },
-   {
-    "id": "8v12",
-    "left": "Alex Michael Pagels",
-    "leftRec": "1-5",
-    "right": "Kiwis are better than mid",
-    "rightRec": "4-2",
-    "leftScore": 143.38,
-    "leftProj": 143.38,
-    "rightScore": 88.7,
-    "rightProj": 88.7,
-    "shotgun": [],
-    "leftActive": [],
-    "rightActive": [],
-    "leftPct": 100,
-    "leftRem": 0,
-    "rightRem": 0
-   }
-  ]
- }
+ ]
 }
