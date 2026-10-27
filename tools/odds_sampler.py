@@ -246,21 +246,28 @@ async def main(out_dir):
     # Record while a game is on, or while a window is open once the week is underway; idle runs between windows only refresh the preview.
     # Also record one closing sample when the previous sample still had players live, so finals replace "4th 0:00" readings.
     last_had_live = bool(hist["samples"]) and any(a.get("state") == "live" for r in hist["samples"][-1]["matchups"] for k in ("leftActive", "rightActive") for a in r.get(k, []))
-    if any_live or last_had_live or (in_window() and underway):
+    # Catch-up: if the sampler was down through a game (GitHub outage, broken chain), the first pass back finds scores, odds or
+    # players-remaining that moved since the last sample. Record that so the week's finals land even when no window is open.
+    def state_of(ms): return {m["id"]: (round(m.get("leftScore") or 0, 2), round(m.get("rightScore") or 0, 2), m.get("leftPct"), m.get("leftRem"), m.get("rightRem")) for m in ms}
+    moved = underway and bool(hist["samples"]) and state_of(hist["samples"][-1]["matchups"]) != state_of(good)
+    recorded = any_live or last_had_live or moved or (in_window() and underway)
+    if recorded:
         hist["samples"].append(snapshot); hist.pop("preview", None)
     else:
         hist["preview"] = snapshot
     json.dump(hist, open(path, "w"), ensure_ascii=False, indent=1)
     json.dump(hist, open(os.path.join(out_dir, "current.json"), "w"), ensure_ascii=False, indent=1)
-    print(f"week {week}: {'sample #' + str(len(hist['samples'])) if underway else 'preview only (week not underway)'} with {len(good)} matchups; all decided: {all_done}")
+    # The workflow keys its cadence off this line: "sample #" means keep sampling every minute, anything else means idle.
+    status = f"sample #{len(hist['samples'])}" + (" (catch-up)" if moved and not (any_live or last_had_live) else "") if recorded else ("preview refreshed" if underway else "preview only (week not underway)")
+    print(f"week {week}: {status} with {len(good)} matchups; all decided: {all_done}")
     for r in good: print(f"  {r['leftPct']:>3}% {r['left']} vs {r['right']} rem {r['leftRem']}/{r['rightRem']}")
     return 0
 
 def in_window(now=None):
-    """True during NFL game windows (ET): Thu 8 PM to midnight, Sun 1 PM to 1 AM Mon, Mon 8 PM to midnight. Used to self-chain runs."""
+    """True during NFL game windows (ET): Thu 8 PM to midnight, Sun 1 PM to 1 AM Mon, Mon 8 PM to 1 AM Tue. Used to self-chain runs."""
     now = now or datetime.datetime.now(ET)
     wd, h = now.weekday(), now.hour + now.minute / 60
-    return (wd == 3 and h >= 20) or (wd == 6 and h >= 13) or (wd == 0 and h < 1) or (wd == 0 and h >= 20)
+    return (wd == 3 and h >= 20) or (wd == 6 and h >= 13) or (wd == 0 and h < 1) or (wd == 0 and h >= 20) or (wd == 1 and h < 1)
 
 if __name__ == "__main__":
     if "--in-window" in sys.argv:

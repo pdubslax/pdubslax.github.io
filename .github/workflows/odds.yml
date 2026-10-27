@@ -39,30 +39,52 @@ jobs:
           key: playwright-chromium-${{ runner.os }}-1.47.0
       - run: pip install playwright==1.47.0 && python -m playwright install --with-deps chromium
       - name: Sample once a minute for this window
+        id: loop
+        env:
+          GH_TOKEN: ${{ github.token }}
         run: |
+          set +e   # one failed push or dispatch must never end the loop; GitHub had a 500 that killed both at once on 2026-10-26
           cd odds-data
           git config user.name "odds-sampler"
           git config user.email "odds-sampler@users.noreply.github.com"
           cd ..
           mins="${{ github.event.inputs.minutes || '300' }}"
           end=$((SECONDS + $(python -c "print(int(float('$mins')*60))")))
+          hard_end=$((SECONDS + 345*60))   # stay under the job's 360-minute timeout
+          chained=0
           while :; do
             t0=$SECONDS
-            out=$(python tools/odds_sampler.py odds-data/data/odds 2>&1) || true
+            out=$(python tools/odds_sampler.py odds-data/data/odds 2>&1)
             echo "$(date -u +%H:%M) $out"
             # A recorded sample means a game is on (or a window is open): keep sampling every minute. Otherwise idle for 20 minutes.
             case "$out" in *"sample #"*) gap=60;; *) gap=1200;; esac
-            ( cd odds-data && git add data/odds && if git diff --cached --quiet; then echo "nothing to commit"; else
-                git commit -qm "odds sample $(date -u +%Y-%m-%dT%H:%MZ)" && (git pull --rebase -q origin odds-data || true) && git push -q; fi )
-            [ $SECONDS -ge $end ] && break
+            ( cd odds-data && git add data/odds
+              if git diff --cached --quiet; then echo "nothing to commit"; else
+                git commit -qm "odds sample $(date -u +%Y-%m-%dT%H:%MZ)"
+                git pull --rebase -q origin odds-data || { git rebase --abort 2>/dev/null; git reset -q --hard origin/odds-data; echo "rebase failed; dropped local commits, next pass re-samples"; }
+                git push -q || echo "push failed; commits stay local and go out with the next pass"
+              fi )
+            if [ $SECONDS -ge $end ]; then
+              # Time is up: queue the successor. If GitHub refuses (outage), keep sampling and try again on the next pass.
+              if gh workflow run odds.yml --repo "$GITHUB_REPOSITORY" -f minutes=300; then echo "queued next run"; chained=1; break; fi
+              echo "dispatch failed; staying alive and retrying"
+              [ $SECONDS -ge $hard_end ] && break
+              gap=60
+            fi
             w=$((gap-(SECONDS-t0))); [ $w -gt 0 ] && sleep $w
           done
+          echo "chained=$chained" >> "$GITHUB_OUTPUT"
+          exit 0
       - name: Chain the next run
-        if: always()
+        if: always() && steps.loop.outputs.chained != '1'
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          # GitHub's cron skipped whole game windows twice, so the sampler keeps itself alive: every run queues its successor
-          # (the concurrency group holds exactly one pending run). Inside a game window it samples every minute; outside it idles
-          # and refreshes the preview every 20 minutes. The crons remain only as restarters if the chain ever breaks.
-          gh workflow run odds.yml --repo "$GITHUB_REPOSITORY" -f minutes=300 && echo "queued next run"
+          # GitHub's cron skipped whole game windows three times, so the sampler keeps itself alive: every run queues its successor
+          # (the concurrency group holds exactly one pending run). The loop above normally does this itself; this step is the fallback
+          # when the loop ended without managing to, and it keeps trying for up to half an hour.
+          for i in $(seq 1 30); do
+            if gh workflow run odds.yml --repo "$GITHUB_REPOSITORY" -f minutes=300; then echo "queued next run"; exit 0; fi
+            echo "dispatch attempt $i failed; retrying in 60s"; sleep 60
+          done
+          echo "could not queue the next run; the crons will have to restart the chain"; exit 1
