@@ -100,6 +100,7 @@ footer{font-size:12.5px;color:var(--muted);border-top:1px solid var(--line);padd
 .shot .none{color:var(--muted);font-size:14px}
 .shot em.down{font-style:normal;color:var(--lock);font-family:var(--mono);font-size:12px}
 .meta .crumbs a{color:var(--fav);text-decoration:none;font-weight:500}
+.meta .crumbs b{color:var(--ink)}
 .meta .crumbs a:hover{text-decoration:underline}
 @media (max-width:1000px){.grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media (max-width:680px){
@@ -159,7 +160,8 @@ async function renderView(){
   renderOnce(hist, 'live', hist.week);
 }
 function renderOnce(hist, mode, curWeek){ const txt = JSON.stringify([hist, mode, viewWeek]); if (txt === lastJson) return; lastJson = txt; render(hist, mode, curWeek); }
-function pickWeek(w){ viewWeek = w; lastJson = null; history.replaceState(null, '', w ? '#week' + w : location.pathname); renderView(); }
+function pickWeek(w){ if (latest && w && w > latest.hist.week) w = null;  // the week ahead has no file of its own; it is the automatic view
+  viewWeek = w; lastJson = null; history.replaceState(null, '', w ? '#week' + w : location.pathname); renderView(); }
 const decidedOf = m => { const lp = m.leftPct; const leftAhead = m.leftScore > m.rightScore, rightAhead = m.rightScore > m.leftScore;
   // Out of reach on paper: at 99/1, the trailing side's deficit is more than one and a half times what its remaining players are projected
   // to score, so a big game from what is left still would not be enough.
@@ -205,9 +207,10 @@ function render(hist, mode, curWeek){
   const esc = s => s.replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
   const topWeek = Math.max(hist.week, curWeek);  // only weeks that have a board: recorded weeks plus the one on screen
   const weeks = []; for (let w = FIRST_WEEK; w <= topWeek; w++) weeks.push(w);
-  const crumbs = weeks.map(w => w === hist.week ? `<b>Week ${w}</b>` : `<a href="#week${w}" data-week="${w}">${w}</a>`).join(' · ');
-  const status = mode === 'past' ? `final · ${S.length} samples` : mode === 'upcoming' ? `projections as of <b>${esc(fmtT(last.ts))}</b>` : `<span class="live"><i></i>last sample <b>${esc(fmtT(last.ts))}</b> (${ago(last.ts)})</span>`;
-  document.getElementById('meta').innerHTML = `<span class="crumbs">${crumbs}${mode === 'past' ? ' · <a href="#" data-week="0">back to current</a>' : ''}</span><span>${status}</span>`;
+  // Breadcrumb: every week number, the one on screen in bold; identical in every mode (no 'current' or 'back' link).
+  const crumbs = weeks.map(w => w === hist.week ? `<b>${w}</b>` : `<a href="#week${w}" data-week="${w}">${w}</a>`).join(' · ');
+  const status = mode === 'past' ? 'final' : mode === 'upcoming' ? `projections as of <b>${esc(fmtT(last.ts))}</b>` : `<span class="live"><i></i>last sample <b>${esc(fmtT(last.ts))}</b> (${ago(last.ts)})</span>`;
+  document.getElementById('meta').innerHTML = `<span class="crumbs">${crumbs}</span><span>${status}</span>`;
   // blowout ribbon: projected margin, biggest first
   const margins = last.matchups.map(m => { const l = m.leftProj>=m.rightProj; return {lead: shortName(m, l?0:1), trail: shortName(m, l?1:0), margin: Math.abs(m.leftProj-m.rightProj)}; }).sort((a,b)=>b.margin-a.margin).slice(0,3);
   const blowHtml = `<ul>${margins.map((x,i)=>`<li><span class="big">${x.margin.toFixed(2)}</span><span class="who" title="${esc(x.lead)} over ${esc(x.trail)}">${esc(x.lead)} over ${esc(x.trail)}</span></li>`).join('')}</ul>`;
