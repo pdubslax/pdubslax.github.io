@@ -764833,7 +764833,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-10-26T14:27:38+00:00",
+  "ts": "2026-10-27T04:41:48+00:00",
   "week": 7,
   "matchups": [
    {
@@ -764859,10 +764859,10 @@
     "leftRec": "2-4",
     "right": "MELONHEADS (daniel)",
     "rightRec": "3-3",
-    "leftScore": 81.04,
-    "leftProj": 88.24,
-    "rightScore": 86.92,
-    "rightProj": 99.51,
+    "leftScore": 85.79,
+    "leftProj": 85.79,
+    "rightScore": 101.62,
+    "rightProj": 101.62,
     "shotgun": [
      {
       "player": "Panthers",
@@ -764879,35 +764879,11 @@
       "reason": "pts"
      }
     ],
-    "leftActive": [
-     {
-      "player": "Cowboys",
-      "pos": "DEF",
-      "slot": "DEF",
-      "rem": 7.2,
-      "state": "pending",
-      "pts": 0.0,
-      "proj": 7.2,
-      "live": 7.2,
-      "game": "Mon 8:15 pm @ Phi"
-     }
-    ],
-    "rightActive": [
-     {
-      "player": "G. Pickens",
-      "pos": "WR",
-      "slot": "WR",
-      "rem": 12.59,
-      "state": "pending",
-      "pts": 0.0,
-      "proj": 12.59,
-      "live": 12.59,
-      "game": "Mon 8:15 pm @ Phi"
-     }
-    ],
-    "leftPct": 20,
-    "leftRem": 1,
-    "rightRem": 1
+    "leftActive": [],
+    "rightActive": [],
+    "leftPct": 0,
+    "leftRem": 0,
+    "rightRem": 0
    },
    {
     "id": "3v9",
@@ -764932,27 +764908,15 @@
     "leftRec": "2-4",
     "right": "RosterMogged",
     "rightRec": "3-3",
-    "leftScore": 92.03,
-    "leftProj": 108.81,
+    "leftScore": 117.03,
+    "leftProj": 117.03,
     "rightScore": 87.02,
     "rightProj": 87.02,
     "shotgun": [],
-    "leftActive": [
-     {
-      "player": "J. Williams",
-      "pos": "RB",
-      "slot": "RB",
-      "rem": 16.78,
-      "state": "pending",
-      "pts": 0.0,
-      "proj": 16.78,
-      "live": 16.78,
-      "game": "Mon 8:15 pm @ Phi"
-     }
-    ],
+    "leftActive": [],
     "rightActive": [],
-    "leftPct": 94,
-    "leftRem": 1,
+    "leftPct": 100,
+    "leftRem": 0,
     "rightRem": 0
    },
    {
@@ -764961,51 +764925,16 @@
     "leftRec": "4-2",
     "right": "James Ray Ervin Yonts",
     "rightRec": "3-3",
-    "leftScore": 90.33,
-    "leftProj": 100.36,
-    "rightScore": 109.75,
-    "rightProj": 146.93,
+    "leftScore": 103.93,
+    "leftProj": 103.93,
+    "rightScore": 158.73,
+    "rightProj": 158.73,
     "shotgun": [],
-    "leftActive": [
-     {
-      "player": "B. Aubrey",
-      "pos": "K",
-      "slot": "K",
-      "rem": 10.03,
-      "state": "pending",
-      "pts": 0.0,
-      "proj": 10.03,
-      "live": 10.03,
-      "game": "Mon 8:15 pm @ Phi"
-     }
-    ],
-    "rightActive": [
-     {
-      "player": "D. Prescott",
-      "pos": "QB",
-      "slot": "QB",
-      "rem": 20.42,
-      "state": "pending",
-      "pts": 0.0,
-      "proj": 20.42,
-      "live": 20.42,
-      "game": "Mon 8:15 pm @ Phi"
-     },
-     {
-      "player": "C. Lamb",
-      "pos": "WR",
-      "slot": "WR",
-      "rem": 16.76,
-      "state": "pending",
-      "pts": 0.0,
-      "proj": 16.76,
-      "live": 16.76,
-      "game": "Mon 8:15 pm @ Phi"
-     }
-    ],
-    "leftPct": 1,
-    "leftRem": 1,
-    "rightRem": 2
+    "leftActive": [],
+    "rightActive": [],
+    "leftPct": 0,
+    "leftRem": 0,
+    "rightRem": 0
    },
    {
     "id": "8v12",
@@ -765013,38 +764942,15 @@
     "leftRec": "1-5",
     "right": "Kiwis are better than mid",
     "rightRec": "4-2",
-    "leftScore": 119.48,
-    "leftProj": 147.52,
+    "leftScore": 143.38,
+    "leftProj": 143.38,
     "rightScore": 88.7,
     "rightProj": 88.7,
     "shotgun": [],
-    "leftActive": [
-     {
-      "player": "S. Barkley",
-      "pos": "RB",
-      "slot": "RB",
-      "rem": 15.64,
-      "state": "pending",
-      "pts": 0.0,
-      "proj": 15.64,
-      "live": 15.64,
-      "game": "Mon 8:15 pm vs Dal"
-     },
-     {
-      "player": "D. Goedert",
-      "pos": "TE",
-      "slot": "TE",
-      "rem": 12.4,
-      "state": "pending",
-      "pts": 0.0,
-      "proj": 12.4,
-      "live": 12.4,
-      "game": "Mon 8:15 pm vs Dal"
-     }
-    ],
+    "leftActive": [],
     "rightActive": [],
-    "leftPct": 99,
-    "leftRem": 2,
+    "leftPct": 100,
+    "leftRem": 0,
     "rightRem": 0
    }
   ]
