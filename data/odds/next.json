@@ -1,7 +1,7 @@
 {
  "v": 2,
  "week": 8,
- "ts": "2026-10-27T11:22:47+00:00",
+ "ts": "2026-10-27T12:02:45+00:00",
  "matchups": [
   {
    "id": "1v6",
@@ -10,27 +10,13 @@
    "right": "MELONHEADS (daniel)",
    "rightRec": "4-3",
    "leftScore": 0.0,
-   "leftProj": 101.16,
+   "leftProj": 101.14,
    "rightScore": 0.0,
-   "rightProj": 88.1,
-   "leftPct": 62,
+   "rightProj": 98.94,
+   "leftPct": 52,
    "leftRem": 8,
-   "rightRem": 7,
+   "rightRem": 8,
    "shotgun": [
-    {
-     "player": "G. Kittle",
-     "pos": "TE",
-     "team": "SF",
-     "pts": 0.0,
-     "game": "Bye",
-     "tag": null,
-     "state": "bye",
-     "slot": "TE",
-     "manager": "MELONHEADS (daniel)",
-     "locked": false,
-     "live": 0.0,
-     "reason": "pts"
-    },
     {
      "player": "D. Vele",
      "pos": "WR",
@@ -131,11 +117,11 @@
      "player": "J.K. Dobbins",
      "pos": "RB",
      "slot": "RB",
-     "rem": 8.07,
+     "rem": 8.05,
      "state": "pending",
      "pts": 0.0,
-     "proj": 8.07,
-     "live": 8.07,
+     "proj": 8.05,
+     "live": 8.05,
      "game": "Sun 4:25 pm vs KC"
     },
     {
@@ -185,6 +171,17 @@
      "game": "Sun 1:00 pm vs Ari"
     },
     {
+     "player": "D. Kincaid",
+     "pos": "TE",
+     "slot": "TE",
+     "rem": 10.02,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 10.02,
+     "live": 10.02,
+     "game": "Sun 1:00 pm vs Bal"
+    },
+    {
      "player": "J. Bates",
      "pos": "K",
      "slot": "K",
@@ -196,15 +193,15 @@
      "game": "Sun 1:00 pm vs Min"
     },
     {
-     "player": "C. Sutton",
+     "player": "K. Shakir",
      "pos": "WR",
      "slot": "WR",
-     "rem": 7.63,
+     "rem": 8.45,
      "state": "pending",
      "pts": 0.0,
-     "proj": 7.63,
-     "live": 7.63,
-     "game": "Sun 4:25 pm vs KC"
+     "proj": 8.45,
+     "live": 8.45,
+     "game": "Sun 1:00 pm vs Bal"
     },
     {
      "player": "K. Gainwell",
@@ -450,7 +447,7 @@
    "right": "Alex Michael Pagels",
    "rightRec": "2-5",
    "leftScore": 0.0,
-   "leftProj": 124.6,
+   "leftProj": 124.65,
    "rightScore": 0.0,
    "rightProj": 89.53,
    "leftPct": 77,
@@ -516,11 +513,11 @@
      "player": "P. Mahomes",
      "pos": "QB",
      "slot": "QB",
-     "rem": 19.58,
+     "rem": 19.63,
      "state": "pending",
      "pts": 0.0,
-     "proj": 19.58,
-     "live": 19.58,
+     "proj": 19.63,
+     "live": 19.63,
      "game": "Sun 4:25 pm @ Den"
     },
     {
@@ -898,7 +895,7 @@
    "right": "Zen Buddha Boys 🪷💨",
    "rightRec": "4-3",
    "leftScore": 0.0,
-   "leftProj": 134.56,
+   "leftProj": 134.61,
    "rightScore": 0.0,
    "rightProj": 104.87,
    "leftPct": 71,
@@ -1002,7 +999,7 @@
      "game": "Sun 1:00 pm @ TB"
     },
     {
-     "player": "Cincinnati",
+     "player": "Bengals",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 10.83,
@@ -1016,11 +1013,11 @@
      "player": "T. Kelce",
      "pos": "TE",
      "slot": "TE",
-     "rem": 10.22,
+     "rem": 10.27,
      "state": "pending",
      "pts": 0.0,
-     "proj": 10.22,
-     "live": 10.22,
+     "proj": 10.27,
+     "live": 10.27,
      "game": "Sun 4:25 pm @ Den"
     }
    ],
@@ -1103,7 +1100,7 @@
      "game": "Mon 8:15 pm @ Sea"
     },
     {
-     "player": "Indianapolis",
+     "player": "Colts",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 4.52,
@@ -1122,7 +1119,7 @@
    "right": "Kiwis are better than mid",
    "rightRec": "4-3",
    "leftScore": 0.0,
-   "leftProj": 73.3,
+   "leftProj": 73.26,
    "rightScore": 0.0,
    "rightProj": 114.33,
    "leftPct": 16,
@@ -1149,11 +1146,11 @@
      "player": "K. Walker III",
      "pos": "RB",
      "slot": "RB",
-     "rem": 21.56,
+     "rem": 21.49,
      "state": "pending",
      "pts": 0.0,
-     "proj": 21.56,
-     "live": 21.56,
+     "proj": 21.49,
+     "live": 21.49,
      "game": "Sun 4:25 pm @ Den"
     },
     {
@@ -1182,11 +1179,11 @@
      "player": "X. Worthy",
      "pos": "WR",
      "slot": "WR",
-     "rem": 8.64,
+     "rem": 8.67,
      "state": "pending",
      "pts": 0.0,
-     "proj": 8.64,
-     "live": 8.64,
+     "proj": 8.67,
+     "live": 8.67,
      "game": "Sun 4:25 pm @ Den"
     },
     {
