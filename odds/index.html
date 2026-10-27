@@ -326,7 +326,7 @@ const grid = document.getElementById('grid');
 let hoverRaf = null;
 // Hover over a chart: a guide line follows the cursor and the readout interpolates between samples.
 function showHover(c, clientX){
-  const d = HOVER[c.dataset.id]; if (!d || !d.xs.length) return;
+  const d = HOVER[c.dataset.id]; if (!d || d.xs.length < 2) return;  // nothing to scrub on a single-point (upcoming) chart
   const svg = c.querySelector('svg'), r = svg.getBoundingClientRect();
   const xv = Math.min(Math.max((clientX - r.left) / r.width * d.W, d.xs[0]), d.xs[d.xs.length-1]);
   let i = 1; while (i < d.xs.length-1 && d.xs[i] < xv) i++;
