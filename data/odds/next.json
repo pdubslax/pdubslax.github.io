@@ -1,7 +1,7 @@
 {
  "v": 2,
  "week": 8,
- "ts": "2026-10-27T12:02:45+00:00",
+ "ts": "2026-10-27T12:42:46+00:00",
  "matchups": [
   {
    "id": "1v6",
@@ -349,7 +349,7 @@
      "game": "Sun 8:20 pm vs Phi"
     },
     {
-     "player": "Cowboys",
+     "player": "Dallas",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 5.68,
@@ -428,7 +428,7 @@
      "game": "Sun 4:25 pm @ Mia"
     },
     {
-     "player": "Broncos",
+     "player": "Denver",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 6.96,
@@ -449,39 +449,11 @@
    "leftScore": 0.0,
    "leftProj": 124.65,
    "rightScore": 0.0,
-   "rightProj": 89.53,
-   "leftPct": 77,
+   "rightProj": 108.47,
+   "leftPct": 63,
    "leftRem": 8,
-   "rightRem": 7,
+   "rightRem": 9,
    "shotgun": [
-    {
-     "player": "C. Olave",
-     "pos": "WR",
-     "team": "NO",
-     "pts": 0.0,
-     "game": "Bye",
-     "tag": null,
-     "state": "bye",
-     "slot": "WR",
-     "manager": "Alex Michael Pagels",
-     "locked": false,
-     "live": 0.0,
-     "reason": "pts"
-    },
-    {
-     "player": "M. Nabers",
-     "pos": "WR",
-     "team": "NYG",
-     "pts": 0.0,
-     "game": "Bye",
-     "tag": null,
-     "state": "bye",
-     "slot": "WR",
-     "manager": "Alex Michael Pagels",
-     "locked": false,
-     "live": 0.0,
-     "reason": "pts"
-    },
     {
      "player": "Saints",
      "pos": "DEF",
@@ -624,7 +596,7 @@
     {
      "player": "T. Higgins",
      "pos": "WR",
-     "slot": "W/R/T",
+     "slot": "WR",
      "rem": 14.27,
      "state": "pending",
      "pts": 0.0,
@@ -655,15 +627,37 @@
      "game": "Sun 8:20 pm @ Was"
     },
     {
-     "player": "Titans",
+     "player": "Jaguars",
      "pos": "DEF",
      "slot": "DEF",
-     "rem": 2.74,
+     "rem": 9.05,
      "state": "pending",
      "pts": 0.0,
-     "proj": 2.74,
-     "live": 2.74,
-     "game": "Sun 1:00 pm @ Cin"
+     "proj": 9.05,
+     "live": 9.05,
+     "game": "Sun 1:00 pm vs Ind"
+    },
+    {
+     "player": "RJ Harvey",
+     "pos": "RB",
+     "slot": "W/R/T",
+     "rem": 7.81,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 7.81,
+     "live": 7.81,
+     "game": "Sun 4:25 pm vs KC"
+    },
+    {
+     "player": "M. Lemon",
+     "pos": "WR",
+     "slot": "WR",
+     "rem": 4.82,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 4.82,
+     "live": 4.82,
+     "game": "Sun 8:20 pm @ Was"
     }
    ]
   },
@@ -674,28 +668,13 @@
    "right": "Tuten Brown",
    "rightRec": "4-3",
    "leftScore": 0.0,
-   "leftProj": 101.92,
+   "leftProj": 118.87,
    "rightScore": 0.0,
    "rightProj": 120.78,
-   "leftPct": 34,
-   "leftRem": 8,
+   "leftPct": 48,
+   "leftRem": 9,
    "rightRem": 9,
-   "shotgun": [
-    {
-     "player": "J. Noel",
-     "pos": "WR",
-     "team": "Hou",
-     "pts": 0.0,
-     "game": "Bye",
-     "tag": null,
-     "state": "bye",
-     "slot": "W/R/T",
-     "manager": "Matthew Chen #4",
-     "locked": false,
-     "live": 0.0,
-     "reason": "pts"
-    }
-   ],
+   "shotgun": [],
    "leftActive": [
     {
      "player": "J. Williams",
@@ -734,34 +713,45 @@
      "player": "A. Jeanty",
      "pos": "RB",
      "slot": "RB",
-     "rem": 15.8,
+     "rem": 15.96,
      "state": "pending",
      "pts": 0.0,
-     "proj": 15.8,
-     "live": 15.8,
+     "proj": 15.96,
+     "live": 15.96,
      "game": "Sun 1:00 pm @ NYJ"
+    },
+    {
+     "player": "P. Washington",
+     "pos": "WR",
+     "slot": "WR",
+     "rem": 15.12,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 15.12,
+     "live": 15.12,
+     "game": "Sun 1:00 pm vs Ind"
+    },
+    {
+     "player": "C. Little",
+     "pos": "K",
+     "slot": "K",
+     "rem": 10.53,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 10.53,
+     "live": 10.53,
+     "game": "Sun 1:00 pm vs Ind"
     },
     {
      "player": "T. Tucker",
      "pos": "WR",
-     "slot": "WR",
-     "rem": 8.94,
+     "slot": "W/R/T",
+     "rem": 8.99,
      "state": "pending",
      "pts": 0.0,
-     "proj": 8.94,
-     "live": 8.94,
+     "proj": 8.99,
+     "live": 8.99,
      "game": "Sun 1:00 pm @ NYJ"
-    },
-    {
-     "player": "J. Sanders",
-     "pos": "K",
-     "slot": "K",
-     "rem": 8.91,
-     "state": "pending",
-     "pts": 0.0,
-     "proj": 8.91,
-     "live": 8.91,
-     "game": "Sun 1:00 pm vs LV"
     },
     {
      "player": "P. Freiermuth",
@@ -1119,9 +1109,9 @@
    "right": "Kiwis are better than mid",
    "rightRec": "4-3",
    "leftScore": 0.0,
-   "leftProj": 73.26,
+   "leftProj": 73.32,
    "rightScore": 0.0,
-   "rightProj": 114.33,
+   "rightProj": 114.24,
    "leftPct": 16,
    "leftRem": 8,
    "rightRem": 9,
@@ -1168,11 +1158,11 @@
      "player": "M. Gay",
      "pos": "K",
      "slot": "K",
-     "rem": 8.92,
+     "rem": 9.03,
      "state": "pending",
      "pts": 0.0,
-     "proj": 8.92,
-     "live": 8.92,
+     "proj": 9.03,
+     "live": 9.03,
      "game": "Sun 1:00 pm @ NYJ"
     },
     {
@@ -1190,11 +1180,11 @@
      "player": "O. Cooper Jr.",
      "pos": "WR",
      "slot": "W/R/T",
-     "rem": 7.53,
+     "rem": 7.48,
      "state": "pending",
      "pts": 0.0,
-     "proj": 7.53,
-     "live": 7.53,
+     "proj": 7.48,
+     "live": 7.48,
      "game": "Sun 1:00 pm vs LV"
     },
     {
@@ -1247,22 +1237,22 @@
      "player": "B. Bowers",
      "pos": "TE",
      "slot": "TE",
-     "rem": 14.5,
+     "rem": 14.61,
      "state": "pending",
      "pts": 0.0,
-     "proj": 14.5,
-     "live": 14.5,
+     "proj": 14.61,
+     "live": 14.61,
      "game": "Sun 1:00 pm @ NYJ"
     },
     {
      "player": "G. Wilson",
      "pos": "WR",
      "slot": "WR",
-     "rem": 14.07,
+     "rem": 13.98,
      "state": "pending",
      "pts": 0.0,
-     "proj": 14.07,
-     "live": 14.07,
+     "proj": 13.98,
+     "live": 13.98,
      "game": "Sun 1:00 pm vs LV"
     },
     {
@@ -1324,11 +1314,11 @@
      "player": "Jets",
      "pos": "DEF",
      "slot": "DEF",
-     "rem": 7.12,
+     "rem": 7.01,
      "state": "pending",
      "pts": 0.0,
-     "proj": 7.12,
-     "live": 7.12,
+     "proj": 7.01,
+     "live": 7.01,
      "game": "Sun 1:00 pm vs LV"
     }
    ]
