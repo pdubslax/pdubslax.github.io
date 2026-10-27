@@ -1,7 +1,7 @@
 {
  "v": 2,
  "week": 8,
- "ts": "2026-10-27T10:16:46+00:00",
+ "ts": "2026-10-27T10:56:46+00:00",
  "matchups": [
   {
    "id": "1v6",
@@ -1212,7 +1212,7 @@
      "game": "Sun 1:00 pm @ TB"
     },
     {
-     "player": "Chiefs",
+     "player": "K. City",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 6.69,
@@ -1324,7 +1324,7 @@
      "game": "Sun 4:25 pm vs KC"
     },
     {
-     "player": "Jets",
+     "player": "N. York",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 7.12,
