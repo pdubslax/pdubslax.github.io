@@ -143,22 +143,25 @@ async function renderView(){
   const {hist, nxt, sha} = latest;
   const lastS = hist.samples && hist.samples[hist.samples.length-1];
   const allDone = lastS && lastS.matchups.every(decidedOf);
-  if (viewWeek && viewWeek === hist.week) { renderOnce(hist, allDone ? 'past' : 'live', hist.week); return; }
+  // The highest week the breadcrumb lists: the week ahead once the current one is settled and previewed, else the current week.
+  const hasNext = allDone && nxt && nxt.week > hist.week && (nxt.matchups||[]).length;
+  const topWeek = hasNext ? nxt.week : hist.week;
+  if (viewWeek && viewWeek === hist.week) { renderOnce(hist, allDone ? 'past' : 'live', topWeek); return; }
   // A week that has not kicked off yet carries a preview snapshot instead of samples.
   if ((!hist.samples || !hist.samples.length) && hist.preview && !viewWeek) { renderOnce({...hist, samples: [hist.preview]}, 'upcoming', hist.week); return; }
   if (viewWeek && viewWeek !== hist.week) {
     let past = pastCache[viewWeek];
     if (!past && sha) { try { past = await fetchJson('https://cdn.jsdelivr.net/gh/' + REPO + '@' + sha + '/data/odds/week' + viewWeek + '.json'); pastCache[viewWeek] = past; } catch(e) {} }
-    if (past) { renderOnce(past, 'past', hist.week); return; }
+    if (past) { renderOnce(past, 'past', topWeek); return; }
     viewWeek = null; history.replaceState(null, '', location.pathname);
   }
-  if (allDone && nxt && nxt.week > hist.week && (nxt.matchups||[]).length) {
+  if (hasNext) {
     const shift = 7*86400000, mv = s => new Date(new Date(s).getTime() + shift).toISOString();
     const up = {week: nxt.week, samples: [{ts: nxt.ts, week: nxt.week, matchups: nxt.matchups}],
                 segments: (hist.segments||[]).map(g => ({...g, start: mv(g.start), end: mv(g.end)})), ticks: (hist.ticks||[]).map(k => ({at: mv(k.at)}))};
-    renderOnce(up, 'upcoming', hist.week); return;
+    renderOnce(up, 'upcoming', topWeek); return;
   }
-  renderOnce(hist, 'live', hist.week);
+  renderOnce(hist, 'live', topWeek);
 }
 function renderOnce(hist, mode, curWeek){ const txt = JSON.stringify([hist, mode, viewWeek]); if (txt === lastJson) return; lastJson = txt; render(hist, mode, curWeek); }
 function pickWeek(w){ if (latest && w && w > latest.hist.week) w = null;  // the week ahead has no file of its own; it is the automatic view
@@ -206,7 +209,7 @@ function render(hist, mode, curWeek){
   const fmtT = ts => new Date(ts).toLocaleString(undefined,{weekday:'short',hour:'numeric',minute:'2-digit'});
   const ago = ts => { const m = Math.round((Date.now()-new Date(ts))/60000); return m<1?'just now':m<60?m+' min ago':Math.round(m/60)+' h ago'; };
   const esc = s => s.replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
-  const topWeek = Math.max(hist.week, curWeek);  // only weeks that have a board: recorded weeks plus the one on screen
+  const topWeek = Math.max(hist.week, curWeek);  // curWeek is the highest week with a board (the week ahead once previewed)
   const weeks = []; for (let w = FIRST_WEEK; w <= topWeek; w++) weeks.push(w);
   // Breadcrumb: every week number, the one on screen in bold; identical in every mode (no 'current' or 'back' link).
   const crumbs = weeks.map(w => w === hist.week ? `<b>${w}</b>` : `<a href="#week${w}" data-week="${w}">${w}</a>`).join(' · ');
