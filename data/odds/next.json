@@ -1,7 +1,7 @@
 {
  "v": 2,
  "week": 8,
- "ts": "2026-10-27T12:42:46+00:00",
+ "ts": "2026-10-27T13:22:45+00:00",
  "matchups": [
   {
    "id": "1v6",
@@ -12,7 +12,7 @@
    "leftScore": 0.0,
    "leftProj": 101.14,
    "rightScore": 0.0,
-   "rightProj": 98.94,
+   "rightProj": 98.9,
    "leftPct": 52,
    "leftRem": 8,
    "rightRem": 8,
@@ -163,11 +163,11 @@
      "player": "G. Pickens",
      "pos": "WR",
      "slot": "WR",
-     "rem": 15.21,
+     "rem": 15.17,
      "state": "pending",
      "pts": 0.0,
-     "proj": 15.21,
-     "live": 15.21,
+     "proj": 15.17,
+     "live": 15.17,
      "game": "Sun 1:00 pm vs Ari"
     },
     {
@@ -319,11 +319,11 @@
      "player": "M. Wilson",
      "pos": "WR",
      "slot": "WR",
-     "rem": 13.57,
+     "rem": 13.59,
      "state": "pending",
      "pts": 0.0,
-     "proj": 13.57,
-     "live": 13.57,
+     "proj": 13.59,
+     "live": 13.59,
      "game": "Sun 1:00 pm @ Dal"
     },
     {
@@ -349,14 +349,14 @@
      "game": "Sun 8:20 pm vs Phi"
     },
     {
-     "player": "Dallas",
+     "player": "Cowboys",
      "pos": "DEF",
      "slot": "DEF",
-     "rem": 5.68,
+     "rem": 5.66,
      "state": "pending",
      "pts": 0.0,
-     "proj": 5.68,
-     "live": 5.68,
+     "proj": 5.66,
+     "live": 5.66,
      "game": "Sun 1:00 pm vs Ari"
     }
    ],
@@ -428,7 +428,7 @@
      "game": "Sun 4:25 pm @ Mia"
     },
     {
-     "player": "Denver",
+     "player": "Broncos",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 6.96,
@@ -447,7 +447,7 @@
    "right": "Alex Michael Pagels",
    "rightRec": "2-5",
    "leftScore": 0.0,
-   "leftProj": 124.65,
+   "leftProj": 124.68,
    "rightScore": 0.0,
    "rightProj": 108.47,
    "leftPct": 63,
@@ -507,11 +507,11 @@
      "player": "T. McBride",
      "pos": "TE",
      "slot": "TE",
-     "rem": 16.22,
+     "rem": 16.25,
      "state": "pending",
      "pts": 0.0,
-     "proj": 16.22,
-     "live": 16.22,
+     "proj": 16.25,
+     "live": 16.25,
      "game": "Sun 1:00 pm @ Dal"
     },
     {
@@ -668,9 +668,9 @@
    "right": "Tuten Brown",
    "rightRec": "4-3",
    "leftScore": 0.0,
-   "leftProj": 118.87,
+   "leftProj": 118.79,
    "rightScore": 0.0,
-   "rightProj": 120.78,
+   "rightProj": 120.75,
    "leftPct": 48,
    "leftRem": 9,
    "rightRem": 9,
@@ -680,11 +680,11 @@
      "player": "J. Williams",
      "pos": "RB",
      "slot": "RB",
-     "rem": 18.63,
+     "rem": 18.55,
      "state": "pending",
      "pts": 0.0,
-     "proj": 18.63,
-     "live": 18.63,
+     "proj": 18.55,
+     "live": 18.55,
      "game": "Sun 1:00 pm vs Ari"
     },
     {
@@ -765,7 +765,7 @@
      "game": "Sun 1:00 pm vs Cle"
     },
     {
-     "player": "Seahawks",
+     "player": "Seattle",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 6.86,
@@ -825,11 +825,11 @@
      "player": "B. Aubrey",
      "pos": "K",
      "slot": "K",
-     "rem": 11.12,
+     "rem": 11.09,
      "state": "pending",
      "pts": 0.0,
-     "proj": 11.12,
-     "live": 11.12,
+     "proj": 11.09,
+     "live": 11.09,
      "game": "Sun 1:00 pm vs Ari"
     },
     {
@@ -855,7 +855,7 @@
      "game": "Thu 8:15 pm vs Car"
     },
     {
-     "player": "Steelers",
+     "player": "Pittsburgh",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 10.04,
@@ -885,7 +885,7 @@
    "right": "Zen Buddha Boys 🪷💨",
    "rightRec": "4-3",
    "leftScore": 0.0,
-   "leftProj": 134.61,
+   "leftProj": 134.46,
    "rightScore": 0.0,
    "rightProj": 104.87,
    "leftPct": 71,
@@ -907,13 +907,13 @@
      "reason": "pts"
     },
     {
-     "player": "K. Fairbairn",
-     "pos": "K",
-     "team": "Hou",
+     "player": "(Empty)",
+     "pos": "",
+     "team": "",
      "pts": 0.0,
-     "game": "Bye",
+     "game": "",
      "tag": null,
-     "state": "bye",
+     "state": "empty",
      "slot": "K",
      "manager": "James Ray Ervin Yonts",
      "locked": false,
@@ -926,11 +926,11 @@
      "player": "D. Prescott",
      "pos": "QB",
      "slot": "QB",
-     "rem": 25.99,
+     "rem": 25.89,
      "state": "pending",
      "pts": 0.0,
-     "proj": 25.99,
-     "live": 25.99,
+     "proj": 25.89,
+     "live": 25.89,
      "game": "Sun 1:00 pm vs Ari"
     },
     {
@@ -948,11 +948,11 @@
      "player": "C. Lamb",
      "pos": "WR",
      "slot": "W/R/T",
-     "rem": 20.39,
+     "rem": 20.34,
      "state": "pending",
      "pts": 0.0,
-     "proj": 20.39,
-     "live": 20.39,
+     "proj": 20.34,
+     "live": 20.34,
      "game": "Sun 1:00 pm vs Ari"
     },
     {
@@ -1109,7 +1109,7 @@
    "right": "Kiwis are better than mid",
    "rightRec": "4-3",
    "leftScore": 0.0,
-   "leftProj": 73.32,
+   "leftProj": 73.33,
    "rightScore": 0.0,
    "rightProj": 114.24,
    "leftPct": 16,
@@ -1199,7 +1199,7 @@
      "game": "Sun 1:00 pm @ TB"
     },
     {
-     "player": "Chiefs",
+     "player": "K. City",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 6.69,
@@ -1213,11 +1213,11 @@
      "player": "B. Knight",
      "pos": "RB",
      "slot": "RB",
-     "rem": 3.12,
+     "rem": 3.13,
      "state": "pending",
      "pts": 0.0,
-     "proj": 3.12,
-     "live": 3.12,
+     "proj": 3.13,
+     "live": 3.13,
      "game": "Sun 1:00 pm @ Dal"
     }
    ],
@@ -1311,7 +1311,7 @@
      "game": "Sun 4:25 pm vs KC"
     },
     {
-     "player": "Jets",
+     "player": "N. York",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 7.01,
