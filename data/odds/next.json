@@ -1,14 +1,14 @@
 {
  "v": 2,
  "week": 8,
- "ts": "2026-10-27T06:16:45+00:00",
+ "ts": "2026-10-27T06:56:47+00:00",
  "matchups": [
   {
    "id": "1v6",
    "left": "Silly Shrek Squad",
-   "leftRec": "4-2",
+   "leftRec": "4-3",
    "right": "MELONHEADS (daniel)",
-   "rightRec": "3-3",
+   "rightRec": "4-3",
    "leftScore": 0.0,
    "leftProj": 102.37,
    "rightScore": 0.0,
@@ -60,7 +60,7 @@
      "reason": "pts"
     },
     {
-     "player": "Houston",
+     "player": "Texans",
      "pos": "DEF",
      "team": "Hou",
      "pts": 0.0,
@@ -221,7 +221,7 @@
      "game": "Sun 1:00 pm vs Atl"
     },
     {
-     "player": "Carolina",
+     "player": "Panthers",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 4.98,
@@ -236,9 +236,9 @@
   {
    "id": "2v9",
    "left": "BDSM AI Stealth Founder",
-   "leftRec": "2-4",
+   "leftRec": "2-5",
    "right": "Sir this is a FF league",
-   "rightRec": "2-4",
+   "rightRec": "3-4",
    "leftScore": 0.0,
    "leftProj": 110.72,
    "rightScore": 0.0,
@@ -460,9 +460,9 @@
   {
    "id": "3v8",
    "left": "Robotripping Gardener",
-   "leftRec": "5-1",
+   "leftRec": "5-2",
    "right": "Alex Michael Pagels",
-   "rightRec": "1-5",
+   "rightRec": "2-5",
    "leftScore": 0.0,
    "leftProj": 125.66,
    "rightScore": 0.0,
@@ -687,9 +687,9 @@
   {
    "id": "4v5",
    "left": "Matthew Chen #4",
-   "leftRec": "2-4",
+   "leftRec": "3-4",
    "right": "Tuten Brown",
-   "rightRec": "4-2",
+   "rightRec": "4-3",
    "leftScore": 0.0,
    "leftProj": 101.91,
    "rightScore": 0.0,
@@ -908,9 +908,9 @@
   {
    "id": "7v11",
    "left": "James Ray Ervin Yonts",
-   "leftRec": "3-3",
+   "leftRec": "4-3",
    "right": "Zen Buddha Boys 🪷💨",
-   "rightRec": "3-3",
+   "rightRec": "4-3",
    "leftScore": 0.0,
    "leftProj": 135.42,
    "rightScore": 0.0,
@@ -1016,7 +1016,7 @@
      "game": "Sun 1:00 pm @ TB"
     },
     {
-     "player": "Cincinnati",
+     "player": "Bengals",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 10.93,
@@ -1117,7 +1117,7 @@
      "game": "Mon 8:15 pm @ Sea"
     },
     {
-     "player": "Indianapolis",
+     "player": "Colts",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 4.4,
@@ -1132,9 +1132,9 @@
   {
    "id": "10v12",
    "left": "RosterMogged",
-   "leftRec": "3-3",
+   "leftRec": "3-4",
    "right": "Kiwis are better than mid",
-   "rightRec": "4-2",
+   "rightRec": "4-3",
    "leftScore": 0.0,
    "leftProj": 72.99,
    "rightScore": 0.0,
@@ -1240,7 +1240,7 @@
      "game": "Sun 1:00 pm @ TB"
     },
     {
-     "player": "K. City",
+     "player": "Chiefs",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 6.72,
@@ -1341,7 +1341,7 @@
      "game": "Sun 4:25 pm vs KC"
     },
     {
-     "player": "N. York",
+     "player": "Jets",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 7.21,
