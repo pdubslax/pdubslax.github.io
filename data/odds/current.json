@@ -30,7 +30,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-10-28T13:02:19+00:00",
+  "ts": "2026-10-28T13:22:09+00:00",
   "week": 8,
   "matchups": [
    {
@@ -91,7 +91,7 @@
       "pts": 0.0,
       "proj": 13.6,
       "live": 13.6,
-      "game": "Thu 8:15 pm @ GB"
+      "game": "Thu 8:15 pm @ GB"
      },
      {
       "player": "L. Burden III",
@@ -261,24 +261,10 @@
     "right": "Sir this is a FF league",
     "rightRec": "3-4",
     "leftScore": 0.0,
-    "leftProj": 111.43,
+    "leftProj": 119.88,
     "rightScore": 0.0,
     "rightProj": 106.57,
     "shotgun": [
-     {
-      "player": "(Empty)",
-      "pos": "",
-      "team": "",
-      "pts": 0.0,
-      "game": "",
-      "tag": null,
-      "state": "empty",
-      "slot": "K",
-      "manager": "BDSM AI Stealth Founder",
-      "locked": false,
-      "live": 0.0,
-      "reason": "pts"
-     },
      {
       "player": "(Empty)",
       "pos": "",
@@ -337,7 +323,7 @@
       "pts": 0.0,
       "proj": 14.81,
       "live": 14.81,
-      "game": "Thu 8:15 pm vs Car"
+      "game": "Thu 8:15 pm vs Car"
      },
      {
       "player": "M. Wilson",
@@ -360,6 +346,17 @@
       "proj": 11.94,
       "live": 11.94,
       "game": "Sun 1:00 pm @ Det"
+     },
+     {
+      "player": "C. Santos",
+      "pos": "K",
+      "slot": "K",
+      "rem": 8.45,
+      "state": "pending",
+      "pts": 0.0,
+      "proj": 8.45,
+      "live": 8.45,
+      "game": "Mon 8:15 pm @ Sea"
      },
      {
       "player": "C. Okonkwo",
@@ -394,7 +391,7 @@
       "pts": 0.0,
       "proj": 21.2,
       "live": 21.2,
-      "game": "Thu 8:15 pm vs Car"
+      "game": "Thu 8:15 pm vs Car"
      },
      {
       "player": "J. Cook III",
@@ -474,8 +471,8 @@
       "game": "Sun 4:25 pm vs KC"
      }
     ],
-    "leftPct": 54,
-    "leftRem": 8,
+    "leftPct": 61,
+    "leftRem": 9,
     "rightRem": 8
    },
    {
@@ -543,7 +540,7 @@
       "pts": 0.0,
       "proj": 14.21,
       "live": 14.21,
-      "game": "Thu 8:15 pm @ GB"
+      "game": "Thu 8:15 pm @ GB"
      },
      {
       "player": "D. Swift",
@@ -568,7 +565,7 @@
       "game": "Sun 8:20 pm vs Phi"
      },
      {
-      "player": "Patriots",
+      "player": "N. England",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 10.05,
@@ -611,7 +608,7 @@
       "pts": 0.0,
       "proj": 16.11,
       "live": 16.11,
-      "game": "Thu 8:15 pm vs Car"
+      "game": "Thu 8:15 pm vs Car"
      },
      {
       "player": "T. Higgins",
@@ -658,7 +655,7 @@
       "game": "Sun 8:20 pm @ Was"
      },
      {
-      "player": "Jaguars",
+      "player": "Jacksonville",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 9.13,
@@ -883,7 +880,7 @@
       "pts": 0.0,
       "proj": 10.48,
       "live": 10.48,
-      "game": "Thu 8:15 pm vs Car"
+      "game": "Thu 8:15 pm vs Car"
      },
      {
       "player": "Steelers",
@@ -921,7 +918,7 @@
     "leftScore": 0.0,
     "leftProj": 146.45,
     "rightScore": 0.0,
-    "rightProj": 118.57,
+    "rightProj": 120.74,
     "shotgun": [],
     "leftActive": [
      {
@@ -991,7 +988,7 @@
       "game": "Sun 1:00 pm @ TB"
      },
      {
-      "player": "Cincinnati",
+      "player": "Bengals",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 10.81,
@@ -1067,7 +1064,18 @@
       "pts": 0.0,
       "proj": 17.08,
       "live": 17.08,
-      "game": "Thu 8:15 pm @ GB"
+      "game": "Thu 8:15 pm @ GB"
+     },
+     {
+      "player": "T. Pollard",
+      "pos": "RB",
+      "slot": "W/R/T",
+      "rem": 12.94,
+      "state": "pending",
+      "pts": 0.0,
+      "proj": 12.94,
+      "live": 12.94,
+      "game": "Sun 1:00 pm @ Cin"
      },
      {
       "player": "O. Gordon II",
@@ -1081,17 +1089,6 @@
       "game": "Sun 4:25 pm vs NE"
      },
      {
-      "player": "Q. Judkins",
-      "pos": "RB",
-      "slot": "W/R/T",
-      "rem": 11.07,
-      "state": "pending",
-      "pts": 0.0,
-      "proj": 11.07,
-      "live": 11.07,
-      "game": "Sun 1:00 pm @ Pit"
-     },
-     {
       "player": "J. Myers",
       "pos": "K",
       "slot": "K",
@@ -1103,18 +1100,18 @@
       "game": "Mon 8:15 pm vs Chi"
      },
      {
-      "player": "C. Loveland",
+      "player": "T.J. Hockenson",
       "pos": "TE",
       "slot": "TE",
-      "rem": 9.54,
+      "rem": 9.84,
       "state": "pending",
       "pts": 0.0,
-      "proj": 9.54,
-      "live": 9.54,
-      "game": "Mon 8:15 pm @ Sea"
+      "proj": 9.84,
+      "live": 9.84,
+      "game": "Sun 1:00 pm @ Det"
      },
      {
-      "player": "Indianapolis",
+      "player": "Colts",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 3.62,
@@ -1125,7 +1122,7 @@
       "game": "Sun 1:00 pm @ Jax"
      }
     ],
-    "leftPct": 69,
+    "leftPct": 68,
     "leftRem": 9,
     "rightRem": 9
    },
