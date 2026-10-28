@@ -1,7 +1,7 @@
 {
  "v": 2,
  "week": 9,
- "ts": "2026-10-28T15:42:08+00:00",
+ "ts": "2026-10-28T16:22:10+00:00",
  "matchups": [
   {
    "id": "1v7",
@@ -549,7 +549,7 @@
      "game": "Mon 8:15 pm vs Buf"
     },
     {
-     "player": "Patriots",
+     "player": "N. England",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 6.23,
@@ -617,7 +617,7 @@
      "game": "Sun 4:05 pm vs Hou"
     },
     {
-     "player": "Chiefs",
+     "player": "K. City",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 9.99,
@@ -759,7 +759,7 @@
      "game": "Sun 1:00 pm vs Dal"
     },
     {
-     "player": "Seahawks",
+     "player": "Seattle",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 10.7,
@@ -871,7 +871,7 @@
      "game": "Mon 8:15 pm vs Buf"
     },
     {
-     "player": "Colts",
+     "player": "Indianapolis",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 4.84,
@@ -926,7 +926,7 @@
      "reason": "pts"
     },
     {
-     "player": "Steelers",
+     "player": "Pittsburgh",
      "pos": "DEF",
      "team": "Pit",
      "pts": 0.0,
@@ -1098,7 +1098,7 @@
      "game": "Sun 1:00 pm @ Car"
     },
     {
-     "player": "Jets",
+     "player": "N. York",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 4.5,
@@ -1117,10 +1117,10 @@
    "right": "Sir this is a FF league",
    "rightRec": "3-4",
    "leftScore": 0.0,
-   "leftProj": 108.56,
+   "leftProj": 111.38,
    "rightScore": 0.0,
    "rightProj": 112.83,
-   "leftPct": 46,
+   "leftPct": 49,
    "leftRem": 9,
    "rightRem": 9,
    "shotgun": [],
@@ -1159,6 +1159,17 @@
      "game": "Sun 1:00 pm @ Ind"
     },
     {
+     "player": "D. Smith",
+     "pos": "WR",
+     "slot": "WR",
+     "rem": 10.58,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 10.58,
+     "live": 10.58,
+     "game": "Sun 1:00 pm vs NYG"
+    },
+    {
      "player": "J. Bates",
      "pos": "K",
      "slot": "K",
@@ -1192,18 +1203,7 @@
      "game": "Thu 8:15 pm @ Bal"
     },
     {
-     "player": "K. Shakir",
-     "pos": "WR",
-     "slot": "WR",
-     "rem": 7.76,
-     "state": "pending",
-     "pts": 0.0,
-     "proj": 7.76,
-     "live": 7.76,
-     "game": "Mon 8:15 pm @ Min"
-    },
-    {
-     "player": "Bills",
+     "player": "Buffalo",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 6.29,
@@ -1315,7 +1315,7 @@
      "game": "Sun 4:25 pm vs GB"
     },
     {
-     "player": "Broncos",
+     "player": "Denver",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 7.52,
