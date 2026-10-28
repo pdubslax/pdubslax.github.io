@@ -30,7 +30,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-10-28T10:41:31+00:00",
+  "ts": "2026-10-28T11:01:22+00:00",
   "week": 8,
   "matchups": [
    {
@@ -574,7 +574,7 @@
       "game": "Sun 8:20 pm vs Phi"
      },
      {
-      "player": "Patriots",
+      "player": "N. England",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 10.05,
@@ -664,7 +664,7 @@
       "game": "Sun 8:20 pm @ Was"
      },
      {
-      "player": "Jaguars",
+      "player": "Jacksonville",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 9.13,
@@ -708,9 +708,9 @@
     "right": "Tuten Brown",
     "rightRec": "4-3",
     "leftScore": 0.0,
-    "leftProj": 122.96,
+    "leftProj": 122.94,
     "rightScore": 0.0,
-    "rightProj": 120.73,
+    "rightProj": 120.72,
     "shotgun": [],
     "leftActive": [
      {
@@ -739,11 +739,11 @@
       "player": "A. Rodgers",
       "pos": "QB",
       "slot": "QB",
-      "rem": 17.53,
+      "rem": 17.51,
       "state": "pending",
       "pts": 0.0,
-      "proj": 17.53,
-      "live": 17.53,
+      "proj": 17.51,
+      "live": 17.51,
       "game": "Sun 1:00 pm vs Cle"
      },
      {
@@ -895,11 +895,11 @@
       "player": "Steelers",
       "pos": "DEF",
       "slot": "DEF",
-      "rem": 9.93,
+      "rem": 9.92,
       "state": "pending",
       "pts": 0.0,
-      "proj": 9.93,
-      "live": 9.93,
+      "proj": 9.92,
+      "live": 9.92,
       "game": "Sun 1:00 pm vs Cle"
      },
      {
@@ -927,7 +927,7 @@
     "leftScore": 0.0,
     "leftProj": 136.73,
     "rightScore": 0.0,
-    "rightProj": 118.6,
+    "rightProj": 118.57,
     "shotgun": [
      {
       "player": "(Empty)",
@@ -1094,11 +1094,11 @@
       "player": "Q. Judkins",
       "pos": "RB",
       "slot": "W/R/T",
-      "rem": 11.1,
+      "rem": 11.07,
       "state": "pending",
       "pts": 0.0,
-      "proj": 11.1,
-      "live": 11.1,
+      "proj": 11.07,
+      "live": 11.07,
       "game": "Sun 1:00 pm @ Pit"
      },
      {
@@ -1148,7 +1148,7 @@
     "leftScore": 0.0,
     "leftProj": 106.19,
     "rightScore": 0.0,
-    "rightProj": 116.03,
+    "rightProj": 116.05,
     "shotgun": [],
     "leftActive": [
      {
@@ -1311,11 +1311,11 @@
       "player": "DK Metcalf",
       "pos": "WR",
       "slot": "WR",
-      "rem": 10.96,
+      "rem": 10.98,
       "state": "pending",
       "pts": 0.0,
-      "proj": 10.96,
-      "live": 10.96,
+      "proj": 10.98,
+      "live": 10.98,
       "game": "Sun 1:00 pm vs Cle"
      },
      {
