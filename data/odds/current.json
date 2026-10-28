@@ -30,7 +30,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-10-28T18:43:10+00:00",
+  "ts": "2026-10-28T19:03:04+00:00",
   "week": 8,
   "matchups": [
    {
@@ -40,9 +40,9 @@
     "right": "MELONHEADS (daniel)",
     "rightRec": "4-3",
     "leftScore": 0.0,
-    "leftProj": 110.23,
+    "leftProj": 110.2,
     "rightScore": 0.0,
-    "rightProj": 110.21,
+    "rightProj": 110.2,
     "shotgun": [],
     "leftActive": [
      {
@@ -115,11 +115,11 @@
       "player": "S. Shrader",
       "pos": "K",
       "slot": "K",
-      "rem": 8.42,
+      "rem": 8.39,
       "state": "pending",
       "pts": 0.0,
-      "proj": 8.42,
-      "live": 8.42,
+      "proj": 8.39,
+      "live": 8.39,
       "game": "Sun 1:00 pm @ Jax"
      },
      {
@@ -238,11 +238,11 @@
       "player": "Bills",
       "pos": "DEF",
       "slot": "DEF",
-      "rem": 6.13,
+      "rem": 6.12,
       "state": "pending",
       "pts": 0.0,
-      "proj": 6.13,
-      "live": 6.13,
+      "proj": 6.12,
+      "live": 6.12,
       "game": "Sun 1:00 pm vs Bal"
      }
     ],
@@ -476,7 +476,7 @@
     "leftScore": 0.0,
     "leftProj": 136.71,
     "rightScore": 0.0,
-    "rightProj": 112.33,
+    "rightProj": 112.35,
     "shotgun": [],
     "leftActive": [
      {
@@ -557,7 +557,7 @@
       "game": "Sun 8:20 pm vs Phi"
      },
      {
-      "player": "Patriots",
+      "player": "N. England",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 10.05,
@@ -636,14 +636,14 @@
       "game": "Sun 1:00 pm @ Pit"
      },
      {
-      "player": "Jaguars",
+      "player": "Jacksonville",
       "pos": "DEF",
       "slot": "DEF",
-      "rem": 9.33,
+      "rem": 9.35,
       "state": "pending",
       "pts": 0.0,
-      "proj": 9.33,
-      "live": 9.33,
+      "proj": 9.35,
+      "live": 9.35,
       "game": "Sun 1:00 pm vs Ind"
      },
      {
@@ -691,7 +691,7 @@
     "right": "Tuten Brown",
     "rightRec": "4-3",
     "leftScore": 0.0,
-    "leftProj": 125.7,
+    "leftProj": 125.72,
     "rightScore": 0.0,
     "rightProj": 122.24,
     "shotgun": [],
@@ -744,33 +744,33 @@
       "player": "P. Washington",
       "pos": "WR",
       "slot": "WR",
-      "rem": 15.08,
+      "rem": 15.09,
       "state": "pending",
       "pts": 0.0,
-      "proj": 15.08,
-      "live": 15.08,
+      "proj": 15.09,
+      "live": 15.09,
       "game": "Sun 1:00 pm vs Ind"
      },
      {
       "player": "C. Little",
       "pos": "K",
       "slot": "K",
-      "rem": 10.76,
+      "rem": 10.78,
       "state": "pending",
       "pts": 0.0,
-      "proj": 10.76,
-      "live": 10.76,
+      "proj": 10.78,
+      "live": 10.78,
       "game": "Sun 1:00 pm vs Ind"
      },
      {
       "player": "T. Warren",
       "pos": "TE",
       "slot": "TE",
-      "rem": 10.45,
+      "rem": 10.44,
       "state": "pending",
       "pts": 0.0,
-      "proj": 10.45,
-      "live": 10.45,
+      "proj": 10.44,
+      "live": 10.44,
       "game": "Sun 1:00 pm @ Jax"
      },
      {
@@ -801,33 +801,33 @@
       "player": "T. Lawrence",
       "pos": "QB",
       "slot": "QB",
-      "rem": 23.17,
+      "rem": 23.2,
       "state": "pending",
       "pts": 0.0,
-      "proj": 23.17,
-      "live": 23.17,
+      "proj": 23.2,
+      "live": 23.2,
       "game": "Sun 1:00 pm vs Ind"
      },
      {
       "player": "J. Taylor",
       "pos": "RB",
       "slot": "RB",
-      "rem": 16.12,
+      "rem": 16.07,
       "state": "pending",
       "pts": 0.0,
-      "proj": 16.12,
-      "live": 16.12,
+      "proj": 16.07,
+      "live": 16.07,
       "game": "Sun 1:00 pm @ Jax"
      },
      {
       "player": "B. Tuten",
       "pos": "RB",
       "slot": "RB",
-      "rem": 15.33,
+      "rem": 15.35,
       "state": "pending",
       "pts": 0.0,
-      "proj": 15.33,
-      "live": 15.33,
+      "proj": 15.35,
+      "live": 15.35,
       "game": "Sun 1:00 pm vs Ind"
      },
      {
@@ -910,7 +910,7 @@
     "leftScore": 0.0,
     "leftProj": 146.47,
     "rightScore": 0.0,
-    "rightProj": 120.34,
+    "rightProj": 120.32,
     "shotgun": [],
     "leftActive": [
      {
@@ -1106,11 +1106,11 @@
       "player": "Colts",
       "pos": "DEF",
       "slot": "DEF",
-      "rem": 3.48,
+      "rem": 3.46,
       "state": "pending",
       "pts": 0.0,
-      "proj": 3.48,
-      "live": 3.48,
+      "proj": 3.46,
+      "live": 3.46,
       "game": "Sun 1:00 pm @ Jax"
      }
     ],
