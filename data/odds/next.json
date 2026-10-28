@@ -1,7 +1,7 @@
 {
  "v": 2,
  "week": 8,
- "ts": "2026-10-28T06:00:42+00:00",
+ "ts": "2026-10-28T06:40:43+00:00",
  "matchups": [
   {
    "id": "1v6",
@@ -78,7 +78,7 @@
      "pts": 0.0,
      "proj": 13.58,
      "live": 13.58,
-     "game": "Thu 8:15 pm @ GB"
+     "game": "Thu 8:15 pm @ GB"
     },
     {
      "player": "L. Burden III",
@@ -223,7 +223,7 @@
      "pts": 0.0,
      "proj": 4.95,
      "live": 4.95,
-     "game": "Thu 8:15 pm @ GB"
+     "game": "Thu 8:15 pm @ GB"
     }
    ]
   },
@@ -313,7 +313,7 @@
      "pts": 0.0,
      "proj": 14.82,
      "live": 14.82,
-     "game": "Thu 8:15 pm vs Car"
+     "game": "Thu 8:15 pm vs Car"
     },
     {
      "player": "M. Wilson",
@@ -349,7 +349,7 @@
      "game": "Sun 8:20 pm vs Phi"
     },
     {
-     "player": "Cowboys",
+     "player": "Dallas",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 5.33,
@@ -370,7 +370,7 @@
      "pts": 0.0,
      "proj": 21.22,
      "live": 21.22,
-     "game": "Thu 8:15 pm vs Car"
+     "game": "Thu 8:15 pm vs Car"
     },
     {
      "player": "J. Cook III",
@@ -439,7 +439,7 @@
      "game": "Sun 4:25 pm @ Mia"
     },
     {
-     "player": "Broncos",
+     "player": "Denver",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 6.79,
@@ -519,7 +519,7 @@
      "pts": 0.0,
      "proj": 14.2,
      "live": 14.2,
-     "game": "Thu 8:15 pm @ GB"
+     "game": "Thu 8:15 pm @ GB"
     },
     {
      "player": "D. Swift",
@@ -544,7 +544,7 @@
      "game": "Sun 8:20 pm vs Phi"
     },
     {
-     "player": "Patriots",
+     "player": "N. England",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 10.04,
@@ -587,7 +587,7 @@
      "pts": 0.0,
      "proj": 16.12,
      "live": 16.12,
-     "game": "Thu 8:15 pm vs Car"
+     "game": "Thu 8:15 pm vs Car"
     },
     {
      "player": "T. Higgins",
@@ -634,7 +634,7 @@
      "game": "Sun 1:00 pm vs Cle"
     },
     {
-     "player": "Jaguars",
+     "player": "Jacksonville",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 9.12,
@@ -859,7 +859,7 @@
      "pts": 0.0,
      "proj": 10.5,
      "live": 10.5,
-     "game": "Thu 8:15 pm vs Car"
+     "game": "Thu 8:15 pm vs Car"
     },
     {
      "player": "Steelers",
@@ -1047,7 +1047,7 @@
      "pts": 0.0,
      "proj": 17.06,
      "live": 17.06,
-     "game": "Thu 8:15 pm @ GB"
+     "game": "Thu 8:15 pm @ GB"
     },
     {
      "player": "O. Gordon II",
@@ -1199,7 +1199,7 @@
      "game": "Sun 1:00 pm @ NYJ"
     },
     {
-     "player": "Chiefs",
+     "player": "K. City",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 7.42,
@@ -1311,7 +1311,7 @@
      "game": "Sun 4:25 pm vs KC"
     },
     {
-     "player": "Jets",
+     "player": "N. York",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 7.0,
