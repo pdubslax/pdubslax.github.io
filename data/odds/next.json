@@ -1,7 +1,7 @@
 {
  "v": 2,
  "week": 9,
- "ts": "2026-10-28T13:42:10+00:00",
+ "ts": "2026-10-28T14:22:09+00:00",
  "matchups": [
   {
    "id": "1v7",
@@ -10,10 +10,10 @@
    "right": "James Ray Ervin Yonts",
    "rightRec": "4-3",
    "leftScore": 0.0,
-   "leftProj": 113.74,
+   "leftProj": 109.39,
    "rightScore": 0.0,
    "rightProj": 123.17,
-   "leftPct": 43,
+   "leftPct": 40,
    "leftRem": 9,
    "rightRem": 8,
    "shotgun": [
@@ -111,17 +111,6 @@
      "game": "Sun 1:00 pm @ Car"
     },
     {
-     "player": "Texans",
-     "pos": "DEF",
-     "slot": "DEF",
-     "rem": 8.42,
-     "state": "pending",
-     "pts": 0.0,
-     "proj": 8.42,
-     "live": 8.42,
-     "game": "Sun 4:05 pm @ LAC"
-    },
-    {
      "player": "E. Wilson",
      "pos": "RB",
      "slot": "RB",
@@ -131,6 +120,17 @@
      "proj": 4.65,
      "live": 4.65,
      "game": "Sun 4:25 pm vs Ari"
+    },
+    {
+     "player": "Commanders",
+     "pos": "DEF",
+     "slot": "DEF",
+     "rem": 4.07,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 4.07,
+     "live": 4.07,
+     "game": "Sun 1:00 pm vs LAR"
     }
    ],
    "rightActive": [
@@ -890,10 +890,10 @@
    "right": "Kiwis are better than mid",
    "rightRec": "4-3",
    "leftScore": 0.0,
-   "leftProj": 107.74,
+   "leftProj": 109.25,
    "rightScore": 0.0,
    "rightProj": 87.67,
-   "leftPct": 69,
+   "leftPct": 70,
    "leftRem": 8,
    "rightRem": 7,
    "shotgun": [
@@ -1019,15 +1019,15 @@
      "game": "Sun 4:25 pm @ NE"
     },
     {
-     "player": "D. Douglas",
-     "pos": "WR",
+     "player": "J. Love",
+     "pos": "RB",
      "slot": "W/R/T",
-     "rem": 8.06,
+     "rem": 9.57,
      "state": "pending",
      "pts": 0.0,
-     "proj": 8.06,
-     "live": 8.06,
-     "game": "Sun 4:25 pm vs GB"
+     "proj": 9.57,
+     "live": 9.57,
+     "game": "Sun 4:25 pm @ Sea"
     }
    ],
    "rightActive": [
@@ -1119,26 +1119,11 @@
    "leftScore": 0.0,
    "leftProj": 108.56,
    "rightScore": 0.0,
-   "rightProj": 102.4,
-   "leftPct": 56,
+   "rightProj": 112.83,
+   "leftPct": 46,
    "leftRem": 9,
-   "rightRem": 8,
-   "shotgun": [
-    {
-     "player": "(Empty)",
-     "pos": "",
-     "team": "",
-     "pts": 0.0,
-     "game": "",
-     "tag": null,
-     "state": "empty",
-     "slot": "K",
-     "manager": "Sir this is a FF league",
-     "locked": false,
-     "live": 0.0,
-     "reason": "pts"
-    }
-   ],
+   "rightRem": 9,
+   "shotgun": [],
    "leftActive": [
     {
      "player": "B. Robinson",
@@ -1306,6 +1291,17 @@
      "proj": 10.66,
      "live": 10.66,
      "game": "Sun 1:00 pm @ Mia"
+    },
+    {
+     "player": "E. McPherson",
+     "pos": "K",
+     "slot": "K",
+     "rem": 10.43,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 10.43,
+     "live": 10.43,
+     "game": "Sun 9:30 am @ Atl"
     },
     {
      "player": "H. Henry",
