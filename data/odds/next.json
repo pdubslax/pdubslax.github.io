@@ -1,7 +1,7 @@
 {
  "v": 2,
  "week": 9,
- "ts": "2026-10-28T16:22:10+00:00",
+ "ts": "2026-10-28T17:02:09+00:00",
  "matchups": [
   {
    "id": "1v7",
@@ -233,7 +233,7 @@
    "leftScore": 0.0,
    "leftProj": 113.24,
    "rightScore": 0.0,
-   "rightProj": 97.07,
+   "rightProj": 97.04,
    "leftPct": 65,
    "leftRem": 9,
    "rightRem": 8,
@@ -343,7 +343,7 @@
      "game": "Sun 1:00 pm vs LAR"
     },
     {
-     "player": "Dallas",
+     "player": "Cowboys",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 6.04,
@@ -403,11 +403,11 @@
      "player": "KC Concepcion Jr.",
      "pos": "WR",
      "slot": "WR",
-     "rem": 9.58,
+     "rem": 9.55,
      "state": "pending",
      "pts": 0.0,
-     "proj": 9.58,
-     "live": 9.58,
+     "proj": 9.55,
+     "live": 9.55,
      "game": "Sun 1:00 pm @ NO"
     },
     {
@@ -433,7 +433,7 @@
      "game": "Sun 1:00 pm vs NYG"
     },
     {
-     "player": "Jacksonville",
+     "player": "Jaguars",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 5.54,
@@ -549,7 +549,7 @@
      "game": "Mon 8:15 pm vs Buf"
     },
     {
-     "player": "N. England",
+     "player": "Patriots",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 6.23,
@@ -617,7 +617,7 @@
      "game": "Sun 4:05 pm vs Hou"
     },
     {
-     "player": "K. City",
+     "player": "Chiefs",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 9.99,
@@ -759,7 +759,7 @@
      "game": "Sun 1:00 pm vs Dal"
     },
     {
-     "player": "Seattle",
+     "player": "Seahawks",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 10.7,
@@ -871,7 +871,7 @@
      "game": "Mon 8:15 pm vs Buf"
     },
     {
-     "player": "Indianapolis",
+     "player": "Colts",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 4.84,
@@ -926,7 +926,7 @@
      "reason": "pts"
     },
     {
-     "player": "Pittsburgh",
+     "player": "Steelers",
      "pos": "DEF",
      "team": "Pit",
      "pts": 0.0,
@@ -1098,7 +1098,7 @@
      "game": "Sun 1:00 pm @ Car"
     },
     {
-     "player": "N. York",
+     "player": "Jets",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 4.5,
@@ -1203,7 +1203,7 @@
      "game": "Thu 8:15 pm @ Bal"
     },
     {
-     "player": "Buffalo",
+     "player": "Bills",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 6.29,
@@ -1315,7 +1315,7 @@
      "game": "Sun 4:25 pm vs GB"
     },
     {
-     "player": "Denver",
+     "player": "Broncos",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 7.52,
