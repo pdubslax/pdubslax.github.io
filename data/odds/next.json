@@ -1,7 +1,7 @@
 {
  "v": 2,
  "week": 9,
- "ts": "2026-10-28T12:22:09+00:00",
+ "ts": "2026-10-28T13:02:09+00:00",
  "matchups": [
   {
    "id": "1v7",
@@ -12,10 +12,10 @@
    "leftScore": 0.0,
    "leftProj": 113.7,
    "rightScore": 0.0,
-   "rightProj": 114.42,
-   "leftPct": 49,
+   "rightProj": 123.21,
+   "leftPct": 43,
    "leftRem": 9,
-   "rightRem": 7,
+   "rightRem": 8,
    "shotgun": [
     {
      "player": "J. Warren",
@@ -26,20 +26,6 @@
      "tag": null,
      "state": "bye",
      "slot": "RB",
-     "manager": "James Ray Ervin Yonts",
-     "locked": false,
-     "live": 0.0,
-     "reason": "pts"
-    },
-    {
-     "player": "(Empty)",
-     "pos": "",
-     "team": "",
-     "pts": 0.0,
-     "game": "",
-     "tag": null,
-     "state": "empty",
-     "slot": "K",
      "manager": "James Ray Ervin Yonts",
      "locked": false,
      "live": 0.0,
@@ -125,7 +111,7 @@
      "game": "Sun 1:00 pm @ Car"
     },
     {
-     "player": "Texans",
+     "player": "Houston",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 8.42,
@@ -215,7 +201,18 @@
      "game": "Sun 1:00 pm vs NYJ"
     },
     {
-     "player": "Bengals",
+     "player": "C. McLaughlin",
+     "pos": "K",
+     "slot": "K",
+     "rem": 8.79,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 8.79,
+     "live": 8.79,
+     "game": "Sun 8:20 pm @ Chi"
+    },
+    {
+     "player": "Cincinnati",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 6.59,
@@ -735,11 +732,11 @@
      "player": "A. Jeanty",
      "pos": "RB",
      "slot": "RB",
-     "rem": 14.57,
+     "rem": 14.56,
      "state": "pending",
      "pts": 0.0,
-     "proj": 14.57,
-     "live": 14.57,
+     "proj": 14.56,
+     "live": 14.56,
      "game": "Sun 4:25 pm @ SF"
     },
     {
@@ -754,7 +751,7 @@
      "game": "Sun 1:00 pm vs Dal"
     },
     {
-     "player": "Seahawks",
+     "player": "Seattle",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 10.7,
@@ -779,11 +776,11 @@
      "player": "T. Tucker",
      "pos": "WR",
      "slot": "W/R/T",
-     "rem": 9.1,
+     "rem": 9.11,
      "state": "pending",
      "pts": 0.0,
-     "proj": 9.1,
-     "live": 9.1,
+     "proj": 9.11,
+     "live": 9.11,
      "game": "Sun 4:25 pm @ SF"
     }
    ],
@@ -877,7 +874,7 @@
      "game": "Sun 8:20 pm vs TB"
     },
     {
-     "player": "Colts",
+     "player": "Indianapolis",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 4.84,
@@ -898,7 +895,7 @@
    "leftScore": 0.0,
    "leftProj": 107.74,
    "rightScore": 0.0,
-   "rightProj": 87.6,
+   "rightProj": 87.62,
    "leftPct": 69,
    "leftRem": 8,
    "rightRem": 7,
@@ -1052,11 +1049,11 @@
      "player": "B. Bowers",
      "pos": "TE",
      "slot": "TE",
-     "rem": 14.13,
+     "rem": 14.15,
      "state": "pending",
      "pts": 0.0,
-     "proj": 14.13,
-     "live": 14.13,
+     "proj": 14.15,
+     "live": 14.15,
      "game": "Sun 4:25 pm @ SF"
     },
     {
