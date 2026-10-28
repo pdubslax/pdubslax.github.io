@@ -1,7 +1,7 @@
 {
  "v": 2,
  "week": 9,
- "ts": "2026-10-28T14:22:09+00:00",
+ "ts": "2026-10-28T15:02:10+00:00",
  "matchups": [
   {
    "id": "1v7",
@@ -454,7 +454,7 @@
    "leftScore": 0.0,
    "leftProj": 134.79,
    "rightScore": 0.0,
-   "rightProj": 111.33,
+   "rightProj": 111.3,
    "leftPct": 68,
    "leftRem": 9,
    "rightRem": 9,
@@ -598,22 +598,22 @@
      "player": "L. McConkey",
      "pos": "WR",
      "slot": "WR",
-     "rem": 10.71,
+     "rem": 10.7,
      "state": "pending",
      "pts": 0.0,
-     "proj": 10.71,
-     "live": 10.71,
+     "proj": 10.7,
+     "live": 10.7,
      "game": "Sun 4:05 pm vs Hou"
     },
     {
      "player": "O. Hampton",
      "pos": "RB",
      "slot": "RB",
-     "rem": 10.16,
+     "rem": 10.14,
      "state": "pending",
      "pts": 0.0,
-     "proj": 10.16,
-     "live": 10.16,
+     "proj": 10.14,
+     "live": 10.14,
      "game": "Sun 4:05 pm vs Hou"
     },
     {

@@ -30,7 +30,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-10-28T14:42:08+00:00",
+  "ts": "2026-10-28T15:02:21+00:00",
   "week": 8,
   "matchups": [
    {
@@ -40,7 +40,7 @@
     "right": "MELONHEADS (daniel)",
     "rightRec": "4-3",
     "leftScore": 0.0,
-    "leftProj": 110.22,
+    "leftProj": 110.26,
     "rightScore": 0.0,
     "rightProj": 109.51,
     "shotgun": [],
@@ -60,11 +60,11 @@
       "player": "M. Stafford",
       "pos": "QB",
       "slot": "QB",
-      "rem": 20.48,
+      "rem": 20.52,
       "state": "pending",
       "pts": 0.0,
-      "proj": 20.48,
-      "live": 20.48,
+      "proj": 20.52,
+      "live": 20.52,
       "game": "Sun 4:05 pm vs LAC"
      },
      {
@@ -474,7 +474,7 @@
     "right": "Alex Michael Pagels",
     "rightRec": "2-5",
     "leftScore": 0.0,
-    "leftProj": 136.63,
+    "leftProj": 136.65,
     "rightScore": 0.0,
     "rightProj": 112.05,
     "shotgun": [],
@@ -505,11 +505,11 @@
       "player": "K. Williams",
       "pos": "RB",
       "slot": "RB",
-      "rem": 18.99,
+      "rem": 19.01,
       "state": "pending",
       "pts": 0.0,
-      "proj": 18.99,
-      "live": 18.99,
+      "proj": 19.01,
+      "live": 19.01,
       "game": "Sun 4:05 pm vs LAC"
      },
      {
@@ -908,7 +908,7 @@
     "right": "Zen Buddha Boys 🪷💨",
     "rightRec": "4-3",
     "leftScore": 0.0,
-    "leftProj": 146.41,
+    "leftProj": 146.45,
     "rightScore": 0.0,
     "rightProj": 120.39,
     "shotgun": [],
@@ -928,11 +928,11 @@
       "player": "P. Nacua",
       "pos": "WR",
       "slot": "WR",
-      "rem": 21.52,
+      "rem": 21.56,
       "state": "pending",
       "pts": 0.0,
-      "proj": 21.52,
-      "live": 21.52,
+      "proj": 21.56,
+      "live": 21.56,
       "game": "Sun 4:05 pm vs LAC"
      },
      {
@@ -1125,7 +1125,7 @@
     "right": "Kiwis are better than mid",
     "rightRec": "4-3",
     "leftScore": 0.0,
-    "leftProj": 105.85,
+    "leftProj": 105.9,
     "rightScore": 0.0,
     "rightProj": 116.08,
     "shotgun": [],
@@ -1167,22 +1167,22 @@
       "player": "L. McConkey",
       "pos": "WR",
       "slot": "WR",
-      "rem": 10.25,
+      "rem": 10.28,
       "state": "pending",
       "pts": 0.0,
-      "proj": 10.25,
-      "live": 10.25,
+      "proj": 10.28,
+      "live": 10.28,
       "game": "Sun 4:05 pm @ LAR"
      },
      {
       "player": "O. Hampton",
       "pos": "RB",
       "slot": "RB",
-      "rem": 10.08,
+      "rem": 10.1,
       "state": "pending",
       "pts": 0.0,
-      "proj": 10.08,
-      "live": 10.08,
+      "proj": 10.1,
+      "live": 10.1,
       "game": "Sun 4:05 pm @ LAR"
      },
      {
