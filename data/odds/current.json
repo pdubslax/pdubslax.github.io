@@ -30,7 +30,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-10-28T11:21:31+00:00",
+  "ts": "2026-10-28T11:41:21+00:00",
   "week": 8,
   "matchups": [
    {
@@ -42,22 +42,8 @@
     "leftScore": 0.0,
     "leftProj": 101.1,
     "rightScore": 0.0,
-    "rightProj": 93.96,
+    "rightProj": 109.56,
     "shotgun": [
-     {
-      "player": "D. Vele",
-      "pos": "WR",
-      "team": "NO",
-      "pts": 0.0,
-      "game": "Bye",
-      "tag": null,
-      "state": "bye",
-      "slot": "W/R/T",
-      "manager": "MELONHEADS (daniel)",
-      "locked": false,
-      "live": 0.0,
-      "reason": "pts"
-     },
      {
       "player": "Texans",
       "pos": "DEF",
@@ -68,20 +54,6 @@
       "state": "bye",
       "slot": "DEF",
       "manager": "Evicted From the Swamp",
-      "locked": false,
-      "live": 0.0,
-      "reason": "pts"
-     },
-     {
-      "player": "(Empty)",
-      "pos": "",
-      "team": "",
-      "pts": 0.0,
-      "game": "",
-      "tag": null,
-      "state": "empty",
-      "slot": "DEF",
-      "manager": "MELONHEADS (daniel)",
       "locked": false,
       "live": 0.0,
       "reason": "pts"
@@ -234,6 +206,17 @@
       "game": "Sun 1:00 pm vs Min"
      },
      {
+      "player": "B. Strange",
+      "pos": "TE",
+      "slot": "W/R/T",
+      "rem": 9.43,
+      "state": "pending",
+      "pts": 0.0,
+      "proj": 9.43,
+      "live": 9.43,
+      "game": "Sun 1:00 pm vs Ind"
+     },
+     {
       "player": "K. Shakir",
       "pos": "WR",
       "slot": "WR",
@@ -254,11 +237,22 @@
       "proj": 6.63,
       "live": 6.63,
       "game": "Sun 1:00 pm vs Atl"
+     },
+     {
+      "player": "Bills",
+      "pos": "DEF",
+      "slot": "DEF",
+      "rem": 6.17,
+      "state": "pending",
+      "pts": 0.0,
+      "proj": 6.17,
+      "live": 6.17,
+      "game": "Sun 1:00 pm vs Bal"
      }
     ],
-    "leftPct": 56,
+    "leftPct": 43,
     "leftRem": 8,
-    "rightRem": 7
+    "rightRem": 9
    },
    {
     "id": "2v9",
