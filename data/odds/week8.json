@@ -30,7 +30,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-10-28T22:24:01+00:00",
+  "ts": "2026-10-28T22:43:48+00:00",
   "week": 8,
   "matchups": [
    {
@@ -476,7 +476,7 @@
     "leftScore": 0.0,
     "leftProj": 136.72,
     "rightScore": 0.0,
-    "rightProj": 112.37,
+    "rightProj": 112.38,
     "shotgun": [],
     "leftActive": [
      {
@@ -628,11 +628,11 @@
       "player": "KC Concepcion Jr.",
       "pos": "WR",
       "slot": "WR",
-      "rem": 9.44,
+      "rem": 9.45,
       "state": "pending",
       "pts": 0.0,
-      "proj": 9.44,
-      "live": 9.44,
+      "proj": 9.45,
+      "live": 9.45,
       "game": "Sun 1:00 pm @ Pit"
      },
      {
