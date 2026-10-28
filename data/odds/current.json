@@ -30,7 +30,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-10-28T12:22:23+00:00",
+  "ts": "2026-10-28T12:42:11+00:00",
   "week": 8,
   "matchups": [
    {
@@ -568,7 +568,7 @@
       "game": "Sun 8:20 pm vs Phi"
      },
      {
-      "player": "N. England",
+      "player": "Patriots",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 10.05,
@@ -658,7 +658,7 @@
       "game": "Sun 8:20 pm @ Was"
      },
      {
-      "player": "Jacksonville",
+      "player": "Jaguars",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 9.13,
@@ -919,25 +919,10 @@
     "right": "Zen Buddha Boys 🪷💨",
     "rightRec": "4-3",
     "leftScore": 0.0,
-    "leftProj": 136.73,
+    "leftProj": 146.45,
     "rightScore": 0.0,
     "rightProj": 118.57,
-    "shotgun": [
-     {
-      "player": "(Empty)",
-      "pos": "",
-      "team": "",
-      "pts": 0.0,
-      "game": "",
-      "tag": null,
-      "state": "empty",
-      "slot": "K",
-      "manager": "James Ray Ervin Yonts",
-      "locked": false,
-      "live": 0.0,
-      "reason": "pts"
-     }
-    ],
+    "shotgun": [],
     "leftActive": [
      {
       "player": "D. Prescott",
@@ -1026,6 +1011,17 @@
       "proj": 9.93,
       "live": 9.93,
       "game": "Sun 4:25 pm @ Den"
+     },
+     {
+      "player": "C. McLaughlin",
+      "pos": "K",
+      "slot": "K",
+      "rem": 9.72,
+      "state": "pending",
+      "pts": 0.0,
+      "proj": 9.72,
+      "live": 9.72,
+      "game": "Sun 1:00 pm vs Atl"
      }
     ],
     "rightActive": [
@@ -1129,8 +1125,8 @@
       "game": "Sun 1:00 pm @ Jax"
      }
     ],
-    "leftPct": 63,
-    "leftRem": 8,
+    "leftPct": 69,
+    "leftRem": 9,
     "rightRem": 9
    },
    {
