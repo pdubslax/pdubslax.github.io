@@ -1,7 +1,7 @@
 {
  "v": 2,
  "week": 8,
- "ts": "2026-10-28T00:14:53+00:00",
+ "ts": "2026-10-28T00:54:51+00:00",
  "matchups": [
   {
    "id": "1v6",
@@ -280,7 +280,7 @@
      "pts": 0.0,
      "proj": 24.52,
      "live": 24.52,
-     "game": "Sun 4:25 pm @ Mia"
+     "game": "Sun 4:25 pm @ Mia"
     },
     {
      "player": "C. Brown",
@@ -291,7 +291,7 @@
      "pts": 0.0,
      "proj": 17.72,
      "live": 17.72,
-     "game": "Sun 1:00 pm vs Ten"
+     "game": "Sun 1:00 pm vs Ten"
     },
     {
      "player": "D. Henry",
@@ -414,7 +414,7 @@
      "pts": 0.0,
      "proj": 11.91,
      "live": 11.91,
-     "game": "Sun 4:25 pm @ Mia"
+     "game": "Sun 4:25 pm @ Mia"
     },
     {
      "player": "J. Williams",
@@ -436,7 +436,7 @@
      "pts": 0.0,
      "proj": 8.49,
      "live": 8.49,
-     "game": "Sun 4:25 pm @ Mia"
+     "game": "Sun 4:25 pm @ Mia"
     },
     {
      "player": "Broncos",
@@ -552,7 +552,7 @@
      "pts": 0.0,
      "proj": 10.09,
      "live": 10.09,
-     "game": "Sun 4:25 pm @ Mia"
+     "game": "Sun 4:25 pm @ Mia"
     },
     {
      "player": "W. Reichard",
@@ -576,7 +576,7 @@
      "pts": 0.0,
      "proj": 24.39,
      "live": 24.39,
-     "game": "Sun 1:00 pm vs Ten"
+     "game": "Sun 1:00 pm vs Ten"
     },
     {
      "player": "J. Jacobs",
@@ -598,7 +598,7 @@
      "pts": 0.0,
      "proj": 15.42,
      "live": 15.42,
-     "game": "Sun 1:00 pm vs Ten"
+     "game": "Sun 1:00 pm vs Ten"
     },
     {
      "player": "S. Barkley",
@@ -692,7 +692,7 @@
      "pts": 0.0,
      "proj": 18.13,
      "live": 18.13,
-     "game": "Sun 1:00 pm vs Ten"
+     "game": "Sun 1:00 pm vs Ten"
     },
     {
      "player": "J. Williams",
@@ -826,7 +826,7 @@
      "pts": 0.0,
      "proj": 13.6,
      "live": 13.6,
-     "game": "Sun 4:25 pm @ Mia"
+     "game": "Sun 4:25 pm @ Mia"
     },
     {
      "player": "DJ Moore",
@@ -881,7 +881,7 @@
      "pts": 0.0,
      "proj": 8.19,
      "live": 8.19,
-     "game": "Sun 4:25 pm @ Mia"
+     "game": "Sun 4:25 pm @ Mia"
     }
    ]
   },
@@ -982,7 +982,7 @@
      "game": "Sun 1:00 pm @ TB"
     },
     {
-     "player": "Bengals",
+     "player": "Cincinnati",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 10.82,
@@ -990,7 +990,7 @@
      "pts": 0.0,
      "proj": 10.82,
      "live": 10.82,
-     "game": "Sun 1:00 pm vs Ten"
+     "game": "Sun 1:00 pm vs Ten"
     },
     {
      "player": "T. Kelce",
@@ -1058,7 +1058,7 @@
      "pts": 0.0,
      "proj": 12.79,
      "live": 12.79,
-     "game": "Sun 4:25 pm vs NE"
+     "game": "Sun 4:25 pm vs NE"
     },
     {
      "player": "Q. Judkins",
@@ -1094,7 +1094,7 @@
      "game": "Mon 8:15 pm @ Sea"
     },
     {
-     "player": "Colts",
+     "player": "Indianapolis",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 3.62,
@@ -1275,7 +1275,7 @@
      "pts": 0.0,
      "proj": 11.48,
      "live": 11.48,
-     "game": "Sun 1:00 pm @ Cin"
+     "game": "Sun 1:00 pm @ Cin"
     },
     {
      "player": "DK Metcalf",
