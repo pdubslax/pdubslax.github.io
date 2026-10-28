@@ -1,7 +1,7 @@
 {
  "v": 2,
  "week": 9,
- "ts": "2026-10-28T08:41:22+00:00",
+ "ts": "2026-10-28T09:21:21+00:00",
  "matchups": [
   {
    "id": "1v7",
@@ -1123,11 +1123,11 @@
    "right": "Sir this is a FF league",
    "rightRec": "3-4",
    "leftScore": 0.0,
-   "leftProj": 104.6,
+   "leftProj": 98.91,
    "rightScore": 0.0,
    "rightProj": 102.55,
-   "leftPct": 52,
-   "leftRem": 9,
+   "leftPct": 47,
+   "leftRem": 8,
    "rightRem": 8,
    "shotgun": [
     {
@@ -1140,6 +1140,20 @@
      "state": "empty",
      "slot": "K",
      "manager": "Sir this is a FF league",
+     "locked": false,
+     "live": 0.0,
+     "reason": "pts"
+    },
+    {
+     "player": "(Empty)",
+     "pos": "",
+     "team": "",
+     "pts": 0.0,
+     "game": "",
+     "tag": null,
+     "state": "empty",
+     "slot": "DEF",
+     "manager": "MELONHEADS (daniel)",
      "locked": false,
      "live": 0.0,
      "reason": "pts"
@@ -1233,17 +1247,6 @@
      "proj": 6.04,
      "live": 6.04,
      "game": "Sun 1:00 pm vs Cle"
-    },
-    {
-     "player": "Panthers",
-     "pos": "DEF",
-     "slot": "DEF",
-     "rem": 5.69,
-     "state": "pending",
-     "pts": 0.0,
-     "proj": 5.69,
-     "live": 5.69,
-     "game": "Sun 1:00 pm vs Den"
     }
    ],
    "rightActive": [
