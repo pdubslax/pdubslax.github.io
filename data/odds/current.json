@@ -30,7 +30,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-10-28T08:41:30+00:00",
+  "ts": "2026-10-28T09:01:22+00:00",
   "week": 8,
   "matchups": [
    {
@@ -42,7 +42,7 @@
     "leftScore": 0.0,
     "leftProj": 101.1,
     "rightScore": 0.0,
-    "rightProj": 98.21,
+    "rightProj": 93.93,
     "shotgun": [
      {
       "player": "D. Vele",
@@ -68,6 +68,20 @@
       "state": "bye",
       "slot": "DEF",
       "manager": "Evicted From the Swamp",
+      "locked": false,
+      "live": 0.0,
+      "reason": "pts"
+     },
+     {
+      "player": "(Empty)",
+      "pos": "",
+      "team": "",
+      "pts": 0.0,
+      "game": "",
+      "tag": null,
+      "state": "empty",
+      "slot": "DEF",
+      "manager": "MELONHEADS (daniel)",
       "locked": false,
       "live": 0.0,
       "reason": "pts"
@@ -240,22 +254,11 @@
       "proj": 6.63,
       "live": 6.63,
       "game": "Sun 1:00 pm vs Atl"
-     },
-     {
-      "player": "Panthers",
-      "pos": "DEF",
-      "slot": "DEF",
-      "rem": 4.28,
-      "state": "pending",
-      "pts": 0.0,
-      "proj": 4.28,
-      "live": 4.28,
-      "game": "Thu 8:15 pm @ GB"
      }
     ],
-    "leftPct": 53,
+    "leftPct": 56,
     "leftRem": 8,
-    "rightRem": 8
+    "rightRem": 7
    },
    {
     "id": "2v9",
