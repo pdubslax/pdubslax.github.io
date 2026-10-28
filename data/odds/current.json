@@ -30,7 +30,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-10-28T15:42:18+00:00",
+  "ts": "2026-10-28T16:02:08+00:00",
   "week": 8,
   "matchups": [
    {
@@ -42,7 +42,7 @@
     "leftScore": 0.0,
     "leftProj": 110.24,
     "rightScore": 0.0,
-    "rightProj": 109.52,
+    "rightProj": 110.26,
     "shotgun": [],
     "leftActive": [
      {
@@ -191,6 +191,17 @@
       "game": "Sun 1:00 pm vs Bal"
      },
      {
+      "player": "D. Smith",
+      "pos": "WR",
+      "slot": "WR",
+      "rem": 9.72,
+      "state": "pending",
+      "pts": 0.0,
+      "proj": 9.72,
+      "live": 9.72,
+      "game": "Sun 8:20 pm @ Was"
+     },
+     {
       "player": "J. Bates",
       "pos": "K",
       "slot": "K",
@@ -211,17 +222,6 @@
       "proj": 9.52,
       "live": 9.52,
       "game": "Sun 1:00 pm vs Ind"
-     },
-     {
-      "player": "K. Shakir",
-      "pos": "WR",
-      "slot": "WR",
-      "rem": 8.98,
-      "state": "pending",
-      "pts": 0.0,
-      "proj": 8.98,
-      "live": 8.98,
-      "game": "Sun 1:00 pm vs Bal"
      },
      {
       "player": "K. Gainwell",
@@ -246,7 +246,7 @@
       "game": "Sun 1:00 pm vs Bal"
      }
     ],
-    "leftPct": 51,
+    "leftPct": 50,
     "leftRem": 9,
     "rightRem": 9
    },
@@ -351,7 +351,7 @@
       "game": "Sun 8:20 pm vs Phi"
      },
      {
-      "player": "Dallas",
+      "player": "Cowboys",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 5.35,
@@ -452,7 +452,7 @@
       "game": "Sun 4:25 pm @ Mia"
      },
      {
-      "player": "Denver",
+      "player": "Broncos",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 6.87,
@@ -476,7 +476,7 @@
     "leftScore": 0.0,
     "leftProj": 136.69,
     "rightScore": 0.0,
-    "rightProj": 112.19,
+    "rightProj": 112.28,
     "shotgun": [],
     "leftActive": [
      {
@@ -625,6 +625,17 @@
       "game": "Sun 8:20 pm @ Was"
      },
      {
+      "player": "KC Concepcion Jr.",
+      "pos": "WR",
+      "slot": "WR",
+      "rem": 9.39,
+      "state": "pending",
+      "pts": 0.0,
+      "proj": 9.39,
+      "live": 9.39,
+      "game": "Sun 1:00 pm @ Pit"
+     },
+     {
       "player": "Jaguars",
       "pos": "DEF",
       "slot": "DEF",
@@ -634,17 +645,6 @@
       "proj": 9.32,
       "live": 9.32,
       "game": "Sun 1:00 pm vs Ind"
-     },
-     {
-      "player": "KC Concepcion Jr.",
-      "pos": "WR",
-      "slot": "WR",
-      "rem": 9.3,
-      "state": "pending",
-      "pts": 0.0,
-      "proj": 9.3,
-      "live": 9.3,
-      "game": "Sun 1:00 pm @ Pit"
      },
      {
       "player": "C. Boswell",
