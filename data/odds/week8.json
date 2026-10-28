@@ -30,7 +30,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-10-28T23:23:48+00:00",
+  "ts": "2026-10-28T23:43:58+00:00",
   "week": 8,
   "matchups": [
    {
@@ -42,7 +42,7 @@
     "leftScore": 0.0,
     "leftProj": 110.21,
     "rightScore": 0.0,
-    "rightProj": 110.33,
+    "rightProj": 110.29,
     "shotgun": [],
     "leftActive": [
      {
@@ -194,11 +194,11 @@
       "player": "D. Smith",
       "pos": "WR",
       "slot": "WR",
-      "rem": 9.88,
+      "rem": 9.84,
       "state": "pending",
       "pts": 0.0,
-      "proj": 9.88,
-      "live": 9.88,
+      "proj": 9.84,
+      "live": 9.84,
       "game": "Sun 8:20 pm @ Was"
      },
      {
@@ -476,7 +476,7 @@
     "leftScore": 0.0,
     "leftProj": 136.78,
     "rightScore": 0.0,
-    "rightProj": 112.89,
+    "rightProj": 112.82,
     "shotgun": [],
     "leftActive": [
      {
@@ -617,11 +617,11 @@
       "player": "S. Barkley",
       "pos": "RB",
       "slot": "RB",
-      "rem": 11.98,
+      "rem": 11.95,
       "state": "pending",
       "pts": 0.0,
-      "proj": 11.98,
-      "live": 11.98,
+      "proj": 11.95,
+      "live": 11.95,
       "game": "Sun 8:20 pm @ Was"
      },
      {
@@ -650,11 +650,11 @@
       "player": "D. Goedert",
       "pos": "TE",
       "slot": "TE",
-      "rem": 9.3,
+      "rem": 9.26,
       "state": "pending",
       "pts": 0.0,
-      "proj": 9.3,
-      "live": 9.3,
+      "proj": 9.26,
+      "live": 9.26,
       "game": "Sun 8:20 pm @ Was"
      },
      {
