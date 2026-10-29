@@ -1,7 +1,7 @@
 {
  "v": 2,
  "week": 9,
- "ts": "2026-10-29T18:09:06+00:00",
+ "ts": "2026-10-29T18:29:49+00:00",
  "matchups": [
   {
    "id": "1v7",
@@ -1117,10 +1117,10 @@
    "right": "Sir this is a FF league",
    "rightRec": "3-4",
    "leftScore": 0.0,
-   "leftProj": 110.13,
+   "leftProj": 107.28,
    "rightScore": 0.0,
    "rightProj": 117.97,
-   "leftPct": 43,
+   "leftPct": 41,
    "leftRem": 9,
    "rightRem": 9,
    "shotgun": [],
@@ -1214,15 +1214,15 @@
      "game": "Sun 8:20 pm @ Chi"
     },
     {
-     "player": "Bills",
+     "player": "Raiders",
      "pos": "DEF",
      "slot": "DEF",
-     "rem": 6.29,
+     "rem": 3.44,
      "state": "pending",
      "pts": 0.0,
-     "proj": 6.29,
-     "live": 6.29,
-     "game": "Mon 8:15 pm @ Min"
+     "proj": 3.44,
+     "live": 3.44,
+     "game": "Sun 4:25 pm @ SF"
     }
    ],
    "rightActive": [
