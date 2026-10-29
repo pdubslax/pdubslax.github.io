@@ -1,7 +1,7 @@
 {
  "v": 2,
  "week": 9,
- "ts": "2026-10-29T04:07:46+00:00",
+ "ts": "2026-10-29T04:47:46+00:00",
  "matchups": [
   {
    "id": "1v7",
@@ -10,10 +10,10 @@
    "right": "James Ray Ervin Yonts",
    "rightRec": "4-3",
    "leftScore": 0.0,
-   "leftProj": 107.09,
+   "leftProj": 106.94,
    "rightScore": 0.0,
    "rightProj": 122.36,
-   "leftPct": 39,
+   "leftPct": 38,
    "leftRem": 9,
    "rightRem": 8,
    "shotgun": [
@@ -56,15 +56,15 @@
      "game": "Sun 1:00 pm @ Was"
     },
     {
-     "player": "L. Burden III",
+     "player": "M. Golden",
      "pos": "WR",
      "slot": "WR",
-     "rem": 13.25,
+     "rem": 13.1,
      "state": "pending",
      "pts": 0.0,
-     "proj": 13.25,
-     "live": 13.25,
-     "game": "Sun 8:20 pm vs TB"
+     "proj": 13.1,
+     "live": 13.1,
+     "game": "Sun 4:25 pm @ NE"
     },
     {
      "player": "J. Coker",

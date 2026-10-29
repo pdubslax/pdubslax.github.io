@@ -30,7 +30,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-10-29T04:27:45+00:00",
+  "ts": "2026-10-29T04:47:54+00:00",
   "week": 8,
   "matchups": [
    {
@@ -40,7 +40,7 @@
     "right": "MELONHEADS (daniel)",
     "rightRec": "4-3",
     "leftScore": 0.0,
-    "leftProj": 109.99,
+    "leftProj": 112.54,
     "rightScore": 0.0,
     "rightProj": 111.86,
     "shotgun": [],
@@ -68,6 +68,17 @@
       "game": "Sun 4:05 pm vs LAC"
      },
      {
+      "player": "M. Golden",
+      "pos": "WR",
+      "slot": "WR",
+      "rem": 14.22,
+      "state": "pending",
+      "pts": 0.0,
+      "proj": 14.22,
+      "live": 14.22,
+      "game": "Thu 8:15 pm vs Car"
+     },
+     {
       "player": "J. Coker",
       "pos": "WR",
       "slot": "WR",
@@ -77,17 +88,6 @@
       "proj": 13.7,
       "live": 13.7,
       "game": "Thu 8:15 pm @ GB"
-     },
-     {
-      "player": "L. Burden III",
-      "pos": "WR",
-      "slot": "WR",
-      "rem": 11.67,
-      "state": "pending",
-      "pts": 0.0,
-      "proj": 11.67,
-      "live": 11.67,
-      "game": "Mon 8:15 pm @ Sea"
      },
      {
       "player": "S. LaPorta",
@@ -246,7 +246,7 @@
       "game": "Sun 1:00 pm vs Bal"
      }
     ],
-    "leftPct": 48,
+    "leftPct": 51,
     "leftRem": 9,
     "rightRem": 9
    },
