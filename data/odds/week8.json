@@ -30,7 +30,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-10-29T00:43:49+00:00",
+  "ts": "2026-10-29T01:03:59+00:00",
   "week": 8,
   "matchups": [
    {
@@ -42,7 +42,7 @@
     "leftScore": 0.0,
     "leftProj": 110.2,
     "rightScore": 0.0,
-    "rightProj": 110.36,
+    "rightProj": 110.61,
     "shotgun": [],
     "leftActive": [
      {
@@ -166,7 +166,7 @@
       "pts": 0.0,
       "proj": 21.03,
       "live": 21.03,
-      "game": "Sun 1:00 pm @ TB"
+      "game": "Sun 1:00 pm @ TB"
      },
      {
       "player": "G. Pickens",
@@ -194,11 +194,11 @@
       "player": "D. Smith",
       "pos": "WR",
       "slot": "WR",
-      "rem": 9.97,
+      "rem": 10.22,
       "state": "pending",
       "pts": 0.0,
-      "proj": 9.97,
-      "live": 9.97,
+      "proj": 10.22,
+      "live": 10.22,
       "game": "Sun 8:20 pm @ Was"
      },
      {
@@ -232,7 +232,7 @@
       "pts": 0.0,
       "proj": 6.61,
       "live": 6.61,
-      "game": "Sun 1:00 pm vs Atl"
+      "game": "Sun 1:00 pm vs Atl"
      },
      {
       "player": "Bills",
@@ -257,7 +257,7 @@
     "right": "Sir this is a FF league",
     "rightRec": "3-4",
     "leftScore": 0.0,
-    "leftProj": 120.19,
+    "leftProj": 120.17,
     "rightScore": 0.0,
     "rightProj": 118.58,
     "shotgun": [],
@@ -277,11 +277,11 @@
       "player": "C. Brown",
       "pos": "RB",
       "slot": "RB",
-      "rem": 17.72,
+      "rem": 17.7,
       "state": "pending",
       "pts": 0.0,
-      "proj": 17.72,
-      "live": 17.72,
+      "proj": 17.7,
+      "live": 17.7,
       "game": "Sun 1:00 pm vs Ten"
      },
      {
@@ -476,7 +476,7 @@
     "leftScore": 0.0,
     "leftProj": 136.78,
     "rightScore": 0.0,
-    "rightProj": 113.41,
+    "rightProj": 113.38,
     "shotgun": [],
     "leftActive": [
      {
@@ -584,11 +584,11 @@
       "player": "J. Burrow",
       "pos": "QB",
       "slot": "QB",
-      "rem": 24.36,
+      "rem": 24.34,
       "state": "pending",
       "pts": 0.0,
-      "proj": 24.36,
-      "live": 24.36,
+      "proj": 24.34,
+      "live": 24.34,
       "game": "Sun 1:00 pm vs Ten"
      },
      {
@@ -617,11 +617,11 @@
       "player": "S. Barkley",
       "pos": "RB",
       "slot": "RB",
-      "rem": 12.47,
+      "rem": 12.46,
       "state": "pending",
       "pts": 0.0,
-      "proj": 12.47,
-      "live": 12.47,
+      "proj": 12.46,
+      "live": 12.46,
       "game": "Sun 8:20 pm @ Was"
      },
      {
@@ -691,7 +691,7 @@
     "right": "Tuten Brown",
     "rightRec": "4-3",
     "leftScore": 0.0,
-    "leftProj": 125.38,
+    "leftProj": 125.37,
     "rightScore": 0.0,
     "rightProj": 120.27,
     "shotgun": [],
@@ -711,11 +711,11 @@
       "player": "J. Chase",
       "pos": "WR",
       "slot": "WR",
-      "rem": 18.1,
+      "rem": 18.09,
       "state": "pending",
       "pts": 0.0,
-      "proj": 18.1,
-      "live": 18.1,
+      "proj": 18.09,
+      "live": 18.09,
       "game": "Sun 1:00 pm vs Ten"
      },
      {
@@ -955,7 +955,7 @@
       "pts": 0.0,
       "proj": 17.01,
       "live": 17.01,
-      "game": "Sun 1:00 pm vs Atl"
+      "game": "Sun 1:00 pm vs Atl"
      },
      {
       "player": "J. Warren",
@@ -977,7 +977,7 @@
       "pts": 0.0,
       "proj": 15.51,
       "live": 15.51,
-      "game": "Sun 1:00 pm @ TB"
+      "game": "Sun 1:00 pm @ TB"
      },
      {
       "player": "Bengals",
@@ -1010,7 +1010,7 @@
       "pts": 0.0,
       "proj": 9.68,
       "live": 9.68,
-      "game": "Sun 1:00 pm vs Atl"
+      "game": "Sun 1:00 pm vs Atl"
      }
     ],
     "rightActive": [
@@ -1227,7 +1227,7 @@
       "pts": 0.0,
       "proj": 7.17,
       "live": 7.17,
-      "game": "Sun 1:00 pm @ TB"
+      "game": "Sun 1:00 pm @ TB"
      }
     ],
     "rightActive": [

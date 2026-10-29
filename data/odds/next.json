@@ -1,7 +1,7 @@
 {
  "v": 2,
  "week": 9,
- "ts": "2026-10-29T00:23:49+00:00",
+ "ts": "2026-10-29T01:03:49+00:00",
  "matchups": [
   {
    "id": "1v7",
@@ -10,7 +10,7 @@
    "right": "James Ray Ervin Yonts",
    "rightRec": "4-3",
    "leftScore": 0.0,
-   "leftProj": 107.25,
+   "leftProj": 107.24,
    "rightScore": 0.0,
    "rightProj": 122.43,
    "leftPct": 39,
@@ -70,11 +70,11 @@
      "player": "J. Coker",
      "pos": "WR",
      "slot": "WR",
-     "rem": 12.16,
+     "rem": 12.15,
      "state": "pending",
      "pts": 0.0,
-     "proj": 12.16,
-     "live": 12.16,
+     "proj": 12.15,
+     "live": 12.15,
      "game": "Sun 1:00 pm vs Den"
     },
     {
@@ -671,7 +671,7 @@
    "leftScore": 0.0,
    "leftProj": 126.29,
    "rightScore": 0.0,
-   "rightProj": 113.97,
+   "rightProj": 114.24,
    "leftPct": 60,
    "leftRem": 9,
    "rightRem": 8,
@@ -830,11 +830,11 @@
      "player": "C. Hubbard",
      "pos": "RB",
      "slot": "RB",
-     "rem": 16.65,
+     "rem": 16.92,
      "state": "pending",
      "pts": 0.0,
-     "proj": 16.65,
-     "live": 16.65,
+     "proj": 16.92,
+     "live": 16.92,
      "game": "Sun 1:00 pm vs Den"
     },
     {
@@ -1119,8 +1119,8 @@
    "leftScore": 0.0,
    "leftProj": 110.15,
    "rightScore": 0.0,
-   "rightProj": 113.63,
-   "leftPct": 47,
+   "rightProj": 117.99,
+   "leftPct": 43,
    "leftRem": 9,
    "rightRem": 9,
    "shotgun": [],
@@ -1227,15 +1227,15 @@
    ],
    "rightActive": [
     {
-     "player": "J. Love",
+     "player": "L. Jackson",
      "pos": "QB",
      "slot": "QB",
-     "rem": 19.61,
+     "rem": 23.97,
      "state": "pending",
      "pts": 0.0,
-     "proj": 19.61,
-     "live": 19.61,
-     "game": "Sun 4:25 pm @ NE"
+     "proj": 23.97,
+     "live": 23.97,
+     "game": "Thu 8:15 pm vs Jax"
     },
     {
      "player": "J. Cook III",
