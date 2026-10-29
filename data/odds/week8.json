@@ -30,7 +30,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-10-29T19:29:46+00:00",
+  "ts": "2026-10-29T19:49:57+00:00",
   "week": 8,
   "matchups": [
    {
@@ -49,11 +49,11 @@
       "player": "J. Smith-Njigba",
       "pos": "WR",
       "slot": "W/R/T",
-      "rem": 23.68,
+      "rem": 23.69,
       "state": "pending",
       "pts": 0.0,
-      "proj": 23.68,
-      "live": 23.68,
+      "proj": 23.69,
+      "live": 23.69,
       "game": "Mon 8:15 pm vs Chi"
      },
      {
@@ -126,11 +126,11 @@
       "player": "E. Wilson",
       "pos": "RB",
       "slot": "RB",
-      "rem": 5.93,
+      "rem": 5.92,
       "state": "pending",
       "pts": 0.0,
-      "proj": 5.93,
-      "live": 5.93,
+      "proj": 5.92,
+      "live": 5.92,
       "game": "Mon 8:15 pm vs Chi"
      },
      {
@@ -908,7 +908,7 @@
     "right": "Zen Buddha Boys 🪷💨",
     "rightRec": "4-3",
     "leftScore": 0.0,
-    "leftProj": 146.41,
+    "leftProj": 146.4,
     "rightScore": 0.0,
     "rightProj": 121.53,
     "shotgun": [],
@@ -950,11 +950,11 @@
       "player": "B. Irving",
       "pos": "RB",
       "slot": "RB",
-      "rem": 16.97,
+      "rem": 16.96,
       "state": "pending",
       "pts": 0.0,
-      "proj": 16.97,
-      "live": 16.97,
+      "proj": 16.96,
+      "live": 16.96,
       "game": "Sun 1:00 pm vs Atl"
      },
      {
@@ -1208,7 +1208,7 @@
       "game": "Sun 1:00 pm @ NYJ"
      },
      {
-      "player": "K. City",
+      "player": "Chiefs",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 7.49,
@@ -1320,7 +1320,7 @@
       "game": "Sun 4:25 pm vs KC"
      },
      {
-      "player": "N. York",
+      "player": "Jets",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 7.01,
