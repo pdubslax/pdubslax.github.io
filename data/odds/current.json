@@ -30,7 +30,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-10-29T20:49:47+00:00",
+  "ts": "2026-10-29T21:09:57+00:00",
   "week": 8,
   "matchups": [
    {
@@ -257,7 +257,7 @@
     "right": "Sir this is a FF league",
     "rightRec": "3-4",
     "leftScore": 0.0,
-    "leftProj": 120.88,
+    "leftProj": 120.87,
     "rightScore": 0.0,
     "rightProj": 118.99,
     "shotgun": [],
@@ -266,11 +266,11 @@
       "player": "D. Maye",
       "pos": "QB",
       "slot": "QB",
-      "rem": 24.31,
+      "rem": 24.3,
       "state": "pending",
       "pts": 0.0,
-      "proj": 24.31,
-      "live": 24.31,
+      "proj": 24.3,
+      "live": 24.3,
       "game": "Sun 4:25 pm @ Mia"
      },
      {
@@ -693,7 +693,7 @@
     "leftScore": 0.0,
     "leftProj": 126.45,
     "rightScore": 0.0,
-    "rightProj": 120.86,
+    "rightProj": 120.14,
     "shotgun": [],
     "leftActive": [
      {
@@ -831,17 +831,6 @@
       "game": "Sun 1:00 pm vs Ind"
      },
      {
-      "player": "A.J. Brown",
-      "pos": "WR",
-      "slot": "WR",
-      "rem": 13.38,
-      "state": "pending",
-      "pts": 0.0,
-      "proj": 13.38,
-      "live": 13.38,
-      "game": "Sun 4:25 pm @ Mia"
-     },
-     {
       "player": "DJ Moore",
       "pos": "WR",
       "slot": "WR",
@@ -851,6 +840,17 @@
       "proj": 12.97,
       "live": 12.97,
       "game": "Sun 1:00 pm vs Bal"
+     },
+     {
+      "player": "A.J. Brown",
+      "pos": "WR",
+      "slot": "WR",
+      "rem": 12.66,
+      "state": "pending",
+      "pts": 0.0,
+      "proj": 12.66,
+      "live": 12.66,
+      "game": "Sun 4:25 pm @ Mia"
      },
      {
       "player": "B. Aubrey",
