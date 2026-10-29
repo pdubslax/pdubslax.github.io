@@ -30,7 +30,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-10-29T18:30:00+00:00",
+  "ts": "2026-10-29T18:49:47+00:00",
   "week": 8,
   "matchups": [
    {
@@ -101,7 +101,7 @@
       "game": "Sun 1:00 pm vs Min"
      },
      {
-      "player": "Commanders",
+      "player": "Washington",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 9.32,
@@ -224,7 +224,7 @@
       "game": "Sun 1:00 pm vs Ind"
      },
      {
-      "player": "Raiders",
+      "player": "L. Vegas",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 7.01,
@@ -557,7 +557,7 @@
       "game": "Sun 8:20 pm vs Phi"
      },
      {
-      "player": "Patriots",
+      "player": "N. England",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 10.05,
@@ -647,7 +647,7 @@
       "game": "Sun 4:25 pm vs KC"
      },
      {
-      "player": "Jaguars",
+      "player": "Jacksonville",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 9.4,
@@ -785,7 +785,7 @@
       "game": "Sun 1:00 pm @ NYJ"
      },
      {
-      "player": "Seahawks",
+      "player": "Seattle",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 7.3,
@@ -875,7 +875,7 @@
       "game": "Thu 8:15 pm vs Car"
      },
      {
-      "player": "Steelers",
+      "player": "Pittsburgh",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 9.95,
