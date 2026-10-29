@@ -30,7 +30,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-10-29T00:23:58+00:00",
+  "ts": "2026-10-29T00:43:49+00:00",
   "week": 8,
   "matchups": [
    {
@@ -259,7 +259,7 @@
     "leftScore": 0.0,
     "leftProj": 120.19,
     "rightScore": 0.0,
-    "rightProj": 116.64,
+    "rightProj": 118.58,
     "shotgun": [],
     "leftActive": [
      {
@@ -364,15 +364,15 @@
     ],
     "rightActive": [
      {
-      "player": "J. Love",
+      "player": "L. Jackson",
       "pos": "QB",
       "slot": "QB",
-      "rem": 21.28,
+      "rem": 23.22,
       "state": "pending",
       "pts": 0.0,
-      "proj": 21.28,
-      "live": 21.28,
-      "game": "Thu 8:15 pm vs Car"
+      "proj": 23.22,
+      "live": 23.22,
+      "game": "Sun 1:00 pm @ Buf"
      },
      {
       "player": "J. Cook III",
@@ -463,7 +463,7 @@
       "game": "Sun 4:25 pm vs KC"
      }
     ],
-    "leftPct": 53,
+    "leftPct": 51,
     "leftRem": 9,
     "rightRem": 9
    },
