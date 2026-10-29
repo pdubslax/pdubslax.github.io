@@ -30,7 +30,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-10-29T10:08:27+00:00",
+  "ts": "2026-10-29T10:28:37+00:00",
   "week": 8,
   "matchups": [
    {
@@ -101,7 +101,7 @@
       "game": "Sun 1:00 pm vs Min"
      },
      {
-      "player": "Commanders",
+      "player": "Washington",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 9.39,
@@ -235,7 +235,7 @@
       "game": "Sun 1:00 pm vs Atl"
      },
      {
-      "player": "Bills",
+      "player": "Buffalo",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 6.14,
