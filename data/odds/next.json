@@ -1,7 +1,7 @@
 {
  "v": 2,
  "week": 9,
- "ts": "2026-10-29T11:08:28+00:00",
+ "ts": "2026-10-29T11:48:28+00:00",
  "matchups": [
   {
    "id": "1v7",
@@ -12,7 +12,7 @@
    "leftScore": 0.0,
    "leftProj": 106.92,
    "rightScore": 0.0,
-   "rightProj": 122.41,
+   "rightProj": 122.44,
    "leftPct": 38,
    "leftRem": 9,
    "rightRem": 8,
@@ -193,11 +193,11 @@
      "player": "T. Kelce",
      "pos": "TE",
      "slot": "TE",
-     "rem": 10.86,
+     "rem": 10.89,
      "state": "pending",
      "pts": 0.0,
-     "proj": 10.86,
-     "live": 10.86,
+     "proj": 10.89,
+     "live": 10.89,
      "game": "Sun 1:00 pm vs NYJ"
     },
     {
@@ -233,7 +233,7 @@
    "leftScore": 0.0,
    "leftProj": 114.23,
    "rightScore": 0.0,
-   "rightProj": 99.25,
+   "rightProj": 99.26,
    "leftPct": 64,
    "leftRem": 9,
    "rightRem": 8,
@@ -381,11 +381,11 @@
      "player": "S. Barkley",
      "pos": "RB",
      "slot": "RB",
-     "rem": 14.16,
+     "rem": 14.19,
      "state": "pending",
      "pts": 0.0,
-     "proj": 14.16,
-     "live": 14.16,
+     "proj": 14.19,
+     "live": 14.19,
      "game": "Sun 1:00 pm vs NYG"
     },
     {
@@ -425,11 +425,11 @@
      "player": "D. Goedert",
      "pos": "TE",
      "slot": "TE",
-     "rem": 8.39,
+     "rem": 8.37,
      "state": "pending",
      "pts": 0.0,
-     "proj": 8.39,
-     "live": 8.39,
+     "proj": 8.37,
+     "live": 8.37,
      "game": "Sun 1:00 pm vs NYG"
     },
     {
@@ -452,9 +452,9 @@
    "right": "RosterMogged",
    "rightRec": "3-4",
    "leftScore": 0.0,
-   "leftProj": 134.61,
+   "leftProj": 134.65,
    "rightScore": 0.0,
-   "rightProj": 112.64,
+   "rightProj": 112.67,
    "leftPct": 67,
    "leftRem": 9,
    "rightRem": 9,
@@ -475,11 +475,11 @@
      "player": "P. Mahomes",
      "pos": "QB",
      "slot": "QB",
-     "rem": 21.92,
+     "rem": 21.96,
      "state": "pending",
      "pts": 0.0,
-     "proj": 21.92,
-     "live": 21.92,
+     "proj": 21.96,
+     "live": 21.96,
      "game": "Sun 1:00 pm vs NYJ"
     },
     {
@@ -565,11 +565,11 @@
      "player": "K. Walker III",
      "pos": "RB",
      "slot": "RB",
-     "rem": 23.12,
+     "rem": 23.09,
      "state": "pending",
      "pts": 0.0,
-     "proj": 23.12,
-     "live": 23.12,
+     "proj": 23.09,
+     "live": 23.09,
      "game": "Sun 1:00 pm vs NYJ"
     },
     {
@@ -587,11 +587,11 @@
      "player": "R. Rice",
      "pos": "WR",
      "slot": "WR",
-     "rem": 13.0,
+     "rem": 13.04,
      "state": "pending",
      "pts": 0.0,
-     "proj": 13.0,
-     "live": 13.0,
+     "proj": 13.04,
+     "live": 13.04,
      "game": "Sun 1:00 pm vs NYJ"
     },
     {
@@ -639,6 +639,17 @@
      "game": "Sun 4:25 pm @ SF"
     },
     {
+     "player": "O. Cooper Jr.",
+     "pos": "WR",
+     "slot": "W/R/T",
+     "rem": 8.12,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 8.12,
+     "live": 8.12,
+     "game": "Sun 1:00 pm @ KC"
+    },
+    {
      "player": "K. Pitts Sr.",
      "pos": "TE",
      "slot": "TE",
@@ -648,17 +659,6 @@
      "proj": 8.1,
      "live": 8.1,
      "game": "Sun 9:30 am vs Cin"
-    },
-    {
-     "player": "O. Cooper Jr.",
-     "pos": "WR",
-     "slot": "W/R/T",
-     "rem": 8.1,
-     "state": "pending",
-     "pts": 0.0,
-     "proj": 8.1,
-     "live": 8.1,
-     "game": "Sun 1:00 pm @ KC"
     }
    ]
   },
@@ -892,7 +892,7 @@
    "leftScore": 0.0,
    "leftProj": 107.72,
    "rightScore": 0.0,
-   "rightProj": 86.34,
+   "rightProj": 86.38,
    "leftPct": 70,
    "leftRem": 8,
    "rightRem": 7,
@@ -1057,11 +1057,11 @@
      "player": "G. Wilson",
      "pos": "WR",
      "slot": "WR",
-     "rem": 12.15,
+     "rem": 12.19,
      "state": "pending",
      "pts": 0.0,
-     "proj": 12.15,
-     "live": 12.15,
+     "proj": 12.19,
+     "live": 12.19,
      "game": "Sun 1:00 pm @ KC"
     },
     {
@@ -1117,9 +1117,9 @@
    "right": "Sir this is a FF league",
    "rightRec": "3-4",
    "leftScore": 0.0,
-   "leftProj": 110.21,
+   "leftProj": 110.17,
    "rightScore": 0.0,
-   "rightProj": 117.99,
+   "rightProj": 117.97,
    "leftPct": 43,
    "leftRem": 9,
    "rightRem": 9,
@@ -1173,11 +1173,11 @@
      "player": "D. Smith",
      "pos": "WR",
      "slot": "WR",
-     "rem": 9.46,
+     "rem": 9.42,
      "state": "pending",
      "pts": 0.0,
-     "proj": 9.46,
-     "live": 9.46,
+     "proj": 9.42,
+     "live": 9.42,
      "game": "Sun 1:00 pm vs NYG"
     },
     {
@@ -1263,11 +1263,11 @@
      "player": "B. Hall",
      "pos": "RB",
      "slot": "RB",
-     "rem": 12.54,
+     "rem": 12.52,
      "state": "pending",
      "pts": 0.0,
-     "proj": 12.54,
-     "live": 12.54,
+     "proj": 12.52,
+     "live": 12.52,
      "game": "Sun 1:00 pm @ KC"
     },
     {
