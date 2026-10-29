@@ -30,7 +30,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-10-29T06:47:54+00:00",
+  "ts": "2026-10-29T07:07:45+00:00",
   "week": 8,
   "matchups": [
    {
@@ -40,7 +40,7 @@
     "right": "MELONHEADS (daniel)",
     "rightRec": "4-3",
     "leftScore": 0.0,
-    "leftProj": 112.51,
+    "leftProj": 112.45,
     "rightScore": 0.0,
     "rightProj": 111.82,
     "shotgun": [],
@@ -71,22 +71,22 @@
       "player": "M. Golden",
       "pos": "WR",
       "slot": "WR",
-      "rem": 14.22,
+      "rem": 14.19,
       "state": "pending",
       "pts": 0.0,
-      "proj": 14.22,
-      "live": 14.22,
+      "proj": 14.19,
+      "live": 14.19,
       "game": "Thu 8:15 pm vs Car"
      },
      {
       "player": "J. Coker",
       "pos": "WR",
       "slot": "WR",
-      "rem": 13.7,
+      "rem": 13.67,
       "state": "pending",
       "pts": 0.0,
-      "proj": 13.7,
-      "live": 13.7,
+      "proj": 13.67,
+      "live": 13.67,
       "game": "Thu 8:15 pm @ GB"
      },
      {
@@ -257,7 +257,7 @@
     "right": "Sir this is a FF league",
     "rightRec": "3-4",
     "leftScore": 0.0,
-    "leftProj": 120.74,
+    "leftProj": 120.71,
     "rightScore": 0.0,
     "rightProj": 118.78,
     "shotgun": [],
@@ -299,11 +299,11 @@
       "player": "C. Watson",
       "pos": "WR",
       "slot": "WR",
-      "rem": 15.03,
+      "rem": 15.0,
       "state": "pending",
       "pts": 0.0,
-      "proj": 15.03,
-      "live": 15.03,
+      "proj": 15.0,
+      "live": 15.0,
       "game": "Thu 8:15 pm vs Car"
      },
      {
@@ -474,9 +474,9 @@
     "right": "Alex Michael Pagels",
     "rightRec": "2-5",
     "leftScore": 0.0,
-    "leftProj": 137.21,
+    "leftProj": 137.18,
     "rightScore": 0.0,
-    "rightProj": 116.58,
+    "rightProj": 116.56,
     "shotgun": [],
     "leftActive": [
      {
@@ -527,11 +527,11 @@
       "player": "T. McMillan",
       "pos": "WR",
       "slot": "WR",
-      "rem": 14.47,
+      "rem": 14.44,
       "state": "pending",
       "pts": 0.0,
-      "proj": 14.47,
-      "live": 14.47,
+      "proj": 14.44,
+      "live": 14.44,
       "game": "Thu 8:15 pm @ GB"
      },
      {
@@ -595,11 +595,11 @@
       "player": "J. Jacobs",
       "pos": "RB",
       "slot": "RB",
-      "rem": 16.78,
+      "rem": 16.76,
       "state": "pending",
       "pts": 0.0,
-      "proj": 16.78,
-      "live": 16.78,
+      "proj": 16.76,
+      "live": 16.76,
       "game": "Thu 8:15 pm vs Car"
      },
      {
@@ -693,7 +693,7 @@
     "leftScore": 0.0,
     "leftProj": 125.72,
     "rightScore": 0.0,
-    "rightProj": 120.76,
+    "rightProj": 120.74,
     "shotgun": [],
     "leftActive": [
      {
@@ -785,7 +785,7 @@
       "game": "Sun 1:00 pm @ NYJ"
      },
      {
-      "player": "Seattle",
+      "player": "Seahawks",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 7.29,
@@ -867,15 +867,15 @@
       "player": "T. Kraft",
       "pos": "TE",
       "slot": "TE",
-      "rem": 10.72,
+      "rem": 10.7,
       "state": "pending",
       "pts": 0.0,
-      "proj": 10.72,
-      "live": 10.72,
+      "proj": 10.7,
+      "live": 10.7,
       "game": "Thu 8:15 pm vs Car"
      },
      {
-      "player": "Pittsburgh",
+      "player": "Steelers",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 9.96,
@@ -910,7 +910,7 @@
     "leftScore": 0.0,
     "leftProj": 146.44,
     "rightScore": 0.0,
-    "rightProj": 121.57,
+    "rightProj": 121.54,
     "shotgun": [],
     "leftActive": [
      {
@@ -980,7 +980,7 @@
       "game": "Sun 1:00 pm @ TB"
      },
      {
-      "player": "Cincinnati",
+      "player": "Bengals",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 10.84,
@@ -1040,11 +1040,11 @@
       "player": "C. Hubbard",
       "pos": "RB",
       "slot": "RB",
-      "rem": 17.07,
+      "rem": 17.04,
       "state": "pending",
       "pts": 0.0,
-      "proj": 17.07,
-      "live": 17.07,
+      "proj": 17.04,
+      "live": 17.04,
       "game": "Thu 8:15 pm @ GB"
      },
      {
@@ -1103,7 +1103,7 @@
       "game": "Sun 1:00 pm @ Det"
      },
      {
-      "player": "Indianapolis",
+      "player": "Colts",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 4.12,
