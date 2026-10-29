@@ -30,7 +30,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-10-29T05:27:54+00:00",
+  "ts": "2026-10-29T05:47:47+00:00",
   "week": 8,
   "matchups": [
    {
@@ -42,7 +42,7 @@
     "leftScore": 0.0,
     "leftProj": 112.51,
     "rightScore": 0.0,
-    "rightProj": 111.87,
+    "rightProj": 111.82,
     "shotgun": [],
     "leftActive": [
      {
@@ -194,11 +194,11 @@
       "player": "D. Kincaid",
       "pos": "TE",
       "slot": "TE",
-      "rem": 10.3,
+      "rem": 10.25,
       "state": "pending",
       "pts": 0.0,
-      "proj": 10.3,
-      "live": 10.3,
+      "proj": 10.25,
+      "live": 10.25,
       "game": "Sun 1:00 pm vs Bal"
      },
      {
@@ -257,9 +257,9 @@
     "right": "Sir this is a FF league",
     "rightRec": "3-4",
     "leftScore": 0.0,
-    "leftProj": 120.67,
+    "leftProj": 120.74,
     "rightScore": 0.0,
-    "rightProj": 118.76,
+    "rightProj": 118.78,
     "shotgun": [],
     "leftActive": [
      {
@@ -288,11 +288,11 @@
       "player": "D. Henry",
       "pos": "RB",
       "slot": "RB",
-      "rem": 17.22,
+      "rem": 17.29,
       "state": "pending",
       "pts": 0.0,
-      "proj": 17.22,
-      "live": 17.22,
+      "proj": 17.29,
+      "live": 17.29,
       "game": "Sun 1:00 pm @ Buf"
      },
      {
@@ -367,22 +367,22 @@
       "player": "L. Jackson",
       "pos": "QB",
       "slot": "QB",
-      "rem": 23.2,
+      "rem": 23.15,
       "state": "pending",
       "pts": 0.0,
-      "proj": 23.2,
-      "live": 23.2,
+      "proj": 23.15,
+      "live": 23.15,
       "game": "Sun 1:00 pm @ Buf"
      },
      {
       "player": "J. Cook III",
       "pos": "RB",
       "slot": "RB",
-      "rem": 17.55,
+      "rem": 17.62,
       "state": "pending",
       "pts": 0.0,
-      "proj": 17.55,
-      "live": 17.55,
+      "proj": 17.62,
+      "live": 17.62,
       "game": "Sun 1:00 pm vs Bal"
      },
      {
@@ -693,7 +693,7 @@
     "leftScore": 0.0,
     "leftProj": 125.72,
     "rightScore": 0.0,
-    "rightProj": 120.83,
+    "rightProj": 120.76,
     "shotgun": [],
     "leftActive": [
      {
@@ -845,11 +845,11 @@
       "player": "DJ Moore",
       "pos": "WR",
       "slot": "WR",
-      "rem": 12.94,
+      "rem": 12.87,
       "state": "pending",
       "pts": 0.0,
-      "proj": 12.94,
-      "live": 12.94,
+      "proj": 12.87,
+      "live": 12.87,
       "game": "Sun 1:00 pm vs Bal"
      },
      {
@@ -910,7 +910,7 @@
     "leftScore": 0.0,
     "leftProj": 146.44,
     "rightScore": 0.0,
-    "rightProj": 121.66,
+    "rightProj": 121.57,
     "shotgun": [],
     "leftActive": [
      {
@@ -1029,11 +1029,11 @@
       "player": "Z. Flowers",
       "pos": "WR",
       "slot": "WR",
-      "rem": 17.47,
+      "rem": 17.38,
       "state": "pending",
       "pts": 0.0,
-      "proj": 17.47,
-      "live": 17.47,
+      "proj": 17.38,
+      "live": 17.38,
       "game": "Sun 1:00 pm @ Buf"
      },
      {
@@ -1127,7 +1127,7 @@
     "leftScore": 0.0,
     "leftProj": 106.18,
     "rightScore": 0.0,
-    "rightProj": 116.07,
+    "rightProj": 116.02,
     "shotgun": [],
     "leftActive": [
      {
@@ -1235,11 +1235,11 @@
       "player": "J. Allen",
       "pos": "QB",
       "slot": "QB",
-      "rem": 28.01,
+      "rem": 27.96,
       "state": "pending",
       "pts": 0.0,
-      "proj": 28.01,
-      "live": 28.01,
+      "proj": 27.96,
+      "live": 27.96,
       "game": "Sun 1:00 pm vs Bal"
      },
      {
