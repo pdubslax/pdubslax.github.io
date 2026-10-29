@@ -30,7 +30,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-10-29T18:49:47+00:00",
+  "ts": "2026-10-29T19:09:56+00:00",
   "week": 8,
   "matchups": [
    {
@@ -40,7 +40,7 @@
     "right": "MELONHEADS (daniel)",
     "rightRec": "4-3",
     "leftScore": 0.0,
-    "leftProj": 112.5,
+    "leftProj": 111.92,
     "rightScore": 0.0,
     "rightProj": 112.78,
     "shotgun": [],
@@ -101,7 +101,7 @@
       "game": "Sun 1:00 pm vs Min"
      },
      {
-      "player": "Washington",
+      "player": "Commanders",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 9.32,
@@ -126,11 +126,11 @@
       "player": "E. Wilson",
       "pos": "RB",
       "slot": "RB",
-      "rem": 6.51,
+      "rem": 5.93,
       "state": "pending",
       "pts": 0.0,
-      "proj": 6.51,
-      "live": 6.51,
+      "proj": 5.93,
+      "live": 5.93,
       "game": "Mon 8:15 pm vs Chi"
      },
      {
@@ -224,7 +224,7 @@
       "game": "Sun 1:00 pm vs Ind"
      },
      {
-      "player": "L. Vegas",
+      "player": "Raiders",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 7.01,
@@ -246,7 +246,7 @@
       "game": "Sun 1:00 pm vs Atl"
      }
     ],
-    "leftPct": 50,
+    "leftPct": 49,
     "leftRem": 9,
     "rightRem": 9
    },
@@ -351,7 +351,7 @@
       "game": "Sun 8:20 pm vs Phi"
      },
      {
-      "player": "Cowboys",
+      "player": "Dallas",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 5.4,
@@ -452,7 +452,7 @@
       "game": "Sun 4:25 pm @ Mia"
      },
      {
-      "player": "Broncos",
+      "player": "Denver",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 6.86,
@@ -691,7 +691,7 @@
     "right": "Tuten Brown",
     "rightRec": "4-3",
     "leftScore": 0.0,
-    "leftProj": 125.96,
+    "leftProj": 125.97,
     "rightScore": 0.0,
     "rightProj": 120.82,
     "shotgun": [],
@@ -700,11 +700,11 @@
       "player": "S. Darnold",
       "pos": "QB",
       "slot": "QB",
-      "rem": 19.77,
+      "rem": 19.78,
       "state": "pending",
       "pts": 0.0,
-      "proj": 19.77,
-      "live": 19.77,
+      "proj": 19.78,
+      "live": 19.78,
       "game": "Mon 8:15 pm vs Chi"
      },
      {
@@ -785,7 +785,7 @@
       "game": "Sun 1:00 pm @ NYJ"
      },
      {
-      "player": "Seattle",
+      "player": "Seahawks",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 7.3,
@@ -875,7 +875,7 @@
       "game": "Thu 8:15 pm vs Car"
      },
      {
-      "player": "Pittsburgh",
+      "player": "Steelers",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 9.95,
