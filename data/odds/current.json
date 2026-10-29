@@ -30,7 +30,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-10-29T03:47:45+00:00",
+  "ts": "2026-10-29T04:07:57+00:00",
   "week": 8,
   "matchups": [
    {
@@ -476,7 +476,7 @@
     "leftScore": 0.0,
     "leftProj": 137.2,
     "rightScore": 0.0,
-    "rightProj": 114.48,
+    "rightProj": 116.56,
     "shotgun": [],
     "leftActive": [
      {
@@ -636,6 +636,17 @@
       "game": "Sun 1:00 pm @ Pit"
      },
      {
+      "player": "J. Coleman",
+      "pos": "RB",
+      "slot": "W/R/T",
+      "rem": 9.61,
+      "state": "pending",
+      "pts": 0.0,
+      "proj": 9.61,
+      "live": 9.61,
+      "game": "Sun 4:25 pm vs KC"
+     },
+     {
       "player": "Jaguars",
       "pos": "DEF",
       "slot": "DEF",
@@ -667,20 +678,9 @@
       "proj": 9.16,
       "live": 9.16,
       "game": "Sun 8:20 pm @ Was"
-     },
-     {
-      "player": "RJ Harvey",
-      "pos": "RB",
-      "slot": "W/R/T",
-      "rem": 7.53,
-      "state": "pending",
-      "pts": 0.0,
-      "proj": 7.53,
-      "live": 7.53,
-      "game": "Sun 4:25 pm vs KC"
      }
     ],
-    "leftPct": 68,
+    "leftPct": 66,
     "leftRem": 9,
     "rightRem": 9
    },
@@ -785,7 +785,7 @@
       "game": "Sun 1:00 pm @ NYJ"
      },
      {
-      "player": "Seahawks",
+      "player": "Seattle",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 7.29,
@@ -875,7 +875,7 @@
       "game": "Thu 8:15 pm vs Car"
      },
      {
-      "player": "Steelers",
+      "player": "Pittsburgh",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 9.94,
