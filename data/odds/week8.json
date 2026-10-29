@@ -30,7 +30,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-10-29T18:09:15+00:00",
+  "ts": "2026-10-29T18:29:07+00:00",
   "week": 8,
   "matchups": [
    {
@@ -40,9 +40,9 @@
     "right": "MELONHEADS (daniel)",
     "rightRec": "4-3",
     "leftScore": 0.0,
-    "leftProj": 112.54,
+    "leftProj": 112.5,
     "rightScore": 0.0,
-    "rightProj": 111.88,
+    "rightProj": 112.78,
     "shotgun": [],
     "leftActive": [
      {
@@ -71,22 +71,22 @@
       "player": "M. Golden",
       "pos": "WR",
       "slot": "WR",
-      "rem": 14.36,
+      "rem": 14.22,
       "state": "pending",
       "pts": 0.0,
-      "proj": 14.36,
-      "live": 14.36,
+      "proj": 14.22,
+      "live": 14.22,
       "game": "Thu 8:15 pm vs Car"
      },
      {
       "player": "J. Coker",
       "pos": "WR",
       "slot": "WR",
-      "rem": 13.72,
+      "rem": 13.82,
       "state": "pending",
       "pts": 0.0,
-      "proj": 13.72,
-      "live": 13.72,
+      "proj": 13.82,
+      "live": 13.82,
       "game": "Thu 8:15 pm @ GB"
      },
      {
@@ -224,6 +224,17 @@
       "game": "Sun 1:00 pm vs Ind"
      },
      {
+      "player": "Raiders",
+      "pos": "DEF",
+      "slot": "DEF",
+      "rem": 7.01,
+      "state": "pending",
+      "pts": 0.0,
+      "proj": 7.01,
+      "live": 7.01,
+      "game": "Sun 1:00 pm @ NYJ"
+     },
+     {
       "player": "K. Gainwell",
       "pos": "RB",
       "slot": "RB",
@@ -233,20 +244,9 @@
       "proj": 6.6,
       "live": 6.6,
       "game": "Sun 1:00 pm vs Atl"
-     },
-     {
-      "player": "Bills",
-      "pos": "DEF",
-      "slot": "DEF",
-      "rem": 6.11,
-      "state": "pending",
-      "pts": 0.0,
-      "proj": 6.11,
-      "live": 6.11,
-      "game": "Sun 1:00 pm vs Bal"
      }
     ],
-    "leftPct": 51,
+    "leftPct": 50,
     "leftRem": 9,
     "rightRem": 9
    },
@@ -257,7 +257,7 @@
     "right": "Sir this is a FF league",
     "rightRec": "3-4",
     "leftScore": 0.0,
-    "leftProj": 120.7,
+    "leftProj": 120.77,
     "rightScore": 0.0,
     "rightProj": 119.01,
     "shotgun": [],
@@ -299,11 +299,11 @@
       "player": "C. Watson",
       "pos": "WR",
       "slot": "WR",
-      "rem": 15.11,
+      "rem": 15.18,
       "state": "pending",
       "pts": 0.0,
-      "proj": 15.11,
-      "live": 15.11,
+      "proj": 15.18,
+      "live": 15.18,
       "game": "Thu 8:15 pm vs Car"
      },
      {
@@ -474,9 +474,9 @@
     "right": "Alex Michael Pagels",
     "rightRec": "2-5",
     "leftScore": 0.0,
-    "leftProj": 137.44,
+    "leftProj": 137.53,
     "rightScore": 0.0,
-    "rightProj": 116.9,
+    "rightProj": 116.98,
     "shotgun": [],
     "leftActive": [
      {
@@ -527,11 +527,11 @@
       "player": "T. McMillan",
       "pos": "WR",
       "slot": "WR",
-      "rem": 14.49,
+      "rem": 14.58,
       "state": "pending",
       "pts": 0.0,
-      "proj": 14.49,
-      "live": 14.49,
+      "proj": 14.58,
+      "live": 14.58,
       "game": "Thu 8:15 pm @ GB"
      },
      {
@@ -557,7 +557,7 @@
       "game": "Sun 8:20 pm vs Phi"
      },
      {
-      "player": "Patriots",
+      "player": "N. England",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 10.05,
@@ -595,11 +595,11 @@
       "player": "J. Jacobs",
       "pos": "RB",
       "slot": "RB",
-      "rem": 16.57,
+      "rem": 16.65,
       "state": "pending",
       "pts": 0.0,
-      "proj": 16.57,
-      "live": 16.57,
+      "proj": 16.65,
+      "live": 16.65,
       "game": "Thu 8:15 pm vs Car"
      },
      {
@@ -647,7 +647,7 @@
       "game": "Sun 4:25 pm vs KC"
      },
      {
-      "player": "Jaguars",
+      "player": "Jacksonville",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 9.4,
@@ -910,7 +910,7 @@
     "leftScore": 0.0,
     "leftProj": 146.41,
     "rightScore": 0.0,
-    "rightProj": 121.46,
+    "rightProj": 121.53,
     "shotgun": [],
     "leftActive": [
      {
@@ -1037,6 +1037,17 @@
       "game": "Sun 1:00 pm @ Buf"
      },
      {
+      "player": "C. Hubbard",
+      "pos": "RB",
+      "slot": "RB",
+      "rem": 17.04,
+      "state": "pending",
+      "pts": 0.0,
+      "proj": 17.04,
+      "live": 17.04,
+      "game": "Thu 8:15 pm @ GB"
+     },
+     {
       "player": "A. St. Brown",
       "pos": "WR",
       "slot": "WR",
@@ -1046,17 +1057,6 @@
       "proj": 17.04,
       "live": 17.04,
       "game": "Sun 1:00 pm vs Min"
-     },
-     {
-      "player": "C. Hubbard",
-      "pos": "RB",
-      "slot": "RB",
-      "rem": 16.97,
-      "state": "pending",
-      "pts": 0.0,
-      "proj": 16.97,
-      "live": 16.97,
-      "game": "Thu 8:15 pm @ GB"
      },
      {
       "player": "T. Pollard",
