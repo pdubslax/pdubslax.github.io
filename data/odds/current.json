@@ -233348,7 +233348,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-10-30T19:28:39+00:00",
+  "ts": "2026-10-30T19:48:28+00:00",
   "week": 8,
   "matchups": [
    {
@@ -233553,7 +233553,7 @@
     "right": "Sir this is a FF league",
     "rightRec": "3-4",
     "leftScore": 14.8,
-    "leftProj": 119.7,
+    "leftProj": 119.77,
     "rightScore": 0.0,
     "rightProj": 119.75,
     "shotgun": [],
@@ -233573,11 +233573,11 @@
       "player": "C. Brown",
       "pos": "RB",
       "slot": "RB",
-      "rem": 18.4,
+      "rem": 18.47,
       "state": "pending",
       "pts": 0.0,
-      "proj": 18.4,
-      "live": 18.4,
+      "proj": 18.47,
+      "live": 18.47,
       "game": "Sun 1:00 pm vs Ten"
      },
      {
@@ -233759,9 +233759,9 @@
     "right": "Alex Michael Pagels",
     "rightRec": "2-5",
     "leftScore": 10.8,
-    "leftProj": 136.75,
+    "leftProj": 136.63,
     "rightScore": 21.7,
-    "rightProj": 123.83,
+    "rightProj": 123.68,
     "shotgun": [],
     "leftActive": [
      {
@@ -233834,11 +233834,11 @@
       "player": "Patriots",
       "pos": "DEF",
       "slot": "DEF",
-      "rem": 10.2,
+      "rem": 10.08,
       "state": "pending",
       "pts": 0.0,
-      "proj": 10.2,
-      "live": 10.2,
+      "proj": 10.08,
+      "live": 10.08,
       "game": "Sun 4:25 pm @ Mia"
      },
      {
@@ -233858,22 +233858,22 @@
       "player": "J. Burrow",
       "pos": "QB",
       "slot": "QB",
-      "rem": 24.69,
+      "rem": 24.64,
       "state": "pending",
       "pts": 0.0,
-      "proj": 24.69,
-      "live": 24.69,
+      "proj": 24.64,
+      "live": 24.64,
       "game": "Sun 1:00 pm vs Ten"
      },
      {
       "player": "T. Higgins",
       "pos": "WR",
       "slot": "WR",
-      "rem": 16.1,
+      "rem": 16.04,
       "state": "pending",
       "pts": 0.0,
-      "proj": 16.1,
-      "live": 16.1,
+      "proj": 16.04,
+      "live": 16.04,
       "game": "Sun 1:00 pm vs Ten"
      },
      {
@@ -233891,11 +233891,11 @@
       "player": "KC Concepcion Jr.",
       "pos": "WR",
       "slot": "WR",
-      "rem": 9.79,
+      "rem": 9.75,
       "state": "pending",
       "pts": 0.0,
-      "proj": 9.79,
-      "live": 9.79,
+      "proj": 9.75,
+      "live": 9.75,
       "game": "Sun 1:00 pm @ Pit"
      },
      {
@@ -233954,7 +233954,7 @@
     "right": "Tuten Brown",
     "rightRec": "4-3",
     "leftScore": 0.0,
-    "leftProj": 125.66,
+    "leftProj": 125.6,
     "rightScore": 15.8,
     "rightProj": 123.77,
     "shotgun": [],
@@ -233974,11 +233974,11 @@
       "player": "J. Chase",
       "pos": "WR",
       "slot": "WR",
-      "rem": 18.75,
+      "rem": 18.69,
       "state": "pending",
       "pts": 0.0,
-      "proj": 18.75,
-      "live": 18.75,
+      "proj": 18.69,
+      "live": 18.69,
       "game": "Sun 1:00 pm vs Ten"
      },
      {
@@ -234160,9 +234160,9 @@
     "right": "Zen Buddha Boys 🪷💨",
     "rightRec": "4-3",
     "leftScore": 0.0,
-    "leftProj": 147.24,
+    "leftProj": 146.87,
     "rightScore": 23.9,
-    "rightProj": 131.03,
+    "rightProj": 131.1,
     "shotgun": [],
     "leftActive": [
      {
@@ -234213,11 +234213,11 @@
       "player": "J. Warren",
       "pos": "RB",
       "slot": "RB",
-      "rem": 16.03,
+      "rem": 16.07,
       "state": "pending",
       "pts": 0.0,
-      "proj": 16.03,
-      "live": 16.03,
+      "proj": 16.07,
+      "live": 16.07,
       "game": "Sun 1:00 pm vs Cle"
      },
      {
@@ -234235,11 +234235,11 @@
       "player": "Bengals",
       "pos": "DEF",
       "slot": "DEF",
-      "rem": 11.14,
+      "rem": 10.73,
       "state": "pending",
       "pts": 0.0,
-      "proj": 11.14,
-      "live": 11.14,
+      "proj": 10.73,
+      "live": 10.73,
       "game": "Sun 1:00 pm vs Ten"
      },
      {
@@ -234303,11 +234303,11 @@
       "player": "T. Pollard",
       "pos": "RB",
       "slot": "W/R/T",
-      "rem": 15.81,
+      "rem": 15.88,
       "state": "pending",
       "pts": 0.0,
-      "proj": 15.81,
-      "live": 15.81,
+      "proj": 15.88,
+      "live": 15.88,
       "game": "Sun 1:00 pm @ Cin"
      },
      {
@@ -234355,7 +234355,7 @@
       "game": "Sun 1:00 pm @ Jax"
      }
     ],
-    "leftPct": 62,
+    "leftPct": 61,
     "leftRem": 9,
     "rightRem": 8
    },
@@ -234368,7 +234368,7 @@
     "leftScore": 0.0,
     "leftProj": 106.51,
     "rightScore": 0.0,
-    "rightProj": 104.67,
+    "rightProj": 104.63,
     "shotgun": [],
     "leftActive": [
      {
@@ -234520,11 +234520,11 @@
       "player": "DK Metcalf",
       "pos": "WR",
       "slot": "WR",
-      "rem": 10.93,
+      "rem": 10.89,
       "state": "pending",
       "pts": 0.0,
-      "proj": 10.93,
-      "live": 10.93,
+      "proj": 10.89,
+      "live": 10.89,
       "game": "Sun 1:00 pm vs Cle"
      },
      {
