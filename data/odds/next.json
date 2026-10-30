@@ -1,7 +1,7 @@
 {
  "v": 2,
  "week": 9,
- "ts": "2026-10-30T03:19:21+00:00",
+ "ts": "2026-10-30T03:46:22+00:00",
  "matchups": [
   {
    "id": "1v7",
@@ -231,7 +231,7 @@
    "right": "Alex Michael Pagels",
    "rightRec": "2-5",
    "leftScore": 0.0,
-   "leftProj": 114.18,
+   "leftProj": 114.14,
    "rightScore": 0.0,
    "rightProj": 99.3,
    "leftPct": 64,
@@ -269,11 +269,11 @@
      "player": "D. Henry",
      "pos": "RB",
      "slot": "RB",
-     "rem": 16.92,
+     "rem": 16.88,
      "state": "pending",
      "pts": 0.0,
-     "proj": 16.92,
-     "live": 16.92,
+     "proj": 16.88,
+     "live": 16.88,
      "game": "Thu 8:15 pm vs Jax"
     },
     {
@@ -669,9 +669,9 @@
    "right": "Zen Buddha Boys 🪷💨",
    "rightRec": "4-3",
    "leftScore": 0.0,
-   "leftProj": 126.21,
+   "leftProj": 126.25,
    "rightScore": 0.0,
-   "rightProj": 114.22,
+   "rightProj": 114.28,
    "leftPct": 60,
    "leftRem": 9,
    "rightRem": 8,
@@ -740,11 +740,11 @@
      "player": "P. Washington",
      "pos": "WR",
      "slot": "WR",
-     "rem": 14.85,
+     "rem": 14.89,
      "state": "pending",
      "pts": 0.0,
-     "proj": 14.85,
-     "live": 14.85,
+     "proj": 14.89,
+     "live": 14.89,
      "game": "Thu 8:15 pm @ Bal"
     },
     {
@@ -805,6 +805,17 @@
      "game": "Sun 8:20 pm vs TB"
     },
     {
+     "player": "Z. Flowers",
+     "pos": "WR",
+     "slot": "WR",
+     "rem": 17.56,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 17.56,
+     "live": 17.56,
+     "game": "Thu 8:15 pm vs Jax"
+    },
+    {
      "player": "A. St. Brown",
      "pos": "WR",
      "slot": "WR",
@@ -814,17 +825,6 @@
      "proj": 17.56,
      "live": 17.56,
      "game": "Sun 1:00 pm @ Mia"
-    },
-    {
-     "player": "Z. Flowers",
-     "pos": "WR",
-     "slot": "WR",
-     "rem": 17.5,
-     "state": "pending",
-     "pts": 0.0,
-     "proj": 17.5,
-     "live": 17.5,
-     "game": "Thu 8:15 pm vs Jax"
     },
     {
      "player": "C. Hubbard",
@@ -890,7 +890,7 @@
    "right": "Kiwis are better than mid",
    "rightRec": "4-3",
    "leftScore": 0.0,
-   "leftProj": 107.69,
+   "leftProj": 107.7,
    "rightScore": 0.0,
    "rightProj": 86.4,
    "leftPct": 70,
@@ -926,7 +926,7 @@
      "reason": "pts"
     },
     {
-     "player": "Pittsburgh",
+     "player": "Steelers",
      "pos": "DEF",
      "team": "Pit",
      "pts": 0.0,
@@ -945,11 +945,11 @@
      "player": "T. Lawrence",
      "pos": "QB",
      "slot": "QB",
-     "rem": 21.55,
+     "rem": 21.59,
      "state": "pending",
      "pts": 0.0,
-     "proj": 21.55,
-     "live": 21.55,
+     "proj": 21.59,
+     "live": 21.59,
      "game": "Thu 8:15 pm @ Bal"
     },
     {
@@ -978,11 +978,11 @@
      "player": "B. Tuten",
      "pos": "RB",
      "slot": "RB",
-     "rem": 12.97,
+     "rem": 12.94,
      "state": "pending",
      "pts": 0.0,
-     "proj": 12.97,
-     "live": 12.97,
+     "proj": 12.94,
+     "live": 12.94,
      "game": "Thu 8:15 pm @ Bal"
     },
     {
@@ -1098,7 +1098,7 @@
      "game": "Sun 1:00 pm @ Car"
     },
     {
-     "player": "N. York",
+     "player": "Jets",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 4.59,
@@ -1117,9 +1117,9 @@
    "right": "Sir this is a FF league",
    "rightRec": "3-4",
    "leftScore": 0.0,
-   "leftProj": 107.29,
+   "leftProj": 107.32,
    "rightScore": 0.0,
-   "rightProj": 118.0,
+   "rightProj": 118.03,
    "leftPct": 41,
    "leftRem": 9,
    "rightRem": 9,
@@ -1195,11 +1195,11 @@
      "player": "B. Strange",
      "pos": "TE",
      "slot": "W/R/T",
-     "rem": 9.2,
+     "rem": 9.23,
      "state": "pending",
      "pts": 0.0,
-     "proj": 9.2,
-     "live": 9.2,
+     "proj": 9.23,
+     "live": 9.23,
      "game": "Thu 8:15 pm @ Bal"
     },
     {
@@ -1230,11 +1230,11 @@
      "player": "L. Jackson",
      "pos": "QB",
      "slot": "QB",
-     "rem": 23.98,
+     "rem": 24.01,
      "state": "pending",
      "pts": 0.0,
-     "proj": 23.98,
-     "live": 23.98,
+     "proj": 24.01,
+     "live": 24.01,
      "game": "Thu 8:15 pm vs Jax"
     },
     {
