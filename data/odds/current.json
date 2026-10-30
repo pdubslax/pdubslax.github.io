@@ -233348,7 +233348,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-10-30T20:29:26+00:00",
+  "ts": "2026-10-30T20:49:15+00:00",
   "week": 8,
   "matchups": [
    {
@@ -233360,7 +233360,7 @@
     "leftScore": 27.5,
     "leftProj": 111.24,
     "rightScore": 0.0,
-    "rightProj": 103.23,
+    "rightProj": 103.14,
     "shotgun": [],
     "leftActive": [
      {
@@ -233457,11 +233457,11 @@
       "player": "B. Robinson",
       "pos": "RB",
       "slot": "RB",
-      "rem": 22.52,
+      "rem": 22.43,
       "state": "pending",
       "pts": 0.0,
-      "proj": 22.52,
-      "live": 22.52,
+      "proj": 22.43,
+      "live": 22.43,
       "game": "Sun 1:00 pm @ TB"
      },
      {
@@ -233531,7 +233531,7 @@
       "game": "Sun 1:00 pm @ NYJ"
      }
     ],
-    "leftPct": 57,
+    "leftPct": 58,
     "leftRem": 7,
     "rightRem": 9
    },
@@ -234149,7 +234149,7 @@
     "right": "Zen Buddha Boys 🪷💨",
     "rightRec": "4-3",
     "leftScore": 0.0,
-    "leftProj": 146.61,
+    "leftProj": 146.57,
     "rightScore": 23.9,
     "rightProj": 130.65,
     "shotgun": [],
@@ -234213,11 +234213,11 @@
       "player": "D. London",
       "pos": "WR",
       "slot": "WR",
-      "rem": 15.57,
+      "rem": 15.53,
       "state": "pending",
       "pts": 0.0,
-      "proj": 15.57,
-      "live": 15.57,
+      "proj": 15.53,
+      "live": 15.53,
       "game": "Sun 1:00 pm @ TB"
      },
      {
@@ -234355,7 +234355,7 @@
     "right": "Kiwis are better than mid",
     "rightRec": "4-3",
     "leftScore": 0.0,
-    "leftProj": 106.36,
+    "leftProj": 106.32,
     "rightScore": 0.0,
     "rightProj": 104.55,
     "shotgun": [],
@@ -234452,11 +234452,11 @@
       "player": "K. Pitts Sr.",
       "pos": "TE",
       "slot": "TE",
-      "rem": 7.36,
+      "rem": 7.32,
       "state": "pending",
       "pts": 0.0,
-      "proj": 7.36,
-      "live": 7.36,
+      "proj": 7.32,
+      "live": 7.32,
       "game": "Sun 1:00 pm @ TB"
      }
     ],
