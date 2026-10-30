@@ -233348,7 +233348,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-10-30T15:08:28+00:00",
+  "ts": "2026-10-30T15:28:38+00:00",
   "week": 8,
   "matchups": [
    {
@@ -233954,7 +233954,7 @@
     "right": "Tuten Brown",
     "rightRec": "4-3",
     "leftScore": 0.0,
-    "leftProj": 126.3,
+    "leftProj": 126.1,
     "rightScore": 15.8,
     "rightProj": 124.83,
     "shotgun": [],
@@ -233996,11 +233996,11 @@
       "player": "A. Jeanty",
       "pos": "RB",
       "slot": "RB",
-      "rem": 16.65,
+      "rem": 16.45,
       "state": "pending",
       "pts": 0.0,
-      "proj": 16.65,
-      "live": 16.65,
+      "proj": 16.45,
+      "live": 16.45,
       "game": "Sun 1:00 pm @ NYJ"
      },
      {
@@ -234232,7 +234232,7 @@
       "game": "Sun 1:00 pm @ TB"
      },
      {
-      "player": "Bengals",
+      "player": "Cincinnati",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 10.98,
@@ -234344,7 +234344,7 @@
       "game": "Sun 1:00 pm @ Det"
      },
      {
-      "player": "Colts",
+      "player": "Indianapolis",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 4.3,
