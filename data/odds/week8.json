@@ -233348,7 +233348,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-10-30T16:08:38+00:00",
+  "ts": "2026-10-30T16:28:27+00:00",
   "week": 8,
   "matchups": [
    {
@@ -233553,7 +233553,7 @@
     "right": "Sir this is a FF league",
     "rightRec": "3-4",
     "leftScore": 14.8,
-    "leftProj": 120.66,
+    "leftProj": 120.67,
     "rightScore": 0.0,
     "rightProj": 119.06,
     "shotgun": [],
@@ -233573,11 +233573,11 @@
       "player": "C. Brown",
       "pos": "RB",
       "slot": "RB",
-      "rem": 18.11,
+      "rem": 18.12,
       "state": "pending",
       "pts": 0.0,
-      "proj": 18.11,
-      "live": 18.11,
+      "proj": 18.12,
+      "live": 18.12,
       "game": "Sun 1:00 pm vs Ten"
      },
      {
@@ -233761,7 +233761,7 @@
     "leftScore": 10.8,
     "leftProj": 136.13,
     "rightScore": 21.7,
-    "rightProj": 123.35,
+    "rightProj": 123.37,
     "shotgun": [],
     "leftActive": [
      {
@@ -233858,22 +233858,22 @@
       "player": "J. Burrow",
       "pos": "QB",
       "slot": "QB",
-      "rem": 24.75,
+      "rem": 24.76,
       "state": "pending",
       "pts": 0.0,
-      "proj": 24.75,
-      "live": 24.75,
+      "proj": 24.76,
+      "live": 24.76,
       "game": "Sun 1:00 pm vs Ten"
      },
      {
       "player": "T. Higgins",
       "pos": "WR",
       "slot": "WR",
-      "rem": 16.25,
+      "rem": 16.26,
       "state": "pending",
       "pts": 0.0,
-      "proj": 16.25,
-      "live": 16.25,
+      "proj": 16.26,
+      "live": 16.26,
       "game": "Sun 1:00 pm vs Ten"
      },
      {
@@ -233954,7 +233954,7 @@
     "right": "Tuten Brown",
     "rightRec": "4-3",
     "leftScore": 0.0,
-    "leftProj": 126.12,
+    "leftProj": 126.14,
     "rightScore": 15.8,
     "rightProj": 124.85,
     "shotgun": [],
@@ -233974,11 +233974,11 @@
       "player": "J. Chase",
       "pos": "WR",
       "slot": "WR",
-      "rem": 18.9,
+      "rem": 18.92,
       "state": "pending",
       "pts": 0.0,
-      "proj": 18.9,
-      "live": 18.9,
+      "proj": 18.92,
+      "live": 18.92,
       "game": "Sun 1:00 pm vs Ten"
      },
      {
@@ -234162,7 +234162,7 @@
     "leftScore": 0.0,
     "leftProj": 146.45,
     "rightScore": 23.9,
-    "rightProj": 128.43,
+    "rightProj": 128.64,
     "shotgun": [],
     "leftActive": [
      {
@@ -234303,11 +234303,11 @@
       "player": "T. Pollard",
       "pos": "RB",
       "slot": "W/R/T",
-      "rem": 13.13,
+      "rem": 13.34,
       "state": "pending",
       "pts": 0.0,
-      "proj": 13.13,
-      "live": 13.13,
+      "proj": 13.34,
+      "live": 13.34,
       "game": "Sun 1:00 pm @ Cin"
      },
      {
@@ -234368,7 +234368,7 @@
     "leftScore": 0.0,
     "leftProj": 106.54,
     "rightScore": 0.0,
-    "rightProj": 116.12,
+    "rightProj": 116.13,
     "shotgun": [],
     "leftActive": [
      {
@@ -234520,11 +234520,11 @@
       "player": "C. Tate",
       "pos": "WR",
       "slot": "W/R/T",
-      "rem": 11.62,
+      "rem": 11.63,
       "state": "pending",
       "pts": 0.0,
-      "proj": 11.62,
-      "live": 11.62,
+      "proj": 11.63,
+      "live": 11.63,
       "game": "Sun 1:00 pm @ Cin"
      },
      {
