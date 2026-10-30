@@ -1,7 +1,7 @@
 {
  "v": 2,
  "week": 9,
- "ts": "2026-10-30T01:55:21+00:00",
+ "ts": "2026-10-30T02:16:22+00:00",
  "matchups": [
   {
    "id": "1v7",
@@ -122,7 +122,7 @@
      "game": "Sun 4:25 pm vs Ari"
     },
     {
-     "player": "Washington",
+     "player": "Commanders",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 4.08,
@@ -212,7 +212,7 @@
      "game": "Sun 8:20 pm @ Chi"
     },
     {
-     "player": "Cincinnati",
+     "player": "Bengals",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 6.3,
@@ -759,7 +759,7 @@
      "game": "Sun 1:00 pm vs Dal"
     },
     {
-     "player": "Seattle",
+     "player": "Seahawks",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 10.44,
@@ -871,7 +871,7 @@
      "game": "Mon 8:15 pm vs Buf"
     },
     {
-     "player": "Indianapolis",
+     "player": "Colts",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 4.68,
@@ -926,7 +926,7 @@
      "reason": "pts"
     },
     {
-     "player": "Steelers",
+     "player": "Pittsburgh",
      "pos": "DEF",
      "team": "Pit",
      "pts": 0.0,
@@ -1098,7 +1098,7 @@
      "game": "Sun 1:00 pm @ Car"
     },
     {
-     "player": "Jets",
+     "player": "N. York",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 4.59,
@@ -1214,7 +1214,7 @@
      "game": "Sun 8:20 pm @ Chi"
     },
     {
-     "player": "Raiders",
+     "player": "L. Vegas",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 3.44,
@@ -1315,7 +1315,7 @@
      "game": "Sun 4:25 pm vs GB"
     },
     {
-     "player": "Broncos",
+     "player": "Denver",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 7.55,
