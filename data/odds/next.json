@@ -1,7 +1,7 @@
 {
  "v": 2,
  "week": 9,
- "ts": "2026-10-30T18:48:30+00:00",
+ "ts": "2026-10-30T19:28:29+00:00",
  "matchups": [
   {
    "id": "1v7",
@@ -454,7 +454,7 @@
    "leftScore": 0.0,
    "leftProj": 127.79,
    "rightScore": 0.0,
-   "rightProj": 112.65,
+   "rightProj": 112.61,
    "leftPct": 62,
    "leftRem": 9,
    "rightRem": 9,
@@ -631,11 +631,11 @@
      "player": "M. Gay",
      "pos": "K",
      "slot": "K",
-     "rem": 8.18,
+     "rem": 8.14,
      "state": "pending",
      "pts": 0.0,
-     "proj": 8.18,
-     "live": 8.18,
+     "proj": 8.14,
+     "live": 8.14,
      "game": "Sun 4:25 pm @ SF"
     },
     {
@@ -669,7 +669,7 @@
    "right": "Zen Buddha Boys 🪷💨",
    "rightRec": "4-3",
    "leftScore": 0.0,
-   "leftProj": 126.36,
+   "leftProj": 126.26,
    "rightScore": 0.0,
    "rightProj": 113.51,
    "leftPct": 60,
@@ -729,11 +729,11 @@
      "player": "A. Jeanty",
      "pos": "RB",
      "slot": "RB",
-     "rem": 15.39,
+     "rem": 15.33,
      "state": "pending",
      "pts": 0.0,
-     "proj": 15.39,
-     "live": 15.39,
+     "proj": 15.33,
+     "live": 15.33,
      "game": "Sun 4:25 pm @ SF"
     },
     {
@@ -770,17 +770,6 @@
      "game": "Sun 4:25 pm vs Ari"
     },
     {
-     "player": "T. Tucker",
-     "pos": "WR",
-     "slot": "W/R/T",
-     "rem": 9.36,
-     "state": "pending",
-     "pts": 0.0,
-     "proj": 9.36,
-     "live": 9.36,
-     "game": "Sun 4:25 pm @ SF"
-    },
-    {
      "player": "C. Little",
      "pos": "K",
      "slot": "K",
@@ -790,6 +779,17 @@
      "proj": 9.33,
      "live": 9.33,
      "game": "Thu 8:15 pm @ Bal"
+    },
+    {
+     "player": "T. Tucker",
+     "pos": "WR",
+     "slot": "W/R/T",
+     "rem": 9.32,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 9.32,
+     "live": 9.32,
+     "game": "Sun 4:25 pm @ SF"
     }
    ],
    "rightActive": [
@@ -892,7 +892,7 @@
    "leftScore": 0.0,
    "leftProj": 107.77,
    "rightScore": 0.0,
-   "rightProj": 86.35,
+   "rightProj": 86.3,
    "leftPct": 70,
    "leftRem": 8,
    "rightRem": 7,
@@ -1046,11 +1046,11 @@
      "player": "B. Bowers",
      "pos": "TE",
      "slot": "TE",
-     "rem": 14.1,
+     "rem": 14.05,
      "state": "pending",
      "pts": 0.0,
-     "proj": 14.1,
-     "live": 14.1,
+     "proj": 14.05,
+     "live": 14.05,
      "game": "Sun 4:25 pm @ SF"
     },
     {
@@ -1117,7 +1117,7 @@
    "right": "Sir this is a FF league",
    "rightRec": "3-4",
    "leftScore": 0.0,
-   "leftProj": 107.62,
+   "leftProj": 107.59,
    "rightScore": 0.0,
    "rightProj": 118.03,
    "leftPct": 41,
@@ -1217,11 +1217,11 @@
      "player": "Raiders",
      "pos": "DEF",
      "slot": "DEF",
-     "rem": 3.44,
+     "rem": 3.41,
      "state": "pending",
      "pts": 0.0,
-     "proj": 3.44,
-     "live": 3.44,
+     "proj": 3.41,
+     "live": 3.41,
      "game": "Sun 4:25 pm @ SF"
     }
    ],
