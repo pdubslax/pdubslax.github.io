@@ -233348,7 +233348,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-10-30T20:49:15+00:00",
+  "ts": "2026-10-30T21:09:28+00:00",
   "week": 8,
   "matchups": [
    {
@@ -233358,7 +233358,7 @@
     "right": "MELONHEADS (daniel)",
     "rightRec": "4-3",
     "leftScore": 27.5,
-    "leftProj": 111.24,
+    "leftProj": 111.47,
     "rightScore": 0.0,
     "rightProj": 103.14,
     "shotgun": [],
@@ -233419,6 +233419,17 @@
       "game": "Sun 1:00 pm @ Jax"
      },
      {
+      "player": "J.K. Dobbins",
+      "pos": "RB",
+      "slot": "RB",
+      "rem": 6.07,
+      "state": "pending",
+      "pts": 0.0,
+      "proj": 6.07,
+      "live": 6.07,
+      "game": "Sun 4:25 pm vs KC"
+     },
+     {
       "player": "E. Wilson",
       "pos": "RB",
       "slot": "RB",
@@ -233428,17 +233439,6 @@
       "proj": 5.89,
       "live": 5.89,
       "game": "Mon 8:15 pm vs Chi"
-     },
-     {
-      "player": "J.K. Dobbins",
-      "pos": "RB",
-      "slot": "RB",
-      "rem": 5.84,
-      "state": "pending",
-      "pts": 0.0,
-      "proj": 5.84,
-      "live": 5.84,
-      "game": "Sun 4:25 pm vs KC"
      }
     ],
     "rightActive": [
@@ -233544,7 +233544,7 @@
     "leftScore": 14.8,
     "leftProj": 120.19,
     "rightScore": 0.0,
-    "rightProj": 119.56,
+    "rightProj": 119.55,
     "shotgun": [],
     "leftActive": [
      {
@@ -233729,11 +233729,11 @@
       "player": "Broncos",
       "pos": "DEF",
       "slot": "DEF",
-      "rem": 6.81,
+      "rem": 6.8,
       "state": "pending",
       "pts": 0.0,
-      "proj": 6.81,
-      "live": 6.81,
+      "proj": 6.8,
+      "live": 6.8,
       "game": "Sun 4:25 pm vs KC"
      }
     ],
@@ -233750,7 +233750,7 @@
     "leftScore": 10.8,
     "leftProj": 136.62,
     "rightScore": 21.7,
-    "rightProj": 124.06,
+    "rightProj": 124.43,
     "shotgun": [],
     "leftActive": [
      {
@@ -233877,6 +233877,17 @@
       "game": "Sun 8:20 pm @ Was"
      },
      {
+      "player": "J. Coleman",
+      "pos": "RB",
+      "slot": "W/R/T",
+      "rem": 10.03,
+      "state": "pending",
+      "pts": 0.0,
+      "proj": 10.03,
+      "live": 10.03,
+      "game": "Sun 4:25 pm vs KC"
+     },
+     {
       "player": "KC Concepcion Jr.",
       "pos": "WR",
       "slot": "WR",
@@ -233886,17 +233897,6 @@
       "proj": 9.75,
       "live": 9.75,
       "game": "Sun 1:00 pm @ Pit"
-     },
-     {
-      "player": "J. Coleman",
-      "pos": "RB",
-      "slot": "W/R/T",
-      "rem": 9.66,
-      "state": "pending",
-      "pts": 0.0,
-      "proj": 9.66,
-      "live": 9.66,
-      "game": "Sun 4:25 pm vs KC"
      },
      {
       "player": "D. Goedert",
@@ -233932,7 +233932,7 @@
       "game": "Sun 1:00 pm vs Cle"
      }
     ],
-    "leftPct": 61,
+    "leftPct": 60,
     "leftRem": 8,
     "rightRem": 8
    },
@@ -234149,7 +234149,7 @@
     "right": "Zen Buddha Boys 🪷💨",
     "rightRec": "4-3",
     "leftScore": 0.0,
-    "leftProj": 146.57,
+    "leftProj": 146.6,
     "rightScore": 23.9,
     "rightProj": 130.65,
     "shotgun": [],
@@ -234235,11 +234235,11 @@
       "player": "T. Kelce",
       "pos": "TE",
       "slot": "TE",
-      "rem": 9.95,
+      "rem": 9.98,
       "state": "pending",
       "pts": 0.0,
-      "proj": 9.95,
-      "live": 9.95,
+      "proj": 9.98,
+      "live": 9.98,
       "game": "Sun 4:25 pm @ Den"
      },
      {
@@ -234355,7 +234355,7 @@
     "right": "Kiwis are better than mid",
     "rightRec": "4-3",
     "leftScore": 0.0,
-    "leftProj": 106.32,
+    "leftProj": 106.36,
     "rightScore": 0.0,
     "rightProj": 104.55,
     "shotgun": [],
@@ -234386,11 +234386,11 @@
       "player": "R. Rice",
       "pos": "WR",
       "slot": "WR",
-      "rem": 11.5,
+      "rem": 11.52,
       "state": "pending",
       "pts": 0.0,
-      "proj": 11.5,
-      "live": 11.5,
+      "proj": 11.52,
+      "live": 11.52,
       "game": "Sun 4:25 pm @ Den"
      },
      {
@@ -234408,11 +234408,11 @@
       "player": "O. Hampton",
       "pos": "RB",
       "slot": "RB",
-      "rem": 10.1,
+      "rem": 10.12,
       "state": "pending",
       "pts": 0.0,
-      "proj": 10.1,
-      "live": 10.1,
+      "proj": 10.12,
+      "live": 10.12,
       "game": "Sun 4:05 pm @ LAR"
      },
      {
