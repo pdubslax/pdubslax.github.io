@@ -233348,7 +233348,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-10-30T18:28:28+00:00",
+  "ts": "2026-10-30T18:48:41+00:00",
   "week": 8,
   "matchups": [
    {
@@ -233831,7 +233831,7 @@
       "game": "Sun 8:20 pm vs Phi"
      },
      {
-      "player": "Patriots",
+      "player": "N. England",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 10.2,
@@ -233910,7 +233910,7 @@
       "game": "Sun 4:25 pm vs KC"
      },
      {
-      "player": "Jaguars",
+      "player": "Jacksonville",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 9.54,
@@ -234449,7 +234449,7 @@
       "game": "Sun 1:00 pm @ NYJ"
      },
      {
-      "player": "Chiefs",
+      "player": "K. City",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 7.39,
@@ -234550,7 +234550,7 @@
       "game": "Sun 4:25 pm vs KC"
      },
      {
-      "player": "Jets",
+      "player": "N. York",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 6.93,
