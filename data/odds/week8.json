@@ -233348,7 +233348,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-10-30T13:07:52+00:00",
+  "ts": "2026-10-30T13:27:43+00:00",
   "week": 8,
   "matchups": [
    {
@@ -233360,7 +233360,7 @@
     "leftScore": 27.5,
     "leftProj": 111.62,
     "rightScore": 0.0,
-    "rightProj": 112.72,
+    "rightProj": 113.53,
     "shotgun": [],
     "leftActive": [
      {
@@ -233397,7 +233397,7 @@
       "game": "Sun 1:00 pm vs Min"
      },
      {
-      "player": "Commanders",
+      "player": "Washington",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 9.4,
@@ -233457,11 +233457,11 @@
       "player": "B. Robinson",
       "pos": "RB",
       "slot": "RB",
-      "rem": 21.22,
+      "rem": 22.03,
       "state": "pending",
       "pts": 0.0,
-      "proj": 21.22,
-      "live": 21.22,
+      "proj": 22.03,
+      "live": 22.03,
       "game": "Sun 1:00 pm @ TB"
      },
      {
@@ -233520,7 +233520,7 @@
       "game": "Sun 1:00 pm vs Ind"
      },
      {
-      "player": "Raiders",
+      "player": "L. Vegas",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 6.95,
@@ -233542,7 +233542,7 @@
       "game": "Sun 1:00 pm vs Atl"
      }
     ],
-    "leftPct": 49,
+    "leftPct": 48,
     "leftRem": 7,
     "rightRem": 9
    },
@@ -233761,7 +233761,7 @@
     "leftScore": 10.8,
     "leftProj": 133.91,
     "rightScore": 21.7,
-    "rightProj": 123.21,
+    "rightProj": 123.22,
     "shotgun": [],
     "leftActive": [
      {
@@ -233935,11 +233935,11 @@
       "player": "D. Goedert",
       "pos": "TE",
       "slot": "TE",
-      "rem": 9.2,
+      "rem": 9.21,
       "state": "pending",
       "pts": 0.0,
-      "proj": 9.2,
-      "live": 9.2,
+      "proj": 9.21,
+      "live": 9.21,
       "game": "Sun 8:20 pm @ Was"
      }
     ],
@@ -234048,7 +234048,7 @@
       "game": "Sun 1:00 pm @ NYJ"
      },
      {
-      "player": "Seattle",
+      "player": "Seahawks",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 7.16,
@@ -234127,7 +234127,7 @@
       "game": "Sun 1:00 pm vs Ari"
      },
      {
-      "player": "Pittsburgh",
+      "player": "Steelers",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 9.86,
@@ -234160,7 +234160,7 @@
     "right": "Zen Buddha Boys 🪷💨",
     "rightRec": "4-3",
     "leftScore": 0.0,
-    "leftProj": 146.43,
+    "leftProj": 146.42,
     "rightScore": 23.9,
     "rightProj": 128.42,
     "shotgun": [],
@@ -234224,11 +234224,11 @@
       "player": "D. London",
       "pos": "WR",
       "slot": "WR",
-      "rem": 15.48,
+      "rem": 15.47,
       "state": "pending",
       "pts": 0.0,
-      "proj": 15.48,
-      "live": 15.48,
+      "proj": 15.47,
+      "live": 15.47,
       "game": "Sun 1:00 pm @ TB"
      },
      {
@@ -234368,7 +234368,7 @@
     "leftScore": 0.0,
     "leftProj": 106.51,
     "rightScore": 0.0,
-    "rightProj": 116.52,
+    "rightProj": 116.15,
     "shotgun": [],
     "leftActive": [
      {
@@ -234509,11 +234509,11 @@
       "player": "R. White",
       "pos": "RB",
       "slot": "RB",
-      "rem": 12.62,
+      "rem": 12.25,
       "state": "pending",
       "pts": 0.0,
-      "proj": 12.62,
-      "live": 12.62,
+      "proj": 12.25,
+      "live": 12.25,
       "game": "Sun 8:20 pm vs Phi"
      },
      {
