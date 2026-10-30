@@ -233348,7 +233348,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-10-30T14:07:42+00:00",
+  "ts": "2026-10-30T14:27:54+00:00",
   "week": 8,
   "matchups": [
    {
@@ -233759,7 +233759,7 @@
     "right": "Alex Michael Pagels",
     "rightRec": "2-5",
     "leftScore": 10.8,
-    "leftProj": 133.86,
+    "leftProj": 136.1,
     "rightScore": 21.7,
     "rightProj": 123.3,
     "shotgun": [],
@@ -233776,15 +233776,15 @@
       "game": "Sun 1:00 pm vs Min"
      },
      {
-      "player": "P. Mahomes",
+      "player": "J. Brissett",
       "pos": "QB",
       "slot": "QB",
-      "rem": 19.16,
+      "rem": 21.4,
       "state": "pending",
       "pts": 0.0,
-      "proj": 19.16,
-      "live": 19.16,
-      "game": "Sun 4:25 pm @ Den"
+      "proj": 21.4,
+      "live": 21.4,
+      "game": "Sun 1:00 pm @ Dal"
      },
      {
       "player": "K. Williams",
@@ -233943,7 +233943,7 @@
       "game": "Sun 8:20 pm @ Was"
      }
     ],
-    "leftPct": 59,
+    "leftPct": 61,
     "leftRem": 8,
     "rightRem": 8
    },
@@ -234048,7 +234048,7 @@
       "game": "Sun 1:00 pm @ NYJ"
      },
      {
-      "player": "Seattle",
+      "player": "Seahawks",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 7.15,
@@ -234127,7 +234127,7 @@
       "game": "Sun 1:00 pm vs Ari"
      },
      {
-      "player": "Pittsburgh",
+      "player": "Steelers",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 9.86,
@@ -234232,7 +234232,7 @@
       "game": "Sun 1:00 pm @ TB"
      },
      {
-      "player": "Bengals",
+      "player": "Cincinnati",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 10.98,
@@ -234344,7 +234344,7 @@
       "game": "Sun 1:00 pm @ Det"
      },
      {
-      "player": "Colts",
+      "player": "Indianapolis",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 4.3,

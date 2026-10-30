@@ -1,7 +1,7 @@
 {
  "v": 2,
  "week": 9,
- "ts": "2026-10-30T13:47:42+00:00",
+ "ts": "2026-10-30T14:27:43+00:00",
  "matchups": [
   {
    "id": "1v7",
@@ -452,10 +452,10 @@
    "right": "RosterMogged",
    "rightRec": "3-4",
    "leftScore": 0.0,
-   "leftProj": 134.39,
+   "leftProj": 127.73,
    "rightScore": 0.0,
    "rightProj": 112.65,
-   "leftPct": 67,
+   "leftPct": 62,
    "leftRem": 9,
    "rightRem": 9,
    "shotgun": [],
@@ -472,17 +472,6 @@
      "game": "Sun 1:00 pm @ Mia"
     },
     {
-     "player": "P. Mahomes",
-     "pos": "QB",
-     "slot": "QB",
-     "rem": 21.94,
-     "state": "pending",
-     "pts": 0.0,
-     "proj": 21.94,
-     "live": 21.94,
-     "game": "Sun 1:00 pm vs NYJ"
-    },
-    {
      "player": "K. Williams",
      "pos": "RB",
      "slot": "RB",
@@ -492,6 +481,17 @@
      "proj": 18.7,
      "live": 18.7,
      "game": "Sun 1:00 pm @ Was"
+    },
+    {
+     "player": "J. Brissett",
+     "pos": "QB",
+     "slot": "QB",
+     "rem": 15.28,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 15.28,
+     "live": 15.28,
+     "game": "Sun 4:25 pm @ Sea"
     },
     {
      "player": "D. Swift",
