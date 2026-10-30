@@ -1,7 +1,7 @@
 {
  "v": 2,
  "week": 9,
- "ts": "2026-10-30T22:29:16+00:00",
+ "ts": "2026-10-30T23:09:19+00:00",
  "matchups": [
   {
    "id": "1v7",
@@ -12,7 +12,7 @@
    "leftScore": 0.0,
    "leftProj": 107.12,
    "rightScore": 0.0,
-   "rightProj": 122.55,
+   "rightProj": 122.54,
    "leftPct": 38,
    "leftRem": 9,
    "rightRem": 8,
@@ -138,11 +138,11 @@
      "player": "D. Prescott",
      "pos": "QB",
      "slot": "QB",
-     "rem": 22.47,
+     "rem": 22.46,
      "state": "pending",
      "pts": 0.0,
-     "proj": 22.47,
-     "live": 22.47,
+     "proj": 22.46,
+     "live": 22.46,
      "game": "Sun 1:00 pm @ Ind"
     },
     {
@@ -231,7 +231,7 @@
    "right": "Alex Michael Pagels",
    "rightRec": "2-5",
    "leftScore": 0.0,
-   "leftProj": 114.25,
+   "leftProj": 114.26,
    "rightScore": 0.0,
    "rightProj": 99.2,
    "leftPct": 64,
@@ -313,11 +313,11 @@
      "player": "J. Mason",
      "pos": "RB",
      "slot": "W/R/T",
-     "rem": 9.81,
+     "rem": 9.82,
      "state": "pending",
      "pts": 0.0,
-     "proj": 9.81,
-     "live": 9.81,
+     "proj": 9.82,
+     "live": 9.82,
      "game": "Mon 8:15 pm vs Buf"
     },
     {
@@ -452,7 +452,7 @@
    "right": "RosterMogged",
    "rightRec": "3-4",
    "leftScore": 0.0,
-   "leftProj": 128.06,
+   "leftProj": 127.89,
    "rightScore": 0.0,
    "rightProj": 112.68,
    "leftPct": 62,
@@ -486,11 +486,11 @@
      "player": "J. Brissett",
      "pos": "QB",
      "slot": "QB",
-     "rem": 15.31,
+     "rem": 15.29,
      "state": "pending",
      "pts": 0.0,
-     "proj": 15.31,
-     "live": 15.31,
+     "proj": 15.29,
+     "live": 15.29,
      "game": "Sun 4:25 pm @ Sea"
     },
     {
@@ -508,11 +508,11 @@
      "player": "T. McBride",
      "pos": "TE",
      "slot": "TE",
-     "rem": 12.63,
+     "rem": 12.48,
      "state": "pending",
      "pts": 0.0,
-     "proj": 12.63,
-     "live": 12.63,
+     "proj": 12.48,
+     "live": 12.48,
      "game": "Sun 4:25 pm @ Sea"
     },
     {
@@ -669,7 +669,7 @@
    "right": "Zen Buddha Boys 🪷💨",
    "rightRec": "4-3",
    "leftScore": 0.0,
-   "leftProj": 126.05,
+   "leftProj": 126.04,
    "rightScore": 0.0,
    "rightProj": 113.61,
    "leftPct": 60,
@@ -707,11 +707,11 @@
      "player": "J. Williams",
      "pos": "RB",
      "slot": "RB",
-     "rem": 17.5,
+     "rem": 17.49,
      "state": "pending",
      "pts": 0.0,
-     "proj": 17.5,
-     "live": 17.5,
+     "proj": 17.49,
+     "live": 17.49,
      "game": "Sun 1:00 pm @ Ind"
     },
     {
@@ -841,11 +841,11 @@
      "player": "O. Gordon II",
      "pos": "RB",
      "slot": "RB",
-     "rem": 13.5,
+     "rem": 13.49,
      "state": "pending",
      "pts": 0.0,
-     "proj": 13.5,
-     "live": 13.5,
+     "proj": 13.49,
+     "live": 13.49,
      "game": "Sun 1:00 pm vs Det"
     },
     {
@@ -863,11 +863,11 @@
      "player": "T.J. Hockenson",
      "pos": "TE",
      "slot": "TE",
-     "rem": 9.86,
+     "rem": 9.87,
      "state": "pending",
      "pts": 0.0,
-     "proj": 9.86,
-     "live": 9.86,
+     "proj": 9.87,
+     "live": 9.87,
      "game": "Mon 8:15 pm vs Buf"
     },
     {
@@ -892,7 +892,7 @@
    "leftScore": 0.0,
    "leftProj": 107.9,
    "rightScore": 0.0,
-   "rightProj": 86.35,
+   "rightProj": 86.36,
    "leftPct": 70,
    "leftRem": 8,
    "rightRem": 7,
@@ -1079,11 +1079,11 @@
      "player": "A. Jones Sr.",
      "pos": "RB",
      "slot": "RB",
-     "rem": 9.93,
+     "rem": 9.94,
      "state": "pending",
      "pts": 0.0,
-     "proj": 9.93,
-     "live": 9.93,
+     "proj": 9.94,
+     "live": 9.94,
      "game": "Mon 8:15 pm vs Buf"
     },
     {
@@ -1119,7 +1119,7 @@
    "leftScore": 0.0,
    "leftProj": 107.57,
    "rightScore": 0.0,
-   "rightProj": 118.23,
+   "rightProj": 118.25,
    "leftPct": 41,
    "leftRem": 9,
    "rightRem": 9,
@@ -1238,6 +1238,17 @@
      "game": "Thu 8:15 pm vs Jax"
     },
     {
+     "player": "J. Jefferson",
+     "pos": "WR",
+     "slot": "WR",
+     "rem": 16.38,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 16.38,
+     "live": 16.38,
+     "game": "Mon 8:15 pm vs Buf"
+    },
+    {
      "player": "J. Cook III",
      "pos": "RB",
      "slot": "RB",
@@ -1247,17 +1258,6 @@
      "proj": 16.36,
      "live": 16.36,
      "game": "Mon 8:15 pm @ Min"
-    },
-    {
-     "player": "J. Jefferson",
-     "pos": "WR",
-     "slot": "WR",
-     "rem": 16.36,
-     "state": "pending",
-     "pts": 0.0,
-     "proj": 16.36,
-     "live": 16.36,
-     "game": "Mon 8:15 pm vs Buf"
     },
     {
      "player": "B. Hall",
