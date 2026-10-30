@@ -233348,7 +233348,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-10-30T15:28:38+00:00",
+  "ts": "2026-10-30T15:48:28+00:00",
   "week": 8,
   "matchups": [
    {
@@ -233358,20 +233358,20 @@
     "right": "MELONHEADS (daniel)",
     "rightRec": "4-3",
     "leftScore": 27.5,
-    "leftProj": 111.31,
+    "leftProj": 111.32,
     "rightScore": 0.0,
-    "rightProj": 113.4,
+    "rightProj": 113.41,
     "shotgun": [],
     "leftActive": [
      {
       "player": "J. Smith-Njigba",
       "pos": "WR",
       "slot": "W/R/T",
-      "rem": 23.6,
+      "rem": 23.61,
       "state": "pending",
       "pts": 0.0,
-      "proj": 23.6,
-      "live": 23.6,
+      "proj": 23.61,
+      "live": 23.61,
       "game": "Mon 8:15 pm vs Chi"
      },
      {
@@ -233512,11 +233512,11 @@
       "player": "B. Strange",
       "pos": "TE",
       "slot": "W/R/T",
-      "rem": 9.36,
+      "rem": 9.37,
       "state": "pending",
       "pts": 0.0,
-      "proj": 9.36,
-      "live": 9.36,
+      "proj": 9.37,
+      "live": 9.37,
       "game": "Sun 1:00 pm vs Ind"
      },
      {
@@ -233761,7 +233761,7 @@
     "leftScore": 10.8,
     "leftProj": 136.1,
     "rightScore": 21.7,
-    "rightProj": 123.3,
+    "rightProj": 123.31,
     "shotgun": [],
     "leftActive": [
      {
@@ -233858,11 +233858,11 @@
       "player": "J. Burrow",
       "pos": "QB",
       "slot": "QB",
-      "rem": 24.74,
+      "rem": 24.75,
       "state": "pending",
       "pts": 0.0,
-      "proj": 24.74,
-      "live": 24.74,
+      "proj": 24.75,
+      "live": 24.75,
       "game": "Sun 1:00 pm vs Ten"
      },
      {
@@ -233954,9 +233954,9 @@
     "right": "Tuten Brown",
     "rightRec": "4-3",
     "leftScore": 0.0,
-    "leftProj": 126.1,
+    "leftProj": 126.12,
     "rightScore": 15.8,
-    "rightProj": 124.83,
+    "rightProj": 124.85,
     "shotgun": [],
     "leftActive": [
      {
@@ -234007,11 +234007,11 @@
       "player": "P. Washington",
       "pos": "WR",
       "slot": "WR",
-      "rem": 14.98,
+      "rem": 14.99,
       "state": "pending",
       "pts": 0.0,
-      "proj": 14.98,
-      "live": 14.98,
+      "proj": 14.99,
+      "live": 14.99,
       "game": "Sun 1:00 pm vs Ind"
      },
      {
@@ -234029,11 +234029,11 @@
       "player": "T. Warren",
       "pos": "TE",
       "slot": "TE",
-      "rem": 10.37,
+      "rem": 10.38,
       "state": "pending",
       "pts": 0.0,
-      "proj": 10.37,
-      "live": 10.37,
+      "proj": 10.38,
+      "live": 10.38,
       "game": "Sun 1:00 pm @ Jax"
      },
      {
@@ -234064,22 +234064,22 @@
       "player": "T. Lawrence",
       "pos": "QB",
       "slot": "QB",
-      "rem": 23.05,
+      "rem": 23.07,
       "state": "pending",
       "pts": 0.0,
-      "proj": 23.05,
-      "live": 23.05,
+      "proj": 23.07,
+      "live": 23.07,
       "game": "Sun 1:00 pm vs Ind"
      },
      {
       "player": "J. Taylor",
       "pos": "RB",
       "slot": "RB",
-      "rem": 16.09,
+      "rem": 16.08,
       "state": "pending",
       "pts": 0.0,
-      "proj": 16.09,
-      "live": 16.09,
+      "proj": 16.08,
+      "live": 16.08,
       "game": "Sun 1:00 pm @ Jax"
      },
      {
@@ -234097,11 +234097,11 @@
       "player": "DJ Moore",
       "pos": "WR",
       "slot": "WR",
-      "rem": 13.11,
+      "rem": 13.12,
       "state": "pending",
       "pts": 0.0,
-      "proj": 13.11,
-      "live": 13.11,
+      "proj": 13.12,
+      "live": 13.12,
       "game": "Sun 1:00 pm vs Bal"
      },
      {
@@ -234160,9 +234160,9 @@
     "right": "Zen Buddha Boys 🪷💨",
     "rightRec": "4-3",
     "leftScore": 0.0,
-    "leftProj": 146.45,
+    "leftProj": 146.44,
     "rightScore": 23.9,
-    "rightProj": 128.44,
+    "rightProj": 128.43,
     "shotgun": [],
     "leftActive": [
      {
@@ -234224,15 +234224,15 @@
       "player": "D. London",
       "pos": "WR",
       "slot": "WR",
-      "rem": 15.67,
+      "rem": 15.66,
       "state": "pending",
       "pts": 0.0,
-      "proj": 15.67,
-      "live": 15.67,
+      "proj": 15.66,
+      "live": 15.66,
       "game": "Sun 1:00 pm @ TB"
      },
      {
-      "player": "Cincinnati",
+      "player": "Bengals",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 10.98,
@@ -234303,11 +234303,11 @@
       "player": "T. Pollard",
       "pos": "RB",
       "slot": "W/R/T",
-      "rem": 13.14,
+      "rem": 13.13,
       "state": "pending",
       "pts": 0.0,
-      "proj": 13.14,
-      "live": 13.14,
+      "proj": 13.13,
+      "live": 13.13,
       "game": "Sun 1:00 pm @ Cin"
      },
      {
@@ -234344,7 +234344,7 @@
       "game": "Sun 1:00 pm @ Det"
      },
      {
-      "player": "Indianapolis",
+      "player": "Colts",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 4.3,
