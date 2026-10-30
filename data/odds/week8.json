@@ -233348,7 +233348,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-10-30T23:29:17+00:00",
+  "ts": "2026-10-30T23:49:27+00:00",
   "week": 8,
   "matchups": [
    {
@@ -233358,9 +233358,9 @@
     "right": "MELONHEADS (daniel)",
     "rightRec": "4-3",
     "leftScore": 27.5,
-    "leftProj": 113.79,
+    "leftProj": 113.77,
     "rightScore": 0.0,
-    "rightProj": 103.22,
+    "rightProj": 103.19,
     "shotgun": [],
     "leftActive": [
      {
@@ -233389,11 +233389,11 @@
       "player": "S. LaPorta",
       "pos": "TE",
       "slot": "TE",
-      "rem": 10.2,
+      "rem": 10.18,
       "state": "pending",
       "pts": 0.0,
-      "proj": 10.2,
-      "live": 10.2,
+      "proj": 10.18,
+      "live": 10.18,
       "game": "Sun 1:00 pm vs Min"
      },
      {
@@ -233490,11 +233490,11 @@
       "player": "J. Bates",
       "pos": "K",
       "slot": "K",
-      "rem": 9.53,
+      "rem": 9.5,
       "state": "pending",
       "pts": 0.0,
-      "proj": 9.53,
-      "live": 9.53,
+      "proj": 9.5,
+      "live": 9.5,
       "game": "Sun 1:00 pm vs Min"
      },
      {
@@ -233542,9 +233542,9 @@
     "right": "Sir this is a FF league",
     "rightRec": "3-4",
     "leftScore": 14.8,
-    "leftProj": 119.73,
+    "leftProj": 119.72,
     "rightScore": 0.0,
-    "rightProj": 121.47,
+    "rightProj": 121.42,
     "shotgun": [],
     "leftActive": [
      {
@@ -233595,11 +233595,11 @@
       "player": "J. Mason",
       "pos": "RB",
       "slot": "W/R/T",
-      "rem": 10.9,
+      "rem": 10.89,
       "state": "pending",
       "pts": 0.0,
-      "proj": 10.9,
-      "live": 10.9,
+      "proj": 10.89,
+      "live": 10.89,
       "game": "Sun 1:00 pm @ Det"
      },
      {
@@ -233663,11 +233663,11 @@
       "player": "J. Jefferson",
       "pos": "WR",
       "slot": "WR",
-      "rem": 16.02,
+      "rem": 15.99,
       "state": "pending",
       "pts": 0.0,
-      "proj": 16.02,
-      "live": 16.02,
+      "proj": 15.99,
+      "live": 15.99,
       "game": "Sun 1:00 pm @ Det"
      },
      {
@@ -233707,11 +233707,11 @@
       "player": "J. Williams",
       "pos": "WR",
       "slot": "WR",
-      "rem": 10.25,
+      "rem": 10.23,
       "state": "pending",
       "pts": 0.0,
-      "proj": 10.25,
-      "live": 10.25,
+      "proj": 10.23,
+      "live": 10.23,
       "game": "Sun 1:00 pm vs Min"
      },
      {
@@ -233737,7 +233737,7 @@
       "game": "Sun 4:25 pm vs KC"
      }
     ],
-    "leftPct": 48,
+    "leftPct": 49,
     "leftRem": 8,
     "rightRem": 9
    },
@@ -233748,7 +233748,7 @@
     "right": "Alex Michael Pagels",
     "rightRec": "2-5",
     "leftScore": 10.8,
-    "leftProj": 136.79,
+    "leftProj": 136.74,
     "rightScore": 21.7,
     "rightProj": 125.65,
     "shotgun": [],
@@ -233757,11 +233757,11 @@
       "player": "J. Gibbs",
       "pos": "RB",
       "slot": "RB",
-      "rem": 24.27,
+      "rem": 24.24,
       "state": "pending",
       "pts": 0.0,
-      "proj": 24.27,
-      "live": 24.27,
+      "proj": 24.24,
+      "live": 24.24,
       "game": "Sun 1:00 pm vs Min"
      },
      {
@@ -233834,11 +233834,11 @@
       "player": "W. Reichard",
       "pos": "K",
       "slot": "K",
-      "rem": 9.67,
+      "rem": 9.65,
       "state": "pending",
       "pts": 0.0,
-      "proj": 9.67,
-      "live": 9.67,
+      "proj": 9.65,
+      "live": 9.65,
       "game": "Sun 1:00 pm @ Det"
      }
     ],
@@ -234151,7 +234151,7 @@
     "leftScore": 0.0,
     "leftProj": 146.32,
     "rightScore": 23.9,
-    "rightProj": 130.35,
+    "rightProj": 130.3,
     "shotgun": [],
     "leftActive": [
      {
@@ -234281,11 +234281,11 @@
       "player": "A. St. Brown",
       "pos": "WR",
       "slot": "WR",
-      "rem": 16.75,
+      "rem": 16.72,
       "state": "pending",
       "pts": 0.0,
-      "proj": 16.75,
-      "live": 16.75,
+      "proj": 16.72,
+      "live": 16.72,
       "game": "Sun 1:00 pm vs Min"
      },
      {
@@ -234325,11 +234325,11 @@
       "player": "T.J. Hockenson",
       "pos": "TE",
       "slot": "TE",
-      "rem": 9.8,
+      "rem": 9.78,
       "state": "pending",
       "pts": 0.0,
-      "proj": 9.8,
-      "live": 9.8,
+      "proj": 9.78,
+      "live": 9.78,
       "game": "Sun 1:00 pm @ Det"
      },
      {
@@ -234355,7 +234355,7 @@
     "right": "Kiwis are better than mid",
     "rightRec": "4-3",
     "leftScore": 0.0,
-    "leftProj": 106.29,
+    "leftProj": 106.24,
     "rightScore": 0.0,
     "rightProj": 104.65,
     "shotgun": [],
@@ -234375,11 +234375,11 @@
       "player": "J. Goff",
       "pos": "QB",
       "slot": "QB",
-      "rem": 19.89,
+      "rem": 19.84,
       "state": "pending",
       "pts": 0.0,
-      "proj": 19.89,
-      "live": 19.89,
+      "proj": 19.84,
+      "live": 19.84,
       "game": "Sun 1:00 pm vs Min"
      },
      {
@@ -234550,7 +234550,7 @@
       "game": "Sun 1:00 pm vs LV"
      }
     ],
-    "leftPct": 52,
+    "leftPct": 51,
     "leftRem": 9,
     "rightRem": 9
    }
