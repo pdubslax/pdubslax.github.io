@@ -233348,7 +233348,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-10-31T13:31:20+00:00",
+  "ts": "2026-10-31T13:51:14+00:00",
   "week": 8,
   "matchups": [
    {
@@ -233625,7 +233625,7 @@
       "game": "Sun 8:20 pm vs Phi"
      },
      {
-      "player": "Cowboys",
+      "player": "Dallas",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 5.4,
@@ -233726,7 +233726,7 @@
       "game": "Sun 4:25 pm @ Mia"
      },
      {
-      "player": "Broncos",
+      "player": "Denver",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 6.76,
@@ -233820,7 +233820,7 @@
       "game": "Sun 8:20 pm vs Phi"
      },
      {
-      "player": "N. England",
+      "player": "Patriots",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 10.11,
@@ -233910,7 +233910,7 @@
       "game": "Sun 8:20 pm @ Was"
      },
      {
-      "player": "Jacksonville",
+      "player": "Jaguars",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 9.47,
