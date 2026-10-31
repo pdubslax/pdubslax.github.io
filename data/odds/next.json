@@ -1,7 +1,7 @@
 {
  "v": 2,
  "week": 9,
- "ts": "2026-10-31T15:31:13+00:00",
+ "ts": "2026-10-31T15:52:02+00:00",
  "matchups": [
   {
    "id": "1v7",
@@ -549,7 +549,7 @@
      "game": "Mon 8:15 pm vs Buf"
     },
     {
-     "player": "N. England",
+     "player": "Patriots",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 6.46,
@@ -617,7 +617,7 @@
      "game": "Sun 4:05 pm vs Hou"
     },
     {
-     "player": "K. City",
+     "player": "Chiefs",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 9.78,
