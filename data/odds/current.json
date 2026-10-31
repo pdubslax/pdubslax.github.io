@@ -233348,7 +233348,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-10-31T14:11:21+00:00",
+  "ts": "2026-10-31T14:31:15+00:00",
   "week": 8,
   "matchups": [
    {
@@ -233451,7 +233451,7 @@
       "pts": 0.0,
       "proj": 22.82,
       "live": 22.82,
-      "game": "Sun 1:00 pm @ TB"
+      "game": "Sun 1:00 pm @ TB"
      },
      {
       "player": "J. Daniels",
@@ -233517,7 +233517,7 @@
       "pts": 0.0,
       "proj": 7.0,
       "live": 7.0,
-      "game": "Sun 1:00 pm vs Atl"
+      "game": "Sun 1:00 pm vs Atl"
      },
      {
       "player": "L. Vegas",
@@ -233625,7 +233625,7 @@
       "game": "Sun 8:20 pm vs Phi"
      },
      {
-      "player": "Cowboys",
+      "player": "Dallas",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 5.4,
@@ -233726,7 +233726,7 @@
       "game": "Sun 4:25 pm @ Mia"
      },
      {
-      "player": "Broncos",
+      "player": "Denver",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 6.76,
@@ -233820,7 +233820,7 @@
       "game": "Sun 8:20 pm vs Phi"
      },
      {
-      "player": "Patriots",
+      "player": "N. England",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 10.11,
@@ -233910,7 +233910,7 @@
       "game": "Sun 8:20 pm @ Was"
      },
      {
-      "player": "Jaguars",
+      "player": "Jacksonville",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 9.49,
@@ -234037,7 +234037,7 @@
       "game": "Sun 1:00 pm @ NYJ"
      },
      {
-      "player": "Seahawks",
+      "player": "Seattle",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 7.22,
@@ -234127,7 +234127,7 @@
       "game": "Sun 4:25 pm @ Mia"
      },
      {
-      "player": "Steelers",
+      "player": "Pittsburgh",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 9.83,
@@ -234196,7 +234196,7 @@
       "pts": 0.0,
       "proj": 17.45,
       "live": 17.45,
-      "game": "Sun 1:00 pm vs Atl"
+      "game": "Sun 1:00 pm vs Atl"
      },
      {
       "player": "J. Warren",
@@ -234218,7 +234218,7 @@
       "pts": 0.0,
       "proj": 15.65,
       "live": 15.65,
-      "game": "Sun 1:00 pm @ TB"
+      "game": "Sun 1:00 pm @ TB"
      },
      {
       "player": "Bengals",
@@ -234251,7 +234251,7 @@
       "pts": 0.0,
       "proj": 9.59,
       "live": 9.59,
-      "game": "Sun 1:00 pm vs Atl"
+      "game": "Sun 1:00 pm vs Atl"
      }
     ],
     "rightActive": [
@@ -234457,7 +234457,7 @@
       "pts": 0.0,
       "proj": 7.33,
       "live": 7.33,
-      "game": "Sun 1:00 pm @ TB"
+      "game": "Sun 1:00 pm @ TB"
      }
     ],
     "rightActive": [
