@@ -1,7 +1,7 @@
 {
  "v": 2,
  "week": 9,
- "ts": "2026-10-31T14:51:14+00:00",
+ "ts": "2026-10-31T15:31:13+00:00",
  "matchups": [
   {
    "id": "1v7",
@@ -122,7 +122,7 @@
      "game": "Sun 4:25 pm vs Ari"
     },
     {
-     "player": "Washington",
+     "player": "Commanders",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 4.09,
@@ -212,7 +212,7 @@
      "game": "Sun 8:20 pm @ Chi"
     },
     {
-     "player": "Cincinnati",
+     "player": "Bengals",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 6.17,
@@ -549,7 +549,7 @@
      "game": "Mon 8:15 pm vs Buf"
     },
     {
-     "player": "Patriots",
+     "player": "N. England",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 6.46,
@@ -617,7 +617,7 @@
      "game": "Sun 4:05 pm vs Hou"
     },
     {
-     "player": "Chiefs",
+     "player": "K. City",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 9.78,
@@ -671,7 +671,7 @@
    "leftScore": 0.0,
    "leftProj": 125.94,
    "rightScore": 0.0,
-   "rightProj": 113.47,
+   "rightProj": 113.46,
    "leftPct": 60,
    "leftRem": 9,
    "rightRem": 8,
@@ -759,7 +759,7 @@
      "game": "Sun 1:00 pm vs Dal"
     },
     {
-     "player": "Seattle",
+     "player": "Seahawks",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 10.1,
@@ -808,11 +808,11 @@
      "player": "Z. Flowers",
      "pos": "WR",
      "slot": "WR",
-     "rem": 17.56,
+     "rem": 17.55,
      "state": "pending",
      "pts": 0.0,
-     "proj": 17.56,
-     "live": 17.56,
+     "proj": 17.55,
+     "live": 17.55,
      "game": "Thu 8:15 pm vs Jax"
     },
     {
@@ -871,7 +871,7 @@
      "game": "Mon 8:15 pm vs Buf"
     },
     {
-     "player": "Indianapolis",
+     "player": "Colts",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 3.99,
@@ -890,7 +890,7 @@
    "right": "Kiwis are better than mid",
    "rightRec": "4-3",
    "leftScore": 0.0,
-   "leftProj": 108.64,
+   "leftProj": 108.63,
    "rightScore": 0.0,
    "rightProj": 86.36,
    "leftPct": 71,
@@ -945,11 +945,11 @@
      "player": "T. Lawrence",
      "pos": "QB",
      "slot": "QB",
-     "rem": 21.59,
+     "rem": 21.58,
      "state": "pending",
      "pts": 0.0,
-     "proj": 21.59,
-     "live": 21.59,
+     "proj": 21.58,
+     "live": 21.58,
      "game": "Thu 8:15 pm @ Bal"
     },
     {
