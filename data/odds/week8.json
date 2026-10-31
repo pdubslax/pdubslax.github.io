@@ -233348,7 +233348,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-10-31T01:09:57+00:00",
+  "ts": "2026-10-31T01:30:04+00:00",
   "week": 8,
   "matchups": [
    {
@@ -233748,7 +233748,7 @@
     "right": "Alex Michael Pagels",
     "rightRec": "2-5",
     "leftScore": 10.8,
-    "leftProj": 136.79,
+    "leftProj": 137.53,
     "rightScore": 21.7,
     "rightProj": 125.68,
     "shotgun": [],
@@ -233801,11 +233801,11 @@
       "player": "D. Swift",
       "pos": "RB",
       "slot": "W/R/T",
-      "rem": 14.03,
+      "rem": 14.77,
       "state": "pending",
       "pts": 0.0,
-      "proj": 14.03,
-      "live": 14.03,
+      "proj": 14.77,
+      "live": 14.77,
       "game": "Mon 8:15 pm @ Sea"
      },
      {
@@ -233932,7 +233932,7 @@
       "game": "Sun 1:00 pm vs Cle"
      }
     ],
-    "leftPct": 59,
+    "leftPct": 60,
     "leftRem": 8,
     "rightRem": 8
    },
@@ -233943,7 +233943,7 @@
     "right": "Tuten Brown",
     "rightRec": "4-3",
     "leftScore": 0.0,
-    "leftProj": 125.52,
+    "leftProj": 125.51,
     "rightScore": 15.8,
     "rightProj": 125.95,
     "shotgun": [],
@@ -233952,11 +233952,11 @@
       "player": "S. Darnold",
       "pos": "QB",
       "slot": "QB",
-      "rem": 19.79,
+      "rem": 19.78,
       "state": "pending",
       "pts": 0.0,
-      "proj": 19.79,
-      "live": 19.79,
+      "proj": 19.78,
+      "live": 19.78,
       "game": "Mon 8:15 pm vs Chi"
      },
      {
