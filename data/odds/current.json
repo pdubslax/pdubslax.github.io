@@ -233348,7 +233348,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-10-31T00:50:06+00:00",
+  "ts": "2026-10-31T01:09:57+00:00",
   "week": 8,
   "matchups": [
    {
@@ -233358,9 +233358,9 @@
     "right": "MELONHEADS (daniel)",
     "rightRec": "4-3",
     "leftScore": 27.5,
-    "leftProj": 113.77,
+    "leftProj": 113.75,
     "rightScore": 0.0,
-    "rightProj": 103.2,
+    "rightProj": 103.33,
     "shotgun": [],
     "leftActive": [
      {
@@ -233383,7 +233383,7 @@
       "pts": 0.0,
       "proj": 20.45,
       "live": 20.45,
-      "game": "Sun 4:05 pm vs LAC"
+      "game": "Sun 4:05 pm vs LAC"
      },
      {
       "player": "S. LaPorta",
@@ -233400,11 +233400,11 @@
       "player": "Commanders",
       "pos": "DEF",
       "slot": "DEF",
-      "rem": 9.38,
+      "rem": 9.36,
       "state": "pending",
       "pts": 0.0,
-      "proj": 9.38,
-      "live": 9.38,
+      "proj": 9.36,
+      "live": 9.36,
       "game": "Sun 8:20 pm vs Phi"
      },
      {
@@ -233451,28 +233451,28 @@
       "pts": 0.0,
       "proj": 22.75,
       "live": 22.75,
-      "game": "Sun 1:00 pm @ TB"
+      "game": "Sun 1:00 pm @ TB"
      },
      {
       "player": "J. Daniels",
       "pos": "QB",
       "slot": "QB",
-      "rem": 22.66,
+      "rem": 22.65,
       "state": "pending",
       "pts": 0.0,
-      "proj": 22.66,
-      "live": 22.66,
+      "proj": 22.65,
+      "live": 22.65,
       "game": "Sun 8:20 pm vs Phi"
      },
      {
       "player": "G. Pickens",
       "pos": "WR",
       "slot": "WR",
-      "rem": 14.87,
+      "rem": 15.01,
       "state": "pending",
       "pts": 0.0,
-      "proj": 14.87,
-      "live": 14.87,
+      "proj": 15.01,
+      "live": 15.01,
       "game": "Sun 1:00 pm vs Ari"
      },
      {
@@ -233517,7 +233517,7 @@
       "pts": 0.0,
       "proj": 6.99,
       "live": 6.99,
-      "game": "Sun 1:00 pm vs Atl"
+      "game": "Sun 1:00 pm vs Atl"
      },
      {
       "player": "Raiders",
@@ -233542,7 +233542,7 @@
     "right": "Sir this is a FF league",
     "rightRec": "3-4",
     "leftScore": 14.8,
-    "leftProj": 119.72,
+    "leftProj": 119.69,
     "rightScore": 0.0,
     "rightProj": 121.37,
     "shotgun": [],
@@ -233562,11 +233562,11 @@
       "player": "C. Brown",
       "pos": "RB",
       "slot": "RB",
-      "rem": 18.05,
+      "rem": 18.04,
       "state": "pending",
       "pts": 0.0,
-      "proj": 18.05,
-      "live": 18.05,
+      "proj": 18.04,
+      "live": 18.04,
       "game": "Sun 1:00 pm vs Ten"
      },
      {
@@ -233584,11 +233584,11 @@
       "player": "M. Wilson",
       "pos": "WR",
       "slot": "WR",
-      "rem": 13.34,
+      "rem": 13.35,
       "state": "pending",
       "pts": 0.0,
-      "proj": 13.34,
-      "live": 13.34,
+      "proj": 13.35,
+      "live": 13.35,
       "game": "Sun 1:00 pm @ Dal"
      },
      {
@@ -233617,11 +233617,11 @@
       "player": "C. Okonkwo",
       "pos": "TE",
       "slot": "TE",
-      "rem": 7.16,
+      "rem": 7.13,
       "state": "pending",
       "pts": 0.0,
-      "proj": 7.16,
-      "live": 7.16,
+      "proj": 7.13,
+      "live": 7.13,
       "game": "Sun 8:20 pm vs Phi"
      },
      {
@@ -233748,9 +233748,9 @@
     "right": "Alex Michael Pagels",
     "rightRec": "2-5",
     "leftScore": 10.8,
-    "leftProj": 136.76,
+    "leftProj": 136.79,
     "rightScore": 21.7,
-    "rightProj": 125.6,
+    "rightProj": 125.68,
     "shotgun": [],
     "leftActive": [
      {
@@ -233768,11 +233768,11 @@
       "player": "J. Brissett",
       "pos": "QB",
       "slot": "QB",
-      "rem": 21.28,
+      "rem": 21.29,
       "state": "pending",
       "pts": 0.0,
-      "proj": 21.28,
-      "live": 21.28,
+      "proj": 21.29,
+      "live": 21.29,
       "game": "Sun 1:00 pm @ Dal"
      },
      {
@@ -233784,17 +233784,17 @@
       "pts": 0.0,
       "proj": 19.09,
       "live": 19.09,
-      "game": "Sun 4:05 pm vs LAC"
+      "game": "Sun 4:05 pm vs LAC"
      },
      {
       "player": "T. McBride",
       "pos": "TE",
       "slot": "TE",
-      "rem": 16.25,
+      "rem": 16.28,
       "state": "pending",
       "pts": 0.0,
-      "proj": 16.25,
-      "live": 16.25,
+      "proj": 16.28,
+      "live": 16.28,
       "game": "Sun 1:00 pm @ Dal"
      },
      {
@@ -233812,11 +233812,11 @@
       "player": "S. Diggs",
       "pos": "WR",
       "slot": "WR",
-      "rem": 11.32,
+      "rem": 11.31,
       "state": "pending",
       "pts": 0.0,
-      "proj": 11.32,
-      "live": 11.32,
+      "proj": 11.31,
+      "live": 11.31,
       "game": "Sun 8:20 pm vs Phi"
      },
      {
@@ -233847,11 +233847,11 @@
       "player": "J. Burrow",
       "pos": "QB",
       "slot": "QB",
-      "rem": 24.38,
+      "rem": 24.36,
       "state": "pending",
       "pts": 0.0,
-      "proj": 24.38,
-      "live": 24.38,
+      "proj": 24.36,
+      "live": 24.36,
       "game": "Sun 1:00 pm vs Ten"
      },
      {
@@ -233869,11 +233869,11 @@
       "player": "S. Barkley",
       "pos": "RB",
       "slot": "RB",
-      "rem": 14.21,
+      "rem": 14.25,
       "state": "pending",
       "pts": 0.0,
-      "proj": 14.21,
-      "live": 14.21,
+      "proj": 14.25,
+      "live": 14.25,
       "game": "Sun 8:20 pm @ Was"
      },
      {
@@ -233902,11 +233902,11 @@
       "player": "D. Goedert",
       "pos": "TE",
       "slot": "TE",
-      "rem": 9.5,
+      "rem": 9.56,
       "state": "pending",
       "pts": 0.0,
-      "proj": 9.5,
-      "live": 9.5,
+      "proj": 9.56,
+      "live": 9.56,
       "game": "Sun 8:20 pm @ Was"
      },
      {
@@ -233943,9 +233943,9 @@
     "right": "Tuten Brown",
     "rightRec": "4-3",
     "leftScore": 0.0,
-    "leftProj": 125.4,
+    "leftProj": 125.52,
     "rightScore": 15.8,
-    "rightProj": 125.97,
+    "rightProj": 125.95,
     "shotgun": [],
     "leftActive": [
      {
@@ -233963,11 +233963,11 @@
       "player": "J. Williams",
       "pos": "RB",
       "slot": "RB",
-      "rem": 18.38,
+      "rem": 18.45,
       "state": "pending",
       "pts": 0.0,
-      "proj": 18.38,
-      "live": 18.38,
+      "proj": 18.45,
+      "live": 18.45,
       "game": "Sun 1:00 pm vs Ari"
      },
      {
@@ -234040,11 +234040,11 @@
       "player": "Seahawks",
       "pos": "DEF",
       "slot": "DEF",
-      "rem": 7.17,
+      "rem": 7.22,
       "state": "pending",
       "pts": 0.0,
-      "proj": 7.17,
-      "live": 7.17,
+      "proj": 7.22,
+      "live": 7.22,
       "game": "Mon 8:15 pm vs Chi"
      }
     ],
@@ -234119,11 +234119,11 @@
       "player": "J. Love",
       "pos": "RB",
       "slot": "W/R/T",
-      "rem": 10.82,
+      "rem": 10.8,
       "state": "pending",
       "pts": 0.0,
-      "proj": 10.82,
-      "live": 10.82,
+      "proj": 10.8,
+      "live": 10.8,
       "game": "Sun 1:00 pm @ Dal"
      },
      {
@@ -234149,20 +234149,20 @@
     "right": "Zen Buddha Boys 🪷💨",
     "rightRec": "4-3",
     "leftScore": 0.0,
-    "leftProj": 146.33,
+    "leftProj": 146.42,
     "rightScore": 23.9,
-    "rightProj": 130.31,
+    "rightProj": 130.32,
     "shotgun": [],
     "leftActive": [
      {
       "player": "D. Prescott",
       "pos": "QB",
       "slot": "QB",
-      "rem": 25.22,
+      "rem": 25.14,
       "state": "pending",
       "pts": 0.0,
-      "proj": 25.22,
-      "live": 25.22,
+      "proj": 25.14,
+      "live": 25.14,
       "game": "Sun 1:00 pm vs Ari"
      },
      {
@@ -234174,17 +234174,17 @@
       "pts": 0.0,
       "proj": 21.45,
       "live": 21.45,
-      "game": "Sun 4:05 pm vs LAC"
+      "game": "Sun 4:05 pm vs LAC"
      },
      {
       "player": "C. Lamb",
       "pos": "WR",
       "slot": "W/R/T",
-      "rem": 20.27,
+      "rem": 20.45,
       "state": "pending",
       "pts": 0.0,
-      "proj": 20.27,
-      "live": 20.27,
+      "proj": 20.45,
+      "live": 20.45,
       "game": "Sun 1:00 pm vs Ari"
      },
      {
@@ -234196,7 +234196,7 @@
       "pts": 0.0,
       "proj": 17.52,
       "live": 17.52,
-      "game": "Sun 1:00 pm vs Atl"
+      "game": "Sun 1:00 pm vs Atl"
      },
      {
       "player": "J. Warren",
@@ -234218,17 +234218,17 @@
       "pts": 0.0,
       "proj": 15.4,
       "live": 15.4,
-      "game": "Sun 1:00 pm @ TB"
+      "game": "Sun 1:00 pm @ TB"
      },
      {
       "player": "Bengals",
       "pos": "DEF",
       "slot": "DEF",
-      "rem": 10.74,
+      "rem": 10.73,
       "state": "pending",
       "pts": 0.0,
-      "proj": 10.74,
-      "live": 10.74,
+      "proj": 10.73,
+      "live": 10.73,
       "game": "Sun 1:00 pm vs Ten"
      },
      {
@@ -234251,7 +234251,7 @@
       "pts": 0.0,
       "proj": 9.59,
       "live": 9.59,
-      "game": "Sun 1:00 pm vs Atl"
+      "game": "Sun 1:00 pm vs Atl"
      }
     ],
     "rightActive": [
@@ -234292,11 +234292,11 @@
       "player": "T. Pollard",
       "pos": "RB",
       "slot": "W/R/T",
-      "rem": 15.4,
+      "rem": 15.41,
       "state": "pending",
       "pts": 0.0,
-      "proj": 15.4,
-      "live": 15.4,
+      "proj": 15.41,
+      "live": 15.41,
       "game": "Sun 1:00 pm @ Cin"
      },
      {
@@ -234357,7 +234357,7 @@
     "leftScore": 0.0,
     "leftProj": 106.22,
     "rightScore": 0.0,
-    "rightProj": 104.67,
+    "rightProj": 104.64,
     "shotgun": [],
     "leftActive": [
      {
@@ -234402,7 +234402,7 @@
       "pts": 0.0,
       "proj": 10.35,
       "live": 10.35,
-      "game": "Sun 4:05 pm @ LAR"
+      "game": "Sun 4:05 pm @ LAR"
      },
      {
       "player": "O. Hampton",
@@ -234413,7 +234413,7 @@
       "pts": 0.0,
       "proj": 10.12,
       "live": 10.12,
-      "game": "Sun 4:05 pm @ LAR"
+      "game": "Sun 4:05 pm @ LAR"
      },
      {
       "player": "O. Cooper Jr.",
@@ -234457,7 +234457,7 @@
       "pts": 0.0,
       "proj": 7.23,
       "live": 7.23,
-      "game": "Sun 1:00 pm @ TB"
+      "game": "Sun 1:00 pm @ TB"
      }
     ],
     "rightActive": [
@@ -234498,11 +234498,11 @@
       "player": "R. White",
       "pos": "RB",
       "slot": "RB",
-      "rem": 12.22,
+      "rem": 12.19,
       "state": "pending",
       "pts": 0.0,
-      "proj": 12.22,
-      "live": 12.22,
+      "proj": 12.19,
+      "live": 12.19,
       "game": "Sun 8:20 pm vs Phi"
      },
      {
