@@ -1,7 +1,7 @@
 {
  "v": 2,
  "week": 9,
- "ts": "2026-10-31T13:31:14+00:00",
+ "ts": "2026-10-31T14:11:15+00:00",
  "matchups": [
   {
    "id": "1v7",
@@ -37,44 +37,44 @@
      "player": "J. Smith-Njigba",
      "pos": "WR",
      "slot": "W/R/T",
-     "rem": 23.56,
+     "rem": 23.59,
      "state": "pending",
      "pts": 0.0,
-     "proj": 23.56,
-     "live": 23.56,
+     "proj": 23.59,
+     "live": 23.59,
      "game": "Sun 4:25 pm vs Ari"
     },
     {
      "player": "M. Stafford",
      "pos": "QB",
      "slot": "QB",
-     "rem": 21.67,
+     "rem": 21.66,
      "state": "pending",
      "pts": 0.0,
-     "proj": 21.67,
-     "live": 21.67,
+     "proj": 21.66,
+     "live": 21.66,
      "game": "Sun 1:00 pm @ Was"
     },
     {
      "player": "M. Golden",
      "pos": "WR",
      "slot": "WR",
-     "rem": 13.14,
+     "rem": 13.09,
      "state": "pending",
      "pts": 0.0,
-     "proj": 13.14,
-     "live": 13.14,
+     "proj": 13.09,
+     "live": 13.09,
      "game": "Sun 4:25 pm @ NE"
     },
     {
      "player": "J. Coker",
      "pos": "WR",
      "slot": "WR",
-     "rem": 12.18,
+     "rem": 12.16,
      "state": "pending",
      "pts": 0.0,
-     "proj": 12.18,
-     "live": 12.18,
+     "proj": 12.16,
+     "live": 12.16,
      "game": "Sun 1:00 pm vs Den"
     },
     {
@@ -114,11 +114,11 @@
      "player": "E. Wilson",
      "pos": "RB",
      "slot": "RB",
-     "rem": 5.13,
+     "rem": 5.12,
      "state": "pending",
      "pts": 0.0,
-     "proj": 5.13,
-     "live": 5.13,
+     "proj": 5.12,
+     "live": 5.12,
      "game": "Sun 4:25 pm vs Ari"
     },
     {
@@ -149,11 +149,11 @@
      "player": "P. Nacua",
      "pos": "WR",
      "slot": "WR",
-     "rem": 21.81,
+     "rem": 21.8,
      "state": "pending",
      "pts": 0.0,
-     "proj": 21.81,
-     "live": 21.81,
+     "proj": 21.8,
+     "live": 21.8,
      "game": "Sun 1:00 pm @ Was"
     },
     {
@@ -182,22 +182,22 @@
      "player": "B. Irving",
      "pos": "RB",
      "slot": "RB",
-     "rem": 16.77,
+     "rem": 16.83,
      "state": "pending",
      "pts": 0.0,
-     "proj": 16.77,
-     "live": 16.77,
+     "proj": 16.83,
+     "live": 16.83,
      "game": "Sun 8:20 pm @ Chi"
     },
     {
      "player": "T. Kelce",
      "pos": "TE",
      "slot": "TE",
-     "rem": 10.87,
+     "rem": 10.88,
      "state": "pending",
      "pts": 0.0,
-     "proj": 10.87,
-     "live": 10.87,
+     "proj": 10.88,
+     "live": 10.88,
      "game": "Sun 1:00 pm vs NYJ"
     },
     {
@@ -759,7 +759,7 @@
      "game": "Sun 1:00 pm vs Dal"
     },
     {
-     "player": "Seahawks",
+     "player": "Seattle",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 10.1,
@@ -871,7 +871,7 @@
      "game": "Mon 8:15 pm vs Buf"
     },
     {
-     "player": "Colts",
+     "player": "Indianapolis",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 3.99,
@@ -1214,7 +1214,7 @@
      "game": "Sun 8:20 pm @ Chi"
     },
     {
-     "player": "L. Vegas",
+     "player": "Raiders",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 3.41,
@@ -1315,7 +1315,7 @@
      "game": "Sun 4:25 pm vs GB"
     },
     {
-     "player": "Denver",
+     "player": "Broncos",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 7.72,

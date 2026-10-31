@@ -233348,7 +233348,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-10-31T13:51:14+00:00",
+  "ts": "2026-10-31T14:11:21+00:00",
   "week": 8,
   "matchups": [
    {
@@ -233360,7 +233360,7 @@
     "leftScore": 27.5,
     "leftProj": 114.08,
     "rightScore": 0.0,
-    "rightProj": 103.38,
+    "rightProj": 103.45,
     "shotgun": [],
     "leftActive": [
      {
@@ -233501,11 +233501,11 @@
       "player": "B. Strange",
       "pos": "TE",
       "slot": "W/R/T",
-      "rem": 9.03,
+      "rem": 9.1,
       "state": "pending",
       "pts": 0.0,
-      "proj": 9.03,
-      "live": 9.03,
+      "proj": 9.1,
+      "live": 9.1,
       "game": "Sun 1:00 pm vs Ind"
      },
      {
@@ -233542,20 +233542,20 @@
     "right": "Sir this is a FF league",
     "rightRec": "3-4",
     "leftScore": 14.8,
-    "leftProj": 119.79,
+    "leftProj": 119.75,
     "rightScore": 0.0,
-    "rightProj": 122.11,
+    "rightProj": 122.04,
     "shotgun": [],
     "leftActive": [
      {
       "player": "D. Maye",
       "pos": "QB",
       "slot": "QB",
-      "rem": 24.24,
+      "rem": 24.2,
       "state": "pending",
       "pts": 0.0,
-      "proj": 24.24,
-      "live": 24.24,
+      "proj": 24.2,
+      "live": 24.2,
       "game": "Sun 4:25 pm @ Mia"
      },
      {
@@ -233625,7 +233625,7 @@
       "game": "Sun 8:20 pm vs Phi"
      },
      {
-      "player": "Dallas",
+      "player": "Cowboys",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 5.4,
@@ -233685,11 +233685,11 @@
       "player": "R. Stevenson",
       "pos": "RB",
       "slot": "W/R/T",
-      "rem": 13.35,
+      "rem": 13.32,
       "state": "pending",
       "pts": 0.0,
-      "proj": 13.35,
-      "live": 13.35,
+      "proj": 13.32,
+      "live": 13.32,
       "game": "Sun 4:25 pm @ Mia"
      },
      {
@@ -233718,15 +233718,15 @@
       "player": "H. Henry",
       "pos": "TE",
       "slot": "TE",
-      "rem": 9.46,
+      "rem": 9.42,
       "state": "pending",
       "pts": 0.0,
-      "proj": 9.46,
-      "live": 9.46,
+      "proj": 9.42,
+      "live": 9.42,
       "game": "Sun 4:25 pm @ Mia"
      },
      {
-      "player": "Denver",
+      "player": "Broncos",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 6.76,
@@ -233750,7 +233750,7 @@
     "leftScore": 10.8,
     "leftProj": 137.73,
     "rightScore": 21.7,
-    "rightProj": 126.89,
+    "rightProj": 126.86,
     "shotgun": [],
     "leftActive": [
      {
@@ -233891,11 +233891,11 @@
       "player": "KC Concepcion Jr.",
       "pos": "WR",
       "slot": "WR",
-      "rem": 9.78,
+      "rem": 9.75,
       "state": "pending",
       "pts": 0.0,
-      "proj": 9.78,
-      "live": 9.78,
+      "proj": 9.75,
+      "live": 9.75,
       "game": "Sun 1:00 pm @ Pit"
      },
      {
@@ -233913,22 +233913,22 @@
       "player": "Jaguars",
       "pos": "DEF",
       "slot": "DEF",
-      "rem": 9.47,
+      "rem": 9.49,
       "state": "pending",
       "pts": 0.0,
-      "proj": 9.47,
-      "live": 9.47,
+      "proj": 9.49,
+      "live": 9.49,
       "game": "Sun 1:00 pm vs Ind"
      },
      {
       "player": "C. Boswell",
       "pos": "K",
       "slot": "K",
-      "rem": 9.25,
+      "rem": 9.23,
       "state": "pending",
       "pts": 0.0,
-      "proj": 9.25,
-      "live": 9.25,
+      "proj": 9.23,
+      "live": 9.23,
       "game": "Sun 1:00 pm vs Cle"
      }
     ],
@@ -233943,7 +233943,7 @@
     "right": "Tuten Brown",
     "rightRec": "4-3",
     "leftScore": 0.0,
-    "leftProj": 126.16,
+    "leftProj": 126.12,
     "rightScore": 15.8,
     "rightProj": 126.62,
     "shotgun": [],
@@ -233996,11 +233996,11 @@
       "player": "P. Washington",
       "pos": "WR",
       "slot": "WR",
-      "rem": 14.47,
+      "rem": 14.42,
       "state": "pending",
       "pts": 0.0,
-      "proj": 14.47,
-      "live": 14.47,
+      "proj": 14.42,
+      "live": 14.42,
       "game": "Sun 1:00 pm vs Ind"
      },
      {
@@ -234018,11 +234018,11 @@
       "player": "T. Warren",
       "pos": "TE",
       "slot": "TE",
-      "rem": 10.1,
+      "rem": 10.11,
       "state": "pending",
       "pts": 0.0,
-      "proj": 10.1,
-      "live": 10.1,
+      "proj": 10.11,
+      "live": 10.11,
       "game": "Sun 1:00 pm @ Jax"
      },
      {
@@ -234119,22 +234119,22 @@
       "player": "A.J. Brown",
       "pos": "WR",
       "slot": "WR",
-      "rem": 11.12,
+      "rem": 11.14,
       "state": "pending",
       "pts": 0.0,
-      "proj": 11.12,
-      "live": 11.12,
+      "proj": 11.14,
+      "live": 11.14,
       "game": "Sun 4:25 pm @ Mia"
      },
      {
       "player": "Steelers",
       "pos": "DEF",
       "slot": "DEF",
-      "rem": 9.85,
+      "rem": 9.83,
       "state": "pending",
       "pts": 0.0,
-      "proj": 9.85,
-      "live": 9.85,
+      "proj": 9.83,
+      "live": 9.83,
       "game": "Sun 1:00 pm vs Cle"
      }
     ],
@@ -234149,9 +234149,9 @@
     "right": "Zen Buddha Boys 🪷💨",
     "rightRec": "4-3",
     "leftScore": 0.0,
-    "leftProj": 146.59,
+    "leftProj": 146.58,
     "rightScore": 23.9,
-    "rightProj": 130.22,
+    "rightProj": 130.24,
     "shotgun": [],
     "leftActive": [
      {
@@ -234202,11 +234202,11 @@
       "player": "J. Warren",
       "pos": "RB",
       "slot": "RB",
-      "rem": 16.01,
+      "rem": 16.0,
       "state": "pending",
       "pts": 0.0,
-      "proj": 16.01,
-      "live": 16.01,
+      "proj": 16.0,
+      "live": 16.0,
       "game": "Sun 1:00 pm vs Cle"
      },
      {
@@ -234336,11 +234336,11 @@
       "player": "Colts",
       "pos": "DEF",
       "slot": "DEF",
-      "rem": 4.31,
+      "rem": 4.33,
       "state": "pending",
       "pts": 0.0,
-      "proj": 4.31,
-      "live": 4.31,
+      "proj": 4.33,
+      "live": 4.33,
       "game": "Sun 1:00 pm @ Jax"
      }
     ],
@@ -234357,7 +234357,7 @@
     "leftScore": 0.0,
     "leftProj": 106.6,
     "rightScore": 0.0,
-    "rightProj": 105.33,
+    "rightProj": 105.3,
     "shotgun": [],
     "leftActive": [
      {
@@ -234509,11 +234509,11 @@
       "player": "DK Metcalf",
       "pos": "WR",
       "slot": "WR",
-      "rem": 11.42,
+      "rem": 11.39,
       "state": "pending",
       "pts": 0.0,
-      "proj": 11.42,
-      "live": 11.42,
+      "proj": 11.39,
+      "live": 11.39,
       "game": "Sun 1:00 pm vs Cle"
      },
      {
