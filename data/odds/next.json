@@ -1,7 +1,7 @@
 {
  "v": 2,
  "week": 9,
- "ts": "2026-10-31T22:52:46+00:00",
+ "ts": "2026-10-31T23:32:46+00:00",
  "matchups": [
   {
    "id": "1v7",
@@ -10,10 +10,10 @@
    "right": "James Ray Ervin Yonts",
    "rightRec": "4-3",
    "leftScore": 0.0,
-   "leftProj": 106.87,
+   "leftProj": 108.05,
    "rightScore": 0.0,
    "rightProj": 122.39,
-   "leftPct": 38,
+   "leftPct": 39,
    "leftRem": 9,
    "rightRem": 8,
    "shotgun": [
@@ -103,11 +103,11 @@
      "player": "J.K. Dobbins",
      "pos": "RB",
      "slot": "RB",
-     "rem": 7.08,
+     "rem": 8.26,
      "state": "pending",
      "pts": 0.0,
-     "proj": 7.08,
-     "live": 7.08,
+     "proj": 8.26,
+     "live": 8.26,
      "game": "Sun 1:00 pm @ Car"
     },
     {
@@ -233,8 +233,8 @@
    "leftScore": 0.0,
    "leftProj": 114.17,
    "rightScore": 0.0,
-   "rightProj": 99.23,
-   "leftPct": 64,
+   "rightProj": 100.11,
+   "leftPct": 63,
    "leftRem": 9,
    "rightRem": 8,
    "shotgun": [
@@ -403,11 +403,11 @@
      "player": "J. Coleman",
      "pos": "RB",
      "slot": "W/R/T",
-     "rem": 10.59,
+     "rem": 11.47,
      "state": "pending",
      "pts": 0.0,
-     "proj": 10.59,
-     "live": 10.59,
+     "proj": 11.47,
+     "live": 11.47,
      "game": "Sun 1:00 pm @ Car"
     },
     {
@@ -890,13 +890,27 @@
    "right": "Kiwis are better than mid",
    "rightRec": "4-3",
    "leftScore": 0.0,
-   "leftProj": 108.84,
+   "leftProj": 95.47,
    "rightScore": 0.0,
    "rightProj": 95.81,
-   "leftPct": 62,
-   "leftRem": 8,
+   "leftPct": 50,
+   "leftRem": 7,
    "rightRem": 8,
    "shotgun": [
+    {
+     "player": "W. Robinson",
+     "pos": "WR",
+     "team": "Ten",
+     "pts": 0.0,
+     "game": "Bye",
+     "tag": null,
+     "state": "bye",
+     "slot": "WR",
+     "manager": "Tuten Brown",
+     "locked": false,
+     "live": 0.0,
+     "reason": "pts"
+    },
     {
      "player": "DK Metcalf",
      "pos": "WR",
@@ -948,17 +962,6 @@
      "proj": 19.36,
      "live": 19.36,
      "game": "Sun 1:00 pm vs Dal"
-    },
-    {
-     "player": "A.J. Brown",
-     "pos": "WR",
-     "slot": "WR",
-     "rem": 13.37,
-     "state": "pending",
-     "pts": 0.0,
-     "proj": 13.37,
-     "live": 13.37,
-     "game": "Sun 4:25 pm vs GB"
     },
     {
      "player": "B. Tuten",

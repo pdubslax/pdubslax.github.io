@@ -233348,7 +233348,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-10-31T23:12:47+00:00",
+  "ts": "2026-10-31T23:32:55+00:00",
   "week": 8,
   "matchups": [
    {
@@ -233748,9 +233748,9 @@
     "right": "Alex Michael Pagels",
     "rightRec": "2-5",
     "leftScore": 10.8,
-    "leftProj": 137.69,
+    "leftProj": 137.68,
     "rightScore": 21.7,
-    "rightProj": 126.74,
+    "rightProj": 126.71,
     "shotgun": [],
     "leftActive": [
      {
@@ -233801,11 +233801,11 @@
       "player": "D. Swift",
       "pos": "RB",
       "slot": "W/R/T",
-      "rem": 15.59,
+      "rem": 15.58,
       "state": "pending",
       "pts": 0.0,
-      "proj": 15.59,
-      "live": 15.59,
+      "proj": 15.58,
+      "live": 15.58,
       "game": "Mon 8:15 pm @ Sea"
      },
      {
@@ -233891,11 +233891,11 @@
       "player": "KC Concepcion Jr.",
       "pos": "WR",
       "slot": "WR",
-      "rem": 9.75,
+      "rem": 9.72,
       "state": "pending",
       "pts": 0.0,
-      "proj": 9.75,
-      "live": 9.75,
+      "proj": 9.72,
+      "live": 9.72,
       "game": "Sun 1:00 pm @ Pit"
      },
      {
@@ -234149,7 +234149,7 @@
     "right": "Zen Buddha Boys 🪷💨",
     "rightRec": "4-3",
     "leftScore": 0.0,
-    "leftProj": 146.38,
+    "leftProj": 146.43,
     "rightScore": 23.9,
     "rightProj": 130.35,
     "shotgun": [],
@@ -234202,11 +234202,11 @@
       "player": "J. Warren",
       "pos": "RB",
       "slot": "RB",
-      "rem": 16.0,
+      "rem": 16.05,
       "state": "pending",
       "pts": 0.0,
-      "proj": 16.0,
-      "live": 16.0,
+      "proj": 16.05,
+      "live": 16.05,
       "game": "Sun 1:00 pm vs Cle"
      },
      {
@@ -234357,7 +234357,7 @@
     "leftScore": 0.0,
     "leftProj": 106.59,
     "rightScore": 0.0,
-    "rightProj": 113.87,
+    "rightProj": 113.82,
     "shotgun": [],
     "leftActive": [
      {
@@ -234509,11 +234509,11 @@
       "player": "DK Metcalf",
       "pos": "WR",
       "slot": "WR",
-      "rem": 11.39,
+      "rem": 11.34,
       "state": "pending",
       "pts": 0.0,
-      "proj": 11.39,
-      "live": 11.39,
+      "proj": 11.34,
+      "live": 11.34,
       "game": "Sun 1:00 pm vs Cle"
      },
      {
