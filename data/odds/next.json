@@ -1,7 +1,7 @@
 {
  "v": 2,
  "week": 9,
- "ts": "2026-10-30T23:49:17+00:00",
+ "ts": "2026-10-31T00:29:17+00:00",
  "matchups": [
   {
    "id": "1v7",
@@ -890,10 +890,10 @@
    "right": "Kiwis are better than mid",
    "rightRec": "4-3",
    "leftScore": 0.0,
-   "leftProj": 107.9,
+   "leftProj": 108.81,
    "rightScore": 0.0,
    "rightProj": 86.36,
-   "leftPct": 70,
+   "leftPct": 71,
    "leftRem": 8,
    "rightRem": 7,
    "shotgun": [
@@ -1019,15 +1019,15 @@
      "game": "Sun 4:25 pm @ NE"
     },
     {
-     "player": "C. Douglas",
-     "pos": "WR",
+     "player": "J. Love",
+     "pos": "RB",
      "slot": "W/R/T",
-     "rem": 8.05,
+     "rem": 8.96,
      "state": "pending",
      "pts": 0.0,
-     "proj": 8.05,
-     "live": 8.05,
-     "game": "Sun 1:00 pm vs Det"
+     "proj": 8.96,
+     "live": 8.96,
+     "game": "Sun 4:25 pm @ Sea"
     }
    ],
    "rightActive": [

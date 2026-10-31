@@ -233348,7 +233348,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-10-31T00:09:16+00:00",
+  "ts": "2026-10-31T00:29:27+00:00",
   "week": 8,
   "matchups": [
    {
@@ -233945,7 +233945,7 @@
     "leftScore": 0.0,
     "leftProj": 125.4,
     "rightScore": 15.8,
-    "rightProj": 122.88,
+    "rightProj": 125.97,
     "shotgun": [],
     "leftActive": [
      {
@@ -234116,6 +234116,17 @@
       "game": "Sun 4:25 pm @ Mia"
      },
      {
+      "player": "J. Love",
+      "pos": "RB",
+      "slot": "W/R/T",
+      "rem": 10.82,
+      "state": "pending",
+      "pts": 0.0,
+      "proj": 10.82,
+      "live": 10.82,
+      "game": "Sun 1:00 pm @ Dal"
+     },
+     {
       "player": "Steelers",
       "pos": "DEF",
       "slot": "DEF",
@@ -234125,20 +234136,9 @@
       "proj": 9.86,
       "live": 9.86,
       "game": "Sun 1:00 pm vs Cle"
-     },
-     {
-      "player": "C. Douglas",
-      "pos": "WR",
-      "slot": "W/R/T",
-      "rem": 7.73,
-      "state": "pending",
-      "pts": 0.0,
-      "proj": 7.73,
-      "live": 7.73,
-      "game": "Sun 4:25 pm vs NE"
      }
     ],
-    "leftPct": 52,
+    "leftPct": 50,
     "leftRem": 9,
     "rightRem": 8
    },
