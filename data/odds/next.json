@@ -1,7 +1,7 @@
 {
  "v": 2,
  "week": 9,
- "ts": "2026-10-31T03:29:57+00:00",
+ "ts": "2026-10-31T04:09:57+00:00",
  "matchups": [
   {
    "id": "1v7",
@@ -231,7 +231,7 @@
    "right": "Alex Michael Pagels",
    "rightRec": "2-5",
    "leftScore": 0.0,
-   "leftProj": 114.05,
+   "leftProj": 114.04,
    "rightScore": 0.0,
    "rightProj": 99.25,
    "leftPct": 64,
@@ -269,11 +269,11 @@
      "player": "D. Henry",
      "pos": "RB",
      "slot": "RB",
-     "rem": 16.9,
+     "rem": 16.89,
      "state": "pending",
      "pts": 0.0,
-     "proj": 16.9,
-     "live": 16.9,
+     "proj": 16.89,
+     "live": 16.89,
      "game": "Thu 8:15 pm vs Jax"
     },
     {
@@ -669,9 +669,9 @@
    "right": "Zen Buddha Boys 🪷💨",
    "rightRec": "4-3",
    "leftScore": 0.0,
-   "leftProj": 125.93,
+   "leftProj": 125.94,
    "rightScore": 0.0,
-   "rightProj": 113.51,
+   "rightProj": 113.52,
    "leftPct": 60,
    "leftRem": 9,
    "rightRem": 8,
@@ -740,11 +740,11 @@
      "player": "P. Washington",
      "pos": "WR",
      "slot": "WR",
-     "rem": 14.87,
+     "rem": 14.88,
      "state": "pending",
      "pts": 0.0,
-     "proj": 14.87,
-     "live": 14.87,
+     "proj": 14.88,
+     "live": 14.88,
      "game": "Thu 8:15 pm @ Bal"
     },
     {
@@ -808,11 +808,11 @@
      "player": "Z. Flowers",
      "pos": "WR",
      "slot": "WR",
-     "rem": 17.53,
+     "rem": 17.54,
      "state": "pending",
      "pts": 0.0,
-     "proj": 17.53,
-     "live": 17.53,
+     "proj": 17.54,
+     "live": 17.54,
      "game": "Thu 8:15 pm vs Jax"
     },
     {
@@ -890,7 +890,7 @@
    "right": "Kiwis are better than mid",
    "rightRec": "4-3",
    "leftScore": 0.0,
-   "leftProj": 108.62,
+   "leftProj": 108.63,
    "rightScore": 0.0,
    "rightProj": 86.39,
    "leftPct": 71,
@@ -945,11 +945,11 @@
      "player": "T. Lawrence",
      "pos": "QB",
      "slot": "QB",
-     "rem": 21.57,
+     "rem": 21.58,
      "state": "pending",
      "pts": 0.0,
-     "proj": 21.57,
-     "live": 21.57,
+     "proj": 21.58,
+     "live": 21.58,
      "game": "Thu 8:15 pm @ Bal"
     },
     {
