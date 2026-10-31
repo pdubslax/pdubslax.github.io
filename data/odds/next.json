@@ -1,7 +1,7 @@
 {
  "v": 2,
  "week": 9,
- "ts": "2026-10-31T14:11:15+00:00",
+ "ts": "2026-10-31T14:51:14+00:00",
  "matchups": [
   {
    "id": "1v7",
@@ -122,7 +122,7 @@
      "game": "Sun 4:25 pm vs Ari"
     },
     {
-     "player": "Commanders",
+     "player": "Washington",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 4.09,
@@ -212,7 +212,7 @@
      "game": "Sun 8:20 pm @ Chi"
     },
     {
-     "player": "Bengals",
+     "player": "Cincinnati",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 6.17,
