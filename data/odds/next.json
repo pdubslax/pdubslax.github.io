@@ -1,7 +1,7 @@
 {
  "v": 2,
  "week": 9,
- "ts": "2026-10-31T22:12:47+00:00",
+ "ts": "2026-10-31T22:52:46+00:00",
  "matchups": [
   {
    "id": "1v7",
@@ -669,7 +669,7 @@
    "right": "Zen Buddha Boys 🪷💨",
    "rightRec": "4-3",
    "leftScore": 0.0,
-   "leftProj": 125.88,
+   "leftProj": 125.87,
    "rightScore": 0.0,
    "rightProj": 113.57,
    "leftPct": 60,
@@ -696,11 +696,11 @@
      "player": "S. Darnold",
      "pos": "QB",
      "slot": "QB",
-     "rem": 20.57,
+     "rem": 20.56,
      "state": "pending",
      "pts": 0.0,
-     "proj": 20.57,
-     "live": 20.57,
+     "proj": 20.56,
+     "live": 20.56,
      "game": "Sun 4:25 pm vs Ari"
     },
     {
@@ -892,10 +892,10 @@
    "leftScore": 0.0,
    "leftProj": 108.84,
    "rightScore": 0.0,
-   "rightProj": 86.36,
-   "leftPct": 71,
+   "rightProj": 95.81,
+   "leftPct": 62,
    "leftRem": 8,
-   "rightRem": 7,
+   "rightRem": 8,
    "shotgun": [
     {
      "player": "DK Metcalf",
@@ -906,20 +906,6 @@
      "tag": null,
      "state": "bye",
      "slot": "WR",
-     "manager": "Kiwis are better than mid",
-     "locked": false,
-     "live": 0.0,
-     "reason": "pts"
-    },
-    {
-     "player": "C. Tate",
-     "pos": "WR",
-     "team": "Ten",
-     "pts": 0.0,
-     "game": "Bye",
-     "tag": null,
-     "state": "bye",
-     "slot": "W/R/T",
      "manager": "Kiwis are better than mid",
      "locked": false,
      "live": 0.0,
@@ -1085,6 +1071,17 @@
      "proj": 9.94,
      "live": 9.94,
      "game": "Mon 8:15 pm vs Buf"
+    },
+    {
+     "player": "K. Allen",
+     "pos": "WR",
+     "slot": "W/R/T",
+     "rem": 9.45,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 9.45,
+     "live": 9.45,
+     "game": "Sun 1:00 pm vs Dal"
     },
     {
      "player": "W. Lutz",
