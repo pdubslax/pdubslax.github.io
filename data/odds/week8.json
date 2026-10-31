@@ -233348,7 +233348,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-10-31T20:12:01+00:00",
+  "ts": "2026-10-31T20:32:10+00:00",
   "week": 8,
   "matchups": [
    {
@@ -233750,7 +233750,7 @@
     "leftScore": 10.8,
     "leftProj": 138.43,
     "rightScore": 21.7,
-    "rightProj": 126.6,
+    "rightProj": 126.64,
     "shotgun": [],
     "leftActive": [
      {
@@ -233891,11 +233891,11 @@
       "player": "KC Concepcion Jr.",
       "pos": "WR",
       "slot": "WR",
-      "rem": 9.75,
+      "rem": 9.77,
       "state": "pending",
       "pts": 0.0,
-      "proj": 9.75,
-      "live": 9.75,
+      "proj": 9.77,
+      "live": 9.77,
       "game": "Sun 1:00 pm @ Pit"
      },
      {
@@ -233924,11 +233924,11 @@
       "player": "C. Boswell",
       "pos": "K",
       "slot": "K",
-      "rem": 9.23,
+      "rem": 9.25,
       "state": "pending",
       "pts": 0.0,
-      "proj": 9.23,
-      "live": 9.23,
+      "proj": 9.25,
+      "live": 9.25,
       "game": "Sun 1:00 pm vs Cle"
      }
     ],
@@ -233945,7 +233945,7 @@
     "leftScore": 0.0,
     "leftProj": 126.28,
     "rightScore": 15.8,
-    "rightProj": 115.48,
+    "rightProj": 115.5,
     "shotgun": [],
     "leftActive": [
      {
@@ -234119,11 +234119,11 @@
       "player": "Steelers",
       "pos": "DEF",
       "slot": "DEF",
-      "rem": 9.83,
+      "rem": 9.85,
       "state": "pending",
       "pts": 0.0,
-      "proj": 9.83,
-      "live": 9.83,
+      "proj": 9.85,
+      "live": 9.85,
       "game": "Sun 1:00 pm vs Cle"
      }
     ],
@@ -234138,7 +234138,7 @@
     "right": "Zen Buddha Boys 🪷💨",
     "rightRec": "4-3",
     "leftScore": 0.0,
-    "leftProj": 146.62,
+    "leftProj": 146.63,
     "rightScore": 23.9,
     "rightProj": 130.49,
     "shotgun": [],
@@ -234191,11 +234191,11 @@
       "player": "J. Warren",
       "pos": "RB",
       "slot": "RB",
-      "rem": 16.0,
+      "rem": 16.01,
       "state": "pending",
       "pts": 0.0,
-      "proj": 16.0,
-      "live": 16.0,
+      "proj": 16.01,
+      "live": 16.01,
       "game": "Sun 1:00 pm vs Cle"
      },
      {
@@ -234346,7 +234346,7 @@
     "leftScore": 0.0,
     "leftProj": 106.58,
     "rightScore": 0.0,
-    "rightProj": 105.24,
+    "rightProj": 105.26,
     "shotgun": [],
     "leftActive": [
      {
@@ -234498,11 +234498,11 @@
       "player": "DK Metcalf",
       "pos": "WR",
       "slot": "WR",
-      "rem": 11.39,
+      "rem": 11.41,
       "state": "pending",
       "pts": 0.0,
-      "proj": 11.39,
-      "live": 11.39,
+      "proj": 11.41,
+      "live": 11.41,
       "game": "Sun 1:00 pm vs Cle"
      },
      {
