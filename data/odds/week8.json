@@ -233348,7 +233348,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-01T14:34:52+00:00",
+  "ts": "2026-11-01T14:54:44+00:00",
   "week": 8,
   "matchups": [
    {
@@ -233555,7 +233555,7 @@
     "leftScore": 14.8,
     "leftProj": 121.46,
     "rightScore": 0.0,
-    "rightProj": 117.54,
+    "rightProj": 127.45,
     "shotgun": [],
     "leftActive": [
      {
@@ -233693,6 +233693,17 @@
       "game": "Sun 1:00 pm @ Det"
      },
      {
+      "player": "B. Allen",
+      "pos": "RB",
+      "slot": "RB",
+      "rem": 15.31,
+      "state": "pending",
+      "pts": 0.0,
+      "proj": 15.31,
+      "live": 15.31,
+      "game": "Sun 1:00 pm vs LV"
+     },
+     {
       "player": "E. McPherson",
       "pos": "K",
       "slot": "K",
@@ -233735,20 +233746,9 @@
       "proj": 6.79,
       "live": 6.79,
       "game": "Sun 4:25 pm vs KC"
-     },
-     {
-      "player": "B. Hall",
-      "pos": "RB",
-      "slot": "RB",
-      "rem": 5.4,
-      "state": "pending",
-      "pts": 0.0,
-      "proj": 5.4,
-      "live": 5.4,
-      "game": "Sun 1:00 pm vs LV"
      }
     ],
-    "leftPct": 53,
+    "leftPct": 45,
     "leftRem": 8,
     "rightRem": 9
    },
@@ -233842,7 +233842,7 @@
       "game": "Sun 1:00 pm @ Det"
      },
      {
-      "player": "N. England",
+      "player": "Patriots",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 9.47,
@@ -233921,7 +233921,7 @@
       "game": "Sun 8:20 pm @ Was"
      },
      {
-      "player": "Jacksonville",
+      "player": "Jaguars",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 9.55,
