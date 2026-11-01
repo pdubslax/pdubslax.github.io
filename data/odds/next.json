@@ -1,7 +1,7 @@
 {
  "v": 2,
  "week": 9,
- "ts": "2026-11-01T01:32:47+00:00",
+ "ts": "2026-11-01T01:53:27+00:00",
  "matchups": [
   {
    "id": "1v7",
@@ -1117,10 +1117,10 @@
    "right": "Sir this is a FF league",
    "rightRec": "3-4",
    "leftScore": 0.0,
-   "leftProj": 107.46,
+   "leftProj": 105.8,
    "rightScore": 0.0,
    "rightProj": 118.24,
-   "leftPct": 41,
+   "leftPct": 39,
    "leftRem": 9,
    "rightRem": 9,
    "shotgun": [],
@@ -1170,17 +1170,6 @@
      "game": "Sun 1:00 pm @ Mia"
     },
     {
-     "player": "D. Smith",
-     "pos": "WR",
-     "slot": "WR",
-     "rem": 9.51,
-     "state": "pending",
-     "pts": 0.0,
-     "proj": 9.51,
-     "live": 9.51,
-     "game": "Sun 1:00 pm vs NYG"
-    },
-    {
      "player": "D. Kincaid",
      "pos": "TE",
      "slot": "TE",
@@ -1201,6 +1190,17 @@
      "proj": 9.24,
      "live": 9.24,
      "game": "Thu 8:15 pm @ Bal"
+    },
+    {
+     "player": "K. Shakir",
+     "pos": "WR",
+     "slot": "WR",
+     "rem": 7.85,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 7.85,
+     "live": 7.85,
+     "game": "Mon 8:15 pm @ Min"
     },
     {
      "player": "K. Gainwell",
