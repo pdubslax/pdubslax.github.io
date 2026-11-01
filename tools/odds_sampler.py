@@ -25,6 +25,36 @@ def week_meta(week):
     return ({"segments": [dict(label=l, start=a.isoformat(), end=b.isoformat(), w=w) for l, a, b, w in segs],
              "ticks": [dict(at=sun.replace(hour=16, minute=5).isoformat()), dict(at=sun.replace(hour=20, minute=20).isoformat())]})
 
+def slot_label(t):
+    """Short band label for a kickoff slot: TNF/SNF/MNF for night games, otherwise the time, prefixed by the day unless it is Sunday."""
+    wd, h = t.weekday(), t.hour + t.minute / 60
+    if h >= 19: return {3: "TNF", 6: "SNF", 0: "MNF"}.get(wd, t.strftime("%a").upper() + " NT")
+    h12 = t.hour % 12 or 12
+    tm = f"{h12}{'PM' if t.hour >= 12 else 'AM'}" if t.minute < 30 else f"{h12}:{t.minute:02d}"   # 1:00/4:05/4:25 -> hour, 9:30/12:30 -> as is
+    return tm if wd == 6 else f"{t.strftime('%a').upper()} {tm}"
+
+def nfl_windows(week):
+    """This week's real game windows from ESPN's schedule: kickoffs within 30 minutes of each other share a slot (1:00/1:05, 4:05/4:25),
+    a slot runs 195 minutes past its last kickoff or hands off at the next kickoff, and each carries its game count for the chart's widths.
+    So a London 9:30, a Thanksgiving triple-header, Saturday games or a week with no morning game all lay out from the schedule."""
+    try:
+        d = json.loads(get(f"https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?week={week}&seasontype=2&dates={WEEK1_THU.year}"))
+        kicks = sorted(datetime.datetime.fromisoformat(e["date"].replace("Z", "+00:00")).astimezone(ET) for e in d["events"]
+                       if e.get("timeValid", True) and e["competitions"][0].get("timeValid", True))   # late-season TBD kickoffs sit at midnight
+    except Exception as e:
+        print("schedule fetch failed:", e, file=sys.stderr); return None
+    if not kicks: return None
+    slots = []
+    for k in kicks:
+        if slots and (k - slots[-1]["start"]).total_seconds() <= 30 * 60: slots[-1]["games"] += 1; slots[-1]["last"] = k
+        else: slots.append({"start": k, "last": k, "games": 1})
+    out = []
+    for i, sl in enumerate(slots):
+        end = sl["last"] + timedelta(minutes=195)
+        if i + 1 < len(slots) and slots[i + 1]["start"] < end: end = slots[i + 1]["start"]
+        out.append(dict(label=slot_label(sl["start"]), start=sl["start"].isoformat(), end=end.isoformat(), games=sl["games"]))
+    return out
+
 def current_week():
     rz = json.loads(get(f"https://pub-api.fantasysports.yahoo.com/fantasy/v3/redzone/nfl?league_id={LEAGUE}&format=json"))
     return int(rz["service"]["leagues"][str(LEAGUE)]["weekInfo"]["week"])
@@ -154,7 +184,7 @@ async def odds_for(page, week, mid):
     pct = int(m.group(m.lastindex)) if m else None
     return pct, rem, body, rows
 
-PREVIEW_V = 2  # bump to force a refresh of next.json after a format change
+PREVIEW_V = 3  # bump to force a refresh of next.json after a format change
 
 async def preview_next(out_dir, nweek, max_age_min=20):
     """Snapshot next week's matchups (odds, projections, starters) so the page can stage the upcoming slate. Refreshed at most every max_age_min."""
@@ -184,7 +214,7 @@ async def preview_next(out_dir, nweek, max_age_min=20):
                 row["shotgun"] = shotgun_entries(rows_, row["left"], row["right"])
                 row["leftActive"] = active_starters(rows_, "L"); row["rightActive"] = active_starters(rows_, "R")
         await browser.close()
-    json.dump(dict(v=PREVIEW_V, week=nweek, ts=datetime.datetime.now(datetime.timezone.utc).isoformat(timespec="seconds"), matchups=rows), open(path, "w"), ensure_ascii=False, indent=1)
+    json.dump(dict(v=PREVIEW_V, week=nweek, ts=datetime.datetime.now(datetime.timezone.utc).isoformat(timespec="seconds"), matchups=rows, windows=nfl_windows(nweek)), open(path, "w"), ensure_ascii=False, indent=1)
     print(f"next week {nweek}: {len(rows)} matchups previewed")
 
 async def main(out_dir):
@@ -195,6 +225,9 @@ async def main(out_dir):
     path = os.path.join(out_dir, f"week{week}.json")
     hist = json.load(open(path)) if os.path.exists(path) else {"week": week, "samples": []}
     hist.update(meta)
+    windows = nfl_windows(week)
+    if windows: hist["windows"] = windows
+    windows = hist.get("windows")
     async with async_playwright() as p:
         browser = await p.chromium.launch()
         ctx = await browser.new_context(user_agent=UA, viewport={"width": 1280, "height": 900})
@@ -248,9 +281,10 @@ async def main(out_dir):
     last_had_live = bool(hist["samples"]) and any(a.get("state") == "live" for r in hist["samples"][-1]["matchups"] for k in ("leftActive", "rightActive") for a in r.get(k, []))
     # Catch-up: if the sampler was down through a game (GitHub outage, broken chain), the first pass back finds scores, odds or
     # players-remaining that moved since the last sample. Record that so the week's finals land even when no window is open.
-    def state_of(ms): return {m["id"]: (round(m.get("leftScore") or 0, 2), round(m.get("rightScore") or 0, 2), m.get("leftPct"), m.get("leftRem"), m.get("rightRem")) for m in ms}
+    # Scores only: odds and players-remaining also move with lineup changes between games, and those are not chart material.
+    def state_of(ms): return {m["id"]: (round(m.get("leftScore") or 0, 2), round(m.get("rightScore") or 0, 2)) for m in ms}
     moved = underway and bool(hist["samples"]) and state_of(hist["samples"][-1]["matchups"]) != state_of(good)
-    recorded = any_live or last_had_live or moved or (in_window() and underway)
+    recorded = any_live or last_had_live or moved or (in_window(windows=windows) and underway)
     if recorded:
         hist["samples"].append(snapshot); hist.pop("preview", None)
     else:
@@ -263,9 +297,12 @@ async def main(out_dir):
     for r in good: print(f"  {r['leftPct']:>3}% {r['left']} vs {r['right']} rem {r['leftRem']}/{r['rightRem']}")
     return 0
 
-def in_window(now=None):
-    """True during NFL game windows (ET): Thu 8 PM to midnight, Sun 1 PM to 1 AM Mon, Mon 8 PM to 1 AM Tue. Used to self-chain runs."""
+def in_window(now=None, windows=None):
+    """True while a game window is open. With the week's schedule (nfl_windows) that is 5 minutes before any kickoff slot to its end;
+    without it, the fixed fallback: Thu 8 PM to midnight, Sun 1 PM to 1 AM Mon, Mon 8 PM to 1 AM Tue (ET)."""
     now = now or datetime.datetime.now(ET)
+    if windows:
+        return any(datetime.datetime.fromisoformat(g["start"]) - timedelta(minutes=5) <= now <= datetime.datetime.fromisoformat(g["end"]) for g in windows)
     wd, h = now.weekday(), now.hour + now.minute / 60
     return (wd == 3 and h >= 20) or (wd == 6 and h >= 13) or (wd == 0 and h < 1) or (wd == 0 and h >= 20) or (wd == 1 and h < 1)
 

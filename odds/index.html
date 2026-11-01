@@ -157,7 +157,7 @@ async function renderView(){
   }
   if (hasNext) {
     const shift = 7*86400000, mv = s => new Date(new Date(s).getTime() + shift).toISOString();
-    const up = {week: nxt.week, samples: [{ts: nxt.ts, week: nxt.week, matchups: nxt.matchups}],
+    const up = {week: nxt.week, samples: [{ts: nxt.ts, week: nxt.week, matchups: nxt.matchups}], windows: nxt.windows,
                 segments: (hist.segments||[]).map(g => ({...g, start: mv(g.start), end: mv(g.end)})), ticks: (hist.ticks||[]).map(k => ({at: mv(k.at)}))};
     renderOnce(up, 'upcoming', topWeek); return;
   }
@@ -245,18 +245,26 @@ function render(hist, mode, curWeek){
   // The x-axis is weighted by action, not time: each game window gets width in proportion to how much of the league plays in it.
   // Windows (ET): TNF, an optional 9:30 London game, the 1 PM slate, the 4 PM slate, SNF, MNF.
   const M = 60000;
-  const thu = new Date(hist.segments.find(g => g.label === 'TNF').start).getTime();
-  const sun = new Date(hist.segments.find(g => g.label === 'SUN').start).getTime();   // Sunday 1:00 PM ET
-  const mon = new Date(hist.segments.find(g => g.label === 'MNF').start).getTime();
-  const hasEarly = S.some(s => { const t = new Date(s.ts).getTime(); return t >= sun - 210*M && t < sun; });
-  const SEG = [
-    {label:'TNF', a: thu, b: thu + 195*M, w: 0.10},
-    ...(hasEarly ? [{label:'9:30', a: sun - 210*M, b: sun, w: 0.06}] : []),
-    {label:'1PM', a: sun, b: sun + 185*M, w: 0.36},
-    {label:'4PM', a: sun + 185*M, b: sun + 440*M, w: 0.24},
-    {label:'SNF', a: sun + 440*M, b: sun + 660*M, w: 0.10},
-    {label:'MNF', a: mon, b: mon + 195*M, w: 0.14},
-  ];
+  let SEG;
+  if (hist.windows && hist.windows.length) {
+    // The sampler records the week's real kickoff slots from the NFL schedule (label, start, end, game count), so a London morning,
+    // a Thanksgiving triple-header or a Saturday slate lays out on its own. Width grows with the number of games, gently.
+    SEG = hist.windows.map(g => ({label: g.label, a: new Date(g.start).getTime(), b: new Date(g.end).getTime(), w: 1 + Math.sqrt(g.games || 1)}));
+  } else {
+    // Older weeks (6 and 7) predate the schedule feed: fixed slots, with a 9:30 band only when samples exist before 1 PM.
+    const thu = new Date(hist.segments.find(g => g.label === 'TNF').start).getTime();
+    const sun = new Date(hist.segments.find(g => g.label === 'SUN').start).getTime();   // Sunday 1:00 PM ET
+    const mon = new Date(hist.segments.find(g => g.label === 'MNF').start).getTime();
+    const hasEarly = S.some(s => { const t = new Date(s.ts).getTime(); return t >= sun - 210*M && t < sun; });
+    SEG = [
+      {label:'TNF', a: thu, b: thu + 195*M, w: 0.10},
+      ...(hasEarly ? [{label:'9:30', a: sun - 210*M, b: sun, w: 0.06}] : []),
+      {label:'1PM', a: sun, b: sun + 185*M, w: 0.36},
+      {label:'4PM', a: sun + 185*M, b: sun + 440*M, w: 0.24},
+      {label:'SNF', a: sun + 440*M, b: sun + 660*M, w: 0.10},
+      {label:'MNF', a: mon, b: mon + 195*M, w: 0.14},
+    ];
+  }
   { const tw = SEG.reduce((s,g)=>s+g.w, 0); SEG.forEach(g => g.w /= tw); }
   const GAP = 0.012; const usable = 1 - GAP*(SEG.length-1);
   SEG.reduce((off,g)=>{ g.x0 = off; g.x1 = off + g.w*usable; return g.x1 + GAP; }, 0);
