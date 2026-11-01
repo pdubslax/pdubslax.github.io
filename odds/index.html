@@ -45,7 +45,8 @@ a.card:hover{border-color:var(--fav)}
 .rowtop{display:flex;justify-content:space-between;align-items:center;gap:8px;font-family:var(--mono);font-size:12px;color:var(--muted);font-variant-numeric:tabular-nums}
 .rowtop b{color:var(--ink);font-weight:500}
 .card.done .rowtop b{color:var(--win)}
-.strip{display:grid;grid-template-columns:auto minmax(0,1fr) auto;align-items:center;column-gap:14px}
+.strip{display:grid;grid-template-columns:auto minmax(0,1fr) auto;align-items:start;column-gap:14px}  /* top-aligned so the pct sits at the same height on every card, whatever the player list's length */
+.strip .pct,.strip .mid{margin-top:3px}
 .strip .mid{min-width:0;display:grid;gap:1px}
 .strip .key{font-size:12px;color:var(--muted);text-align:right;line-height:1.4;padding-left:4px}
 .strip .key b{display:block;font-family:var(--mono);font-weight:500;color:var(--ink);font-size:12px}
