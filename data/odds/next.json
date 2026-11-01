@@ -1,7 +1,7 @@
 {
  "v": 2,
  "week": 9,
- "ts": "2026-11-01T14:34:45+00:00",
+ "ts": "2026-11-01T15:14:46+00:00",
  "matchups": [
   {
    "id": "1v7",
@@ -1119,8 +1119,8 @@
    "leftScore": 0.0,
    "leftProj": 105.74,
    "rightScore": 0.0,
-   "rightProj": 118.25,
-   "leftPct": 39,
+   "rightProj": 112.54,
+   "leftPct": 44,
    "leftRem": 9,
    "rightRem": 9,
    "shotgun": [],
@@ -1260,17 +1260,6 @@
      "game": "Mon 8:15 pm @ Min"
     },
     {
-     "player": "B. Hall",
-     "pos": "RB",
-     "slot": "RB",
-     "rem": 12.55,
-     "state": "pending",
-     "pts": 0.0,
-     "proj": 12.55,
-     "live": 12.55,
-     "game": "Sun 1:00 pm @ KC"
-    },
-    {
      "player": "R. Stevenson",
      "pos": "RB",
      "slot": "W/R/T",
@@ -1324,6 +1313,17 @@
      "proj": 7.72,
      "live": 7.72,
      "game": "Sun 1:00 pm @ Car"
+    },
+    {
+     "player": "B. Allen",
+     "pos": "RB",
+     "slot": "RB",
+     "rem": 6.84,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 6.84,
+     "live": 6.84,
+     "game": "Sun 1:00 pm @ KC"
     }
    ]
   }
