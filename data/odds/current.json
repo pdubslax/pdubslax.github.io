@@ -233348,7 +233348,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-01T05:53:35+00:00",
+  "ts": "2026-11-01T06:13:26+00:00",
   "week": 8,
   "matchups": [
    {
@@ -233397,7 +233397,7 @@
       "game": "Sun 1:00 pm vs Min"
      },
      {
-      "player": "Washington",
+      "player": "Commanders",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 9.38,
@@ -233520,7 +233520,7 @@
       "game": "Sun 1:00 pm vs Bal"
      },
      {
-      "player": "L. Vegas",
+      "player": "Raiders",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 6.95,
@@ -233842,7 +233842,7 @@
       "game": "Sun 1:00 pm @ Det"
      },
      {
-      "player": "N. England",
+      "player": "Patriots",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 9.46,
@@ -233921,7 +233921,7 @@
       "game": "Sun 8:20 pm @ Was"
      },
      {
-      "player": "Jacksonville",
+      "player": "Jaguars",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 9.48,
@@ -234048,7 +234048,7 @@
       "game": "Sun 1:00 pm @ NYJ"
      },
      {
-      "player": "Seattle",
+      "player": "Seahawks",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 7.22,
@@ -234138,7 +234138,7 @@
       "game": "Sun 1:00 pm @ Cin"
      },
      {
-      "player": "Pittsburgh",
+      "player": "Steelers",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 9.83,
@@ -234449,7 +234449,7 @@
       "game": "Sun 1:00 pm @ NYJ"
      },
      {
-      "player": "K. City",
+      "player": "Chiefs",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 7.39,
@@ -234561,7 +234561,7 @@
       "game": "Sun 4:25 pm vs KC"
      },
      {
-      "player": "N. York",
+      "player": "Jets",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 6.98,
