@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 9,
- "ts": "2026-11-01T21:52:03+00:00",
+ "ts": "2026-11-01T22:13:03+00:00",
  "matchups": [
   {
    "id": "1v7",
@@ -231,9 +231,9 @@
    "right": "Alex Michael Pagels",
    "rightRec": "2-5",
    "leftScore": 0.0,
-   "leftProj": 112.86,
+   "leftProj": 112.85,
    "rightScore": 0.0,
-   "rightProj": 100.12,
+   "rightProj": 100.19,
    "leftPct": 62,
    "leftRem": 9,
    "rightRem": 8,
@@ -269,11 +269,11 @@
      "player": "D. Henry",
      "pos": "RB",
      "slot": "RB",
-     "rem": 16.83,
+     "rem": 16.82,
      "state": "pending",
      "pts": 0.0,
-     "proj": 16.83,
-     "live": 16.83,
+     "proj": 16.82,
+     "live": 16.82,
      "game": "Thu 8:15 pm vs Jax"
     },
     {
@@ -381,11 +381,11 @@
      "player": "S. Barkley",
      "pos": "RB",
      "slot": "W/R/T",
-     "rem": 14.15,
+     "rem": 14.18,
      "state": "pending",
      "pts": 0.0,
-     "proj": 14.15,
-     "live": 14.15,
+     "proj": 14.18,
+     "live": 14.18,
      "game": "Sun 1:00 pm vs NYG"
     },
     {
@@ -425,11 +425,11 @@
      "player": "D. Goedert",
      "pos": "TE",
      "slot": "TE",
-     "rem": 8.4,
+     "rem": 8.44,
      "state": "pending",
      "pts": 0.0,
-     "proj": 8.4,
-     "live": 8.4,
+     "proj": 8.44,
+     "live": 8.44,
      "game": "Sun 1:00 pm vs NYG"
     },
     {
@@ -671,7 +671,7 @@
    "leftScore": 0.0,
    "leftProj": 126.11,
    "rightScore": 0.0,
-   "rightProj": 112.84,
+   "rightProj": 112.68,
    "leftPct": 61,
    "leftRem": 9,
    "rightRem": 8,
@@ -816,17 +816,6 @@
      "game": "Sun 1:00 pm @ Mia"
     },
     {
-     "player": "Z. Flowers",
-     "pos": "WR",
-     "slot": "WR",
-     "rem": 17.03,
-     "state": "pending",
-     "pts": 0.0,
-     "proj": 17.03,
-     "live": 17.03,
-     "game": "Thu 8:15 pm vs Jax"
-    },
-    {
      "player": "C. Hubbard",
      "pos": "RB",
      "slot": "RB",
@@ -836,6 +825,17 @@
      "proj": 16.91,
      "live": 16.91,
      "game": "Sun 1:00 pm vs Den"
+    },
+    {
+     "player": "Z. Flowers",
+     "pos": "WR",
+     "slot": "WR",
+     "rem": 16.87,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 16.87,
+     "live": 16.87,
+     "game": "Thu 8:15 pm vs Jax"
     },
     {
      "player": "O. Gordon II",
@@ -1119,7 +1119,7 @@
    "leftScore": 0.0,
    "leftProj": 106.31,
    "rightScore": 0.0,
-   "rightProj": 112.67,
+   "rightProj": 112.7,
    "leftPct": 44,
    "leftRem": 9,
    "rightRem": 9,
@@ -1230,11 +1230,11 @@
      "player": "L. Jackson",
      "pos": "QB",
      "slot": "QB",
-     "rem": 24.08,
+     "rem": 24.11,
      "state": "pending",
      "pts": 0.0,
-     "proj": 24.08,
-     "live": 24.08,
+     "proj": 24.11,
+     "live": 24.11,
      "game": "Thu 8:15 pm vs Jax"
     },
     {
