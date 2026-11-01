@@ -233348,7 +233348,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-01T10:34:09+00:00",
+  "ts": "2026-11-01T10:54:22+00:00",
   "week": 8,
   "matchups": [
    {
@@ -234048,7 +234048,7 @@
       "game": "Sun 1:00 pm @ NYJ"
      },
      {
-      "player": "Seahawks",
+      "player": "Seattle",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 7.23,
@@ -234138,7 +234138,7 @@
       "game": "Sun 1:00 pm @ Cin"
      },
      {
-      "player": "Steelers",
+      "player": "Pittsburgh",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 9.82,
