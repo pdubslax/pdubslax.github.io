@@ -233348,7 +233348,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-01T01:32:55+00:00",
+  "ts": "2026-11-01T01:52:46+00:00",
   "week": 8,
   "matchups": [
    {
@@ -233360,7 +233360,7 @@
     "leftScore": 27.5,
     "leftProj": 114.17,
     "rightScore": 0.0,
-    "rightProj": 103.62,
+    "rightProj": 112.73,
     "shotgun": [],
     "leftActive": [
      {
@@ -233509,6 +233509,17 @@
       "game": "Sun 1:00 pm vs Ind"
      },
      {
+      "player": "K. Shakir",
+      "pos": "WR",
+      "slot": "WR",
+      "rem": 9.11,
+      "state": "pending",
+      "pts": 0.0,
+      "proj": 9.11,
+      "live": 9.11,
+      "game": "Sun 1:00 pm vs Bal"
+     },
+     {
       "player": "K. Gainwell",
       "pos": "RB",
       "slot": "RB",
@@ -233531,7 +233542,7 @@
       "game": "Sun 1:00 pm @ NYJ"
      }
     ],
-    "leftPct": 60,
+    "leftPct": 51,
     "leftRem": 7,
     "rightRem": 9
    },
