@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 9,
- "ts": "2026-11-01T18:43:12+00:00",
+ "ts": "2026-11-01T19:04:13+00:00",
  "matchups": [
   {
    "id": "1v7",
@@ -10,7 +10,7 @@
    "right": "James Ray Ervin Yonts",
    "rightRec": "4-3",
    "leftScore": 0.0,
-   "leftProj": 108.13,
+   "leftProj": 108.07,
    "rightScore": 0.0,
    "rightProj": 122.33,
    "leftPct": 39,
@@ -122,7 +122,7 @@
      "game": "Sun 4:25 pm vs Ari"
     },
     {
-     "player": "Commanders",
+     "player": "Washington",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 4.08,
@@ -212,7 +212,7 @@
      "game": "Sun 8:20 pm @ Chi"
     },
     {
-     "player": "Bengals",
+     "player": "Cincinnati",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 6.17,
@@ -231,7 +231,7 @@
    "right": "Alex Michael Pagels",
    "rightRec": "2-5",
    "leftScore": 0.0,
-   "leftProj": 112.88,
+   "leftProj": 112.68,
    "rightScore": 0.0,
    "rightProj": 100.08,
    "leftPct": 62,
@@ -269,11 +269,11 @@
      "player": "D. Henry",
      "pos": "RB",
      "slot": "RB",
-     "rem": 16.85,
+     "rem": 16.82,
      "state": "pending",
      "pts": 0.0,
-     "proj": 16.85,
-     "live": 16.85,
+     "proj": 16.82,
+     "live": 16.82,
      "game": "Thu 8:15 pm vs Jax"
     },
     {
@@ -343,7 +343,7 @@
      "game": "Sun 1:00 pm vs LAR"
     },
     {
-     "player": "Falcons",
+     "player": "Atlanta",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 4.85,
@@ -433,7 +433,7 @@
      "game": "Sun 1:00 pm vs NYG"
     },
     {
-     "player": "Jaguars",
+     "player": "Jacksonville",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 5.52,
@@ -452,9 +452,9 @@
    "right": "RosterMogged",
    "rightRec": "3-4",
    "leftScore": 0.0,
-   "leftProj": 127.86,
+   "leftProj": 127.82,
    "rightScore": 0.0,
-   "rightProj": 112.69,
+   "rightProj": 112.56,
    "leftPct": 62,
    "leftRem": 9,
    "rightRem": 9,
@@ -669,10 +669,10 @@
    "right": "Zen Buddha Boys 🪷💨",
    "rightRec": "4-3",
    "leftScore": 0.0,
-   "leftProj": 125.95,
+   "leftProj": 126.11,
    "rightScore": 0.0,
-   "rightProj": 113.31,
-   "leftPct": 60,
+   "rightProj": 112.64,
+   "leftPct": 61,
    "leftRem": 9,
    "rightRem": 8,
    "shotgun": [
@@ -805,17 +805,6 @@
      "game": "Sun 8:20 pm vs TB"
     },
     {
-     "player": "Z. Flowers",
-     "pos": "WR",
-     "slot": "WR",
-     "rem": 17.54,
-     "state": "pending",
-     "pts": 0.0,
-     "proj": 17.54,
-     "live": 17.54,
-     "game": "Thu 8:15 pm vs Jax"
-    },
-    {
      "player": "A. St. Brown",
      "pos": "WR",
      "slot": "WR",
@@ -836,6 +825,17 @@
      "proj": 16.9,
      "live": 16.9,
      "game": "Sun 1:00 pm vs Den"
+    },
+    {
+     "player": "Z. Flowers",
+     "pos": "WR",
+     "slot": "WR",
+     "rem": 16.87,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 16.87,
+     "live": 16.87,
+     "game": "Thu 8:15 pm vs Jax"
     },
     {
      "player": "O. Gordon II",
@@ -890,9 +890,9 @@
    "right": "Kiwis are better than mid",
    "rightRec": "4-3",
    "leftScore": 0.0,
-   "leftProj": 95.52,
+   "leftProj": 95.48,
    "rightScore": 0.0,
-   "rightProj": 95.82,
+   "rightProj": 95.86,
    "leftPct": 50,
    "leftRem": 7,
    "rightRem": 8,
@@ -1117,9 +1117,9 @@
    "right": "Sir this is a FF league",
    "rightRec": "3-4",
    "leftScore": 0.0,
-   "leftProj": 105.73,
+   "leftProj": 106.31,
    "rightScore": 0.0,
-   "rightProj": 112.52,
+   "rightProj": 112.6,
    "leftPct": 44,
    "leftRem": 9,
    "rightRem": 9,
@@ -1230,11 +1230,11 @@
      "player": "L. Jackson",
      "pos": "QB",
      "slot": "QB",
-     "rem": 23.97,
+     "rem": 24.11,
      "state": "pending",
      "pts": 0.0,
-     "proj": 23.97,
-     "live": 23.97,
+     "proj": 24.11,
+     "live": 24.11,
      "game": "Thu 8:15 pm vs Jax"
     },
     {
