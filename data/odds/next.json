@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 9,
- "ts": "2026-11-01T20:28:13+00:00",
+ "ts": "2026-11-01T20:49:13+00:00",
  "matchups": [
   {
    "id": "1v7",
@@ -10,7 +10,7 @@
    "right": "James Ray Ervin Yonts",
    "rightRec": "4-3",
    "leftScore": 0.0,
-   "leftProj": 108.07,
+   "leftProj": 108.12,
    "rightScore": 0.0,
    "rightProj": 122.33,
    "leftPct": 39,
@@ -81,11 +81,11 @@
      "player": "S. LaPorta",
      "pos": "TE",
      "slot": "TE",
-     "rem": 10.75,
+     "rem": 10.8,
      "state": "pending",
      "pts": 0.0,
-     "proj": 10.75,
-     "live": 10.75,
+     "proj": 10.8,
+     "live": 10.8,
      "game": "Sun 1:00 pm @ Mia"
     },
     {
@@ -122,7 +122,7 @@
      "game": "Sun 4:25 pm vs Ari"
     },
     {
-     "player": "Commanders",
+     "player": "Washington",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 4.08,
@@ -212,7 +212,7 @@
      "game": "Sun 8:20 pm @ Chi"
     },
     {
-     "player": "Bengals",
+     "player": "Cincinnati",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 6.17,
@@ -231,7 +231,7 @@
    "right": "Alex Michael Pagels",
    "rightRec": "2-5",
    "leftScore": 0.0,
-   "leftProj": 112.68,
+   "leftProj": 112.69,
    "rightScore": 0.0,
    "rightProj": 100.08,
    "leftPct": 62,
@@ -269,11 +269,11 @@
      "player": "D. Henry",
      "pos": "RB",
      "slot": "RB",
-     "rem": 16.82,
+     "rem": 16.83,
      "state": "pending",
      "pts": 0.0,
-     "proj": 16.82,
-     "live": 16.82,
+     "proj": 16.83,
+     "live": 16.83,
      "game": "Thu 8:15 pm vs Jax"
     },
     {
@@ -381,11 +381,11 @@
      "player": "S. Barkley",
      "pos": "RB",
      "slot": "W/R/T",
-     "rem": 14.16,
+     "rem": 14.15,
      "state": "pending",
      "pts": 0.0,
-     "proj": 14.16,
-     "live": 14.16,
+     "proj": 14.15,
+     "live": 14.15,
      "game": "Sun 1:00 pm vs NYG"
     },
     {
@@ -425,11 +425,11 @@
      "player": "D. Goedert",
      "pos": "TE",
      "slot": "TE",
-     "rem": 8.39,
+     "rem": 8.4,
      "state": "pending",
      "pts": 0.0,
-     "proj": 8.39,
-     "live": 8.39,
+     "proj": 8.4,
+     "live": 8.4,
      "game": "Sun 1:00 pm vs NYG"
     },
     {
@@ -452,9 +452,9 @@
    "right": "RosterMogged",
    "rightRec": "3-4",
    "leftScore": 0.0,
-   "leftProj": 127.82,
+   "leftProj": 127.76,
    "rightScore": 0.0,
-   "rightProj": 112.56,
+   "rightProj": 112.65,
    "leftPct": 62,
    "leftRem": 9,
    "rightRem": 9,
@@ -464,11 +464,11 @@
      "player": "J. Gibbs",
      "pos": "RB",
      "slot": "RB",
-     "rem": 26.23,
+     "rem": 26.17,
      "state": "pending",
      "pts": 0.0,
-     "proj": 26.23,
-     "live": 26.23,
+     "proj": 26.17,
+     "live": 26.17,
      "game": "Sun 1:00 pm @ Mia"
     },
     {
@@ -549,7 +549,7 @@
      "game": "Mon 8:15 pm vs Buf"
     },
     {
-     "player": "Patriots",
+     "player": "N. England",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 6.44,
@@ -576,11 +576,11 @@
      "player": "J. Goff",
      "pos": "QB",
      "slot": "QB",
-     "rem": 21.16,
+     "rem": 21.25,
      "state": "pending",
      "pts": 0.0,
-     "proj": 21.16,
-     "live": 21.16,
+     "proj": 21.25,
+     "live": 21.25,
      "game": "Sun 1:00 pm @ Mia"
     },
     {
@@ -617,7 +617,7 @@
      "game": "Sun 4:05 pm vs Hou"
     },
     {
-     "player": "Chiefs",
+     "player": "K. City",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 9.78,
@@ -671,7 +671,7 @@
    "leftScore": 0.0,
    "leftProj": 126.11,
    "rightScore": 0.0,
-   "rightProj": 112.64,
+   "rightProj": 112.84,
    "leftPct": 61,
    "leftRem": 9,
    "rightRem": 8,
@@ -797,55 +797,55 @@
      "player": "C. Williams",
      "pos": "QB",
      "slot": "QB",
-     "rem": 23.08,
+     "rem": 23.07,
      "state": "pending",
      "pts": 0.0,
-     "proj": 23.08,
-     "live": 23.08,
+     "proj": 23.07,
+     "live": 23.07,
      "game": "Sun 8:20 pm vs TB"
     },
     {
      "player": "A. St. Brown",
      "pos": "WR",
      "slot": "WR",
-     "rem": 17.51,
+     "rem": 17.6,
      "state": "pending",
      "pts": 0.0,
-     "proj": 17.51,
-     "live": 17.51,
+     "proj": 17.6,
+     "live": 17.6,
      "game": "Sun 1:00 pm @ Mia"
-    },
-    {
-     "player": "C. Hubbard",
-     "pos": "RB",
-     "slot": "RB",
-     "rem": 16.9,
-     "state": "pending",
-     "pts": 0.0,
-     "proj": 16.9,
-     "live": 16.9,
-     "game": "Sun 1:00 pm vs Den"
     },
     {
      "player": "Z. Flowers",
      "pos": "WR",
      "slot": "WR",
-     "rem": 16.87,
+     "rem": 17.03,
      "state": "pending",
      "pts": 0.0,
-     "proj": 16.87,
-     "live": 16.87,
+     "proj": 17.03,
+     "live": 17.03,
      "game": "Thu 8:15 pm vs Jax"
+    },
+    {
+     "player": "C. Hubbard",
+     "pos": "RB",
+     "slot": "RB",
+     "rem": 16.91,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 16.91,
+     "live": 16.91,
+     "game": "Sun 1:00 pm vs Den"
     },
     {
      "player": "O. Gordon II",
      "pos": "RB",
      "slot": "RB",
-     "rem": 13.48,
+     "rem": 13.43,
      "state": "pending",
      "pts": 0.0,
-     "proj": 13.48,
-     "live": 13.48,
+     "proj": 13.43,
+     "live": 13.43,
      "game": "Sun 1:00 pm vs Det"
     },
     {
@@ -1119,7 +1119,7 @@
    "leftScore": 0.0,
    "leftProj": 106.31,
    "rightScore": 0.0,
-   "rightProj": 112.6,
+   "rightProj": 112.61,
    "leftPct": 44,
    "leftRem": 9,
    "rightRem": 9,
@@ -1230,11 +1230,11 @@
      "player": "L. Jackson",
      "pos": "QB",
      "slot": "QB",
-     "rem": 24.11,
+     "rem": 24.08,
      "state": "pending",
      "pts": 0.0,
-     "proj": 24.11,
-     "live": 24.11,
+     "proj": 24.08,
+     "live": 24.08,
      "game": "Thu 8:15 pm vs Jax"
     },
     {
@@ -1274,11 +1274,11 @@
      "player": "J. Williams",
      "pos": "WR",
      "slot": "WR",
-     "rem": 10.76,
+     "rem": 10.8,
      "state": "pending",
      "pts": 0.0,
-     "proj": 10.76,
-     "live": 10.76,
+     "proj": 10.8,
+     "live": 10.8,
      "game": "Sun 1:00 pm @ Mia"
     },
     {
