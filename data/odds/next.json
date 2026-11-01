@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 9,
- "ts": "2026-11-01T21:31:02+00:00",
+ "ts": "2026-11-01T21:52:03+00:00",
  "matchups": [
   {
    "id": "1v7",
@@ -381,11 +381,11 @@
      "player": "S. Barkley",
      "pos": "RB",
      "slot": "W/R/T",
-     "rem": 14.18,
+     "rem": 14.15,
      "state": "pending",
      "pts": 0.0,
-     "proj": 14.18,
-     "live": 14.18,
+     "proj": 14.15,
+     "live": 14.15,
      "game": "Sun 1:00 pm vs NYG"
     },
     {
@@ -425,11 +425,11 @@
      "player": "D. Goedert",
      "pos": "TE",
      "slot": "TE",
-     "rem": 8.44,
+     "rem": 8.4,
      "state": "pending",
      "pts": 0.0,
-     "proj": 8.44,
-     "live": 8.44,
+     "proj": 8.4,
+     "live": 8.4,
      "game": "Sun 1:00 pm vs NYG"
     },
     {
@@ -926,7 +926,7 @@
      "reason": "pts"
     },
     {
-     "player": "Pittsburgh",
+     "player": "Steelers",
      "pos": "DEF",
      "team": "Pit",
      "pts": 0.0,
@@ -1098,7 +1098,7 @@
      "game": "Sun 1:00 pm @ Car"
     },
     {
-     "player": "N. York",
+     "player": "Jets",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 4.59,
