@@ -1,7 +1,7 @@
 {
  "v": 2,
  "week": 9,
- "ts": "2026-11-01T04:33:26+00:00",
+ "ts": "2026-11-01T05:13:27+00:00",
  "matchups": [
   {
    "id": "1v7",
@@ -231,10 +231,10 @@
    "right": "Alex Michael Pagels",
    "rightRec": "2-5",
    "leftScore": 0.0,
-   "leftProj": 114.12,
+   "leftProj": 112.82,
    "rightScore": 0.0,
    "rightProj": 100.16,
-   "leftPct": 63,
+   "leftPct": 62,
    "leftRem": 9,
    "rightRem": 8,
    "shotgun": [
@@ -343,15 +343,15 @@
      "game": "Sun 1:00 pm vs LAR"
     },
     {
-     "player": "Cowboys",
+     "player": "Falcons",
      "pos": "DEF",
      "slot": "DEF",
-     "rem": 6.15,
+     "rem": 4.85,
      "state": "pending",
      "pts": 0.0,
-     "proj": 6.15,
-     "live": 6.15,
-     "game": "Sun 1:00 pm @ Ind"
+     "proj": 4.85,
+     "live": 4.85,
+     "game": "Sun 9:30 am vs Cin"
     }
    ],
    "rightActive": [
