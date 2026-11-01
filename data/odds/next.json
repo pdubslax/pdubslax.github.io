@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 9,
- "ts": "2026-11-01T17:21:13+00:00",
+ "ts": "2026-11-01T18:01:12+00:00",
  "matchups": [
   {
    "id": "1v7",
@@ -343,7 +343,7 @@
      "game": "Sun 1:00 pm vs LAR"
     },
     {
-     "player": "Falcons",
+     "player": "Atlanta",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 4.85,
@@ -433,7 +433,7 @@
      "game": "Sun 1:00 pm vs NYG"
     },
     {
-     "player": "Jaguars",
+     "player": "Jacksonville",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 5.52,
