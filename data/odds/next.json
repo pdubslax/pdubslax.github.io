@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 9,
- "ts": "2026-11-01T19:46:13+00:00",
+ "ts": "2026-11-01T20:07:13+00:00",
  "matchups": [
   {
    "id": "1v7",
@@ -1214,7 +1214,7 @@
      "game": "Sun 8:20 pm @ Chi"
     },
     {
-     "player": "Raiders",
+     "player": "L. Vegas",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 4.0,
@@ -1304,7 +1304,7 @@
      "game": "Sun 4:25 pm vs GB"
     },
     {
-     "player": "Broncos",
+     "player": "Denver",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 7.72,
