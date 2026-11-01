@@ -233348,7 +233348,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-01T04:33:35+00:00",
+  "ts": "2026-11-01T04:53:26+00:00",
   "week": 8,
   "matchups": [
    {
@@ -233553,7 +233553,7 @@
     "right": "Sir this is a FF league",
     "rightRec": "3-4",
     "leftScore": 14.8,
-    "leftProj": 120.03,
+    "leftProj": 121.42,
     "rightScore": 0.0,
     "rightProj": 126.0,
     "shotgun": [],
@@ -233636,15 +233636,15 @@
       "game": "Sun 8:20 pm vs Phi"
      },
      {
-      "player": "Cowboys",
+      "player": "Falcons",
       "pos": "DEF",
       "slot": "DEF",
-      "rem": 5.41,
+      "rem": 6.8,
       "state": "pending",
       "pts": 0.0,
-      "proj": 5.41,
-      "live": 5.41,
-      "game": "Sun 1:00 pm vs Ari"
+      "proj": 6.8,
+      "live": 6.8,
+      "game": "Sun 1:00 pm @ TB"
      }
     ],
     "rightActive": [
@@ -233748,7 +233748,7 @@
       "game": "Sun 4:25 pm vs KC"
      }
     ],
-    "leftPct": 45,
+    "leftPct": 46,
     "leftRem": 8,
     "rightRem": 9
    },
