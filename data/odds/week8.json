@@ -233348,7 +233348,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-01T11:54:51+00:00",
+  "ts": "2026-11-01T12:14:48+00:00",
   "week": 8,
   "matchups": [
    {
@@ -233360,7 +233360,7 @@
     "leftScore": 27.5,
     "leftProj": 113.68,
     "rightScore": 0.0,
-    "rightProj": 112.73,
+    "rightProj": 112.69,
     "shotgun": [],
     "leftActive": [
      {
@@ -233446,11 +233446,11 @@
       "player": "B. Robinson",
       "pos": "RB",
       "slot": "RB",
-      "rem": 23.1,
+      "rem": 23.05,
       "state": "pending",
       "pts": 0.0,
-      "proj": 23.1,
-      "live": 23.1,
+      "proj": 23.05,
+      "live": 23.05,
       "game": "Sun 1:00 pm @ TB"
      },
      {
@@ -233520,6 +233520,17 @@
       "game": "Sun 1:00 pm vs Ind"
      },
      {
+      "player": "K. Gainwell",
+      "pos": "RB",
+      "slot": "RB",
+      "rem": 6.98,
+      "state": "pending",
+      "pts": 0.0,
+      "proj": 6.98,
+      "live": 6.98,
+      "game": "Sun 1:00 pm vs Atl"
+     },
+     {
       "player": "Raiders",
       "pos": "DEF",
       "slot": "DEF",
@@ -233529,17 +233540,6 @@
       "proj": 6.98,
       "live": 6.98,
       "game": "Sun 1:00 pm @ NYJ"
-     },
-     {
-      "player": "K. Gainwell",
-      "pos": "RB",
-      "slot": "RB",
-      "rem": 6.97,
-      "state": "pending",
-      "pts": 0.0,
-      "proj": 6.97,
-      "live": 6.97,
-      "game": "Sun 1:00 pm vs Atl"
      }
     ],
     "leftPct": 51,
@@ -233553,7 +233553,7 @@
     "right": "Sir this is a FF league",
     "rightRec": "3-4",
     "leftScore": 14.8,
-    "leftProj": 121.33,
+    "leftProj": 121.31,
     "rightScore": 0.0,
     "rightProj": 125.92,
     "shotgun": [],
@@ -233636,14 +233636,14 @@
       "game": "Sun 8:20 pm vs Phi"
      },
      {
-      "player": "Falcons",
+      "player": "Atlanta",
       "pos": "DEF",
       "slot": "DEF",
-      "rem": 6.78,
+      "rem": 6.76,
       "state": "pending",
       "pts": 0.0,
-      "proj": 6.78,
-      "live": 6.78,
+      "proj": 6.76,
+      "live": 6.76,
       "game": "Sun 1:00 pm @ TB"
      }
     ],
@@ -233737,7 +233737,7 @@
       "game": "Sun 4:25 pm @ Mia"
      },
      {
-      "player": "Broncos",
+      "player": "Denver",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 6.76,
@@ -234160,7 +234160,7 @@
     "right": "Zen Buddha Boys 🪷💨",
     "rightRec": "4-3",
     "leftScore": 0.0,
-    "leftProj": 146.39,
+    "leftProj": 146.42,
     "rightScore": 23.9,
     "rightProj": 130.48,
     "shotgun": [],
@@ -234202,11 +234202,11 @@
       "player": "B. Irving",
       "pos": "RB",
       "slot": "RB",
-      "rem": 17.56,
+      "rem": 17.59,
       "state": "pending",
       "pts": 0.0,
-      "proj": 17.56,
-      "live": 17.56,
+      "proj": 17.59,
+      "live": 17.59,
       "game": "Sun 1:00 pm vs Atl"
      },
      {
@@ -234224,11 +234224,11 @@
       "player": "D. London",
       "pos": "WR",
       "slot": "WR",
-      "rem": 15.44,
+      "rem": 15.42,
       "state": "pending",
       "pts": 0.0,
-      "proj": 15.44,
-      "live": 15.44,
+      "proj": 15.42,
+      "live": 15.42,
       "game": "Sun 1:00 pm @ TB"
      },
      {
@@ -234257,11 +234257,11 @@
       "player": "C. McLaughlin",
       "pos": "K",
       "slot": "K",
-      "rem": 9.57,
+      "rem": 9.59,
       "state": "pending",
       "pts": 0.0,
-      "proj": 9.57,
-      "live": 9.57,
+      "proj": 9.59,
+      "live": 9.59,
       "game": "Sun 1:00 pm vs Atl"
      }
     ],
@@ -234366,7 +234366,7 @@
     "right": "Kiwis are better than mid",
     "rightRec": "4-3",
     "leftScore": 0.0,
-    "leftProj": 106.59,
+    "leftProj": 106.58,
     "rightScore": 0.0,
     "rightProj": 113.87,
     "shotgun": [],
@@ -234463,11 +234463,11 @@
       "player": "K. Pitts Sr.",
       "pos": "TE",
       "slot": "TE",
-      "rem": 7.29,
+      "rem": 7.28,
       "state": "pending",
       "pts": 0.0,
-      "proj": 7.29,
-      "live": 7.29,
+      "proj": 7.28,
+      "live": 7.28,
       "game": "Sun 1:00 pm @ TB"
      }
     ],
