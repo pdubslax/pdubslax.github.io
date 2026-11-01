@@ -233348,7 +233348,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-01T03:13:38+00:00",
+  "ts": "2026-11-01T03:33:27+00:00",
   "week": 8,
   "matchups": [
    {
@@ -233360,7 +233360,7 @@
     "leftScore": 27.5,
     "leftProj": 113.97,
     "rightScore": 0.0,
-    "rightProj": 112.85,
+    "rightProj": 112.84,
     "shotgun": [],
     "leftActive": [
      {
@@ -233446,11 +233446,11 @@
       "player": "B. Robinson",
       "pos": "RB",
       "slot": "RB",
-      "rem": 23.14,
+      "rem": 23.13,
       "state": "pending",
       "pts": 0.0,
-      "proj": 23.14,
-      "live": 23.14,
+      "proj": 23.13,
+      "live": 23.13,
       "game": "Sun 1:00 pm @ TB"
      },
      {
@@ -234213,22 +234213,22 @@
       "player": "J. Warren",
       "pos": "RB",
       "slot": "RB",
-      "rem": 16.05,
+      "rem": 16.04,
       "state": "pending",
       "pts": 0.0,
-      "proj": 16.05,
-      "live": 16.05,
+      "proj": 16.04,
+      "live": 16.04,
       "game": "Sun 1:00 pm vs Cle"
      },
      {
       "player": "D. London",
       "pos": "WR",
       "slot": "WR",
-      "rem": 15.5,
+      "rem": 15.51,
       "state": "pending",
       "pts": 0.0,
-      "proj": 15.5,
-      "live": 15.5,
+      "proj": 15.51,
+      "live": 15.51,
       "game": "Sun 1:00 pm @ TB"
      },
      {
@@ -234366,7 +234366,7 @@
     "right": "Kiwis are better than mid",
     "rightRec": "4-3",
     "leftScore": 0.0,
-    "leftProj": 106.69,
+    "leftProj": 106.7,
     "rightScore": 0.0,
     "rightProj": 114.09,
     "shotgun": [],
@@ -234463,11 +234463,11 @@
       "player": "K. Pitts Sr.",
       "pos": "TE",
       "slot": "TE",
-      "rem": 7.27,
+      "rem": 7.28,
       "state": "pending",
       "pts": 0.0,
-      "proj": 7.27,
-      "live": 7.27,
+      "proj": 7.28,
+      "live": 7.28,
       "game": "Sun 1:00 pm @ TB"
      }
     ],
