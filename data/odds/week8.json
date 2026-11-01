@@ -233348,7 +233348,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-01T09:54:08+00:00",
+  "ts": "2026-11-01T10:14:20+00:00",
   "week": 8,
   "matchups": [
    {
@@ -233358,7 +233358,7 @@
     "right": "MELONHEADS (daniel)",
     "rightRec": "4-3",
     "leftScore": 27.5,
-    "leftProj": 113.96,
+    "leftProj": 113.66,
     "rightScore": 0.0,
     "rightProj": 112.84,
     "shotgun": [],
@@ -233367,12 +233367,12 @@
       "player": "J. Smith-Njigba",
       "pos": "WR",
       "slot": "W/R/T",
-      "rem": 24.26,
+      "rem": 24.01,
       "state": "pending",
       "pts": 0.0,
-      "proj": 24.26,
-      "live": 24.26,
-      "game": "Mon 8:15 pm vs Chi"
+      "proj": 24.01,
+      "live": 24.01,
+      "game": "Mon 8:15 pm vs Chi"
      },
      {
       "player": "M. Stafford",
@@ -233433,12 +233433,12 @@
       "player": "E. Wilson",
       "pos": "RB",
       "slot": "RB",
-      "rem": 5.2,
+      "rem": 5.15,
       "state": "pending",
       "pts": 0.0,
-      "proj": 5.2,
-      "live": 5.2,
-      "game": "Mon 8:15 pm vs Chi"
+      "proj": 5.15,
+      "live": 5.15,
+      "game": "Mon 8:15 pm vs Chi"
      }
     ],
     "rightActive": [
@@ -233622,7 +233622,7 @@
       "pts": 0.0,
       "proj": 8.45,
       "live": 8.45,
-      "game": "Mon 8:15 pm @ Sea"
+      "game": "Mon 8:15 pm @ Sea"
      },
      {
       "player": "C. Okonkwo",
@@ -233636,7 +233636,7 @@
       "game": "Sun 8:20 pm vs Phi"
      },
      {
-      "player": "Atlanta",
+      "player": "Falcons",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 6.8,
@@ -233737,7 +233737,7 @@
       "game": "Sun 4:25 pm @ Mia"
      },
      {
-      "player": "Denver",
+      "player": "Broncos",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 6.76,
@@ -233759,7 +233759,7 @@
     "right": "Alex Michael Pagels",
     "rightRec": "2-5",
     "leftScore": 10.8,
-    "leftProj": 137.75,
+    "leftProj": 137.87,
     "rightScore": 21.7,
     "rightProj": 126.6,
     "shotgun": [],
@@ -233812,12 +233812,12 @@
       "player": "D. Swift",
       "pos": "RB",
       "slot": "W/R/T",
-      "rem": 15.57,
+      "rem": 15.69,
       "state": "pending",
       "pts": 0.0,
-      "proj": 15.57,
-      "live": 15.57,
-      "game": "Mon 8:15 pm @ Sea"
+      "proj": 15.69,
+      "live": 15.69,
+      "game": "Mon 8:15 pm @ Sea"
      },
      {
       "player": "S. Diggs",
@@ -233954,7 +233954,7 @@
     "right": "Tuten Brown",
     "rightRec": "4-3",
     "leftScore": 0.0,
-    "leftProj": 126.66,
+    "leftProj": 126.6,
     "rightScore": 15.8,
     "rightProj": 125.37,
     "shotgun": [],
@@ -233963,12 +233963,12 @@
       "player": "S. Darnold",
       "pos": "QB",
       "slot": "QB",
-      "rem": 19.87,
+      "rem": 19.81,
       "state": "pending",
       "pts": 0.0,
-      "proj": 19.87,
-      "live": 19.87,
-      "game": "Mon 8:15 pm vs Chi"
+      "proj": 19.81,
+      "live": 19.81,
+      "game": "Mon 8:15 pm vs Chi"
      },
      {
       "player": "J. Chase",
@@ -234056,7 +234056,7 @@
       "pts": 0.0,
       "proj": 7.23,
       "live": 7.23,
-      "game": "Mon 8:15 pm vs Chi"
+      "game": "Mon 8:15 pm vs Chi"
      }
     ],
     "rightActive": [
@@ -234162,7 +234162,7 @@
     "leftScore": 0.0,
     "leftProj": 146.36,
     "rightScore": 23.9,
-    "rightProj": 130.41,
+    "rightProj": 130.46,
     "shotgun": [],
     "leftActive": [
      {
@@ -234270,12 +234270,12 @@
       "player": "C. Williams",
       "pos": "QB",
       "slot": "QB",
-      "rem": 19.72,
+      "rem": 19.77,
       "state": "pending",
       "pts": 0.0,
-      "proj": 19.72,
-      "live": 19.72,
-      "game": "Mon 8:15 pm @ Sea"
+      "proj": 19.77,
+      "live": 19.77,
+      "game": "Mon 8:15 pm @ Sea"
      },
      {
       "player": "Z. Flowers",
@@ -234330,7 +234330,7 @@
       "pts": 0.0,
       "proj": 9.96,
       "live": 9.96,
-      "game": "Mon 8:15 pm vs Chi"
+      "game": "Mon 8:15 pm vs Chi"
      },
      {
       "player": "T.J. Hockenson",
