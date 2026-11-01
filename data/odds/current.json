@@ -233348,7 +233348,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-01T15:54:50+00:00",
+  "ts": "2026-11-01T16:01:21+00:00",
   "week": 8,
   "matchups": [
    {
@@ -233636,7 +233636,7 @@
       "game": "Sun 8:20 pm vs Phi"
      },
      {
-      "player": "Falcons",
+      "player": "Atlanta",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 6.95,
@@ -233737,7 +233737,7 @@
       "game": "Sun 4:25 pm @ Mia"
      },
      {
-      "player": "Broncos",
+      "player": "Denver",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 6.77,
@@ -234460,7 +234460,7 @@
       "game": "Sun 1:00 pm @ TB"
      },
      {
-      "player": "Chiefs",
+      "player": "K. City",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 6.77,
@@ -234561,7 +234561,7 @@
       "game": "Sun 4:25 pm vs KC"
      },
      {
-      "player": "Jets",
+      "player": "N. York",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 6.86,
@@ -234577,5 +234577,37 @@
     "rightRem": 9
    }
   ]
- }
+ },
+ "windows": [
+  {
+   "label": "TNF",
+   "start": "2026-10-29T20:15:00-04:00",
+   "end": "2026-10-29T23:30:00-04:00",
+   "games": 1
+  },
+  {
+   "label": "1PM",
+   "start": "2026-11-01T13:00:00-05:00",
+   "end": "2026-11-01T16:05:00-05:00",
+   "games": 8
+  },
+  {
+   "label": "4PM",
+   "start": "2026-11-01T16:05:00-05:00",
+   "end": "2026-11-01T19:40:00-05:00",
+   "games": 3
+  },
+  {
+   "label": "SNF",
+   "start": "2026-11-01T20:20:00-05:00",
+   "end": "2026-11-01T23:35:00-05:00",
+   "games": 1
+  },
+  {
+   "label": "MNF",
+   "start": "2026-11-02T20:15:00-05:00",
+   "end": "2026-11-02T23:30:00-05:00",
+   "games": 1
+  }
+ ]
 }
