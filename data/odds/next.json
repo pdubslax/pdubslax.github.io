@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 9,
- "ts": "2026-11-02T13:57:53+00:00",
+ "ts": "2026-11-02T14:37:52+00:00",
  "matchups": [
   {
    "id": "1v7",
@@ -10,9 +10,9 @@
    "right": "James Ray Ervin Yonts",
    "rightRec": "4-3",
    "leftScore": 0.0,
-   "leftProj": 108.27,
+   "leftProj": 108.34,
    "rightScore": 0.0,
-   "rightProj": 123.19,
+   "rightProj": 123.24,
    "leftPct": 39,
    "leftRem": 9,
    "rightRem": 8,
@@ -48,11 +48,11 @@
      "player": "M. Stafford",
      "pos": "QB",
      "slot": "QB",
-     "rem": 21.53,
+     "rem": 21.59,
      "state": "pending",
      "pts": 0.0,
-     "proj": 21.53,
-     "live": 21.53,
+     "proj": 21.59,
+     "live": 21.59,
      "game": "Sun 1:00 pm @ Was"
     },
     {
@@ -125,11 +125,11 @@
      "player": "Commanders",
      "pos": "DEF",
      "slot": "DEF",
-     "rem": 4.05,
+     "rem": 4.06,
      "state": "pending",
      "pts": 0.0,
-     "proj": 4.05,
-     "live": 4.05,
+     "proj": 4.06,
+     "live": 4.06,
      "game": "Sun 1:00 pm vs LAR"
     }
    ],
@@ -149,11 +149,11 @@
      "player": "P. Nacua",
      "pos": "WR",
      "slot": "WR",
-     "rem": 21.66,
+     "rem": 21.71,
      "state": "pending",
      "pts": 0.0,
-     "proj": 21.66,
-     "live": 21.66,
+     "proj": 21.71,
+     "live": 21.71,
      "game": "Sun 1:00 pm @ Was"
     },
     {
@@ -231,7 +231,7 @@
    "right": "Alex Michael Pagels",
    "rightRec": "2-5",
    "leftScore": 0.0,
-   "leftProj": 112.26,
+   "leftProj": 112.28,
    "rightScore": 0.0,
    "rightProj": 101.66,
    "leftPct": 60,
@@ -335,11 +335,11 @@
      "player": "C. Okonkwo",
      "pos": "TE",
      "slot": "TE",
-     "rem": 6.92,
+     "rem": 6.94,
      "state": "pending",
      "pts": 0.0,
-     "proj": 6.92,
-     "live": 6.92,
+     "proj": 6.94,
+     "live": 6.94,
      "game": "Sun 1:00 pm vs LAR"
     },
     {
@@ -452,7 +452,7 @@
    "right": "RosterMogged",
    "rightRec": "3-4",
    "leftScore": 0.0,
-   "leftProj": 127.64,
+   "leftProj": 127.69,
    "rightScore": 0.0,
    "rightProj": 113.29,
    "leftPct": 61,
@@ -475,11 +475,11 @@
      "player": "K. Williams",
      "pos": "RB",
      "slot": "RB",
-     "rem": 18.73,
+     "rem": 18.75,
      "state": "pending",
      "pts": 0.0,
-     "proj": 18.73,
-     "live": 18.73,
+     "proj": 18.75,
+     "live": 18.75,
      "game": "Sun 1:00 pm @ Was"
     },
     {
@@ -530,11 +530,11 @@
      "player": "S. Diggs",
      "pos": "WR",
      "slot": "WR",
-     "rem": 11.15,
+     "rem": 11.18,
      "state": "pending",
      "pts": 0.0,
-     "proj": 11.15,
-     "live": 11.15,
+     "proj": 11.18,
+     "live": 11.18,
      "game": "Sun 1:00 pm vs LAR"
     },
     {
@@ -549,7 +549,7 @@
      "game": "Mon 8:15 pm vs Buf"
     },
     {
-     "player": "Patriots",
+     "player": "N. England",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 6.5,
@@ -617,7 +617,7 @@
      "game": "Sun 4:05 pm vs Hou"
     },
     {
-     "player": "Chiefs",
+     "player": "K. City",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 9.95,
@@ -892,7 +892,7 @@
    "leftScore": 0.0,
    "leftProj": 91.99,
    "rightScore": 0.0,
-   "rightProj": 95.31,
+   "rightProj": 95.33,
    "leftPct": 47,
    "leftRem": 7,
    "rightRem": 8,
@@ -1057,11 +1057,11 @@
      "player": "R. White",
      "pos": "RB",
      "slot": "RB",
-     "rem": 11.92,
+     "rem": 11.94,
      "state": "pending",
      "pts": 0.0,
-     "proj": 11.92,
-     "live": 11.92,
+     "proj": 11.94,
+     "live": 11.94,
      "game": "Sun 1:00 pm vs LAR"
     },
     {
@@ -1117,7 +1117,7 @@
    "right": "Sir this is a FF league",
    "rightRec": "3-4",
    "leftScore": 0.0,
-   "leftProj": 105.54,
+   "leftProj": 105.59,
    "rightScore": 0.0,
    "rightProj": 103.42,
    "leftPct": 52,
@@ -1140,11 +1140,11 @@
      "player": "J. Daniels",
      "pos": "QB",
      "slot": "QB",
-     "rem": 21.76,
+     "rem": 21.81,
      "state": "pending",
      "pts": 0.0,
-     "proj": 21.76,
-     "live": 21.76,
+     "proj": 21.81,
+     "live": 21.81,
      "game": "Sun 1:00 pm vs LAR"
     },
     {
