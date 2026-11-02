@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 9,
- "ts": "2026-11-02T04:55:01+00:00",
+ "ts": "2026-11-02T05:35:01+00:00",
  "matchups": [
   {
    "id": "1v7",
@@ -10,7 +10,7 @@
    "right": "James Ray Ervin Yonts",
    "rightRec": "4-3",
    "leftScore": 0.0,
-   "leftProj": 108.39,
+   "leftProj": 108.42,
    "rightScore": 0.0,
    "rightProj": 123.36,
    "leftPct": 39,
@@ -59,11 +59,11 @@
      "player": "M. Golden",
      "pos": "WR",
      "slot": "WR",
-     "rem": 13.35,
+     "rem": 13.38,
      "state": "pending",
      "pts": 0.0,
-     "proj": 13.35,
-     "live": 13.35,
+     "proj": 13.38,
+     "live": 13.38,
      "game": "Sun 4:25 pm @ NE"
     },
     {
@@ -122,7 +122,7 @@
      "game": "Sun 4:25 pm vs Ari"
     },
     {
-     "player": "Commanders",
+     "player": "Washington",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 4.08,
@@ -212,7 +212,7 @@
      "game": "Sun 8:20 pm @ Chi"
     },
     {
-     "player": "Bengals",
+     "player": "Cincinnati",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 6.28,
@@ -231,9 +231,9 @@
    "right": "Alex Michael Pagels",
    "rightRec": "2-5",
    "leftScore": 0.0,
-   "leftProj": 112.19,
+   "leftProj": 112.24,
    "rightScore": 0.0,
-   "rightProj": 102.1,
+   "rightProj": 102.12,
    "leftPct": 59,
    "leftRem": 9,
    "rightRem": 8,
@@ -258,11 +258,11 @@
      "player": "D. Maye",
      "pos": "QB",
      "slot": "QB",
-     "rem": 24.54,
+     "rem": 24.5,
      "state": "pending",
      "pts": 0.0,
-     "proj": 24.54,
-     "live": 24.54,
+     "proj": 24.5,
+     "live": 24.5,
      "game": "Sun 4:25 pm vs GB"
     },
     {
@@ -280,22 +280,22 @@
      "player": "D. Henry",
      "pos": "RB",
      "slot": "RB",
-     "rem": 15.93,
+     "rem": 15.99,
      "state": "pending",
      "pts": 0.0,
-     "proj": 15.93,
-     "live": 15.93,
+     "proj": 15.99,
+     "live": 15.99,
      "game": "Thu 8:15 pm vs Jax"
     },
     {
      "player": "C. Watson",
      "pos": "WR",
      "slot": "WR",
-     "rem": 14.33,
+     "rem": 14.36,
      "state": "pending",
      "pts": 0.0,
-     "proj": 14.33,
-     "live": 14.33,
+     "proj": 14.36,
+     "live": 14.36,
      "game": "Sun 4:25 pm @ NE"
     },
     {
@@ -392,11 +392,11 @@
      "player": "J. Jacobs",
      "pos": "RB",
      "slot": "RB",
-     "rem": 13.82,
+     "rem": 13.86,
      "state": "pending",
      "pts": 0.0,
-     "proj": 13.82,
-     "live": 13.82,
+     "proj": 13.86,
+     "live": 13.86,
      "game": "Sun 4:25 pm @ NE"
     },
     {
@@ -436,11 +436,11 @@
      "player": "Jaguars",
      "pos": "DEF",
      "slot": "DEF",
-     "rem": 6.42,
+     "rem": 6.4,
      "state": "pending",
      "pts": 0.0,
-     "proj": 6.42,
-     "live": 6.42,
+     "proj": 6.4,
+     "live": 6.4,
      "game": "Thu 8:15 pm @ Bal"
     }
    ]
@@ -452,9 +452,9 @@
    "right": "RosterMogged",
    "rightRec": "3-4",
    "leftScore": 0.0,
-   "leftProj": 127.69,
+   "leftProj": 127.67,
    "rightScore": 0.0,
-   "rightProj": 113.37,
+   "rightProj": 113.15,
    "leftPct": 61,
    "leftRem": 9,
    "rightRem": 9,
@@ -549,14 +549,14 @@
      "game": "Mon 8:15 pm vs Buf"
     },
     {
-     "player": "Patriots",
+     "player": "N. England",
      "pos": "DEF",
      "slot": "DEF",
-     "rem": 6.5,
+     "rem": 6.48,
      "state": "pending",
      "pts": 0.0,
-     "proj": 6.5,
-     "live": 6.5,
+     "proj": 6.48,
+     "live": 6.48,
      "game": "Sun 4:25 pm vs GB"
     }
    ],
@@ -617,7 +617,7 @@
      "game": "Sun 4:05 pm vs Hou"
     },
     {
-     "player": "Chiefs",
+     "player": "K. City",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 9.92,
@@ -639,17 +639,6 @@
      "game": "Sun 4:25 pm @ SF"
     },
     {
-     "player": "O. Cooper Jr.",
-     "pos": "WR",
-     "slot": "W/R/T",
-     "rem": 8.2,
-     "state": "pending",
-     "pts": 0.0,
-     "proj": 8.2,
-     "live": 8.2,
-     "game": "Sun 1:00 pm @ KC"
-    },
-    {
      "player": "K. Pitts Sr.",
      "pos": "TE",
      "slot": "TE",
@@ -659,6 +648,17 @@
      "proj": 8.17,
      "live": 8.17,
      "game": "Sun 9:30 am vs Cin"
+    },
+    {
+     "player": "O. Cooper Jr.",
+     "pos": "WR",
+     "slot": "W/R/T",
+     "rem": 7.98,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 7.98,
+     "live": 7.98,
+     "game": "Sun 1:00 pm @ KC"
     }
    ]
   },
@@ -669,9 +669,9 @@
    "right": "Zen Buddha Boys 🪷💨",
    "rightRec": "4-3",
    "leftScore": 0.0,
-   "leftProj": 125.02,
+   "leftProj": 124.99,
    "rightScore": 0.0,
-   "rightProj": 111.83,
+   "rightProj": 111.43,
    "leftPct": 61,
    "leftRem": 9,
    "rightRem": 8,
@@ -729,11 +729,11 @@
      "player": "P. Washington",
      "pos": "WR",
      "slot": "WR",
-     "rem": 14.69,
+     "rem": 14.68,
      "state": "pending",
      "pts": 0.0,
-     "proj": 14.69,
-     "live": 14.69,
+     "proj": 14.68,
+     "live": 14.68,
      "game": "Thu 8:15 pm @ Bal"
     },
     {
@@ -773,11 +773,11 @@
      "player": "C. Little",
      "pos": "K",
      "slot": "K",
-     "rem": 9.63,
+     "rem": 9.61,
      "state": "pending",
      "pts": 0.0,
-     "proj": 9.63,
-     "live": 9.63,
+     "proj": 9.61,
+     "live": 9.61,
      "game": "Thu 8:15 pm @ Bal"
     },
     {
@@ -830,11 +830,11 @@
      "player": "Z. Flowers",
      "pos": "WR",
      "slot": "WR",
-     "rem": 16.09,
+     "rem": 15.69,
      "state": "pending",
      "pts": 0.0,
-     "proj": 16.09,
-     "live": 16.09,
+     "proj": 15.69,
+     "live": 15.69,
      "game": "Thu 8:15 pm vs Jax"
     },
     {
@@ -890,7 +890,7 @@
    "right": "Kiwis are better than mid",
    "rightRec": "4-3",
    "leftScore": 0.0,
-   "leftProj": 92.17,
+   "leftProj": 92.13,
    "rightScore": 0.0,
    "rightProj": 95.17,
    "leftPct": 47,
@@ -945,11 +945,11 @@
      "player": "T. Lawrence",
      "pos": "QB",
      "slot": "QB",
-     "rem": 21.74,
+     "rem": 21.71,
      "state": "pending",
      "pts": 0.0,
-     "proj": 21.74,
-     "live": 21.74,
+     "proj": 21.71,
+     "live": 21.71,
      "game": "Thu 8:15 pm @ Bal"
     },
     {
@@ -967,11 +967,11 @@
      "player": "B. Tuten",
      "pos": "RB",
      "slot": "RB",
-     "rem": 13.55,
+     "rem": 13.52,
      "state": "pending",
      "pts": 0.0,
-     "proj": 13.55,
-     "live": 13.55,
+     "proj": 13.52,
+     "live": 13.52,
      "game": "Thu 8:15 pm @ Bal"
     },
     {
@@ -1000,11 +1000,11 @@
      "player": "T. Kraft",
      "pos": "TE",
      "slot": "TE",
-     "rem": 10.06,
+     "rem": 10.08,
      "state": "pending",
      "pts": 0.0,
-     "proj": 10.06,
-     "live": 10.06,
+     "proj": 10.08,
+     "live": 10.08,
      "game": "Sun 4:25 pm @ NE"
     },
     {
@@ -1117,9 +1117,9 @@
    "right": "Sir this is a FF league",
    "rightRec": "3-4",
    "leftScore": 0.0,
-   "leftProj": 105.71,
+   "leftProj": 105.7,
    "rightScore": 0.0,
-   "rightProj": 103.43,
+   "rightProj": 103.4,
    "leftPct": 52,
    "leftRem": 9,
    "rightRem": 9,
@@ -1184,11 +1184,11 @@
      "player": "B. Strange",
      "pos": "TE",
      "slot": "W/R/T",
-     "rem": 9.08,
+     "rem": 9.07,
      "state": "pending",
      "pts": 0.0,
-     "proj": 9.08,
-     "live": 9.08,
+     "proj": 9.07,
+     "live": 9.07,
      "game": "Thu 8:15 pm @ Bal"
     },
     {
@@ -1214,7 +1214,7 @@
      "game": "Sun 8:20 pm @ Chi"
     },
     {
-     "player": "Raiders",
+     "player": "L. Vegas",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 3.54,
@@ -1252,11 +1252,11 @@
      "player": "R. Stevenson",
      "pos": "RB",
      "slot": "W/R/T",
-     "rem": 12.63,
+     "rem": 12.61,
      "state": "pending",
      "pts": 0.0,
-     "proj": 12.63,
-     "live": 12.63,
+     "proj": 12.61,
+     "live": 12.61,
      "game": "Sun 4:25 pm vs GB"
     },
     {
@@ -1307,15 +1307,15 @@
      "player": "H. Henry",
      "pos": "TE",
      "slot": "TE",
-     "rem": 8.27,
+     "rem": 8.26,
      "state": "pending",
      "pts": 0.0,
-     "proj": 8.27,
-     "live": 8.27,
+     "proj": 8.26,
+     "live": 8.26,
      "game": "Sun 4:25 pm vs GB"
     },
     {
-     "player": "Broncos",
+     "player": "Denver",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 7.67,
