@@ -23,15 +23,15 @@ A weekly newsletter for members of the Harry Koch Memorial Cup Fantasy Football 
 
 ### Matchups
 
-**99% - 62.64 points: Alex Michael Pagels (2-5) vs Robotripping Gardener (5-2)**  
+**99% - 62.82 points: Alex Michael Pagels (2-5) vs Robotripping Gardener (5-2)**  
 
 
 
-**99% - 54.53 points: Tuten Brown (4-3) vs Matthew Chen #4 (3-4)**  
+**99% - 53.51 points: Tuten Brown (4-3) vs Matthew Chen #4 (3-4)**  
 
 
 
-**✅ 100% - 42.57 points: Kiwis are better than mid (4-3) vs RosterMogged (3-4)**  
+**✅ 100% - 42.17 points: Kiwis are better than mid (4-3) vs RosterMogged (3-4)**  
 
 
 
@@ -39,11 +39,11 @@ A weekly newsletter for members of the Harry Koch Memorial Cup Fantasy Football 
 
 
 
-**97% - 7.86 points: BDSM AI Stealth Founder (2-5) vs Sir this is a FF league (3-4)**  
+**62% - 7.57 points: MELONHEADS (daniel) (4-3) vs Evicted From the Swamp (4-3)**  
 
 
 
-**62% - 7.59 points: MELONHEADS (daniel) (4-3) vs Evicted From the Swamp (4-3)**  
+**96% - 7.36 points: BDSM AI Stealth Founder (2-5) vs Sir this is a FF league (3-4)**  
 
 
 
