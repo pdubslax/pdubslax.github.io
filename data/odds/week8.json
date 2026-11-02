@@ -694776,7 +694776,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-02T17:58:49+00:00",
+  "ts": "2026-11-02T18:18:57+00:00",
   "week": 8,
   "matchups": [
    {
@@ -694786,7 +694786,7 @@
     "right": "MELONHEADS (daniel)",
     "rightRec": "4-3",
     "leftScore": 63.23,
-    "leftProj": 92.57,
+    "leftProj": 92.51,
     "rightScore": 100.08,
     "rightProj": 100.08,
     "shotgun": [],
@@ -694795,22 +694795,22 @@
       "player": "J. Smith-Njigba",
       "pos": "WR",
       "slot": "W/R/T",
-      "rem": 24.11,
+      "rem": 24.12,
       "state": "pending",
       "pts": 0.0,
-      "proj": 24.11,
-      "live": 24.11,
+      "proj": 24.12,
+      "live": 24.12,
       "game": "Mon 8:15 pm vs Chi"
      },
      {
       "player": "E. Wilson",
       "pos": "RB",
       "slot": "RB",
-      "rem": 5.23,
+      "rem": 5.16,
       "state": "pending",
       "pts": 0.0,
-      "proj": 5.23,
-      "live": 5.23,
+      "proj": 5.16,
+      "live": 5.16,
       "game": "Mon 8:15 pm vs Chi"
      }
     ],
@@ -694956,7 +694956,7 @@
     "leftScore": 130.45,
     "leftProj": 130.45,
     "rightScore": 88.4,
-    "rightProj": 118.07,
+    "rightProj": 118.06,
     "shotgun": [
      {
       "player": "Z. Flowers",
@@ -694979,11 +694979,11 @@
       "player": "C. Williams",
       "pos": "QB",
       "slot": "QB",
-      "rem": 19.71,
+      "rem": 19.7,
       "state": "pending",
       "pts": 0.0,
-      "proj": 19.71,
-      "live": 19.71,
+      "proj": 19.7,
+      "live": 19.7,
       "game": "Mon 8:15 pm @ Sea"
      },
      {
