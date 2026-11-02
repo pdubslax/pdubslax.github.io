@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 9,
- "ts": "2026-11-02T21:38:49+00:00",
+ "ts": "2026-11-02T22:18:48+00:00",
  "matchups": [
   {
    "id": "1v7",
@@ -231,9 +231,9 @@
    "right": "Alex Michael Pagels",
    "rightRec": "2-5",
    "leftScore": 0.0,
-   "leftProj": 112.11,
+   "leftProj": 112.16,
    "rightScore": 0.0,
-   "rightProj": 101.32,
+   "rightProj": 101.33,
    "leftPct": 60,
    "leftRem": 9,
    "rightRem": 8,
@@ -302,11 +302,11 @@
      "player": "M. Wilson",
      "pos": "WR",
      "slot": "WR",
-     "rem": 9.98,
+     "rem": 10.03,
      "state": "pending",
      "pts": 0.0,
-     "proj": 9.98,
-     "live": 9.98,
+     "proj": 10.03,
+     "live": 10.03,
      "game": "Sun 4:25 pm @ Sea"
     },
     {
@@ -414,11 +414,11 @@
      "player": "KC Concepcion Jr.",
      "pos": "WR",
      "slot": "WR",
-     "rem": 9.82,
+     "rem": 9.83,
      "state": "pending",
      "pts": 0.0,
-     "proj": 9.82,
-     "live": 9.82,
+     "proj": 9.83,
+     "live": 9.83,
      "game": "Sun 1:00 pm @ NO"
     },
     {
@@ -452,7 +452,7 @@
    "right": "RosterMogged",
    "rightRec": "3-4",
    "leftScore": 0.0,
-   "leftProj": 121.4,
+   "leftProj": 121.46,
    "rightScore": 0.0,
    "rightProj": 113.17,
    "leftPct": 57,
@@ -497,11 +497,11 @@
      "player": "T. McBride",
      "pos": "TE",
      "slot": "TE",
-     "rem": 12.67,
+     "rem": 12.73,
      "state": "pending",
      "pts": 0.0,
-     "proj": 12.67,
-     "live": 12.67,
+     "proj": 12.73,
+     "live": 12.73,
      "game": "Sun 4:25 pm @ Sea"
     },
     {
