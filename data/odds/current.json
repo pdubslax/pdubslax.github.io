@@ -694776,7 +694776,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-02T11:16:49+00:00",
+  "ts": "2026-11-02T11:36:57+00:00",
   "week": 8,
   "matchups": [
    {
@@ -694931,7 +694931,7 @@
       "game": "Mon 8:15 pm vs Chi"
      },
      {
-      "player": "Seattle",
+      "player": "Seahawks",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 7.16,
@@ -695028,7 +695028,7 @@
       "reason": "pts"
      },
      {
-      "player": "N. York",
+      "player": "Jets",
       "pos": "DEF",
       "team": "NYJ",
       "pts": -3.75,
