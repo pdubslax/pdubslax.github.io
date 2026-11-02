@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 9,
- "ts": "2026-11-02T12:16:50+00:00",
+ "ts": "2026-11-02T12:37:54+00:00",
  "matchups": [
   {
    "id": "1v7",
@@ -122,7 +122,7 @@
      "game": "Sun 4:25 pm vs Ari"
     },
     {
-     "player": "Commanders",
+     "player": "Washington",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 4.05,
@@ -212,7 +212,7 @@
      "game": "Sun 8:20 pm @ Chi"
     },
     {
-     "player": "Bengals",
+     "player": "Cincinnati",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 6.28,
@@ -285,7 +285,7 @@
      "pts": 0.0,
      "proj": 16.03,
      "live": 16.03,
-     "game": "Thu 8:15 pm vs Jax"
+     "game": "Thu 8:15 pm vs Jax"
     },
     {
      "player": "C. Watson",
@@ -441,7 +441,7 @@
      "pts": 0.0,
      "proj": 6.4,
      "live": 6.4,
-     "game": "Thu 8:15 pm @ Bal"
+     "game": "Thu 8:15 pm @ Bal"
     }
    ]
   },
@@ -734,7 +734,7 @@
      "pts": 0.0,
      "proj": 14.64,
      "live": 14.64,
-     "game": "Thu 8:15 pm @ Bal"
+     "game": "Thu 8:15 pm @ Bal"
     },
     {
      "player": "A. Jeanty",
@@ -759,7 +759,7 @@
      "game": "Sun 1:00 pm vs Dal"
     },
     {
-     "player": "Seahawks",
+     "player": "Seattle",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 10.13,
@@ -778,7 +778,7 @@
      "pts": 0.0,
      "proj": 9.61,
      "live": 9.61,
-     "game": "Thu 8:15 pm @ Bal"
+     "game": "Thu 8:15 pm @ Bal"
     },
     {
      "player": "T. Tucker",
@@ -835,7 +835,7 @@
      "pts": 0.0,
      "proj": 15.64,
      "live": 15.64,
-     "game": "Thu 8:15 pm vs Jax"
+     "game": "Thu 8:15 pm vs Jax"
     },
     {
      "player": "O. Gordon II",
@@ -871,7 +871,7 @@
      "game": "Mon 8:15 pm vs Buf"
     },
     {
-     "player": "Colts",
+     "player": "Indianapolis",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 3.96,
@@ -926,7 +926,7 @@
      "reason": "pts"
     },
     {
-     "player": "Steelers",
+     "player": "Pittsburgh",
      "pos": "DEF",
      "team": "Pit",
      "pts": 0.0,
@@ -950,7 +950,7 @@
      "pts": 0.0,
      "proj": 21.66,
      "live": 21.66,
-     "game": "Thu 8:15 pm @ Bal"
+     "game": "Thu 8:15 pm @ Bal"
     },
     {
      "player": "J. Taylor",
@@ -972,7 +972,7 @@
      "pts": 0.0,
      "proj": 13.55,
      "live": 13.55,
-     "game": "Thu 8:15 pm @ Bal"
+     "game": "Thu 8:15 pm @ Bal"
     },
     {
      "player": "DJ Moore",
@@ -1098,7 +1098,7 @@
      "game": "Sun 1:00 pm @ Car"
     },
     {
-     "player": "Jets",
+     "player": "N. York",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 4.0,
@@ -1189,7 +1189,7 @@
      "pts": 0.0,
      "proj": 9.04,
      "live": 9.04,
-     "game": "Thu 8:15 pm @ Bal"
+     "game": "Thu 8:15 pm @ Bal"
     },
     {
      "player": "K. Shakir",
@@ -1268,7 +1268,7 @@
      "pts": 0.0,
      "proj": 12.51,
      "live": 12.51,
-     "game": "Thu 8:15 pm vs Jax"
+     "game": "Thu 8:15 pm vs Jax"
     },
     {
      "player": "J. Williams",
