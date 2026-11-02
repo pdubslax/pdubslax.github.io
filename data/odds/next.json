@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 9,
- "ts": "2026-11-02T02:02:02+00:00",
+ "ts": "2026-11-02T02:23:02+00:00",
  "matchups": [
   {
    "id": "1v7",
@@ -549,7 +549,7 @@
      "game": "Mon 8:15 pm vs Buf"
     },
     {
-     "player": "N. England",
+     "player": "Patriots",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 6.48,
@@ -617,7 +617,7 @@
      "game": "Sun 4:05 pm vs Hou"
     },
     {
-     "player": "K. City",
+     "player": "Chiefs",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 9.95,
@@ -759,7 +759,7 @@
      "game": "Sun 1:00 pm vs Dal"
     },
     {
-     "player": "Seattle",
+     "player": "Seahawks",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 10.15,
@@ -871,7 +871,7 @@
      "game": "Mon 8:15 pm vs Buf"
     },
     {
-     "player": "Indianapolis",
+     "player": "Colts",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 3.99,
@@ -926,7 +926,7 @@
      "reason": "pts"
     },
     {
-     "player": "Pittsburgh",
+     "player": "Steelers",
      "pos": "DEF",
      "team": "Pit",
      "pts": 0.0,
@@ -1098,7 +1098,7 @@
      "game": "Sun 1:00 pm @ Car"
     },
     {
-     "player": "N. York",
+     "player": "Jets",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 4.0,
