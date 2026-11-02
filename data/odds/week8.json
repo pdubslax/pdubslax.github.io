@@ -694776,7 +694776,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-02T22:19:59+00:00",
+  "ts": "2026-11-02T22:40:09+00:00",
   "week": 8,
   "matchups": [
    {
@@ -694899,7 +694899,7 @@
     "right": "Tuten Brown",
     "rightRec": "4-3",
     "leftScore": 61.0,
-    "leftProj": 88.05,
+    "leftProj": 88.06,
     "rightScore": 141.55,
     "rightProj": 141.55,
     "shotgun": [
@@ -694923,11 +694923,11 @@
       "player": "S. Darnold",
       "pos": "QB",
       "slot": "QB",
-      "rem": 19.91,
+      "rem": 19.92,
       "state": "pending",
       "pts": 0.0,
-      "proj": 19.91,
-      "live": 19.91,
+      "proj": 19.92,
+      "live": 19.92,
       "game": "Mon 8:15 pm vs Chi"
      },
      {
