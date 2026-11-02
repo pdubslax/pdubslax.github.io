@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 9,
- "ts": "2026-11-02T18:58:48+00:00",
+ "ts": "2026-11-02T19:38:49+00:00",
  "matchups": [
   {
    "id": "1v7",
@@ -122,7 +122,7 @@
      "game": "Sun 4:25 pm vs Ari"
     },
     {
-     "player": "Commanders",
+     "player": "Washington",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 4.05,
@@ -212,7 +212,7 @@
      "game": "Sun 8:20 pm @ Chi"
     },
     {
-     "player": "Bengals",
+     "player": "Cincinnati",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 6.28,
@@ -343,7 +343,7 @@
      "game": "Sun 1:00 pm vs LAR"
     },
     {
-     "player": "Atlanta",
+     "player": "Falcons",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 4.9,
@@ -433,7 +433,7 @@
      "game": "Sun 1:00 pm vs NYG"
     },
     {
-     "player": "Jacksonville",
+     "player": "Jaguars",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 6.42,
@@ -549,7 +549,7 @@
      "game": "Mon 8:15 pm vs Buf"
     },
     {
-     "player": "Patriots",
+     "player": "N. England",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 6.48,
@@ -617,7 +617,7 @@
      "game": "Sun 4:05 pm vs Hou"
     },
     {
-     "player": "Chiefs",
+     "player": "K. City",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 9.95,
@@ -759,7 +759,7 @@
      "game": "Sun 1:00 pm vs Dal"
     },
     {
-     "player": "Seahawks",
+     "player": "Seattle",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 10.13,
@@ -871,7 +871,7 @@
      "game": "Mon 8:15 pm vs Buf"
     },
     {
-     "player": "Colts",
+     "player": "Indianapolis",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 3.96,
@@ -926,7 +926,7 @@
      "reason": "pts"
     },
     {
-     "player": "Steelers",
+     "player": "Pittsburgh",
      "pos": "DEF",
      "team": "Pit",
      "pts": 0.0,
@@ -1098,7 +1098,7 @@
      "game": "Sun 1:00 pm @ Car"
     },
     {
-     "player": "Jets",
+     "player": "N. York",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 4.0,
