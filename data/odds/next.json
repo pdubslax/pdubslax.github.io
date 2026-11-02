@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 9,
- "ts": "2026-11-02T05:35:01+00:00",
+ "ts": "2026-11-02T06:15:01+00:00",
  "matchups": [
   {
    "id": "1v7",
@@ -10,7 +10,7 @@
    "right": "James Ray Ervin Yonts",
    "rightRec": "4-3",
    "leftScore": 0.0,
-   "leftProj": 108.42,
+   "leftProj": 108.45,
    "rightScore": 0.0,
    "rightProj": 123.36,
    "leftPct": 39,
@@ -81,11 +81,11 @@
      "player": "S. LaPorta",
      "pos": "TE",
      "slot": "TE",
-     "rem": 10.78,
+     "rem": 10.81,
      "state": "pending",
      "pts": 0.0,
-     "proj": 10.78,
-     "live": 10.78,
+     "proj": 10.81,
+     "live": 10.81,
      "game": "Sun 1:00 pm @ Mia"
     },
     {
@@ -122,7 +122,7 @@
      "game": "Sun 4:25 pm vs Ari"
     },
     {
-     "player": "Washington",
+     "player": "Commanders",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 4.08,
@@ -212,7 +212,7 @@
      "game": "Sun 8:20 pm @ Chi"
     },
     {
-     "player": "Cincinnati",
+     "player": "Bengals",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 6.28,
@@ -452,9 +452,9 @@
    "right": "RosterMogged",
    "rightRec": "3-4",
    "leftScore": 0.0,
-   "leftProj": 127.67,
+   "leftProj": 127.74,
    "rightScore": 0.0,
-   "rightProj": 113.15,
+   "rightProj": 113.23,
    "leftPct": 61,
    "leftRem": 9,
    "rightRem": 9,
@@ -464,11 +464,11 @@
      "player": "J. Gibbs",
      "pos": "RB",
      "slot": "RB",
-     "rem": 26.25,
+     "rem": 26.32,
      "state": "pending",
      "pts": 0.0,
-     "proj": 26.25,
-     "live": 26.25,
+     "proj": 26.32,
+     "live": 26.32,
      "game": "Sun 1:00 pm @ Mia"
     },
     {
@@ -549,7 +549,7 @@
      "game": "Mon 8:15 pm vs Buf"
     },
     {
-     "player": "N. England",
+     "player": "Patriots",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 6.48,
@@ -576,11 +576,11 @@
      "player": "J. Goff",
      "pos": "QB",
      "slot": "QB",
-     "rem": 21.23,
+     "rem": 21.31,
      "state": "pending",
      "pts": 0.0,
-     "proj": 21.23,
-     "live": 21.23,
+     "proj": 21.31,
+     "live": 21.31,
      "game": "Sun 1:00 pm @ Mia"
     },
     {
@@ -617,7 +617,7 @@
      "game": "Sun 4:05 pm vs Hou"
     },
     {
-     "player": "K. City",
+     "player": "Chiefs",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 9.92,
@@ -671,7 +671,7 @@
    "leftScore": 0.0,
    "leftProj": 124.99,
    "rightScore": 0.0,
-   "rightProj": 111.43,
+   "rightProj": 111.51,
    "leftPct": 61,
    "leftRem": 9,
    "rightRem": 8,
@@ -808,11 +808,11 @@
      "player": "A. St. Brown",
      "pos": "WR",
      "slot": "WR",
-     "rem": 17.56,
+     "rem": 17.62,
      "state": "pending",
      "pts": 0.0,
-     "proj": 17.56,
-     "live": 17.56,
+     "proj": 17.62,
+     "live": 17.62,
      "game": "Sun 1:00 pm @ Mia"
     },
     {
@@ -841,11 +841,11 @@
      "player": "O. Gordon II",
      "pos": "RB",
      "slot": "RB",
-     "rem": 13.57,
+     "rem": 13.59,
      "state": "pending",
      "pts": 0.0,
-     "proj": 13.57,
-     "live": 13.57,
+     "proj": 13.59,
+     "live": 13.59,
      "game": "Sun 1:00 pm vs Det"
     },
     {
@@ -1117,9 +1117,9 @@
    "right": "Sir this is a FF league",
    "rightRec": "3-4",
    "leftScore": 0.0,
-   "leftProj": 105.7,
+   "leftProj": 105.73,
    "rightScore": 0.0,
-   "rightProj": 103.4,
+   "rightProj": 103.43,
    "leftPct": 52,
    "leftRem": 9,
    "rightRem": 9,
@@ -1162,11 +1162,11 @@
      "player": "J. Bates",
      "pos": "K",
      "slot": "K",
-     "rem": 10.2,
+     "rem": 10.23,
      "state": "pending",
      "pts": 0.0,
-     "proj": 10.2,
-     "live": 10.2,
+     "proj": 10.23,
+     "live": 10.23,
      "game": "Sun 1:00 pm @ Mia"
     },
     {
@@ -1214,7 +1214,7 @@
      "game": "Sun 8:20 pm @ Chi"
     },
     {
-     "player": "L. Vegas",
+     "player": "Raiders",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 3.54,
@@ -1274,11 +1274,11 @@
      "player": "J. Williams",
      "pos": "WR",
      "slot": "WR",
-     "rem": 10.79,
+     "rem": 10.82,
      "state": "pending",
      "pts": 0.0,
-     "proj": 10.79,
-     "live": 10.79,
+     "proj": 10.82,
+     "live": 10.82,
      "game": "Sun 1:00 pm @ Mia"
     },
     {
@@ -1315,7 +1315,7 @@
      "game": "Sun 4:25 pm vs GB"
     },
     {
-     "player": "Denver",
+     "player": "Broncos",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 7.67,
