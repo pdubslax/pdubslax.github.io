@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 9,
- "ts": "2026-11-03T06:05:46+00:00",
+ "ts": "2026-11-03T06:45:46+00:00",
  "matchups": [
   {
    "id": "1v7",
@@ -233,8 +233,8 @@
    "leftScore": 0.0,
    "leftProj": 117.43,
    "rightScore": 0.0,
-   "rightProj": 103.53,
-   "leftPct": 62,
+   "rightProj": 110.55,
+   "leftPct": 56,
    "leftRem": 9,
    "rightRem": 8,
    "shotgun": [
@@ -367,6 +367,17 @@
      "game": "Sun 9:30 am @ Atl"
     },
     {
+     "player": "M. Nabers",
+     "pos": "WR",
+     "slot": "WR",
+     "rem": 16.25,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 16.25,
+     "live": 16.25,
+     "game": "Sun 1:00 pm @ Phi"
+    },
+    {
      "player": "T. Higgins",
      "pos": "WR",
      "slot": "WR",
@@ -378,15 +389,15 @@
      "game": "Sun 9:30 am @ Atl"
     },
     {
-     "player": "S. Barkley",
-     "pos": "RB",
+     "player": "C. Olave",
+     "pos": "WR",
      "slot": "W/R/T",
-     "rem": 14.2,
+     "rem": 14.71,
      "state": "pending",
      "pts": 0.0,
-     "proj": 14.2,
-     "live": 14.2,
-     "game": "Sun 1:00 pm vs NYG"
+     "proj": 14.71,
+     "live": 14.71,
+     "game": "Sun 1:00 pm vs Cle"
     },
     {
      "player": "J. Jacobs",
@@ -409,17 +420,6 @@
      "proj": 12.31,
      "live": 12.31,
      "game": "Sun 1:00 pm @ Car"
-    },
-    {
-     "player": "KC Concepcion Jr.",
-     "pos": "WR",
-     "slot": "WR",
-     "rem": 9.74,
-     "state": "pending",
-     "pts": 0.0,
-     "proj": 9.74,
-     "live": 9.74,
-     "game": "Sun 1:00 pm @ NO"
     },
     {
      "player": "D. Goedert",
