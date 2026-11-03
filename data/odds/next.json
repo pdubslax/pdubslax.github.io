@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 9,
- "ts": "2026-11-03T02:02:08+00:00",
+ "ts": "2026-11-03T02:23:15+00:00",
  "matchups": [
   {
    "id": "1v7",
@@ -302,11 +302,11 @@
      "player": "M. Wilson",
      "pos": "WR",
      "slot": "WR",
-     "rem": 10.01,
+     "rem": 10.05,
      "state": "pending",
      "pts": 0.0,
-     "proj": 10.01,
-     "live": 10.01,
+     "proj": 10.05,
+     "live": 10.05,
      "game": "Sun 4:25 pm @ Sea"
     },
     {
@@ -324,11 +324,11 @@
      "player": "C. Santos",
      "pos": "K",
      "slot": "K",
-     "rem": 9.58,
+     "rem": 9.55,
      "state": "pending",
      "pts": 0.0,
-     "proj": 9.58,
-     "live": 9.58,
+     "proj": 9.55,
+     "live": 9.55,
      "game": "Sun 8:20 pm vs TB"
     },
     {
@@ -403,11 +403,11 @@
      "player": "J. Coleman",
      "pos": "RB",
      "slot": "RB",
-     "rem": 11.49,
+     "rem": 11.51,
      "state": "pending",
      "pts": 0.0,
-     "proj": 11.49,
-     "live": 11.49,
+     "proj": 11.51,
+     "live": 11.51,
      "game": "Sun 1:00 pm @ Car"
     },
     {
@@ -759,7 +759,7 @@
      "game": "Sun 1:00 pm vs Dal"
     },
     {
-     "player": "Seahawks",
+     "player": "Seattle",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 10.07,
@@ -871,7 +871,7 @@
      "game": "Mon 8:15 pm vs Buf"
     },
     {
-     "player": "Colts",
+     "player": "Indianapolis",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 3.94,
