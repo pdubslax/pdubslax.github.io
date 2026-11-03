@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 9,
- "ts": "2026-11-03T12:31:33+00:00",
+ "ts": "2026-11-03T13:11:33+00:00",
  "matchups": [
   {
    "id": "1v7",
@@ -12,26 +12,11 @@
    "leftScore": 0.0,
    "leftProj": 107.08,
    "rightScore": 0.0,
-   "rightProj": 122.13,
-   "leftPct": 39,
+   "rightProj": 133.28,
+   "leftPct": 31,
    "leftRem": 9,
-   "rightRem": 8,
-   "shotgun": [
-    {
-     "player": "J. Warren",
-     "pos": "RB",
-     "team": "Pit",
-     "pts": 0.0,
-     "game": "Bye",
-     "tag": null,
-     "state": "bye",
-     "slot": "RB",
-     "manager": "James Ray Ervin Yonts",
-     "locked": false,
-     "live": 0.0,
-     "reason": "pts"
-    }
-   ],
+   "rightRem": 9,
+   "shotgun": [],
    "leftActive": [
     {
      "player": "J. Smith-Njigba",
@@ -190,26 +175,37 @@
      "game": "Sun 1:00 pm vs NYJ"
     },
     {
-     "player": "C. McLaughlin",
+     "player": "K. Fairbairn",
      "pos": "K",
      "slot": "K",
-     "rem": 8.52,
+     "rem": 9.69,
      "state": "pending",
      "pts": 0.0,
-     "proj": 8.52,
-     "live": 8.52,
-     "game": "Sun 8:20 pm @ Chi"
+     "proj": 9.69,
+     "live": 9.69,
+     "game": "Sun 4:05 pm @ LAC"
     },
     {
-     "player": "Bengals",
+     "player": "Giants",
      "pos": "DEF",
      "slot": "DEF",
-     "rem": 6.3,
+     "rem": 8.19,
      "state": "pending",
      "pts": 0.0,
-     "proj": 6.3,
-     "live": 6.3,
-     "game": "Sun 9:30 am @ Atl"
+     "proj": 8.19,
+     "live": 8.19,
+     "game": "Sun 1:00 pm @ Phi"
+    },
+    {
+     "player": "T. Allgeier",
+     "pos": "RB",
+     "slot": "RB",
+     "rem": 8.09,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 8.09,
+     "live": 8.09,
+     "game": "Sun 4:25 pm @ Sea"
     }
    ]
   },
@@ -1197,7 +1193,7 @@
      "game": "Sun 8:20 pm @ Chi"
     },
     {
-     "player": "Raiders",
+     "player": "L. Vegas",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 3.49,
@@ -1298,7 +1294,7 @@
      "game": "Sun 4:25 pm vs GB"
     },
     {
-     "player": "Broncos",
+     "player": "Denver",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 7.96,
