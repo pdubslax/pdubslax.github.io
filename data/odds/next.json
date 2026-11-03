@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 9,
- "ts": "2026-11-03T13:11:33+00:00",
+ "ts": "2026-11-03T13:37:26+00:00",
  "matchups": [
   {
    "id": "1v7",
@@ -10,7 +10,7 @@
    "right": "James Ray Ervin Yonts",
    "rightRec": "5-3",
    "leftScore": 0.0,
-   "leftProj": 107.08,
+   "leftProj": 106.36,
    "rightScore": 0.0,
    "rightProj": 133.28,
    "leftPct": 31,
@@ -22,11 +22,11 @@
      "player": "J. Smith-Njigba",
      "pos": "WR",
      "slot": "WR",
-     "rem": 23.08,
+     "rem": 22.98,
      "state": "pending",
      "pts": 0.0,
-     "proj": 23.08,
-     "live": 23.08,
+     "proj": 22.98,
+     "live": 22.98,
      "game": "Sun 4:25 pm vs Ari"
     },
     {
@@ -44,11 +44,11 @@
      "player": "L. Burden III",
      "pos": "WR",
      "slot": "W/R/T",
-     "rem": 14.9,
+     "rem": 14.28,
      "state": "pending",
      "pts": 0.0,
-     "proj": 14.9,
-     "live": 14.9,
+     "proj": 14.28,
+     "live": 14.28,
      "game": "Sun 8:20 pm vs TB"
     },
     {
@@ -85,7 +85,7 @@
      "game": "Sun 1:00 pm vs Dal"
     },
     {
-     "player": "Texans",
+     "player": "Houston",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 8.73,
@@ -186,7 +186,7 @@
      "game": "Sun 4:05 pm @ LAC"
     },
     {
-     "player": "Giants",
+     "player": "N. York",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 8.19,
@@ -216,9 +216,9 @@
    "right": "Alex Michael Pagels",
    "rightRec": "3-5",
    "leftScore": 0.0,
-   "leftProj": 117.55,
+   "leftProj": 117.54,
    "rightScore": 0.0,
-   "rightProj": 112.31,
+   "rightProj": 112.3,
    "leftPct": 54,
    "leftRem": 9,
    "rightRem": 8,
@@ -276,11 +276,11 @@
      "player": "C. Watson",
      "pos": "WR",
      "slot": "WR",
-     "rem": 14.18,
+     "rem": 14.17,
      "state": "pending",
      "pts": 0.0,
-     "proj": 14.18,
-     "live": 14.18,
+     "proj": 14.17,
+     "live": 14.17,
      "game": "Sun 4:25 pm @ NE"
     },
     {
@@ -388,11 +388,11 @@
      "player": "J. Jacobs",
      "pos": "RB",
      "slot": "RB",
-     "rem": 13.41,
+     "rem": 13.4,
      "state": "pending",
      "pts": 0.0,
-     "proj": 13.41,
-     "live": 13.41,
+     "proj": 13.4,
+     "live": 13.4,
      "game": "Sun 4:25 pm @ NE"
     },
     {
@@ -437,7 +437,7 @@
    "right": "RosterMogged",
    "rightRec": "3-5",
    "leftScore": 0.0,
-   "leftProj": 138.62,
+   "leftProj": 138.23,
    "rightScore": 0.0,
    "rightProj": 111.47,
    "leftPct": 70,
@@ -482,11 +482,11 @@
      "player": "D. Swift",
      "pos": "RB",
      "slot": "W/R/T",
-     "rem": 14.21,
+     "rem": 13.82,
      "state": "pending",
      "pts": 0.0,
-     "proj": 14.21,
-     "live": 14.21,
+     "proj": 13.82,
+     "live": 13.82,
      "game": "Sun 8:20 pm vs TB"
     },
     {
@@ -654,9 +654,9 @@
    "right": "Zen Buddha Boys 🪷💨",
    "rightRec": "4-4",
    "leftScore": 0.0,
-   "leftProj": 123.9,
+   "leftProj": 123.78,
    "rightScore": 0.0,
-   "rightProj": 109.69,
+   "rightProj": 109.02,
    "leftPct": 62,
    "leftRem": 9,
    "rightRem": 8,
@@ -681,11 +681,11 @@
      "player": "S. Darnold",
      "pos": "QB",
      "slot": "QB",
-     "rem": 20.56,
+     "rem": 20.44,
      "state": "pending",
      "pts": 0.0,
-     "proj": 20.56,
-     "live": 20.56,
+     "proj": 20.44,
+     "live": 20.44,
      "game": "Sun 4:25 pm vs Ari"
     },
     {
@@ -744,7 +744,7 @@
      "game": "Sun 1:00 pm vs Dal"
     },
     {
-     "player": "Seahawks",
+     "player": "Seattle",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 10.18,
@@ -782,11 +782,11 @@
      "player": "C. Williams",
      "pos": "QB",
      "slot": "QB",
-     "rem": 21.69,
+     "rem": 21.04,
      "state": "pending",
      "pts": 0.0,
-     "proj": 21.69,
-     "live": 21.69,
+     "proj": 21.04,
+     "live": 21.04,
      "game": "Sun 8:20 pm vs TB"
     },
     {
@@ -804,11 +804,11 @@
      "player": "C. Hubbard",
      "pos": "RB",
      "slot": "RB",
-     "rem": 16.86,
+     "rem": 16.84,
      "state": "pending",
      "pts": 0.0,
-     "proj": 16.86,
-     "live": 16.86,
+     "proj": 16.84,
+     "live": 16.84,
      "game": "Sun 1:00 pm vs Den"
     },
     {
@@ -856,7 +856,7 @@
      "game": "Mon 8:15 pm vs Buf"
     },
     {
-     "player": "Colts",
+     "player": "Indianapolis",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 4.06,
@@ -1098,7 +1098,7 @@
    "leftScore": 0.0,
    "leftProj": 104.64,
    "rightScore": 0.0,
-   "rightProj": 110.62,
+   "rightProj": 110.61,
    "leftPct": 45,
    "leftRem": 9,
    "rightRem": 9,
@@ -1209,11 +1209,11 @@
      "player": "J. Love",
      "pos": "QB",
      "slot": "QB",
-     "rem": 19.44,
+     "rem": 19.43,
      "state": "pending",
      "pts": 0.0,
-     "proj": 19.44,
-     "live": 19.44,
+     "proj": 19.43,
+     "live": 19.43,
      "game": "Sun 4:25 pm @ NE"
     },
     {
