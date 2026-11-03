@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 9,
- "ts": "2026-11-03T23:23:38+00:00",
+ "ts": "2026-11-03T23:49:21+00:00",
  "matchups": [
   {
    "id": "1v7",
@@ -10,9 +10,9 @@
    "right": "James Ray Ervin Yonts",
    "rightRec": "5-3",
    "leftScore": 0.0,
-   "leftProj": 118.09,
+   "leftProj": 118.13,
    "rightScore": 0.0,
-   "rightProj": 140.34,
+   "rightProj": 140.29,
    "leftPct": 34,
    "leftRem": 9,
    "rightRem": 9,
@@ -22,11 +22,11 @@
      "player": "J. Smith-Njigba",
      "pos": "WR",
      "slot": "WR",
-     "rem": 23.3,
+     "rem": 23.34,
      "state": "pending",
      "pts": 0.0,
-     "proj": 23.3,
-     "live": 23.3,
+     "proj": 23.34,
+     "live": 23.34,
      "game": "Sun 4:25 pm vs Ari"
     },
     {
@@ -178,11 +178,11 @@
      "player": "T. Allgeier",
      "pos": "RB",
      "slot": "RB",
-     "rem": 12.35,
+     "rem": 12.3,
      "state": "pending",
      "pts": 0.0,
-     "proj": 12.35,
-     "live": 12.35,
+     "proj": 12.3,
+     "live": 12.3,
      "game": "Sun 4:25 pm @ Sea"
     },
     {
@@ -227,7 +227,7 @@
    "right": "Alex Michael Pagels",
    "rightRec": "3-5",
    "leftScore": 0.0,
-   "leftProj": 117.01,
+   "leftProj": 116.96,
    "rightScore": 0.0,
    "rightProj": 114.74,
    "leftPct": 52,
@@ -298,11 +298,11 @@
      "player": "M. Wilson",
      "pos": "WR",
      "slot": "WR",
-     "rem": 11.39,
+     "rem": 11.34,
      "state": "pending",
      "pts": 0.0,
-     "proj": 11.39,
-     "live": 11.39,
+     "proj": 11.34,
+     "live": 11.34,
      "game": "Sun 4:25 pm @ Sea"
     },
     {
@@ -448,9 +448,9 @@
    "right": "RosterMogged",
    "rightRec": "3-5",
    "leftScore": 0.0,
-   "leftProj": 142.37,
+   "leftProj": 142.31,
    "rightScore": 0.0,
-   "rightProj": 117.65,
+   "rightProj": 117.69,
    "leftPct": 68,
    "leftRem": 9,
    "rightRem": 9,
@@ -515,11 +515,11 @@
      "player": "T. McBride",
      "pos": "TE",
      "slot": "TE",
-     "rem": 12.92,
+     "rem": 12.86,
      "state": "pending",
      "pts": 0.0,
-     "proj": 12.92,
-     "live": 12.92,
+     "proj": 12.86,
+     "live": 12.86,
      "game": "Sun 4:25 pm @ Sea"
     },
     {
@@ -605,11 +605,11 @@
      "player": "Z. Charbonnet",
      "pos": "RB",
      "slot": "RB",
-     "rem": 10.75,
+     "rem": 10.79,
      "state": "pending",
      "pts": 0.0,
-     "proj": 10.75,
-     "live": 10.75,
+     "proj": 10.79,
+     "live": 10.79,
      "game": "Sun 4:25 pm vs Ari"
     },
     {
@@ -665,9 +665,9 @@
    "right": "Zen Buddha Boys 🪷💨",
    "rightRec": "4-4",
    "leftScore": 0.0,
-   "leftProj": 123.96,
+   "leftProj": 124.07,
    "rightScore": 0.0,
-   "rightProj": 123.5,
+   "rightProj": 123.55,
    "leftPct": 50,
    "leftRem": 9,
    "rightRem": 9,
@@ -677,11 +677,11 @@
      "player": "S. Darnold",
      "pos": "QB",
      "slot": "QB",
-     "rem": 20.5,
+     "rem": 20.56,
      "state": "pending",
      "pts": 0.0,
-     "proj": 20.5,
-     "live": 20.5,
+     "proj": 20.56,
+     "live": 20.56,
      "game": "Sun 4:25 pm vs Ari"
     },
     {
@@ -743,11 +743,11 @@
      "player": "Seahawks",
      "pos": "DEF",
      "slot": "DEF",
-     "rem": 10.49,
+     "rem": 10.54,
      "state": "pending",
      "pts": 0.0,
-     "proj": 10.49,
-     "live": 10.49,
+     "proj": 10.54,
+     "live": 10.54,
      "game": "Sun 4:25 pm vs Ari"
     },
     {
@@ -844,11 +844,11 @@
      "player": "J. Myers",
      "pos": "K",
      "slot": "K",
-     "rem": 10.73,
+     "rem": 10.78,
      "state": "pending",
      "pts": 0.0,
-     "proj": 10.73,
-     "live": 10.73,
+     "proj": 10.78,
+     "live": 10.78,
      "game": "Sun 4:25 pm vs Ari"
     },
     {
@@ -882,28 +882,13 @@
    "right": "Kiwis are better than mid",
    "rightRec": "5-3",
    "leftScore": 0.0,
-   "leftProj": 105.42,
+   "leftProj": 118.37,
    "rightScore": 0.0,
    "rightProj": 118.26,
-   "leftPct": 39,
-   "leftRem": 8,
+   "leftPct": 50,
+   "leftRem": 9,
    "rightRem": 9,
-   "shotgun": [
-    {
-     "player": "(Empty)",
-     "pos": "",
-     "team": "",
-     "pts": 0.0,
-     "game": "",
-     "tag": null,
-     "state": "empty",
-     "slot": "W/R/T",
-     "manager": "Tuten Brown",
-     "locked": false,
-     "live": 0.0,
-     "reason": "pts"
-    }
-   ],
+   "shotgun": [],
    "leftActive": [
     {
      "player": "T. Lawrence",
@@ -937,6 +922,17 @@
      "proj": 15.31,
      "live": 15.31,
      "game": "Thu 8:15 pm @ Bal"
+    },
+    {
+     "player": "L. Burden III",
+     "pos": "WR",
+     "slot": "W/R/T",
+     "rem": 12.95,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 12.95,
+     "live": 12.95,
+     "game": "Sun 8:20 pm vs TB"
     },
     {
      "player": "A.J. Brown",
@@ -1200,7 +1196,7 @@
      "game": "Mon 8:15 pm @ Min"
     },
     {
-     "player": "Bills",
+     "player": "Buffalo",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 6.32,
@@ -1301,7 +1297,7 @@
      "game": "Sun 4:25 pm vs GB"
     },
     {
-     "player": "Broncos",
+     "player": "Denver",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 7.81,
