@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 9,
- "ts": "2026-11-03T01:41:04+00:00",
+ "ts": "2026-11-03T02:02:08+00:00",
  "matchups": [
   {
    "id": "1v7",
@@ -10,10 +10,10 @@
    "right": "James Ray Ervin Yonts",
    "rightRec": "4-3",
    "leftScore": 0.0,
-   "leftProj": 108.07,
+   "leftProj": 108.0,
    "rightScore": 0.0,
-   "rightProj": 123.42,
-   "leftPct": 39,
+   "rightProj": 123.38,
+   "leftPct": 38,
    "leftRem": 9,
    "rightRem": 8,
    "shotgun": [
@@ -37,11 +37,11 @@
      "player": "J. Smith-Njigba",
      "pos": "WR",
      "slot": "W/R/T",
-     "rem": 23.54,
+     "rem": 23.49,
      "state": "pending",
      "pts": 0.0,
-     "proj": 23.54,
-     "live": 23.54,
+     "proj": 23.49,
+     "live": 23.49,
      "game": "Sun 4:25 pm vs Ari"
     },
     {
@@ -114,11 +114,11 @@
      "player": "E. Wilson",
      "pos": "RB",
      "slot": "RB",
-     "rem": 5.15,
+     "rem": 5.13,
      "state": "pending",
      "pts": 0.0,
-     "proj": 5.15,
-     "live": 5.15,
+     "proj": 5.13,
+     "live": 5.13,
      "game": "Sun 4:25 pm vs Ari"
     },
     {
@@ -171,11 +171,11 @@
      "player": "B. Irving",
      "pos": "RB",
      "slot": "RB",
-     "rem": 17.47,
+     "rem": 17.45,
      "state": "pending",
      "pts": 0.0,
-     "proj": 17.47,
-     "live": 17.47,
+     "proj": 17.45,
+     "live": 17.45,
      "game": "Sun 8:20 pm @ Chi"
     },
     {
@@ -204,11 +204,11 @@
      "player": "C. McLaughlin",
      "pos": "K",
      "slot": "K",
-     "rem": 8.61,
+     "rem": 8.59,
      "state": "pending",
      "pts": 0.0,
-     "proj": 8.61,
-     "live": 8.61,
+     "proj": 8.59,
+     "live": 8.59,
      "game": "Sun 8:20 pm @ Chi"
     },
     {
@@ -231,9 +231,9 @@
    "right": "Alex Michael Pagels",
    "rightRec": "2-5",
    "leftScore": 0.0,
-   "leftProj": 112.21,
+   "leftProj": 112.22,
    "rightScore": 0.0,
-   "rightProj": 101.74,
+   "rightProj": 101.76,
    "leftPct": 60,
    "leftRem": 9,
    "rightRem": 8,
@@ -452,7 +452,7 @@
    "right": "RosterMogged",
    "rightRec": "3-4",
    "leftScore": 0.0,
-   "leftProj": 138.99,
+   "leftProj": 139.03,
    "rightScore": 0.0,
    "rightProj": 113.12,
    "leftPct": 69,
@@ -497,11 +497,11 @@
      "player": "D. Swift",
      "pos": "RB",
      "slot": "W/R/T",
-     "rem": 14.43,
+     "rem": 14.42,
      "state": "pending",
      "pts": 0.0,
-     "proj": 14.43,
-     "live": 14.43,
+     "proj": 14.42,
+     "live": 14.42,
      "game": "Sun 8:20 pm vs TB"
     },
     {
@@ -519,11 +519,11 @@
      "player": "T. McBride",
      "pos": "TE",
      "slot": "TE",
-     "rem": 12.71,
+     "rem": 12.76,
      "state": "pending",
      "pts": 0.0,
-     "proj": 12.71,
-     "live": 12.71,
+     "proj": 12.76,
+     "live": 12.76,
      "game": "Sun 4:25 pm @ Sea"
     },
     {
@@ -669,9 +669,9 @@
    "right": "Zen Buddha Boys 🪷💨",
    "rightRec": "4-3",
    "leftScore": 0.0,
-   "leftProj": 124.79,
+   "leftProj": 124.66,
    "rightScore": 0.0,
-   "rightProj": 110.43,
+   "rightProj": 110.34,
    "leftPct": 62,
    "leftRem": 9,
    "rightRem": 8,
@@ -696,11 +696,11 @@
      "player": "S. Darnold",
      "pos": "QB",
      "slot": "QB",
-     "rem": 20.62,
+     "rem": 20.55,
      "state": "pending",
      "pts": 0.0,
-     "proj": 20.62,
-     "live": 20.62,
+     "proj": 20.55,
+     "live": 20.55,
      "game": "Sun 4:25 pm vs Ari"
     },
     {
@@ -759,14 +759,14 @@
      "game": "Sun 1:00 pm vs Dal"
     },
     {
-     "player": "Seattle",
+     "player": "Seahawks",
      "pos": "DEF",
      "slot": "DEF",
-     "rem": 10.13,
+     "rem": 10.07,
      "state": "pending",
      "pts": 0.0,
-     "proj": 10.13,
-     "live": 10.13,
+     "proj": 10.07,
+     "live": 10.07,
      "game": "Sun 4:25 pm vs Ari"
     },
     {
@@ -797,11 +797,11 @@
      "player": "C. Williams",
      "pos": "QB",
      "slot": "QB",
-     "rem": 22.03,
+     "rem": 21.99,
      "state": "pending",
      "pts": 0.0,
-     "proj": 22.03,
-     "live": 22.03,
+     "proj": 21.99,
+     "live": 21.99,
      "game": "Sun 8:20 pm vs TB"
     },
     {
@@ -852,11 +852,11 @@
      "player": "J. Myers",
      "pos": "K",
      "slot": "K",
-     "rem": 10.99,
+     "rem": 10.94,
      "state": "pending",
      "pts": 0.0,
-     "proj": 10.99,
-     "live": 10.99,
+     "proj": 10.94,
+     "live": 10.94,
      "game": "Sun 4:25 pm vs Ari"
     },
     {
@@ -871,7 +871,7 @@
      "game": "Mon 8:15 pm vs Buf"
     },
     {
-     "player": "Indianapolis",
+     "player": "Colts",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 3.94,
@@ -1117,7 +1117,7 @@
    "right": "Sir this is a FF league",
    "rightRec": "3-4",
    "leftScore": 0.0,
-   "leftProj": 105.69,
+   "leftProj": 105.68,
    "rightScore": 0.0,
    "rightProj": 103.58,
    "leftPct": 52,
@@ -1206,11 +1206,11 @@
      "player": "K. Gainwell",
      "pos": "RB",
      "slot": "RB",
-     "rem": 6.68,
+     "rem": 6.67,
      "state": "pending",
      "pts": 0.0,
-     "proj": 6.68,
-     "live": 6.68,
+     "proj": 6.67,
+     "live": 6.67,
      "game": "Sun 8:20 pm @ Chi"
     },
     {
