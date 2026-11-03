@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 9,
- "ts": "2026-11-03T13:37:26+00:00",
+ "ts": "2026-11-03T14:17:25+00:00",
  "matchups": [
   {
    "id": "1v7",
@@ -12,7 +12,7 @@
    "leftScore": 0.0,
    "leftProj": 106.36,
    "rightScore": 0.0,
-   "rightProj": 133.28,
+   "rightProj": 133.3,
    "leftPct": 31,
    "leftRem": 9,
    "rightRem": 9,
@@ -85,7 +85,7 @@
      "game": "Sun 1:00 pm vs Dal"
     },
     {
-     "player": "Houston",
+     "player": "Texans",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 8.73,
@@ -186,14 +186,14 @@
      "game": "Sun 4:05 pm @ LAC"
     },
     {
-     "player": "N. York",
+     "player": "Giants",
      "pos": "DEF",
      "slot": "DEF",
-     "rem": 8.19,
+     "rem": 8.21,
      "state": "pending",
      "pts": 0.0,
-     "proj": 8.19,
-     "live": 8.19,
+     "proj": 8.21,
+     "live": 8.21,
      "game": "Sun 1:00 pm @ Phi"
     },
     {
@@ -216,9 +216,9 @@
    "right": "Alex Michael Pagels",
    "rightRec": "3-5",
    "leftScore": 0.0,
-   "leftProj": 117.54,
+   "leftProj": 117.55,
    "rightScore": 0.0,
-   "rightProj": 112.3,
+   "rightProj": 112.29,
    "leftPct": 54,
    "leftRem": 9,
    "rightRem": 8,
@@ -287,11 +287,11 @@
      "player": "I. Likely",
      "pos": "TE",
      "slot": "TE",
-     "rem": 11.86,
+     "rem": 11.87,
      "state": "pending",
      "pts": 0.0,
-     "proj": 11.86,
-     "live": 11.86,
+     "proj": 11.87,
+     "live": 11.87,
      "game": "Sun 1:00 pm @ Phi"
     },
     {
@@ -328,7 +328,7 @@
      "game": "Sun 8:20 pm vs TB"
     },
     {
-     "player": "Falcons",
+     "player": "Atlanta",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 5.14,
@@ -355,11 +355,11 @@
      "player": "M. Nabers",
      "pos": "WR",
      "slot": "WR",
-     "rem": 16.69,
+     "rem": 16.7,
      "state": "pending",
      "pts": 0.0,
-     "proj": 16.69,
-     "live": 16.69,
+     "proj": 16.7,
+     "live": 16.7,
      "game": "Sun 1:00 pm @ Phi"
     },
     {
@@ -410,15 +410,15 @@
      "player": "D. Goedert",
      "pos": "TE",
      "slot": "TE",
-     "rem": 8.8,
+     "rem": 8.78,
      "state": "pending",
      "pts": 0.0,
-     "proj": 8.8,
-     "live": 8.8,
+     "proj": 8.78,
+     "live": 8.78,
      "game": "Sun 1:00 pm vs NYG"
     },
     {
-     "player": "Jaguars",
+     "player": "Jacksonville",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 6.82,
@@ -744,7 +744,7 @@
      "game": "Sun 1:00 pm vs Dal"
     },
     {
-     "player": "Seattle",
+     "player": "Seahawks",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 10.18,
@@ -856,7 +856,7 @@
      "game": "Mon 8:15 pm vs Buf"
     },
     {
-     "player": "Indianapolis",
+     "player": "Colts",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 4.06,
@@ -1096,10 +1096,10 @@
    "right": "Sir this is a FF league",
    "rightRec": "3-5",
    "leftScore": 0.0,
-   "leftProj": 104.64,
+   "leftProj": 118.49,
    "rightScore": 0.0,
    "rightProj": 110.61,
-   "leftPct": 45,
+   "leftPct": 57,
    "leftRem": 9,
    "rightRem": 9,
    "shotgun": [],
@@ -1138,6 +1138,28 @@
      "game": "Sun 1:00 pm @ Ind"
     },
     {
+     "player": "G. Kittle",
+     "pos": "TE",
+     "slot": "W/R/T",
+     "rem": 13.25,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 13.25,
+     "live": 13.25,
+     "game": "Sun 4:25 pm vs LV"
+    },
+    {
+     "player": "C. Skattebo",
+     "pos": "RB",
+     "slot": "RB",
+     "rem": 13.03,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 13.03,
+     "live": 13.03,
+     "game": "Sun 1:00 pm @ Phi"
+    },
+    {
      "player": "J. Bates",
      "pos": "K",
      "slot": "K",
@@ -1160,17 +1182,6 @@
      "game": "Mon 8:15 pm @ Min"
     },
     {
-     "player": "B. Strange",
-     "pos": "TE",
-     "slot": "W/R/T",
-     "rem": 8.8,
-     "state": "pending",
-     "pts": 0.0,
-     "proj": 8.8,
-     "live": 8.8,
-     "game": "Thu 8:15 pm @ Bal"
-    },
-    {
      "player": "K. Shakir",
      "pos": "WR",
      "slot": "WR",
@@ -1182,26 +1193,15 @@
      "game": "Mon 8:15 pm @ Min"
     },
     {
-     "player": "K. Gainwell",
-     "pos": "RB",
-     "slot": "RB",
-     "rem": 6.27,
-     "state": "pending",
-     "pts": 0.0,
-     "proj": 6.27,
-     "live": 6.27,
-     "game": "Sun 8:20 pm @ Chi"
-    },
-    {
-     "player": "L. Vegas",
+     "player": "Bills",
      "pos": "DEF",
      "slot": "DEF",
-     "rem": 3.49,
+     "rem": 6.13,
      "state": "pending",
      "pts": 0.0,
-     "proj": 3.49,
-     "live": 3.49,
-     "game": "Sun 4:25 pm @ SF"
+     "proj": 6.13,
+     "live": 6.13,
+     "game": "Mon 8:15 pm @ Min"
     }
    ],
    "rightActive": [
@@ -1294,7 +1294,7 @@
      "game": "Sun 4:25 pm vs GB"
     },
     {
-     "player": "Denver",
+     "player": "Broncos",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 7.96,
