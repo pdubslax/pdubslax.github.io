@@ -713045,6 +713045,297 @@
      "rightRem": 0
     }
    ]
+  },
+  {
+   "ts": "2026-11-03T02:30:08+00:00",
+   "week": 8,
+   "matchups": [
+    {
+     "id": "1v6",
+     "left": "Evicted From the Swamp",
+     "leftRec": "4-3",
+     "right": "MELONHEADS (daniel)",
+     "rightRec": "4-3",
+     "leftScore": 68.93,
+     "leftProj": 84.06,
+     "rightScore": 100.08,
+     "rightProj": 100.08,
+     "shotgun": [
+      {
+       "player": "E. Wilson",
+       "pos": "RB",
+       "team": "Sea",
+       "pts": 0.0,
+       "game": "2nd 1:12, 3-10 vs CHI",
+       "tag": null,
+       "state": "live",
+       "slot": "RB",
+       "manager": "Evicted From the Swamp",
+       "locked": false,
+       "live": 2.67,
+       "reason": "pts"
+      }
+     ],
+     "leftActive": [
+      {
+       "player": "J. Smith-Njigba",
+       "pos": "WR",
+       "slot": "W/R/T",
+       "rem": 12.46,
+       "state": "live",
+       "pts": 5.7,
+       "proj": 23.96,
+       "live": 18.16,
+       "game": "2nd 1:12, 3-10 vs CHI"
+      },
+      {
+       "player": "E. Wilson",
+       "pos": "RB",
+       "slot": "RB",
+       "rem": 2.67,
+       "state": "live",
+       "pts": 0.0,
+       "proj": 5.14,
+       "live": 2.67,
+       "game": "2nd 1:12, 3-10 vs CHI"
+      }
+     ],
+     "rightActive": [],
+     "leftPct": 18,
+     "leftRem": 2,
+     "rightRem": 0
+    },
+    {
+     "id": "2v9",
+     "left": "BDSM AI Stealth Founder",
+     "leftRec": "2-5",
+     "right": "Sir this is a FF league",
+     "rightRec": "3-4",
+     "leftScore": 105.26,
+     "leftProj": 109.65,
+     "rightScore": 100.95,
+     "rightProj": 100.95,
+     "shotgun": [
+      {
+       "player": "L. Jackson",
+       "pos": "QB",
+       "team": "Bal",
+       "pts": 0.0,
+       "game": "Final (L) 10-36 @ BUF",
+       "tag": "O",
+       "state": "final",
+       "slot": "QB",
+       "manager": "Sir this is a FF league",
+       "locked": true,
+       "live": 0.0,
+       "reason": "pts"
+      }
+     ],
+     "leftActive": [
+      {
+       "player": "C. Santos",
+       "pos": "K",
+       "slot": "K",
+       "rem": 4.39,
+       "state": "live",
+       "pts": 5.4,
+       "proj": 8.45,
+       "live": 9.79,
+       "game": "2nd 1:12, 10-3 @ SEA RZ"
+      }
+     ],
+     "rightActive": [],
+     "leftPct": 99,
+     "leftRem": 1,
+     "rightRem": 0
+    },
+    {
+     "id": "3v8",
+     "left": "Robotripping Gardener",
+     "leftRec": "5-2",
+     "right": "Alex Michael Pagels",
+     "rightRec": "2-5",
+     "leftScore": 107.56,
+     "leftProj": 115.69,
+     "rightScore": 180.98,
+     "rightProj": 180.98,
+     "shotgun": [],
+     "leftActive": [
+      {
+       "player": "D. Swift",
+       "pos": "RB",
+       "slot": "W/R/T",
+       "rem": 8.13,
+       "state": "live",
+       "pts": 5.1,
+       "proj": 15.64,
+       "live": 13.23,
+       "game": "2nd 1:12, 10-3 @ SEA RZ"
+      }
+     ],
+     "rightActive": [],
+     "leftPct": 1,
+     "leftRem": 1,
+     "rightRem": 0
+    },
+    {
+     "id": "4v5",
+     "left": "Matthew Chen #4",
+     "leftRec": "3-4",
+     "right": "Tuten Brown",
+     "rightRec": "4-3",
+     "leftScore": 70.81,
+     "leftProj": 77.57,
+     "rightScore": 141.55,
+     "rightProj": 141.55,
+     "shotgun": [
+      {
+       "player": "T. Tucker",
+       "pos": "WR",
+       "team": "LV",
+       "pts": 0.0,
+       "game": "Final (W) 38-33 @ NYJ",
+       "tag": null,
+       "state": "final",
+       "slot": "W/R/T",
+       "manager": "Matthew Chen #4",
+       "locked": true,
+       "live": 9.85,
+       "reason": "pts"
+      }
+     ],
+     "leftActive": [
+      {
+       "player": "S. Darnold",
+       "pos": "QB",
+       "slot": "QB",
+       "rem": 10.35,
+       "state": "live",
+       "pts": 2.56,
+       "proj": 19.91,
+       "live": 12.91,
+       "game": "2nd 1:12, 3-10 vs CHI"
+      },
+      {
+       "player": "Seahawks",
+       "pos": "DEF",
+       "slot": "DEF",
+       "rem": 0.0,
+       "state": "live",
+       "pts": 7.25,
+       "proj": 7.1,
+       "live": 3.66,
+       "game": "2nd 1:12, 3-10 vs CHI"
+      }
+     ],
+     "rightActive": [],
+     "leftPct": 1,
+     "leftRem": 2,
+     "rightRem": 0
+    },
+    {
+     "id": "7v11",
+     "left": "James Ray Ervin Yonts",
+     "leftRec": "4-3",
+     "right": "Zen Buddha Boys 🪷💨",
+     "rightRec": "4-3",
+     "leftScore": 130.45,
+     "leftProj": 130.45,
+     "rightScore": 102.94,
+     "rightProj": 118.39,
+     "shotgun": [
+      {
+       "player": "Z. Flowers",
+       "pos": "WR",
+       "team": "Bal",
+       "pts": 0.0,
+       "game": "Final (L) 10-36 @ BUF",
+       "tag": null,
+       "state": "final",
+       "slot": "WR",
+       "manager": "Zen Buddha Boys 🪷💨",
+       "locked": true,
+       "live": 17.64,
+       "reason": "pts"
+      }
+     ],
+     "leftActive": [],
+     "rightActive": [
+      {
+       "player": "C. Williams",
+       "pos": "QB",
+       "slot": "QB",
+       "rem": 10.28,
+       "state": "live",
+       "pts": 11.84,
+       "proj": 19.76,
+       "live": 22.12,
+       "game": "2nd 1:12, 10-3 @ SEA RZ"
+      },
+      {
+       "player": "J. Myers",
+       "pos": "K",
+       "slot": "K",
+       "rem": 5.18,
+       "state": "live",
+       "pts": 2.7,
+       "proj": 9.96,
+       "live": 7.88,
+       "game": "2nd 1:12, 3-10 vs CHI"
+      }
+     ],
+     "leftPct": 94,
+     "leftRem": 0,
+     "rightRem": 2
+    },
+    {
+     "id": "10v12",
+     "left": "RosterMogged",
+     "leftRec": "3-4",
+     "right": "Kiwis are better than mid",
+     "rightRec": "4-3",
+     "leftScore": 68.84,
+     "leftProj": 68.84,
+     "rightScore": 111.01,
+     "rightProj": 111.01,
+     "shotgun": [
+      {
+       "player": "O. Cooper Jr.",
+       "pos": "WR",
+       "team": "NYJ",
+       "pts": 0.0,
+       "game": "Final (L) 33-38 vs LV",
+       "tag": null,
+       "state": "final",
+       "slot": "W/R/T",
+       "manager": "RosterMogged",
+       "locked": true,
+       "live": 10.09,
+       "reason": "pts"
+      },
+      {
+       "player": "Jets",
+       "pos": "DEF",
+       "team": "NYJ",
+       "pts": -3.75,
+       "game": "Final (L) 33-38 vs LV",
+       "tag": null,
+       "state": "final",
+       "slot": "DEF",
+       "manager": "Kiwis are better than mid",
+       "locked": true,
+       "live": 6.88,
+       "reason": "pts"
+      }
+     ],
+     "leftActive": [],
+     "rightActive": [],
+     "stale": true,
+     "leftPct": 0,
+     "leftRem": 0,
+     "rightRem": 0
+    }
+   ]
   }
  ],
  "segments": [
