@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 9,
- "ts": "2026-11-02T23:19:58+00:00",
+ "ts": "2026-11-03T00:00:00+00:00",
  "matchups": [
   {
    "id": "1v7",
@@ -12,7 +12,7 @@
    "leftScore": 0.0,
    "leftProj": 108.11,
    "rightScore": 0.0,
-   "rightProj": 123.16,
+   "rightProj": 123.3,
    "leftPct": 39,
    "leftRem": 9,
    "rightRem": 8,
@@ -168,6 +168,17 @@
      "game": "Sun 1:00 pm @ Ind"
     },
     {
+     "player": "B. Irving",
+     "pos": "RB",
+     "slot": "RB",
+     "rem": 17.35,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 17.35,
+     "live": 17.35,
+     "game": "Sun 8:20 pm @ Chi"
+    },
+    {
      "player": "D. London",
      "pos": "WR",
      "slot": "WR",
@@ -177,17 +188,6 @@
      "proj": 17.32,
      "live": 17.32,
      "game": "Sun 9:30 am vs Cin"
-    },
-    {
-     "player": "B. Irving",
-     "pos": "RB",
-     "slot": "RB",
-     "rem": 17.26,
-     "state": "pending",
-     "pts": 0.0,
-     "proj": 17.26,
-     "live": 17.26,
-     "game": "Sun 8:20 pm @ Chi"
     },
     {
      "player": "T. Kelce",
@@ -204,11 +204,11 @@
      "player": "C. McLaughlin",
      "pos": "K",
      "slot": "K",
-     "rem": 8.56,
+     "rem": 8.61,
      "state": "pending",
      "pts": 0.0,
-     "proj": 8.56,
-     "live": 8.56,
+     "proj": 8.61,
+     "live": 8.61,
      "game": "Sun 8:20 pm @ Chi"
     },
     {
@@ -231,7 +231,7 @@
    "right": "Alex Michael Pagels",
    "rightRec": "2-5",
    "leftScore": 0.0,
-   "leftProj": 112.26,
+   "leftProj": 112.22,
    "rightScore": 0.0,
    "rightProj": 101.74,
    "leftPct": 60,
@@ -324,11 +324,11 @@
      "player": "C. Santos",
      "pos": "K",
      "slot": "K",
-     "rem": 9.62,
+     "rem": 9.58,
      "state": "pending",
      "pts": 0.0,
-     "proj": 9.62,
-     "live": 9.62,
+     "proj": 9.58,
+     "live": 9.58,
      "game": "Sun 8:20 pm vs TB"
     },
     {
@@ -452,7 +452,7 @@
    "right": "RosterMogged",
    "rightRec": "3-4",
    "leftScore": 0.0,
-   "leftProj": 121.35,
+   "leftProj": 121.3,
    "rightScore": 0.0,
    "rightProj": 113.12,
    "leftPct": 57,
@@ -486,11 +486,11 @@
      "player": "D. Swift",
      "pos": "RB",
      "slot": "W/R/T",
-     "rem": 14.38,
+     "rem": 14.33,
      "state": "pending",
      "pts": 0.0,
-     "proj": 14.38,
-     "live": 14.38,
+     "proj": 14.33,
+     "live": 14.33,
      "game": "Sun 8:20 pm vs TB"
     },
     {
@@ -671,8 +671,8 @@
    "leftScore": 0.0,
    "leftProj": 124.83,
    "rightScore": 0.0,
-   "rightProj": 110.59,
-   "leftPct": 61,
+   "rightProj": 110.54,
+   "leftPct": 62,
    "leftRem": 9,
    "rightRem": 8,
    "shotgun": [
@@ -797,11 +797,11 @@
      "player": "C. Williams",
      "pos": "QB",
      "slot": "QB",
-     "rem": 22.19,
+     "rem": 22.14,
      "state": "pending",
      "pts": 0.0,
-     "proj": 22.19,
-     "live": 22.19,
+     "proj": 22.14,
+     "live": 22.14,
      "game": "Sun 8:20 pm vs TB"
     },
     {
@@ -1117,7 +1117,7 @@
    "right": "Sir this is a FF league",
    "rightRec": "3-4",
    "leftScore": 0.0,
-   "leftProj": 105.66,
+   "leftProj": 105.69,
    "rightScore": 0.0,
    "rightProj": 103.58,
    "leftPct": 52,
@@ -1206,11 +1206,11 @@
      "player": "K. Gainwell",
      "pos": "RB",
      "slot": "RB",
-     "rem": 6.64,
+     "rem": 6.67,
      "state": "pending",
      "pts": 0.0,
-     "proj": 6.64,
-     "live": 6.64,
+     "proj": 6.67,
+     "live": 6.67,
      "game": "Sun 8:20 pm @ Chi"
     },
     {

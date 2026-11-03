@@ -694776,7 +694776,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-02T23:39:58+00:00",
+  "ts": "2026-11-03T00:00:12+00:00",
   "week": 8,
   "matchups": [
    {
@@ -694923,22 +694923,22 @@
       "player": "S. Darnold",
       "pos": "QB",
       "slot": "QB",
-      "rem": 19.92,
+      "rem": 19.9,
       "state": "pending",
       "pts": 0.0,
-      "proj": 19.92,
-      "live": 19.92,
+      "proj": 19.9,
+      "live": 19.9,
       "game": "Mon 8:15 pm vs Chi"
      },
      {
       "player": "Seahawks",
       "pos": "DEF",
       "slot": "DEF",
-      "rem": 7.14,
+      "rem": 7.16,
       "state": "pending",
       "pts": 0.0,
-      "proj": 7.14,
-      "live": 7.14,
+      "proj": 7.16,
+      "live": 7.16,
       "game": "Mon 8:15 pm vs Chi"
      }
     ],
@@ -694979,11 +694979,11 @@
       "player": "C. Williams",
       "pos": "QB",
       "slot": "QB",
-      "rem": 19.7,
+      "rem": 19.73,
       "state": "pending",
       "pts": 0.0,
-      "proj": 19.7,
-      "live": 19.7,
+      "proj": 19.73,
+      "live": 19.73,
       "game": "Mon 8:15 pm @ Sea"
      },
      {
