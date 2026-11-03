@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 9,
- "ts": "2026-11-03T04:45:48+00:00",
+ "ts": "2026-11-03T05:25:46+00:00",
  "matchups": [
   {
    "id": "1v7",
@@ -122,7 +122,7 @@
      "game": "Sun 4:25 pm vs Ari"
     },
     {
-     "player": "Commanders",
+     "player": "Washington",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 4.05,
@@ -212,7 +212,7 @@
      "game": "Sun 8:20 pm @ Chi"
     },
     {
-     "player": "Bengals",
+     "player": "Cincinnati",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 6.31,
@@ -343,7 +343,7 @@
      "game": "Sun 8:20 pm vs TB"
     },
     {
-     "player": "Atlanta",
+     "player": "Falcons",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 4.94,
@@ -433,7 +433,7 @@
      "game": "Sun 1:00 pm vs NYG"
     },
     {
-     "player": "Jacksonville",
+     "player": "Jaguars",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 6.39,
@@ -549,7 +549,7 @@
      "game": "Mon 8:15 pm vs Buf"
     },
     {
-     "player": "Detroit",
+     "player": "Lions",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 8.74,
@@ -617,7 +617,7 @@
      "game": "Sun 4:05 pm vs Hou"
     },
     {
-     "player": "K. City",
+     "player": "Chiefs",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 9.92,
@@ -926,7 +926,7 @@
      "reason": "pts"
     },
     {
-     "player": "Pittsburgh",
+     "player": "Steelers",
      "pos": "DEF",
      "team": "Pit",
      "pts": 0.0,
@@ -1098,7 +1098,7 @@
      "game": "Sun 1:00 pm @ Car"
     },
     {
-     "player": "N. York",
+     "player": "Jets",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 4.01,
@@ -1119,8 +1119,8 @@
    "leftScore": 0.0,
    "leftProj": 105.69,
    "rightScore": 0.0,
-   "rightProj": 103.56,
-   "leftPct": 52,
+   "rightProj": 110.72,
+   "leftPct": 45,
    "leftRem": 9,
    "rightRem": 9,
    "shotgun": [],
@@ -1227,6 +1227,17 @@
    ],
    "rightActive": [
     {
+     "player": "J. Love",
+     "pos": "QB",
+     "slot": "QB",
+     "rem": 19.67,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 19.67,
+     "live": 19.67,
+     "game": "Sun 4:25 pm @ NE"
+    },
+    {
      "player": "J. Cook III",
      "pos": "RB",
      "slot": "RB",
@@ -1258,17 +1269,6 @@
      "proj": 12.61,
      "live": 12.61,
      "game": "Sun 4:25 pm vs GB"
-    },
-    {
-     "player": "L. Jackson",
-     "pos": "QB",
-     "slot": "QB",
-     "rem": 12.51,
-     "state": "pending",
-     "pts": 0.0,
-     "proj": 12.51,
-     "live": 12.51,
-     "game": "Thu 8:15 pm vs Jax"
     },
     {
      "player": "J. Williams",
