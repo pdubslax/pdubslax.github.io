@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 9,
- "ts": "2026-11-03T22:43:36+00:00",
+ "ts": "2026-11-03T23:23:38+00:00",
  "matchups": [
   {
    "id": "1v7",
@@ -10,10 +10,10 @@
    "right": "James Ray Ervin Yonts",
    "rightRec": "5-3",
    "leftScore": 0.0,
-   "leftProj": 106.17,
+   "leftProj": 118.09,
    "rightScore": 0.0,
    "rightProj": 140.34,
-   "leftPct": 26,
+   "leftPct": 34,
    "leftRem": 9,
    "rightRem": 9,
    "shotgun": [],
@@ -52,15 +52,15 @@
      "game": "Sun 4:25 pm @ NE"
     },
     {
-     "player": "L. Burden III",
+     "player": "J. Coker",
      "pos": "WR",
      "slot": "W/R/T",
-     "rem": 12.95,
+     "rem": 11.92,
      "state": "pending",
      "pts": 0.0,
-     "proj": 12.95,
-     "live": 12.95,
-     "game": "Sun 8:20 pm vs TB"
+     "proj": 11.92,
+     "live": 11.92,
+     "game": "Sun 1:00 pm vs Den"
     },
     {
      "player": "S. LaPorta",
@@ -72,6 +72,17 @@
      "proj": 11.01,
      "live": 11.01,
      "game": "Sun 1:00 pm @ Mia"
+    },
+    {
+     "player": "W. Marks",
+     "pos": "RB",
+     "slot": "RB",
+     "rem": 9.57,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 9.57,
+     "live": 9.57,
+     "game": "Sun 4:05 pm @ LAC"
     },
     {
      "player": "S. Shrader",
@@ -96,15 +107,15 @@
      "game": "Sun 4:05 pm @ LAC"
     },
     {
-     "player": "S. McGowan",
+     "player": "M. Washington Jr.",
      "pos": "RB",
      "slot": "RB",
-     "rem": 5.48,
+     "rem": 8.86,
      "state": "pending",
      "pts": 0.0,
-     "proj": 5.48,
-     "live": 5.48,
-     "game": "Sun 1:00 pm vs Dal"
+     "proj": 8.86,
+     "live": 8.86,
+     "game": "Sun 4:25 pm @ SF"
     }
    ],
    "rightActive": [
@@ -871,13 +882,28 @@
    "right": "Kiwis are better than mid",
    "rightRec": "5-3",
    "leftScore": 0.0,
-   "leftProj": 114.99,
+   "leftProj": 105.42,
    "rightScore": 0.0,
    "rightProj": 118.26,
-   "leftPct": 47,
-   "leftRem": 9,
+   "leftPct": 39,
+   "leftRem": 8,
    "rightRem": 9,
-   "shotgun": [],
+   "shotgun": [
+    {
+     "player": "(Empty)",
+     "pos": "",
+     "team": "",
+     "pts": 0.0,
+     "game": "",
+     "tag": null,
+     "state": "empty",
+     "slot": "W/R/T",
+     "manager": "Tuten Brown",
+     "locked": false,
+     "live": 0.0,
+     "reason": "pts"
+    }
+   ],
    "leftActive": [
     {
      "player": "T. Lawrence",
@@ -955,17 +981,6 @@
      "proj": 10.38,
      "live": 10.38,
      "game": "Sun 4:25 pm @ NE"
-    },
-    {
-     "player": "W. Marks",
-     "pos": "RB",
-     "slot": "W/R/T",
-     "rem": 9.57,
-     "state": "pending",
-     "pts": 0.0,
-     "proj": 9.57,
-     "live": 9.57,
-     "game": "Sun 4:05 pm @ LAC"
     },
     {
      "player": "Vikings",
