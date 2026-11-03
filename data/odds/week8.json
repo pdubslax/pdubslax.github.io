@@ -694776,7 +694776,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-03T00:00:12+00:00",
+  "ts": "2026-11-03T00:19:59+00:00",
   "week": 8,
   "matchups": [
    {
@@ -694786,7 +694786,7 @@
     "right": "MELONHEADS (daniel)",
     "rightRec": "4-3",
     "leftScore": 63.23,
-    "leftProj": 92.51,
+    "leftProj": 92.3,
     "rightScore": 100.08,
     "rightProj": 100.08,
     "shotgun": [],
@@ -694795,27 +694795,27 @@
       "player": "J. Smith-Njigba",
       "pos": "WR",
       "slot": "W/R/T",
-      "rem": 24.12,
+      "rem": 23.94,
       "state": "pending",
       "pts": 0.0,
-      "proj": 24.12,
-      "live": 24.12,
+      "proj": 23.94,
+      "live": 23.94,
       "game": "Mon 8:15 pm vs Chi"
      },
      {
       "player": "E. Wilson",
       "pos": "RB",
       "slot": "RB",
-      "rem": 5.16,
+      "rem": 5.13,
       "state": "pending",
       "pts": 0.0,
-      "proj": 5.16,
-      "live": 5.16,
+      "proj": 5.13,
+      "live": 5.13,
       "game": "Mon 8:15 pm vs Chi"
      }
     ],
     "rightActive": [],
-    "leftPct": 38,
+    "leftPct": 37,
     "leftRem": 2,
     "rightRem": 0
    },
@@ -694899,7 +694899,7 @@
     "right": "Tuten Brown",
     "rightRec": "4-3",
     "leftScore": 61.0,
-    "leftProj": 88.06,
+    "leftProj": 88.07,
     "rightScore": 141.55,
     "rightProj": 141.55,
     "shotgun": [
@@ -694923,11 +694923,11 @@
       "player": "S. Darnold",
       "pos": "QB",
       "slot": "QB",
-      "rem": 19.9,
+      "rem": 19.91,
       "state": "pending",
       "pts": 0.0,
-      "proj": 19.9,
-      "live": 19.9,
+      "proj": 19.91,
+      "live": 19.91,
       "game": "Mon 8:15 pm vs Chi"
      },
      {
@@ -694956,7 +694956,7 @@
     "leftScore": 130.45,
     "leftProj": 130.45,
     "rightScore": 88.4,
-    "rightProj": 118.06,
+    "rightProj": 118.11,
     "shotgun": [
      {
       "player": "Z. Flowers",
@@ -694979,11 +694979,11 @@
       "player": "C. Williams",
       "pos": "QB",
       "slot": "QB",
-      "rem": 19.73,
+      "rem": 19.75,
       "state": "pending",
       "pts": 0.0,
-      "proj": 19.73,
-      "live": 19.73,
+      "proj": 19.75,
+      "live": 19.75,
       "game": "Mon 8:15 pm @ Sea"
      },
      {
