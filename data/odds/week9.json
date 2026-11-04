@@ -68,7 +68,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-04T09:35:10+00:00",
+  "ts": "2026-11-04T09:55:56+00:00",
   "week": 9,
   "matchups": [
    {
@@ -404,7 +404,7 @@
       "game": "Sun 8:20 pm vs TB"
      },
      {
-      "player": "Atlanta",
+      "player": "Falcons",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 4.91,
@@ -483,7 +483,7 @@
       "game": "Sun 1:00 pm @ Car"
      },
      {
-      "player": "Jacksonville",
+      "player": "Jaguars",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 8.87,
@@ -610,7 +610,7 @@
       "game": "Mon 8:15 pm vs Buf"
      },
      {
-      "player": "Detroit",
+      "player": "Lions",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 8.35,
@@ -678,7 +678,7 @@
       "game": "Sun 4:25 pm vs Ari"
      },
      {
-      "player": "K. City",
+      "player": "Chiefs",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 9.76,
@@ -1261,7 +1261,7 @@
       "game": "Mon 8:15 pm @ Min"
      },
      {
-      "player": "Buffalo",
+      "player": "Bills",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 6.29,
@@ -1362,7 +1362,7 @@
       "game": "Sun 4:25 pm vs GB"
      },
      {
-      "player": "Denver",
+      "player": "Broncos",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 7.8,
