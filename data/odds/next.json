@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 10,
- "ts": "2026-11-04T19:36:33+00:00",
+ "ts": "2026-11-04T19:57:36+00:00",
  "matchups": [
   {
    "id": "1v9",
@@ -18,7 +18,7 @@
    "rightRem": 8,
    "shotgun": [
     {
-     "player": "Denver",
+     "player": "Broncos",
      "pos": "DEF",
      "team": "Den",
      "pts": 0.0,
@@ -100,7 +100,7 @@
      "game": "Sun 1:00 pm vs Mia"
     },
     {
-     "player": "Houston",
+     "player": "Texans",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 9.71,
@@ -570,7 +570,7 @@
      "game": "Sun 1:00 pm @ GB"
     },
     {
-     "player": "Detroit",
+     "player": "Lions",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 4.37,
@@ -660,7 +660,7 @@
      "game": "Sun 1:00 pm vs Min"
     },
     {
-     "player": "Minnesota",
+     "player": "Vikings",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 6.55,
@@ -902,7 +902,7 @@
    "leftScore": 0.0,
    "leftProj": 119.14,
    "rightScore": 0.0,
-   "rightProj": 105.27,
+   "rightProj": 105.26,
    "leftPct": 62,
    "leftRem": 9,
    "rightRem": 7,
@@ -1086,11 +1086,11 @@
      "player": "C. Olave",
      "pos": "WR",
      "slot": "W/R/T",
-     "rem": 15.36,
+     "rem": 15.35,
      "state": "pending",
      "pts": 0.0,
-     "proj": 15.36,
-     "live": 15.36,
+     "proj": 15.35,
+     "live": 15.35,
      "game": "Sun 1:00 pm vs Car"
     },
     {
