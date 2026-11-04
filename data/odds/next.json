@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 10,
- "ts": "2026-11-04T22:37:35+00:00",
+ "ts": "2026-11-04T23:17:34+00:00",
  "matchups": [
   {
    "id": "1v9",
@@ -10,7 +10,7 @@
    "right": "Sir this is a FF league",
    "rightRec": "3-5",
    "leftScore": 0.0,
-   "leftProj": 119.37,
+   "leftProj": 119.38,
    "rightScore": 0.0,
    "rightProj": 105.2,
    "leftPct": 62,
@@ -125,11 +125,11 @@
      "player": "M. Washington Jr.",
      "pos": "RB",
      "slot": "RB",
-     "rem": 6.85,
+     "rem": 6.86,
      "state": "pending",
      "pts": 0.0,
-     "proj": 6.85,
-     "live": 6.85,
+     "proj": 6.86,
+     "live": 6.86,
      "game": "Sun 4:05 pm vs Sea"
     }
    ],
@@ -679,7 +679,7 @@
    "right": "James Ray Ervin Yonts",
    "rightRec": "5-3",
    "leftScore": 0.0,
-   "leftProj": 116.81,
+   "leftProj": 116.86,
    "rightScore": 0.0,
    "rightProj": 119.38,
    "leftPct": 48,
@@ -750,11 +750,11 @@
      "player": "A. Jeanty",
      "pos": "RB",
      "slot": "RB",
-     "rem": 12.16,
+     "rem": 12.19,
      "state": "pending",
      "pts": 0.0,
-     "proj": 12.16,
-     "live": 12.16,
+     "proj": 12.19,
+     "live": 12.19,
      "game": "Sun 4:05 pm vs Sea"
     },
     {
@@ -783,11 +783,11 @@
      "player": "T. Tucker",
      "pos": "WR",
      "slot": "W/R/T",
-     "rem": 8.93,
+     "rem": 8.95,
      "state": "pending",
      "pts": 0.0,
-     "proj": 8.93,
-     "live": 8.93,
+     "proj": 8.95,
+     "live": 8.95,
      "game": "Sun 4:05 pm vs Sea"
     },
     {
@@ -1126,7 +1126,7 @@
    "leftScore": 0.0,
    "leftProj": 106.1,
    "rightScore": 0.0,
-   "rightProj": 103.4,
+   "rightProj": 103.44,
    "leftPct": 52,
    "leftRem": 8,
    "rightRem": 7,
@@ -1291,11 +1291,11 @@
      "player": "B. Bowers",
      "pos": "TE",
      "slot": "TE",
-     "rem": 14.79,
+     "rem": 14.83,
      "state": "pending",
      "pts": 0.0,
-     "proj": 14.79,
-     "live": 14.79,
+     "proj": 14.83,
+     "live": 14.83,
      "game": "Sun 4:05 pm vs Sea"
     },
     {
