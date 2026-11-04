@@ -68,7 +68,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-04T15:16:33+00:00",
+  "ts": "2026-11-04T15:36:43+00:00",
   "week": 9,
   "matchups": [
    {
@@ -78,9 +78,9 @@
     "right": "James Ray Ervin Yonts",
     "rightRec": "5-3",
     "leftScore": 0.0,
-    "leftProj": 117.99,
+    "leftProj": 118.01,
     "rightScore": 0.0,
-    "rightProj": 140.89,
+    "rightProj": 140.8,
     "shotgun": [],
     "leftActive": [
      {
@@ -153,11 +153,11 @@
       "player": "S. Shrader",
       "pos": "K",
       "slot": "K",
-      "rem": 9.01,
+      "rem": 9.03,
       "state": "pending",
       "pts": 0.0,
-      "proj": 9.01,
-      "live": 9.01,
+      "proj": 9.03,
+      "live": 9.03,
       "game": "Sun 1:00 pm vs Dal"
      },
      {
@@ -188,11 +188,11 @@
       "player": "D. Prescott",
       "pos": "QB",
       "slot": "QB",
-      "rem": 23.53,
+      "rem": 23.47,
       "state": "pending",
       "pts": 0.0,
-      "proj": 23.53,
-      "live": 23.53,
+      "proj": 23.47,
+      "live": 23.47,
       "game": "Sun 1:00 pm @ Ind"
      },
      {
@@ -210,11 +210,11 @@
       "player": "C. Lamb",
       "pos": "WR",
       "slot": "W/R/T",
-      "rem": 18.94,
+      "rem": 18.91,
       "state": "pending",
       "pts": 0.0,
-      "proj": 18.94,
-      "live": 18.94,
+      "proj": 18.91,
+      "live": 18.91,
       "game": "Sun 1:00 pm @ Ind"
      },
      {
@@ -295,9 +295,9 @@
     "right": "Alex Michael Pagels",
     "rightRec": "3-5",
     "leftScore": 0.0,
-    "leftProj": 123.14,
+    "leftProj": 123.17,
     "rightScore": 0.0,
-    "rightProj": 125.3,
+    "rightProj": 125.31,
     "shotgun": [],
     "leftActive": [
      {
@@ -342,7 +342,7 @@
       "pts": 0.0,
       "proj": 14.02,
       "live": 14.02,
-      "game": "Thu 8:15 pm vs Jax"
+      "game": "Thu 8:15 pm vs Jax"
      },
      {
       "player": "I. Likely",
@@ -392,11 +392,11 @@
       "player": "Saints",
       "pos": "DEF",
       "slot": "DEF",
-      "rem": 9.42,
+      "rem": 9.45,
       "state": "pending",
       "pts": 0.0,
-      "proj": 9.42,
-      "live": 9.42,
+      "proj": 9.45,
+      "live": 9.45,
       "game": "Sun 1:00 pm vs Cle"
      }
     ],
@@ -449,11 +449,11 @@
       "player": "C. Olave",
       "pos": "WR",
       "slot": "W/R/T",
-      "rem": 14.44,
+      "rem": 14.45,
       "state": "pending",
       "pts": 0.0,
-      "proj": 14.44,
-      "live": 14.44,
+      "proj": 14.45,
+      "live": 14.45,
       "game": "Sun 1:00 pm vs Cle"
      },
      {
@@ -476,7 +476,7 @@
       "pts": 0.0,
       "proj": 8.96,
       "live": 8.96,
-      "game": "Thu 8:15 pm @ Bal"
+      "game": "Thu 8:15 pm @ Bal"
      },
      {
       "player": "D. Zvada",
@@ -729,9 +729,9 @@
     "right": "Zen Buddha Boys 🪷💨",
     "rightRec": "4-4",
     "leftScore": 0.0,
-    "leftProj": 123.57,
+    "leftProj": 123.52,
     "rightScore": 0.0,
-    "rightProj": 123.61,
+    "rightProj": 123.63,
     "shotgun": [],
     "leftActive": [
      {
@@ -760,11 +760,11 @@
       "player": "J. Williams",
       "pos": "RB",
       "slot": "RB",
-      "rem": 17.28,
+      "rem": 17.21,
       "state": "pending",
       "pts": 0.0,
-      "proj": 17.28,
-      "live": 17.28,
+      "proj": 17.21,
+      "live": 17.21,
       "game": "Sun 1:00 pm @ Ind"
      },
      {
@@ -776,17 +776,17 @@
       "pts": 0.0,
       "proj": 13.77,
       "live": 13.77,
-      "game": "Thu 8:15 pm @ Bal"
+      "game": "Thu 8:15 pm @ Bal"
      },
      {
       "player": "T. Warren",
       "pos": "TE",
       "slot": "TE",
-      "rem": 11.61,
+      "rem": 11.63,
       "state": "pending",
       "pts": 0.0,
-      "proj": 11.61,
-      "live": 11.61,
+      "proj": 11.63,
+      "live": 11.63,
       "game": "Sun 1:00 pm vs Dal"
      },
      {
@@ -820,7 +820,7 @@
       "pts": 0.0,
       "proj": 10.24,
       "live": 10.24,
-      "game": "Thu 8:15 pm @ Bal"
+      "game": "Thu 8:15 pm @ Bal"
      },
      {
       "player": "T. Tucker",
@@ -899,7 +899,7 @@
       "pts": 0.0,
       "proj": 13.31,
       "live": 13.31,
-      "game": "Thu 8:15 pm vs Jax"
+      "game": "Thu 8:15 pm vs Jax"
      },
      {
       "player": "J. Myers",
@@ -927,11 +927,11 @@
       "player": "Colts",
       "pos": "DEF",
       "slot": "DEF",
-      "rem": 3.95,
+      "rem": 3.97,
       "state": "pending",
       "pts": 0.0,
-      "proj": 3.95,
-      "live": 3.95,
+      "proj": 3.97,
+      "live": 3.97,
       "game": "Sun 1:00 pm vs Dal"
      }
     ],
@@ -946,9 +946,9 @@
     "right": "Kiwis are better than mid",
     "rightRec": "5-3",
     "leftScore": 0.0,
-    "leftProj": 118.46,
+    "leftProj": 118.48,
     "rightScore": 0.0,
-    "rightProj": 114.47,
+    "rightProj": 114.51,
     "shotgun": [
      {
       "player": "(Empty)",
@@ -975,17 +975,17 @@
       "pts": 0.0,
       "proj": 21.67,
       "live": 21.67,
-      "game": "Thu 8:15 pm @ Bal"
+      "game": "Thu 8:15 pm @ Bal"
      },
      {
       "player": "J. Taylor",
       "pos": "RB",
       "slot": "RB",
-      "rem": 17.8,
+      "rem": 17.84,
       "state": "pending",
       "pts": 0.0,
-      "proj": 17.8,
-      "live": 17.8,
+      "proj": 17.84,
+      "live": 17.84,
       "game": "Sun 1:00 pm vs Dal"
      },
      {
@@ -997,7 +997,7 @@
       "pts": 0.0,
       "proj": 15.39,
       "live": 15.39,
-      "game": "Thu 8:15 pm @ Bal"
+      "game": "Thu 8:15 pm @ Bal"
      },
      {
       "player": "L. Burden III",
@@ -1036,11 +1036,11 @@
       "player": "B. Aubrey",
       "pos": "K",
       "slot": "K",
-      "rem": 11.11,
+      "rem": 11.09,
       "state": "pending",
       "pts": 0.0,
-      "proj": 11.11,
-      "live": 11.11,
+      "proj": 11.09,
+      "live": 11.09,
       "game": "Sun 1:00 pm @ Ind"
      },
      {
@@ -1126,22 +1126,22 @@
       "player": "K. Allen",
       "pos": "WR",
       "slot": "WR",
-      "rem": 10.14,
+      "rem": 10.15,
       "state": "pending",
       "pts": 0.0,
-      "proj": 10.14,
-      "live": 10.14,
+      "proj": 10.15,
+      "live": 10.15,
       "game": "Sun 1:00 pm vs Dal"
      },
      {
       "player": "A. Kamara",
       "pos": "RB",
       "slot": "W/R/T",
-      "rem": 9.19,
+      "rem": 9.22,
       "state": "pending",
       "pts": 0.0,
-      "proj": 9.19,
-      "live": 9.19,
+      "proj": 9.22,
+      "live": 9.22,
       "game": "Sun 1:00 pm vs Cle"
      },
      {
@@ -1167,7 +1167,7 @@
     "right": "Sir this is a FF league",
     "rightRec": "3-5",
     "leftScore": 0.0,
-    "leftProj": 118.9,
+    "leftProj": 119.93,
     "rightScore": 0.0,
     "rightProj": 113.73,
     "shotgun": [],
@@ -1209,11 +1209,11 @@
       "player": "G. Pickens",
       "pos": "WR",
       "slot": "WR",
-      "rem": 13.48,
+      "rem": 13.47,
       "state": "pending",
       "pts": 0.0,
-      "proj": 13.48,
-      "live": 13.48,
+      "proj": 13.47,
+      "live": 13.47,
       "game": "Sun 1:00 pm @ Ind"
      },
      {
@@ -1250,15 +1250,15 @@
       "game": "Mon 8:15 pm @ Min"
      },
      {
-      "player": "K. Shakir",
+      "player": "J. Addison",
       "pos": "WR",
       "slot": "WR",
-      "rem": 8.52,
+      "rem": 9.56,
       "state": "pending",
       "pts": 0.0,
-      "proj": 8.52,
-      "live": 8.52,
-      "game": "Mon 8:15 pm @ Min"
+      "proj": 9.56,
+      "live": 9.56,
+      "game": "Mon 8:15 pm vs Buf"
      },
      {
       "player": "Bills",
@@ -1373,7 +1373,7 @@
       "game": "Sun 1:00 pm @ Car"
      }
     ],
-    "leftPct": 54,
+    "leftPct": 55,
     "leftRem": 9,
     "rightRem": 9
    }

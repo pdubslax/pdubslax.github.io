@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 10,
- "ts": "2026-11-04T14:56:33+00:00",
+ "ts": "2026-11-04T15:36:33+00:00",
  "matchups": [
   {
    "id": "1v9",
@@ -900,7 +900,7 @@
    "right": "Alex Michael Pagels",
    "rightRec": "3-5",
    "leftScore": 0.0,
-   "leftProj": 119.49,
+   "leftProj": 119.23,
    "rightScore": 0.0,
    "rightProj": 105.16,
    "leftPct": 62,
@@ -1015,15 +1015,15 @@
      "game": "Sun 9:30 am vs NE"
     },
     {
-     "player": "K. Shakir",
+     "player": "J. Addison",
      "pos": "WR",
      "slot": "WR",
-     "rem": 9.11,
+     "rem": 8.85,
      "state": "pending",
      "pts": 0.0,
-     "proj": 9.11,
-     "live": 9.11,
-     "game": "Sun 1:00 pm @ NYJ"
+     "proj": 8.85,
+     "live": 8.85,
+     "game": "Sun 1:00 pm @ GB"
     },
     {
      "player": "Bills",
