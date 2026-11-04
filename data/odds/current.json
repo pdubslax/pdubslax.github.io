@@ -68,7 +68,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-04T23:37:34+00:00",
+  "ts": "2026-11-04T23:57:42+00:00",
   "week": 9,
   "matchups": [
    {
@@ -1040,7 +1040,7 @@
       "game": "Sun 4:25 pm @ NE"
      },
      {
-      "player": "Minnesota",
+      "player": "Vikings",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 5.79,
@@ -1141,7 +1141,7 @@
       "game": "Sun 1:00 pm @ Car"
      },
      {
-      "player": "Chicago",
+      "player": "Bears",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 8.52,
