@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 10,
- "ts": "2026-11-04T16:56:33+00:00",
+ "ts": "2026-11-04T17:36:33+00:00",
  "matchups": [
   {
    "id": "1v9",
@@ -231,9 +231,9 @@
    "right": "RosterMogged",
    "rightRec": "3-5",
    "leftScore": 0.0,
-   "leftProj": 103.38,
+   "leftProj": 103.42,
    "rightScore": 0.0,
-   "rightProj": 113.1,
+   "rightProj": 113.09,
    "leftPct": 42,
    "leftRem": 7,
    "rightRem": 9,
@@ -283,11 +283,11 @@
      "player": "D. Henry",
      "pos": "RB",
      "slot": "RB",
-     "rem": 16.62,
+     "rem": 16.66,
      "state": "pending",
      "pts": 0.0,
-     "proj": 16.62,
-     "live": 16.62,
+     "proj": 16.66,
+     "live": 16.66,
      "game": "Mon 8:15 pm vs LAC"
     },
     {
@@ -384,11 +384,11 @@
      "player": "L. McConkey",
      "pos": "WR",
      "slot": "WR",
-     "rem": 11.22,
+     "rem": 11.21,
      "state": "pending",
      "pts": 0.0,
-     "proj": 11.22,
-     "live": 11.22,
+     "proj": 11.21,
+     "live": 11.21,
      "game": "Mon 8:15 pm @ Bal"
     },
     {
@@ -1124,7 +1124,7 @@
    "right": "Kiwis are better than mid",
    "rightRec": "5-3",
    "leftScore": 0.0,
-   "leftProj": 105.99,
+   "leftProj": 106.01,
    "rightScore": 0.0,
    "rightProj": 103.5,
    "leftPct": 52,
@@ -1201,11 +1201,11 @@
      "player": "Z. Flowers",
      "pos": "WR",
      "slot": "W/R/T",
-     "rem": 14.41,
+     "rem": 14.43,
      "state": "pending",
      "pts": 0.0,
-     "proj": 14.41,
-     "live": 14.41,
+     "proj": 14.43,
+     "live": 14.43,
      "game": "Mon 8:15 pm vs LAC"
     },
     {

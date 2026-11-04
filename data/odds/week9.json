@@ -68,7 +68,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-04T17:16:33+00:00",
+  "ts": "2026-11-04T17:36:44+00:00",
   "week": 9,
   "matchups": [
    {
@@ -514,7 +514,7 @@
     "leftScore": 0.0,
     "leftProj": 143.11,
     "rightScore": 0.0,
-    "rightProj": 118.53,
+    "rightProj": 118.55,
     "shotgun": [],
     "leftActive": [
      {
@@ -677,11 +677,11 @@
       "player": "Chiefs",
       "pos": "DEF",
       "slot": "DEF",
-      "rem": 9.71,
+      "rem": 9.73,
       "state": "pending",
       "pts": 0.0,
-      "proj": 9.71,
-      "live": 9.71,
+      "proj": 9.73,
+      "live": 9.73,
       "game": "Sun 1:00 pm vs NYJ"
      },
      {
