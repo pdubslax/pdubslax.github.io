@@ -68,7 +68,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-04T14:35:54+00:00",
+  "ts": "2026-11-04T14:55:47+00:00",
   "week": 9,
   "matchups": [
    {
@@ -297,23 +297,8 @@
     "leftScore": 0.0,
     "leftProj": 122.39,
     "rightScore": 0.0,
-    "rightProj": 116.96,
-    "shotgun": [
-     {
-      "player": "C. Boswell",
-      "pos": "K",
-      "team": "Pit",
-      "pts": 0.0,
-      "game": "Bye",
-      "tag": null,
-      "state": "bye",
-      "slot": "K",
-      "manager": "Alex Michael Pagels",
-      "locked": false,
-      "live": 0.0,
-      "reason": "pts"
-     }
-    ],
+    "rightProj": 125.32,
+    "shotgun": [],
     "leftActive": [
      {
       "player": "D. Maye",
@@ -494,6 +479,17 @@
       "game": "Thu 8:15 pm @ Bal"
      },
      {
+      "player": "D. Zvada",
+      "pos": "K",
+      "slot": "K",
+      "rem": 8.36,
+      "state": "pending",
+      "pts": 0.0,
+      "proj": 8.36,
+      "live": 8.36,
+      "game": "Sun 1:00 pm @ Phi"
+     },
+     {
       "player": "D. Goedert",
       "pos": "TE",
       "slot": "TE",
@@ -505,9 +501,9 @@
       "game": "Sun 1:00 pm vs NYG"
      }
     ],
-    "leftPct": 54,
+    "leftPct": 48,
     "leftRem": 9,
-    "rightRem": 8
+    "rightRem": 9
    },
    {
     "id": "3v10",
