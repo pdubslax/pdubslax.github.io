@@ -68,7 +68,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-04T21:17:44+00:00",
+  "ts": "2026-11-04T21:37:33+00:00",
   "week": 9,
   "matchups": [
    {
@@ -295,9 +295,9 @@
     "right": "Alex Michael Pagels",
     "rightRec": "3-5",
     "leftScore": 0.0,
-    "leftProj": 124.12,
+    "leftProj": 124.06,
     "rightScore": 0.0,
-    "rightProj": 126.15,
+    "rightProj": 126.13,
     "shotgun": [],
     "leftActive": [
      {
@@ -337,11 +337,11 @@
       "player": "D. Henry",
       "pos": "RB",
       "slot": "RB",
-      "rem": 13.98,
+      "rem": 13.92,
       "state": "pending",
       "pts": 0.0,
-      "proj": 13.98,
-      "live": 13.98,
+      "proj": 13.92,
+      "live": 13.92,
       "game": "Thu 8:15 pm vs Jax"
      },
      {
@@ -471,11 +471,11 @@
       "player": "Jaguars",
       "pos": "DEF",
       "slot": "DEF",
-      "rem": 8.96,
+      "rem": 8.94,
       "state": "pending",
       "pts": 0.0,
-      "proj": 8.96,
-      "live": 8.96,
+      "proj": 8.94,
+      "live": 8.94,
       "game": "Thu 8:15 pm @ Bal"
      },
      {
@@ -606,7 +606,7 @@
       "game": "Mon 8:15 pm vs Buf"
      },
      {
-      "player": "Lions",
+      "player": "Detroit",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 8.42,
@@ -674,7 +674,7 @@
       "game": "Sun 4:25 pm vs Ari"
      },
      {
-      "player": "Chiefs",
+      "player": "K. City",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 9.72,
@@ -729,9 +729,9 @@
     "right": "Zen Buddha Boys 🪷💨",
     "rightRec": "4-4",
     "leftScore": 0.0,
-    "leftProj": 122.41,
+    "leftProj": 122.36,
     "rightScore": 0.0,
-    "rightProj": 123.85,
+    "rightProj": 123.78,
     "shotgun": [],
     "leftActive": [
      {
@@ -771,11 +771,11 @@
       "player": "P. Washington",
       "pos": "WR",
       "slot": "WR",
-      "rem": 13.79,
+      "rem": 13.76,
       "state": "pending",
       "pts": 0.0,
-      "proj": 13.79,
-      "live": 13.79,
+      "proj": 13.76,
+      "live": 13.76,
       "game": "Thu 8:15 pm @ Bal"
      },
      {
@@ -804,11 +804,11 @@
       "player": "C. Little",
       "pos": "K",
       "slot": "K",
-      "rem": 10.24,
+      "rem": 10.22,
       "state": "pending",
       "pts": 0.0,
-      "proj": 10.24,
-      "live": 10.24,
+      "proj": 10.22,
+      "live": 10.22,
       "game": "Thu 8:15 pm @ Bal"
      },
      {
@@ -823,7 +823,7 @@
       "game": "Sun 4:25 pm @ SF"
      },
      {
-      "player": "Seahawks",
+      "player": "Seattle",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 9.61,
@@ -894,11 +894,11 @@
       "player": "Z. Flowers",
       "pos": "WR",
       "slot": "W/R/T",
-      "rem": 13.26,
+      "rem": 13.19,
       "state": "pending",
       "pts": 0.0,
-      "proj": 13.26,
-      "live": 13.26,
+      "proj": 13.19,
+      "live": 13.19,
       "game": "Thu 8:15 pm vs Jax"
      },
      {
@@ -924,7 +924,7 @@
       "game": "Mon 8:15 pm vs Buf"
      },
      {
-      "player": "Colts",
+      "player": "Indianapolis",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 3.98,
@@ -946,7 +946,7 @@
     "right": "Kiwis are better than mid",
     "rightRec": "5-3",
     "leftScore": 0.0,
-    "leftProj": 117.53,
+    "leftProj": 117.45,
     "rightScore": 0.0,
     "rightProj": 114.21,
     "shotgun": [
@@ -970,11 +970,11 @@
       "player": "T. Lawrence",
       "pos": "QB",
       "slot": "QB",
-      "rem": 21.69,
+      "rem": 21.63,
       "state": "pending",
       "pts": 0.0,
-      "proj": 21.69,
-      "live": 21.69,
+      "proj": 21.63,
+      "live": 21.63,
       "game": "Thu 8:15 pm @ Bal"
      },
      {
@@ -992,11 +992,11 @@
       "player": "B. Tuten",
       "pos": "RB",
       "slot": "RB",
-      "rem": 15.38,
+      "rem": 15.36,
       "state": "pending",
       "pts": 0.0,
-      "proj": 15.38,
-      "live": 15.38,
+      "proj": 15.36,
+      "live": 15.36,
       "game": "Thu 8:15 pm @ Bal"
      },
      {
@@ -1055,7 +1055,7 @@
       "game": "Sun 4:25 pm @ NE"
      },
      {
-      "player": "Minnesota",
+      "player": "Vikings",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 5.79,
