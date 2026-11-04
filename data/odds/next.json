@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 10,
- "ts": "2026-11-04T10:35:48+00:00",
+ "ts": "2026-11-04T11:15:49+00:00",
  "matchups": [
   {
    "id": "1v9",
@@ -573,7 +573,7 @@
      "game": "Sun 1:00 pm @ GB"
     },
     {
-     "player": "Lions",
+     "player": "Detroit",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 4.7,
@@ -663,7 +663,7 @@
      "game": "Sun 1:00 pm vs Min"
     },
     {
-     "player": "Vikings",
+     "player": "Minnesota",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 6.56,
