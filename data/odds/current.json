@@ -68,7 +68,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-04T19:16:33+00:00",
+  "ts": "2026-11-04T19:36:43+00:00",
   "week": 9,
   "matchups": [
    {
@@ -78,20 +78,20 @@
     "right": "James Ray Ervin Yonts",
     "rightRec": "5-3",
     "leftScore": 0.0,
-    "leftProj": 117.94,
+    "leftProj": 117.59,
     "rightScore": 0.0,
-    "rightProj": 141.03,
+    "rightProj": 141.15,
     "shotgun": [],
     "leftActive": [
      {
       "player": "J. Smith-Njigba",
       "pos": "WR",
       "slot": "WR",
-      "rem": 23.13,
+      "rem": 22.78,
       "state": "pending",
       "pts": 0.0,
-      "proj": 23.13,
-      "live": 23.13,
+      "proj": 22.78,
+      "live": 22.78,
       "game": "Sun 4:25 pm vs Ari"
      },
      {
@@ -243,11 +243,11 @@
       "player": "T. Allgeier",
       "pos": "RB",
       "slot": "RB",
-      "rem": 12.33,
+      "rem": 12.46,
       "state": "pending",
       "pts": 0.0,
-      "proj": 12.33,
-      "live": 12.33,
+      "proj": 12.46,
+      "live": 12.46,
       "game": "Sun 4:25 pm @ Sea"
      },
      {
@@ -276,15 +276,15 @@
       "player": "Giants",
       "pos": "DEF",
       "slot": "DEF",
-      "rem": 8.51,
+      "rem": 8.5,
       "state": "pending",
       "pts": 0.0,
-      "proj": 8.51,
-      "live": 8.51,
+      "proj": 8.5,
+      "live": 8.5,
       "game": "Sun 1:00 pm @ Phi"
      }
     ],
-    "leftPct": 34,
+    "leftPct": 33,
     "leftRem": 9,
     "rightRem": 9
    },
@@ -295,9 +295,9 @@
     "right": "Alex Michael Pagels",
     "rightRec": "3-5",
     "leftScore": 0.0,
-    "leftProj": 123.47,
+    "leftProj": 123.48,
     "rightScore": 0.0,
-    "rightProj": 127.01,
+    "rightProj": 125.62,
     "shotgun": [],
     "leftActive": [
      {
@@ -348,22 +348,22 @@
       "player": "I. Likely",
       "pos": "TE",
       "slot": "TE",
-      "rem": 12.03,
+      "rem": 12.0,
       "state": "pending",
       "pts": 0.0,
-      "proj": 12.03,
-      "live": 12.03,
+      "proj": 12.0,
+      "live": 12.0,
       "game": "Sun 1:00 pm @ Phi"
      },
      {
       "player": "M. Wilson",
       "pos": "WR",
       "slot": "WR",
-      "rem": 11.49,
+      "rem": 11.53,
       "state": "pending",
       "pts": 0.0,
-      "proj": 11.49,
-      "live": 11.49,
+      "proj": 11.53,
+      "live": 11.53,
       "game": "Sun 4:25 pm @ Sea"
      },
      {
@@ -413,17 +413,6 @@
       "game": "Sun 9:30 am @ Atl"
      },
      {
-      "player": "M. Nabers",
-      "pos": "WR",
-      "slot": "WR",
-      "rem": 16.3,
-      "state": "pending",
-      "pts": 0.0,
-      "proj": 16.3,
-      "live": 16.3,
-      "game": "Sun 1:00 pm @ Phi"
-     },
-     {
       "player": "T. Higgins",
       "pos": "WR",
       "slot": "WR",
@@ -433,6 +422,17 @@
       "proj": 16.28,
       "live": 16.28,
       "game": "Sun 9:30 am @ Atl"
+     },
+     {
+      "player": "M. Nabers",
+      "pos": "WR",
+      "slot": "WR",
+      "rem": 16.27,
+      "state": "pending",
+      "pts": 0.0,
+      "proj": 16.27,
+      "live": 16.27,
+      "game": "Sun 1:00 pm @ Phi"
      },
      {
       "player": "J. Jacobs",
@@ -468,17 +468,6 @@
       "game": "Sun 1:00 pm @ Car"
      },
      {
-      "player": "D. Goedert",
-      "pos": "TE",
-      "slot": "TE",
-      "rem": 9.56,
-      "state": "pending",
-      "pts": 0.0,
-      "proj": 9.56,
-      "live": 9.56,
-      "game": "Sun 1:00 pm vs NYG"
-     },
-     {
       "player": "Jaguars",
       "pos": "DEF",
       "slot": "DEF",
@@ -493,15 +482,26 @@
       "player": "D. Zvada",
       "pos": "K",
       "slot": "K",
-      "rem": 8.46,
+      "rem": 8.44,
       "state": "pending",
       "pts": 0.0,
-      "proj": 8.46,
-      "live": 8.46,
+      "proj": 8.44,
+      "live": 8.44,
       "game": "Sun 1:00 pm @ Phi"
+     },
+     {
+      "player": "D. Goedert",
+      "pos": "TE",
+      "slot": "TE",
+      "rem": 8.22,
+      "state": "pending",
+      "pts": 0.0,
+      "proj": 8.22,
+      "live": 8.22,
+      "game": "Sun 1:00 pm vs NYG"
      }
     ],
-    "leftPct": 47,
+    "leftPct": 48,
     "leftRem": 9,
     "rightRem": 9
    },
@@ -512,9 +512,9 @@
     "right": "RosterMogged",
     "rightRec": "3-5",
     "leftScore": 0.0,
-    "leftProj": 143.46,
+    "leftProj": 143.51,
     "rightScore": 0.0,
-    "rightProj": 119.2,
+    "rightProj": 119.0,
     "shotgun": [],
     "leftActive": [
      {
@@ -587,11 +587,11 @@
       "player": "T. McBride",
       "pos": "TE",
       "slot": "TE",
-      "rem": 12.78,
+      "rem": 12.83,
       "state": "pending",
       "pts": 0.0,
-      "proj": 12.78,
-      "live": 12.78,
+      "proj": 12.83,
+      "live": 12.83,
       "game": "Sun 4:25 pm @ Sea"
      },
      {
@@ -606,7 +606,7 @@
       "game": "Mon 8:15 pm vs Buf"
      },
      {
-      "player": "Lions",
+      "player": "Detroit",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 8.42,
@@ -666,15 +666,15 @@
       "player": "Z. Charbonnet",
       "pos": "RB",
       "slot": "RB",
-      "rem": 10.9,
+      "rem": 10.7,
       "state": "pending",
       "pts": 0.0,
-      "proj": 10.9,
-      "live": 10.9,
+      "proj": 10.7,
+      "live": 10.7,
       "game": "Sun 4:25 pm vs Ari"
      },
      {
-      "player": "Chiefs",
+      "player": "K. City",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 9.72,
@@ -729,11 +729,22 @@
     "right": "Zen Buddha Boys 🪷💨",
     "rightRec": "4-4",
     "leftScore": 0.0,
-    "leftProj": 103.18,
+    "leftProj": 122.93,
     "rightScore": 0.0,
-    "rightProj": 123.66,
+    "rightProj": 123.39,
     "shotgun": [],
     "leftActive": [
+     {
+      "player": "M. Willis",
+      "pos": "QB",
+      "slot": "QB",
+      "rem": 20.01,
+      "state": "pending",
+      "pts": 0.0,
+      "proj": 20.01,
+      "live": 20.01,
+      "game": "Sun 1:00 pm vs Det"
+     },
      {
       "player": "J. Chase",
       "pos": "WR",
@@ -793,11 +804,11 @@
       "player": "Seahawks",
       "pos": "DEF",
       "slot": "DEF",
-      "rem": 10.52,
+      "rem": 10.26,
       "state": "pending",
       "pts": 0.0,
-      "proj": 10.52,
-      "live": 10.52,
+      "proj": 10.26,
+      "live": 10.26,
       "game": "Sun 4:25 pm vs Ari"
      },
      {
@@ -894,11 +905,11 @@
       "player": "J. Myers",
       "pos": "K",
       "slot": "K",
-      "rem": 10.78,
+      "rem": 10.51,
       "state": "pending",
       "pts": 0.0,
-      "proj": 10.78,
-      "live": 10.78,
+      "proj": 10.51,
+      "live": 10.51,
       "game": "Sun 4:25 pm vs Ari"
      },
      {
@@ -924,7 +935,7 @@
       "game": "Sun 1:00 pm vs Dal"
      }
     ],
-    "leftPct": 34,
+    "leftPct": 50,
     "leftRem": 9,
     "rightRem": 9
    },
@@ -1156,7 +1167,7 @@
     "right": "Sir this is a FF league",
     "rightRec": "3-5",
     "leftScore": 0.0,
-    "leftProj": 120.01,
+    "leftProj": 119.99,
     "rightScore": 0.0,
     "rightProj": 112.95,
     "shotgun": [],
@@ -1209,11 +1220,11 @@
       "player": "C. Skattebo",
       "pos": "RB",
       "slot": "RB",
-      "rem": 12.65,
+      "rem": 12.63,
       "state": "pending",
       "pts": 0.0,
-      "proj": 12.65,
-      "live": 12.65,
+      "proj": 12.63,
+      "live": 12.63,
       "game": "Sun 1:00 pm @ Phi"
      },
      {
@@ -1250,7 +1261,7 @@
       "game": "Mon 8:15 pm vs Buf"
      },
      {
-      "player": "Bills",
+      "player": "Buffalo",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 6.38,
@@ -1351,7 +1362,7 @@
       "game": "Sun 4:25 pm vs GB"
      },
      {
-      "player": "Broncos",
+      "player": "Denver",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 7.91,

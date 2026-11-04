@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 10,
- "ts": "2026-11-04T18:56:33+00:00",
+ "ts": "2026-11-04T19:36:33+00:00",
  "matchups": [
   {
    "id": "1v9",
@@ -10,7 +10,7 @@
    "right": "Sir this is a FF league",
    "rightRec": "3-5",
    "leftScore": 0.0,
-   "leftProj": 119.39,
+   "leftProj": 119.3,
    "rightScore": 0.0,
    "rightProj": 105.1,
    "leftPct": 62,
@@ -37,11 +37,11 @@
      "player": "J. Smith-Njigba",
      "pos": "WR",
      "slot": "WR",
-     "rem": 23.5,
+     "rem": 23.42,
      "state": "pending",
      "pts": 0.0,
-     "proj": 23.5,
-     "live": 23.5,
+     "proj": 23.42,
+     "live": 23.42,
      "game": "Sun 4:05 pm @ LV"
     },
     {
@@ -125,11 +125,11 @@
      "player": "M. Washington Jr.",
      "pos": "RB",
      "slot": "RB",
-     "rem": 6.86,
+     "rem": 6.85,
      "state": "pending",
      "pts": 0.0,
-     "proj": 6.86,
-     "live": 6.86,
+     "proj": 6.85,
+     "live": 6.85,
      "game": "Sun 4:05 pm vs Sea"
     }
    ],
@@ -233,7 +233,7 @@
    "leftScore": 0.0,
    "leftProj": 103.46,
    "rightScore": 0.0,
-   "rightProj": 113.09,
+   "rightProj": 113.02,
    "leftPct": 42,
    "leftRem": 7,
    "rightRem": 9,
@@ -395,11 +395,11 @@
      "player": "Z. Charbonnet",
      "pos": "RB",
      "slot": "RB",
-     "rem": 10.7,
+     "rem": 10.67,
      "state": "pending",
      "pts": 0.0,
-     "proj": 10.7,
-     "live": 10.7,
+     "proj": 10.67,
+     "live": 10.67,
      "game": "Sun 4:05 pm @ LV"
     },
     {
@@ -417,11 +417,11 @@
      "player": "M. Gay",
      "pos": "K",
      "slot": "K",
-     "rem": 8.24,
+     "rem": 8.2,
      "state": "pending",
      "pts": 0.0,
-     "proj": 8.24,
-     "live": 8.24,
+     "proj": 8.2,
+     "live": 8.2,
      "game": "Sun 4:05 pm vs Sea"
     },
     {
@@ -570,7 +570,7 @@
      "game": "Sun 1:00 pm @ GB"
     },
     {
-     "player": "Lions",
+     "player": "Detroit",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 4.37,
@@ -660,7 +660,7 @@
      "game": "Sun 1:00 pm vs Min"
     },
     {
-     "player": "Vikings",
+     "player": "Minnesota",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 6.55,
@@ -679,10 +679,10 @@
    "right": "James Ray Ervin Yonts",
    "rightRec": "5-3",
    "leftScore": 0.0,
-   "leftProj": 117.51,
+   "leftProj": 116.87,
    "rightScore": 0.0,
    "rightProj": 119.34,
-   "leftPct": 49,
+   "leftPct": 48,
    "leftRem": 9,
    "rightRem": 8,
    "shotgun": [
@@ -703,15 +703,15 @@
    ],
    "leftActive": [
     {
-     "player": "S. Darnold",
+     "player": "M. Willis",
      "pos": "QB",
      "slot": "QB",
-     "rem": 20.01,
+     "rem": 19.5,
      "state": "pending",
      "pts": 0.0,
-     "proj": 20.01,
-     "live": 20.01,
-     "game": "Sun 4:05 pm @ LV"
+     "proj": 19.5,
+     "live": 19.5,
+     "game": "Sun 1:00 pm @ Ind"
     },
     {
      "player": "J. Chase",
@@ -750,11 +750,11 @@
      "player": "A. Jeanty",
      "pos": "RB",
      "slot": "RB",
-     "rem": 12.2,
+     "rem": 12.16,
      "state": "pending",
      "pts": 0.0,
-     "proj": 12.2,
-     "live": 12.2,
+     "proj": 12.16,
+     "live": 12.16,
      "game": "Sun 4:05 pm vs Sea"
     },
     {
@@ -783,22 +783,22 @@
      "player": "T. Tucker",
      "pos": "WR",
      "slot": "W/R/T",
-     "rem": 8.97,
+     "rem": 8.93,
      "state": "pending",
      "pts": 0.0,
-     "proj": 8.97,
-     "live": 8.97,
+     "proj": 8.93,
+     "live": 8.93,
      "game": "Sun 4:05 pm vs Sea"
     },
     {
      "player": "Seahawks",
      "pos": "DEF",
      "slot": "DEF",
-     "rem": 7.59,
+     "rem": 7.54,
      "state": "pending",
      "pts": 0.0,
-     "proj": 7.59,
-     "live": 7.59,
+     "proj": 7.54,
+     "live": 7.54,
      "game": "Sun 4:05 pm @ LV"
     }
    ],
@@ -1124,9 +1124,9 @@
    "right": "Kiwis are better than mid",
    "rightRec": "5-3",
    "leftScore": 0.0,
-   "leftProj": 106.04,
+   "leftProj": 106.01,
    "rightScore": 0.0,
-   "rightProj": 103.5,
+   "rightProj": 103.43,
    "leftPct": 52,
    "leftRem": 8,
    "rightRem": 7,
@@ -1201,11 +1201,11 @@
      "player": "Z. Flowers",
      "pos": "WR",
      "slot": "W/R/T",
-     "rem": 14.43,
+     "rem": 14.45,
      "state": "pending",
      "pts": 0.0,
-     "proj": 14.43,
-     "live": 14.43,
+     "proj": 14.45,
+     "live": 14.45,
      "game": "Mon 8:15 pm vs LAC"
     },
     {
@@ -1234,11 +1234,11 @@
      "player": "J. Myers",
      "pos": "K",
      "slot": "K",
-     "rem": 10.49,
+     "rem": 10.44,
      "state": "pending",
      "pts": 0.0,
-     "proj": 10.49,
-     "live": 10.49,
+     "proj": 10.44,
+     "live": 10.44,
      "game": "Sun 4:05 pm @ LV"
     },
     {
@@ -1291,11 +1291,11 @@
      "player": "B. Bowers",
      "pos": "TE",
      "slot": "TE",
-     "rem": 14.86,
+     "rem": 14.79,
      "state": "pending",
      "pts": 0.0,
-     "proj": 14.86,
-     "live": 14.86,
+     "proj": 14.79,
+     "live": 14.79,
      "game": "Sun 4:05 pm vs Sea"
     },
     {
