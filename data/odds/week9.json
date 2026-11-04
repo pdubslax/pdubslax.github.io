@@ -68,7 +68,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-04T23:17:42+00:00",
+  "ts": "2026-11-04T23:37:34+00:00",
   "week": 9,
   "matchups": [
    {
@@ -78,9 +78,9 @@
     "right": "James Ray Ervin Yonts",
     "rightRec": "5-3",
     "leftScore": 0.0,
-    "leftProj": 120.94,
+    "leftProj": 120.88,
     "rightScore": 0.0,
-    "rightProj": 141.2,
+    "rightProj": 141.18,
     "shotgun": [],
     "leftActive": [
      {
@@ -98,11 +98,11 @@
       "player": "M. Stafford",
       "pos": "QB",
       "slot": "QB",
-      "rem": 21.07,
+      "rem": 21.01,
       "state": "pending",
       "pts": 0.0,
-      "proj": 21.07,
-      "live": 21.07,
+      "proj": 21.01,
+      "live": 21.01,
       "game": "Sun 1:00 pm @ Was"
      },
      {
@@ -199,11 +199,11 @@
       "player": "P. Nacua",
       "pos": "WR",
       "slot": "WR",
-      "rem": 21.94,
+      "rem": 21.92,
       "state": "pending",
       "pts": 0.0,
-      "proj": 21.94,
-      "live": 21.94,
+      "proj": 21.92,
+      "live": 21.92,
       "game": "Sun 1:00 pm @ Was"
      },
      {
@@ -512,7 +512,7 @@
     "right": "RosterMogged",
     "rightRec": "3-5",
     "leftScore": 0.0,
-    "leftProj": 143.43,
+    "leftProj": 143.36,
     "rightScore": 0.0,
     "rightProj": 119.25,
     "shotgun": [],
@@ -543,11 +543,11 @@
       "player": "K. Williams",
       "pos": "RB",
       "slot": "RB",
-      "rem": 18.21,
+      "rem": 18.14,
       "state": "pending",
       "pts": 0.0,
-      "proj": 18.21,
-      "live": 18.21,
+      "proj": 18.14,
+      "live": 18.14,
       "game": "Sun 1:00 pm @ Was"
      },
      {
@@ -948,7 +948,7 @@
     "leftScore": 0.0,
     "leftProj": 117.31,
     "rightScore": 0.0,
-    "rightProj": 122.76,
+    "rightProj": 122.81,
     "shotgun": [],
     "leftActive": [
      {
@@ -1040,7 +1040,7 @@
       "game": "Sun 4:25 pm @ NE"
      },
      {
-      "player": "Vikings",
+      "player": "Minnesota",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 5.79,
@@ -1100,11 +1100,11 @@
       "player": "R. White",
       "pos": "RB",
       "slot": "RB",
-      "rem": 11.22,
+      "rem": 11.27,
       "state": "pending",
       "pts": 0.0,
-      "proj": 11.22,
-      "live": 11.22,
+      "proj": 11.27,
+      "live": 11.27,
       "game": "Sun 1:00 pm vs LAR"
      },
      {
@@ -1141,7 +1141,7 @@
       "game": "Sun 1:00 pm @ Car"
      },
      {
-      "player": "Bears",
+      "player": "Chicago",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 8.52,
@@ -1163,7 +1163,7 @@
     "right": "Sir this is a FF league",
     "rightRec": "3-5",
     "leftScore": 0.0,
-    "leftProj": 119.92,
+    "leftProj": 120.02,
     "rightScore": 0.0,
     "rightProj": 112.75,
     "shotgun": [],
@@ -1183,11 +1183,11 @@
       "player": "J. Daniels",
       "pos": "QB",
       "slot": "QB",
-      "rem": 21.24,
+      "rem": 21.34,
       "state": "pending",
       "pts": 0.0,
-      "proj": 21.24,
-      "live": 21.24,
+      "proj": 21.34,
+      "live": 21.34,
       "game": "Sun 1:00 pm vs LAR"
      },
      {
