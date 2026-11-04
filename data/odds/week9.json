@@ -68,7 +68,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-04T22:17:33+00:00",
+  "ts": "2026-11-04T22:37:43+00:00",
   "week": 9,
   "matchups": [
    {
@@ -948,23 +948,8 @@
     "leftScore": 0.0,
     "leftProj": 117.38,
     "rightScore": 0.0,
-    "rightProj": 114.21,
-    "shotgun": [
-     {
-      "player": "(Empty)",
-      "pos": "",
-      "team": "",
-      "pts": 0.0,
-      "game": "",
-      "tag": null,
-      "state": "empty",
-      "slot": "DEF",
-      "manager": "Kiwis are better than mid",
-      "locked": false,
-      "live": 0.0,
-      "reason": "pts"
-     }
-    ],
+    "rightProj": 122.73,
+    "shotgun": [],
     "leftActive": [
      {
       "player": "T. Lawrence",
@@ -1154,11 +1139,22 @@
       "proj": 8.84,
       "live": 8.84,
       "game": "Sun 1:00 pm @ Car"
+     },
+     {
+      "player": "Bears",
+      "pos": "DEF",
+      "slot": "DEF",
+      "rem": 8.52,
+      "state": "pending",
+      "pts": 0.0,
+      "proj": 8.52,
+      "live": 8.52,
+      "game": "Sun 8:20 pm vs TB"
      }
     ],
-    "leftPct": 53,
+    "leftPct": 45,
     "leftRem": 9,
-    "rightRem": 8
+    "rightRem": 9
    },
    {
     "id": "6v9",
