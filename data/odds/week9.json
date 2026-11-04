@@ -68,7 +68,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-04T18:16:42+00:00",
+  "ts": "2026-11-04T18:36:33+00:00",
   "week": 9,
   "matchups": [
    {
@@ -297,7 +297,7 @@
     "leftScore": 0.0,
     "leftProj": 123.47,
     "rightScore": 0.0,
-    "rightProj": 125.53,
+    "rightProj": 125.65,
     "shotgun": [],
     "leftActive": [
      {
@@ -342,7 +342,7 @@
       "pts": 0.0,
       "proj": 14.0,
       "live": 14.0,
-      "game": "Thu 8:15 pm vs Jax"
+      "game": "Thu 8:15 pm vs Jax"
      },
      {
       "player": "I. Likely",
@@ -389,7 +389,7 @@
       "game": "Sun 8:20 pm vs TB"
      },
      {
-      "player": "Saints",
+      "player": "N. Orleans",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 9.44,
@@ -468,7 +468,7 @@
       "game": "Sun 1:00 pm @ Car"
      },
      {
-      "player": "Jaguars",
+      "player": "Jacksonville",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 8.96,
@@ -476,17 +476,17 @@
       "pts": 0.0,
       "proj": 8.96,
       "live": 8.96,
-      "game": "Thu 8:15 pm @ Bal"
+      "game": "Thu 8:15 pm @ Bal"
      },
      {
       "player": "D. Zvada",
       "pos": "K",
       "slot": "K",
-      "rem": 8.36,
+      "rem": 8.48,
       "state": "pending",
       "pts": 0.0,
-      "proj": 8.36,
-      "live": 8.36,
+      "proj": 8.48,
+      "live": 8.48,
       "game": "Sun 1:00 pm @ Phi"
      },
      {
@@ -606,7 +606,7 @@
       "game": "Mon 8:15 pm vs Buf"
      },
      {
-      "player": "Lions",
+      "player": "Detroit",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 8.42,
@@ -674,7 +674,7 @@
       "game": "Sun 4:25 pm vs Ari"
      },
      {
-      "player": "Chiefs",
+      "player": "K. City",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 9.72,
@@ -776,7 +776,7 @@
       "pts": 0.0,
       "proj": 13.79,
       "live": 13.79,
-      "game": "Thu 8:15 pm @ Bal"
+      "game": "Thu 8:15 pm @ Bal"
      },
      {
       "player": "T. Warren",
@@ -801,7 +801,7 @@
       "game": "Sun 4:25 pm @ SF"
      },
      {
-      "player": "Seahawks",
+      "player": "Seattle",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 10.54,
@@ -820,7 +820,7 @@
       "pts": 0.0,
       "proj": 10.24,
       "live": 10.24,
-      "game": "Thu 8:15 pm @ Bal"
+      "game": "Thu 8:15 pm @ Bal"
      },
      {
       "player": "T. Tucker",
@@ -899,7 +899,7 @@
       "pts": 0.0,
       "proj": 13.33,
       "live": 13.33,
-      "game": "Thu 8:15 pm vs Jax"
+      "game": "Thu 8:15 pm vs Jax"
      },
      {
       "player": "J. Myers",
@@ -924,7 +924,7 @@
       "game": "Mon 8:15 pm vs Buf"
      },
      {
-      "player": "Colts",
+      "player": "Indianapolis",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 3.97,
@@ -975,7 +975,7 @@
       "pts": 0.0,
       "proj": 21.69,
       "live": 21.69,
-      "game": "Thu 8:15 pm @ Bal"
+      "game": "Thu 8:15 pm @ Bal"
      },
      {
       "player": "J. Taylor",
@@ -997,7 +997,7 @@
       "pts": 0.0,
       "proj": 15.38,
       "live": 15.38,
-      "game": "Thu 8:15 pm @ Bal"
+      "game": "Thu 8:15 pm @ Bal"
      },
      {
       "player": "L. Burden III",
