@@ -68,7 +68,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-04T12:35:55+00:00",
+  "ts": "2026-11-04T12:55:48+00:00",
   "week": 9,
   "matchups": [
    {
@@ -281,7 +281,7 @@
       "pts": 0.0,
       "proj": 8.29,
       "live": 8.29,
-      "game": "Sun 1:00 pm @ Phi"
+      "game": "Sun 1:00 pm @ Phi"
      }
     ],
     "leftPct": 34,
@@ -404,7 +404,7 @@
       "pts": 0.0,
       "proj": 10.48,
       "live": 10.48,
-      "game": "Sun 1:00 pm @ Phi"
+      "game": "Sun 1:00 pm @ Phi"
      },
      {
       "player": "C. Santos",
@@ -472,7 +472,7 @@
       "pts": 0.0,
       "proj": 14.13,
       "live": 14.13,
-      "game": "Sun 1:00 pm @ Phi"
+      "game": "Sun 1:00 pm @ Phi"
      },
      {
       "player": "J. Coleman",
@@ -505,7 +505,7 @@
       "pts": 0.0,
       "proj": 8.49,
       "live": 8.49,
-      "game": "Sun 1:00 pm vs NYG"
+      "game": "Sun 1:00 pm vs NYG"
      }
     ],
     "leftPct": 48,
@@ -1062,7 +1062,7 @@
       "game": "Sun 4:25 pm @ NE"
      },
      {
-      "player": "Minnesota",
+      "player": "Vikings",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 5.76,
@@ -1232,7 +1232,7 @@
       "pts": 0.0,
       "proj": 13.04,
       "live": 13.04,
-      "game": "Sun 1:00 pm @ Phi"
+      "game": "Sun 1:00 pm @ Phi"
      },
      {
       "player": "J. Bates",
