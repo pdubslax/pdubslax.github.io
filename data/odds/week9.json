@@ -68,7 +68,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-04T12:15:49+00:00",
+  "ts": "2026-11-04T12:35:55+00:00",
   "week": 9,
   "matchups": [
    {
@@ -78,7 +78,7 @@
     "right": "James Ray Ervin Yonts",
     "rightRec": "5-3",
     "leftScore": 0.0,
-    "leftProj": 118.4,
+    "leftProj": 118.41,
     "rightScore": 0.0,
     "rightProj": 140.63,
     "shotgun": [],
@@ -120,11 +120,11 @@
       "player": "J. Coker",
       "pos": "WR",
       "slot": "W/R/T",
-      "rem": 12.03,
+      "rem": 12.08,
       "state": "pending",
       "pts": 0.0,
-      "proj": 12.03,
-      "live": 12.03,
+      "proj": 12.08,
+      "live": 12.08,
       "game": "Sun 1:00 pm vs Den"
      },
      {
@@ -164,11 +164,11 @@
       "player": "M. Washington Jr.",
       "pos": "RB",
       "slot": "RB",
-      "rem": 8.96,
+      "rem": 8.92,
       "state": "pending",
       "pts": 0.0,
-      "proj": 8.96,
-      "live": 8.96,
+      "proj": 8.92,
+      "live": 8.92,
       "game": "Sun 4:25 pm @ SF"
      },
      {
@@ -295,9 +295,9 @@
     "right": "Alex Michael Pagels",
     "rightRec": "3-5",
     "leftScore": 0.0,
-    "leftProj": 112.18,
+    "leftProj": 112.22,
     "rightScore": 0.0,
-    "rightProj": 115.12,
+    "rightProj": 115.07,
     "shotgun": [
      {
       "player": "C. Boswell",
@@ -371,7 +371,7 @@
       "pts": 0.0,
       "proj": 14.03,
       "live": 14.03,
-      "game": "Thu 8:15 pm vs Jax"
+      "game": "Thu 8:15 pm vs Jax"
      },
      {
       "player": "M. Wilson",
@@ -388,11 +388,11 @@
       "player": "J. Waddle",
       "pos": "WR",
       "slot": "W/R/T",
-      "rem": 11.31,
+      "rem": 11.35,
       "state": "pending",
       "pts": 0.0,
-      "proj": 11.31,
-      "live": 11.31,
+      "proj": 11.35,
+      "live": 11.35,
       "game": "Sun 1:00 pm @ Car"
      },
      {
@@ -478,11 +478,11 @@
       "player": "J. Coleman",
       "pos": "RB",
       "slot": "RB",
-      "rem": 14.12,
+      "rem": 14.07,
       "state": "pending",
       "pts": 0.0,
-      "proj": 14.12,
-      "live": 14.12,
+      "proj": 14.07,
+      "live": 14.07,
       "game": "Sun 1:00 pm @ Car"
      },
      {
@@ -494,7 +494,7 @@
       "pts": 0.0,
       "proj": 8.87,
       "live": 8.87,
-      "game": "Thu 8:15 pm @ Bal"
+      "game": "Thu 8:15 pm @ Bal"
      },
      {
       "player": "D. Goedert",
@@ -519,9 +519,9 @@
     "right": "RosterMogged",
     "rightRec": "3-5",
     "leftScore": 0.0,
-    "leftProj": 142.39,
+    "leftProj": 142.52,
     "rightScore": 0.0,
-    "rightProj": 118.02,
+    "rightProj": 118.09,
     "shotgun": [],
     "leftActive": [
      {
@@ -572,22 +572,22 @@
       "player": "M. Evans",
       "pos": "WR",
       "slot": "WR",
-      "rem": 14.34,
+      "rem": 14.41,
       "state": "pending",
       "pts": 0.0,
-      "proj": 14.34,
-      "live": 14.34,
+      "proj": 14.41,
+      "live": 14.41,
       "game": "Sun 4:25 pm vs LV"
      },
      {
       "player": "T. McMillan",
       "pos": "WR",
       "slot": "WR",
-      "rem": 12.89,
+      "rem": 12.95,
       "state": "pending",
       "pts": 0.0,
-      "proj": 12.89,
-      "live": 12.89,
+      "proj": 12.95,
+      "live": 12.95,
       "game": "Sun 1:00 pm vs Den"
      },
      {
@@ -629,11 +629,11 @@
       "player": "B. Purdy",
       "pos": "QB",
       "slot": "QB",
-      "rem": 24.94,
+      "rem": 25.01,
       "state": "pending",
       "pts": 0.0,
-      "proj": 24.94,
-      "live": 24.94,
+      "proj": 25.01,
+      "live": 25.01,
       "game": "Sun 4:25 pm vs LV"
      },
      {
@@ -736,9 +736,9 @@
     "right": "Zen Buddha Boys 🪷💨",
     "rightRec": "4-4",
     "leftScore": 0.0,
-    "leftProj": 124.02,
+    "leftProj": 124.06,
     "rightScore": 0.0,
-    "rightProj": 123.85,
+    "rightProj": 123.8,
     "shotgun": [],
     "leftActive": [
      {
@@ -783,7 +783,7 @@
       "pts": 0.0,
       "proj": 13.88,
       "live": 13.88,
-      "game": "Thu 8:15 pm @ Bal"
+      "game": "Thu 8:15 pm @ Bal"
      },
      {
       "player": "T. Warren",
@@ -827,17 +827,17 @@
       "pts": 0.0,
       "proj": 10.27,
       "live": 10.27,
-      "game": "Thu 8:15 pm @ Bal"
+      "game": "Thu 8:15 pm @ Bal"
      },
      {
       "player": "T. Tucker",
       "pos": "WR",
       "slot": "W/R/T",
-      "rem": 9.62,
+      "rem": 9.66,
       "state": "pending",
       "pts": 0.0,
-      "proj": 9.62,
-      "live": 9.62,
+      "proj": 9.66,
+      "live": 9.66,
       "game": "Sun 4:25 pm @ SF"
      }
     ],
@@ -868,11 +868,11 @@
       "player": "C. Hubbard",
       "pos": "RB",
       "slot": "RB",
-      "rem": 17.28,
+      "rem": 17.23,
       "state": "pending",
       "pts": 0.0,
-      "proj": 17.28,
-      "live": 17.28,
+      "proj": 17.23,
+      "live": 17.23,
       "game": "Sun 1:00 pm vs Den"
      },
      {
@@ -906,7 +906,7 @@
       "pts": 0.0,
       "proj": 13.33,
       "live": 13.33,
-      "game": "Thu 8:15 pm vs Jax"
+      "game": "Thu 8:15 pm vs Jax"
      },
      {
       "player": "J. Myers",
@@ -955,7 +955,7 @@
     "leftScore": 0.0,
     "leftProj": 118.43,
     "rightScore": 0.0,
-    "rightProj": 114.64,
+    "rightProj": 114.63,
     "shotgun": [
      {
       "player": "(Empty)",
@@ -982,7 +982,7 @@
       "pts": 0.0,
       "proj": 21.73,
       "live": 21.73,
-      "game": "Thu 8:15 pm @ Bal"
+      "game": "Thu 8:15 pm @ Bal"
      },
      {
       "player": "J. Taylor",
@@ -1004,7 +1004,7 @@
       "pts": 0.0,
       "proj": 15.36,
       "live": 15.36,
-      "game": "Thu 8:15 pm @ Bal"
+      "game": "Thu 8:15 pm @ Bal"
      },
      {
       "player": "L. Burden III",
@@ -1062,7 +1062,7 @@
       "game": "Sun 4:25 pm @ NE"
      },
      {
-      "player": "Vikings",
+      "player": "Minnesota",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 5.76,
@@ -1089,22 +1089,22 @@
       "player": "C. McCaffrey",
       "pos": "RB",
       "slot": "RB",
-      "rem": 21.36,
+      "rem": 21.29,
       "state": "pending",
       "pts": 0.0,
-      "proj": 21.36,
-      "live": 21.36,
+      "proj": 21.29,
+      "live": 21.29,
       "game": "Sun 4:25 pm vs LV"
      },
      {
       "player": "B. Bowers",
       "pos": "TE",
       "slot": "TE",
-      "rem": 15.53,
+      "rem": 15.59,
       "state": "pending",
       "pts": 0.0,
-      "proj": 15.53,
-      "live": 15.53,
+      "proj": 15.59,
+      "live": 15.59,
       "game": "Sun 4:25 pm @ SF"
      },
      {
@@ -1174,7 +1174,7 @@
     "right": "Sir this is a FF league",
     "rightRec": "3-5",
     "leftScore": 0.0,
-    "leftProj": 119.04,
+    "leftProj": 119.1,
     "rightScore": 0.0,
     "rightProj": 113.96,
     "shotgun": [],
@@ -1205,11 +1205,11 @@
       "player": "G. Kittle",
       "pos": "TE",
       "slot": "W/R/T",
-      "rem": 13.65,
+      "rem": 13.71,
       "state": "pending",
       "pts": 0.0,
-      "proj": 13.65,
-      "live": 13.65,
+      "proj": 13.71,
+      "live": 13.71,
       "game": "Sun 4:25 pm vs LV"
      },
      {

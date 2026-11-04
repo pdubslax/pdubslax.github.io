@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 10,
- "ts": "2026-11-04T11:55:48+00:00",
+ "ts": "2026-11-04T12:35:48+00:00",
  "matchups": [
   {
    "id": "1v9",
@@ -460,7 +460,7 @@
    "leftScore": 0.0,
    "leftProj": 124.4,
    "rightScore": 0.0,
-   "rightProj": 109.66,
+   "rightProj": 109.69,
    "leftPct": 62,
    "leftRem": 8,
    "rightRem": 8,
@@ -573,7 +573,7 @@
      "game": "Sun 1:00 pm @ GB"
     },
     {
-     "player": "Detroit",
+     "player": "Lions",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 4.7,
@@ -589,11 +589,11 @@
      "player": "T. Lawrence",
      "pos": "QB",
      "slot": "QB",
-     "rem": 23.17,
+     "rem": 23.24,
      "state": "pending",
      "pts": 0.0,
-     "proj": 23.17,
-     "live": 23.17,
+     "proj": 23.24,
+     "live": 23.24,
      "game": "Sun 1:00 pm @ Ten"
     },
     {
@@ -611,11 +611,11 @@
      "player": "B. Tuten",
      "pos": "RB",
      "slot": "RB",
-     "rem": 16.24,
+     "rem": 16.2,
      "state": "pending",
      "pts": 0.0,
-     "proj": 16.24,
-     "live": 16.24,
+     "proj": 16.2,
+     "live": 16.2,
      "game": "Sun 1:00 pm @ Ten"
     },
     {
@@ -663,7 +663,7 @@
      "game": "Sun 1:00 pm vs Min"
     },
     {
-     "player": "Minnesota",
+     "player": "Vikings",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 6.56,
@@ -682,7 +682,7 @@
    "right": "James Ray Ervin Yonts",
    "rightRec": "5-3",
    "leftScore": 0.0,
-   "leftProj": 117.72,
+   "leftProj": 117.79,
    "rightScore": 0.0,
    "rightProj": 116.72,
    "leftPct": 51,
@@ -742,11 +742,11 @@
      "player": "P. Washington",
      "pos": "WR",
      "slot": "WR",
-     "rem": 14.84,
+     "rem": 14.91,
      "state": "pending",
      "pts": 0.0,
-     "proj": 14.84,
-     "live": 14.84,
+     "proj": 14.91,
+     "live": 14.91,
      "game": "Sun 1:00 pm @ Ten"
     },
     {
