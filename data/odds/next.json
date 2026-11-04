@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 9,
- "ts": "2026-11-04T04:55:05+00:00",
+ "ts": "2026-11-04T05:35:04+00:00",
  "matchups": [
   {
    "id": "1v7",
@@ -96,7 +96,7 @@
      "game": "Sun 1:00 pm vs Dal"
     },
     {
-     "player": "Texans",
+     "player": "Houston",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 8.92,
@@ -208,7 +208,7 @@
      "game": "Sun 4:05 pm @ LAC"
     },
     {
-     "player": "Giants",
+     "player": "N. York",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 8.31,
@@ -292,7 +292,7 @@
      "pts": 0.0,
      "proj": 14.03,
      "live": 14.03,
-     "game": "Thu 8:15 pm vs Jax"
+     "game": "Thu 8:15 pm vs Jax"
     },
     {
      "player": "M. Wilson",
@@ -426,7 +426,7 @@
      "pts": 0.0,
      "proj": 8.88,
      "live": 8.88,
-     "game": "Thu 8:15 pm @ Bal"
+     "game": "Thu 8:15 pm @ Bal"
     },
     {
      "player": "D. Goedert",
@@ -715,7 +715,7 @@
      "pts": 0.0,
      "proj": 13.92,
      "live": 13.92,
-     "game": "Thu 8:15 pm @ Bal"
+     "game": "Thu 8:15 pm @ Bal"
     },
     {
      "player": "T. Warren",
@@ -759,7 +759,7 @@
      "pts": 0.0,
      "proj": 10.27,
      "live": 10.27,
-     "game": "Thu 8:15 pm @ Bal"
+     "game": "Thu 8:15 pm @ Bal"
     },
     {
      "player": "T. Tucker",
@@ -838,7 +838,7 @@
      "pts": 0.0,
      "proj": 13.29,
      "live": 13.29,
-     "game": "Thu 8:15 pm vs Jax"
+     "game": "Thu 8:15 pm vs Jax"
     },
     {
      "player": "J. Myers",
@@ -899,7 +899,7 @@
      "pts": 0.0,
      "proj": 21.76,
      "live": 21.76,
-     "game": "Thu 8:15 pm @ Bal"
+     "game": "Thu 8:15 pm @ Bal"
     },
     {
      "player": "J. Taylor",
@@ -921,7 +921,7 @@
      "pts": 0.0,
      "proj": 15.36,
      "live": 15.36,
-     "game": "Thu 8:15 pm @ Bal"
+     "game": "Thu 8:15 pm @ Bal"
     },
     {
      "player": "L. Burden III",
