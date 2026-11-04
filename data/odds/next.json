@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 9,
- "ts": "2026-11-04T03:49:20+00:00",
+ "ts": "2026-11-04T04:29:21+00:00",
  "matchups": [
   {
    "id": "1v7",
@@ -96,7 +96,7 @@
      "game": "Sun 1:00 pm vs Dal"
     },
     {
-     "player": "Houston",
+     "player": "Texans",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 8.92,
@@ -208,7 +208,7 @@
      "game": "Sun 4:05 pm @ LAC"
     },
     {
-     "player": "N. York",
+     "player": "Giants",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 8.31,
