@@ -68,7 +68,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-04T09:55:56+00:00",
+  "ts": "2026-11-04T10:15:48+00:00",
   "week": 9,
   "matchups": [
    {
@@ -295,7 +295,7 @@
     "right": "Alex Michael Pagels",
     "rightRec": "3-5",
     "leftScore": 0.0,
-    "leftProj": 117.15,
+    "leftProj": 112.24,
     "rightScore": 0.0,
     "rightProj": 115.07,
     "shotgun": [
@@ -309,6 +309,20 @@
       "state": "bye",
       "slot": "K",
       "manager": "Alex Michael Pagels",
+      "locked": false,
+      "live": 0.0,
+      "reason": "pts"
+     },
+     {
+      "player": "(Empty)",
+      "pos": "",
+      "team": "",
+      "pts": 0.0,
+      "game": "",
+      "tag": null,
+      "state": "empty",
+      "slot": "DEF",
+      "manager": "BDSM AI Stealth Founder",
       "locked": false,
       "live": 0.0,
       "reason": "pts"
@@ -402,17 +416,6 @@
       "proj": 9.48,
       "live": 9.48,
       "game": "Sun 8:20 pm vs TB"
-     },
-     {
-      "player": "Falcons",
-      "pos": "DEF",
-      "slot": "DEF",
-      "rem": 4.91,
-      "state": "pending",
-      "pts": 0.0,
-      "proj": 4.91,
-      "live": 4.91,
-      "game": "Sun 9:30 am vs Cin"
      }
     ],
     "rightActive": [
@@ -505,8 +508,8 @@
       "game": "Sun 1:00 pm vs NYG"
      }
     ],
-    "leftPct": 52,
-    "leftRem": 9,
+    "leftPct": 48,
+    "leftRem": 8,
     "rightRem": 8
    },
    {
@@ -952,8 +955,23 @@
     "leftScore": 0.0,
     "leftProj": 118.42,
     "rightScore": 0.0,
-    "rightProj": 118.56,
-    "shotgun": [],
+    "rightProj": 114.62,
+    "shotgun": [
+     {
+      "player": "(Empty)",
+      "pos": "",
+      "team": "",
+      "pts": 0.0,
+      "game": "",
+      "tag": null,
+      "state": "empty",
+      "slot": "DEF",
+      "manager": "Kiwis are better than mid",
+      "locked": false,
+      "live": 0.0,
+      "reason": "pts"
+     }
+    ],
     "leftActive": [
      {
       "player": "T. Lawrence",
@@ -1143,22 +1161,11 @@
       "proj": 8.82,
       "live": 8.82,
       "game": "Sun 1:00 pm @ Car"
-     },
-     {
-      "player": "Jets",
-      "pos": "DEF",
-      "slot": "DEF",
-      "rem": 3.94,
-      "state": "pending",
-      "pts": 0.0,
-      "proj": 3.94,
-      "live": 3.94,
-      "game": "Sun 1:00 pm @ KC"
      }
     ],
-    "leftPct": 50,
+    "leftPct": 53,
     "leftRem": 9,
-    "rightRem": 9
+    "rightRem": 8
    },
    {
     "id": "6v9",
