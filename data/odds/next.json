@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 10,
- "ts": "2026-11-04T09:55:48+00:00",
+ "ts": "2026-11-04T10:35:48+00:00",
  "matchups": [
   {
    "id": "1v9",
@@ -10,9 +10,9 @@
    "right": "Sir this is a FF league",
    "rightRec": "3-5",
    "leftScore": 0.0,
-   "leftProj": 117.65,
+   "leftProj": 117.61,
    "rightScore": 0.0,
-   "rightProj": 104.2,
+   "rightProj": 104.13,
    "leftPct": 61,
    "leftRem": 9,
    "rightRem": 8,
@@ -114,11 +114,11 @@
      "player": "W. Marks",
      "pos": "RB",
      "slot": "RB",
-     "rem": 9.15,
+     "rem": 9.11,
      "state": "pending",
      "pts": 0.0,
-     "proj": 9.15,
-     "live": 9.15,
+     "proj": 9.11,
+     "live": 9.11,
      "game": "Sun 1:00 pm @ Cle"
     },
     {
@@ -149,11 +149,11 @@
      "player": "J. Cook III",
      "pos": "RB",
      "slot": "RB",
-     "rem": 17.41,
+     "rem": 17.36,
      "state": "pending",
      "pts": 0.0,
-     "proj": 17.41,
-     "live": 17.41,
+     "proj": 17.36,
+     "live": 17.36,
      "game": "Sun 1:00 pm @ NYJ"
     },
     {
@@ -204,11 +204,11 @@
      "player": "B. Allen",
      "pos": "RB",
      "slot": "RB",
-     "rem": 9.76,
+     "rem": 9.74,
      "state": "pending",
      "pts": 0.0,
-     "proj": 9.76,
-     "live": 9.76,
+     "proj": 9.74,
+     "live": 9.74,
      "game": "Sun 1:00 pm vs Buf"
     },
     {
@@ -231,11 +231,11 @@
    "right": "RosterMogged",
    "rightRec": "3-5",
    "leftScore": 0.0,
-   "leftProj": 100.83,
+   "leftProj": 95.71,
    "rightScore": 0.0,
-   "rightProj": 113.23,
-   "leftPct": 39,
-   "leftRem": 7,
+   "rightProj": 113.26,
+   "leftPct": 35,
+   "leftRem": 6,
    "rightRem": 9,
    "shotgun": [
     {
@@ -265,6 +265,20 @@
      "locked": false,
      "live": 0.0,
      "reason": "pts"
+    },
+    {
+     "player": "(Empty)",
+     "pos": "",
+     "team": "",
+     "pts": 0.0,
+     "game": "",
+     "tag": null,
+     "state": "empty",
+     "slot": "DEF",
+     "manager": "BDSM AI Stealth Founder",
+     "locked": false,
+     "live": 0.0,
+     "reason": "pts"
     }
    ],
    "leftActive": [
@@ -283,22 +297,22 @@
      "player": "D. Henry",
      "pos": "RB",
      "slot": "RB",
-     "rem": 16.2,
+     "rem": 16.16,
      "state": "pending",
      "pts": 0.0,
-     "proj": 16.2,
-     "live": 16.2,
+     "proj": 16.16,
+     "live": 16.16,
      "game": "Mon 8:15 pm vs LAC"
     },
     {
      "player": "C. Brown",
      "pos": "RB",
      "slot": "RB",
-     "rem": 15.22,
+     "rem": 15.18,
      "state": "pending",
      "pts": 0.0,
-     "proj": 15.22,
-     "live": 15.22,
+     "proj": 15.18,
+     "live": 15.18,
      "game": "Sun 8:20 pm vs Pit"
     },
     {
@@ -333,17 +347,6 @@
      "proj": 12.13,
      "live": 12.13,
      "game": "Sun 4:05 pm vs LAR"
-    },
-    {
-     "player": "Falcons",
-     "pos": "DEF",
-     "slot": "DEF",
-     "rem": 5.04,
-     "state": "pending",
-     "pts": 0.0,
-     "proj": 5.04,
-     "live": 5.04,
-     "game": "Sun 1:00 pm vs KC"
     }
    ],
    "rightActive": [
@@ -384,11 +387,11 @@
      "player": "L. McConkey",
      "pos": "WR",
      "slot": "WR",
-     "rem": 11.32,
+     "rem": 11.33,
      "state": "pending",
      "pts": 0.0,
-     "proj": 11.32,
-     "live": 11.32,
+     "proj": 11.33,
+     "live": 11.33,
      "game": "Mon 8:15 pm @ Bal"
     },
     {
@@ -406,11 +409,11 @@
      "player": "O. Cooper Jr.",
      "pos": "WR",
      "slot": "W/R/T",
-     "rem": 9.01,
+     "rem": 9.03,
      "state": "pending",
      "pts": 0.0,
-     "proj": 9.01,
-     "live": 9.01,
+     "proj": 9.03,
+     "live": 9.03,
      "game": "Sun 1:00 pm vs Buf"
     },
     {
@@ -457,10 +460,10 @@
    "leftScore": 0.0,
    "leftProj": 124.4,
    "rightScore": 0.0,
-   "rightProj": 118.23,
-   "leftPct": 55,
+   "rightProj": 109.66,
+   "leftPct": 62,
    "leftRem": 8,
-   "rightRem": 9,
+   "rightRem": 8,
    "shotgun": [
     {
      "player": "D. Swift",
@@ -472,6 +475,20 @@
      "state": "bye",
      "slot": "W/R/T",
      "manager": "Robotripping Gardener",
+     "locked": false,
+     "live": 0.0,
+     "reason": "pts"
+    },
+    {
+     "player": "L. Burden III",
+     "pos": "WR",
+     "team": "Chi",
+     "pts": 0.0,
+     "game": "Bye",
+     "tag": null,
+     "state": "bye",
+     "slot": "W/R/T",
+     "manager": "Tuten Brown",
      "locked": false,
      "live": 0.0,
      "reason": "pts"
@@ -616,11 +633,11 @@
      "player": "DJ Moore",
      "pos": "WR",
      "slot": "WR",
-     "rem": 12.45,
+     "rem": 12.48,
      "state": "pending",
      "pts": 0.0,
-     "proj": 12.45,
-     "live": 12.45,
+     "proj": 12.48,
+     "live": 12.48,
      "game": "Sun 1:00 pm @ NYJ"
     },
     {
@@ -646,17 +663,6 @@
      "game": "Sun 1:00 pm vs Min"
     },
     {
-     "player": "W. Robinson",
-     "pos": "WR",
-     "slot": "W/R/T",
-     "rem": 8.6,
-     "state": "pending",
-     "pts": 0.0,
-     "proj": 8.6,
-     "live": 8.6,
-     "game": "Sun 1:00 pm vs Jax"
-    },
-    {
      "player": "Vikings",
      "pos": "DEF",
      "slot": "DEF",
@@ -676,7 +682,7 @@
    "right": "James Ray Ervin Yonts",
    "rightRec": "5-3",
    "leftScore": 0.0,
-   "leftProj": 117.65,
+   "leftProj": 117.72,
    "rightScore": 0.0,
    "rightProj": 116.72,
    "leftPct": 51,
@@ -714,11 +720,11 @@
      "player": "J. Chase",
      "pos": "WR",
      "slot": "WR",
-     "rem": 17.28,
+     "rem": 17.35,
      "state": "pending",
      "pts": 0.0,
-     "proj": 17.28,
-     "live": 17.28,
+     "proj": 17.35,
+     "live": 17.35,
      "game": "Sun 8:20 pm vs Pit"
     },
     {
@@ -897,9 +903,9 @@
    "right": "Alex Michael Pagels",
    "rightRec": "3-5",
    "leftScore": 0.0,
-   "leftProj": 120.46,
+   "leftProj": 120.51,
    "rightScore": 0.0,
-   "rightProj": 103.83,
+   "rightProj": 103.95,
    "leftPct": 64,
    "leftRem": 9,
    "rightRem": 7,
@@ -993,11 +999,11 @@
      "player": "D. Kincaid",
      "pos": "TE",
      "slot": "TE",
-     "rem": 10.05,
+     "rem": 10.07,
      "state": "pending",
      "pts": 0.0,
-     "proj": 10.05,
-     "live": 10.05,
+     "proj": 10.07,
+     "live": 10.07,
      "game": "Sun 1:00 pm @ NYJ"
     },
     {
@@ -1015,11 +1021,11 @@
      "player": "K. Shakir",
      "pos": "WR",
      "slot": "WR",
-     "rem": 9.0,
+     "rem": 9.03,
      "state": "pending",
      "pts": 0.0,
-     "proj": 9.0,
-     "live": 9.0,
+     "proj": 9.03,
+     "live": 9.03,
      "game": "Sun 1:00 pm @ NYJ"
     },
     {
@@ -1039,11 +1045,11 @@
      "player": "J. Burrow",
      "pos": "QB",
      "slot": "QB",
-     "rem": 22.85,
+     "rem": 22.91,
      "state": "pending",
      "pts": 0.0,
-     "proj": 22.85,
-     "live": 22.85,
+     "proj": 22.91,
+     "live": 22.91,
      "game": "Sun 8:20 pm vs Pit"
     },
     {
@@ -1072,11 +1078,11 @@
      "player": "T. Higgins",
      "pos": "WR",
      "slot": "WR",
-     "rem": 15.03,
+     "rem": 15.09,
      "state": "pending",
      "pts": 0.0,
-     "proj": 15.03,
-     "live": 15.03,
+     "proj": 15.09,
+     "live": 15.09,
      "game": "Sun 8:20 pm vs Pit"
     },
     {
@@ -1121,12 +1127,12 @@
    "right": "Kiwis are better than mid",
    "rightRec": "5-3",
    "leftScore": 0.0,
-   "leftProj": 105.49,
+   "leftProj": 105.54,
    "rightScore": 0.0,
-   "rightProj": 105.99,
-   "leftPct": 50,
+   "rightProj": 102.32,
+   "leftPct": 53,
    "leftRem": 8,
-   "rightRem": 8,
+   "rightRem": 7,
    "shotgun": [
     {
      "player": "C. Williams",
@@ -1151,6 +1157,20 @@
      "tag": null,
      "state": "bye",
      "slot": "K",
+     "manager": "Kiwis are better than mid",
+     "locked": false,
+     "live": 0.0,
+     "reason": "pts"
+    },
+    {
+     "player": "(Empty)",
+     "pos": "",
+     "team": "",
+     "pts": 0.0,
+     "game": "",
+     "tag": null,
+     "state": "empty",
+     "slot": "DEF",
      "manager": "Kiwis are better than mid",
      "locked": false,
      "live": 0.0,
@@ -1184,22 +1204,22 @@
      "player": "Z. Flowers",
      "pos": "WR",
      "slot": "W/R/T",
-     "rem": 15.04,
+     "rem": 15.02,
      "state": "pending",
      "pts": 0.0,
-     "proj": 15.04,
-     "live": 15.04,
+     "proj": 15.02,
+     "live": 15.02,
      "game": "Mon 8:15 pm vs LAC"
     },
     {
      "player": "N. Collins",
      "pos": "WR",
      "slot": "WR",
-     "rem": 13.68,
+     "rem": 13.75,
      "state": "pending",
      "pts": 0.0,
-     "proj": 13.68,
-     "live": 13.68,
+     "proj": 13.75,
+     "live": 13.75,
      "game": "Sun 1:00 pm @ Cle"
     },
     {
@@ -1236,7 +1256,7 @@
      "game": "Sun 1:00 pm @ GB"
     },
     {
-     "player": "Indianapolis",
+     "player": "Colts",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 8.74,
@@ -1252,11 +1272,11 @@
      "player": "J. Allen",
      "pos": "QB",
      "slot": "QB",
-     "rem": 27.54,
+     "rem": 27.56,
      "state": "pending",
      "pts": 0.0,
-     "proj": 27.54,
-     "live": 27.54,
+     "proj": 27.56,
+     "live": 27.56,
      "game": "Sun 1:00 pm @ NYJ"
     },
     {
@@ -1285,11 +1305,11 @@
      "player": "G. Wilson",
      "pos": "WR",
      "slot": "WR",
-     "rem": 13.27,
+     "rem": 13.31,
      "state": "pending",
      "pts": 0.0,
-     "proj": 13.27,
-     "live": 13.27,
+     "proj": 13.31,
+     "live": 13.31,
      "game": "Sun 1:00 pm vs Buf"
     },
     {
@@ -1324,17 +1344,6 @@
      "proj": 5.66,
      "live": 5.66,
      "game": "Sun 1:00 pm vs Car"
-    },
-    {
-     "player": "N. York",
-     "pos": "DEF",
-     "slot": "DEF",
-     "rem": 3.73,
-     "state": "pending",
-     "pts": 0.0,
-     "proj": 3.73,
-     "live": 3.73,
-     "game": "Sun 1:00 pm vs Buf"
     }
    ]
   }
