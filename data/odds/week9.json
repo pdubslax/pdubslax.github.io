@@ -68,7 +68,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-04T20:17:33+00:00",
+  "ts": "2026-11-04T20:37:42+00:00",
   "week": 9,
   "matchups": [
    {
@@ -78,20 +78,20 @@
     "right": "James Ray Ervin Yonts",
     "rightRec": "5-3",
     "leftScore": 0.0,
-    "leftProj": 118.37,
+    "leftProj": 118.27,
     "rightScore": 0.0,
-    "rightProj": 141.18,
+    "rightProj": 141.15,
     "shotgun": [],
     "leftActive": [
      {
       "player": "J. Smith-Njigba",
       "pos": "WR",
       "slot": "WR",
-      "rem": 22.88,
+      "rem": 22.79,
       "state": "pending",
       "pts": 0.0,
-      "proj": 22.88,
-      "live": 22.88,
+      "proj": 22.79,
+      "live": 22.79,
       "game": "Sun 4:25 pm vs Ari"
      },
      {
@@ -131,11 +131,11 @@
       "player": "S. LaPorta",
       "pos": "TE",
       "slot": "TE",
-      "rem": 10.91,
+      "rem": 10.9,
       "state": "pending",
       "pts": 0.0,
-      "proj": 10.91,
-      "live": 10.91,
+      "proj": 10.9,
+      "live": 10.9,
       "game": "Sun 1:00 pm @ Mia"
      },
      {
@@ -243,11 +243,11 @@
       "player": "T. Allgeier",
       "pos": "RB",
       "slot": "RB",
-      "rem": 12.49,
+      "rem": 12.46,
       "state": "pending",
       "pts": 0.0,
-      "proj": 12.49,
-      "live": 12.49,
+      "proj": 12.46,
+      "live": 12.46,
       "game": "Sun 4:25 pm @ Sea"
      },
      {
@@ -295,7 +295,7 @@
     "right": "Alex Michael Pagels",
     "rightRec": "3-5",
     "leftScore": 0.0,
-    "leftProj": 123.51,
+    "leftProj": 123.45,
     "rightScore": 0.0,
     "rightProj": 125.62,
     "shotgun": [],
@@ -359,11 +359,11 @@
       "player": "M. Wilson",
       "pos": "WR",
       "slot": "WR",
-      "rem": 11.59,
+      "rem": 11.53,
       "state": "pending",
       "pts": 0.0,
-      "proj": 11.59,
-      "live": 11.59,
+      "proj": 11.53,
+      "live": 11.53,
       "game": "Sun 4:25 pm @ Sea"
      },
      {
@@ -512,20 +512,20 @@
     "right": "RosterMogged",
     "rightRec": "3-5",
     "leftScore": 0.0,
-    "leftProj": 143.62,
+    "leftProj": 143.56,
     "rightScore": 0.0,
-    "rightProj": 119.03,
+    "rightProj": 119.0,
     "shotgun": [],
     "leftActive": [
      {
       "player": "J. Gibbs",
       "pos": "RB",
       "slot": "RB",
-      "rem": 26.21,
+      "rem": 26.22,
       "state": "pending",
       "pts": 0.0,
-      "proj": 26.21,
-      "live": 26.21,
+      "proj": 26.22,
+      "live": 26.22,
       "game": "Sun 1:00 pm @ Mia"
      },
      {
@@ -587,11 +587,11 @@
       "player": "T. McBride",
       "pos": "TE",
       "slot": "TE",
-      "rem": 12.9,
+      "rem": 12.83,
       "state": "pending",
       "pts": 0.0,
-      "proj": 12.9,
-      "live": 12.9,
+      "proj": 12.83,
+      "live": 12.83,
       "game": "Sun 4:25 pm @ Sea"
      },
      {
@@ -666,11 +666,11 @@
       "player": "Z. Charbonnet",
       "pos": "RB",
       "slot": "RB",
-      "rem": 10.73,
+      "rem": 10.7,
       "state": "pending",
       "pts": 0.0,
-      "proj": 10.73,
-      "live": 10.73,
+      "proj": 10.7,
+      "live": 10.7,
       "game": "Sun 4:25 pm vs Ari"
      },
      {
@@ -729,9 +729,9 @@
     "right": "Zen Buddha Boys 🪷💨",
     "rightRec": "4-4",
     "leftScore": 0.0,
-    "leftProj": 122.93,
+    "leftProj": 122.88,
     "rightScore": 0.0,
-    "rightProj": 123.31,
+    "rightProj": 123.37,
     "shotgun": [],
     "leftActive": [
      {
@@ -804,11 +804,11 @@
       "player": "Seahawks",
       "pos": "DEF",
       "slot": "DEF",
-      "rem": 10.31,
+      "rem": 10.26,
       "state": "pending",
       "pts": 0.0,
-      "proj": 10.31,
-      "live": 10.31,
+      "proj": 10.26,
+      "live": 10.26,
       "game": "Sun 4:25 pm vs Ari"
      },
      {
@@ -894,22 +894,22 @@
       "player": "Z. Flowers",
       "pos": "WR",
       "slot": "W/R/T",
-      "rem": 13.16,
+      "rem": 13.26,
       "state": "pending",
       "pts": 0.0,
-      "proj": 13.16,
-      "live": 13.16,
+      "proj": 13.26,
+      "live": 13.26,
       "game": "Thu 8:15 pm vs Jax"
      },
      {
       "player": "J. Myers",
       "pos": "K",
       "slot": "K",
-      "rem": 10.55,
+      "rem": 10.51,
       "state": "pending",
       "pts": 0.0,
-      "proj": 10.55,
-      "live": 10.55,
+      "proj": 10.51,
+      "live": 10.51,
       "game": "Sun 4:25 pm vs Ari"
      },
      {
@@ -1169,7 +1169,7 @@
     "leftScore": 0.0,
     "leftProj": 119.99,
     "rightScore": 0.0,
-    "rightProj": 112.99,
+    "rightProj": 112.98,
     "shotgun": [],
     "leftActive": [
      {
@@ -1321,11 +1321,11 @@
       "player": "J. Williams",
       "pos": "WR",
       "slot": "WR",
-      "rem": 11.55,
+      "rem": 11.54,
       "state": "pending",
       "pts": 0.0,
-      "proj": 11.55,
-      "live": 11.55,
+      "proj": 11.54,
+      "live": 11.54,
       "game": "Sun 1:00 pm @ Mia"
      },
      {
