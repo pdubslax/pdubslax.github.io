@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 10,
- "ts": "2026-11-05T00:37:33+00:00",
+ "ts": "2026-11-05T00:58:17+00:00",
  "matchups": [
   {
    "id": "1v9",
@@ -457,8 +457,8 @@
    "leftScore": 0.0,
    "leftProj": 124.06,
    "rightScore": 0.0,
-   "rightProj": 108.81,
-   "leftPct": 62,
+   "rightProj": 110.41,
+   "leftPct": 61,
    "leftRem": 8,
    "rightRem": 8,
    "shotgun": [
@@ -660,15 +660,15 @@
      "game": "Sun 1:00 pm vs Min"
     },
     {
-     "player": "Vikings",
+     "player": "Rams",
      "pos": "DEF",
      "slot": "DEF",
-     "rem": 6.55,
+     "rem": 8.15,
      "state": "pending",
      "pts": 0.0,
-     "proj": 6.55,
-     "live": 6.55,
-     "game": "Sun 1:00 pm @ GB"
+     "proj": 8.15,
+     "live": 8.15,
+     "game": "Sun 4:05 pm @ Ari"
     }
    ]
   },
