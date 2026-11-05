@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 10,
- "ts": "2026-11-05T00:58:17+00:00",
+ "ts": "2026-11-05T01:38:16+00:00",
  "matchups": [
   {
    "id": "1v9",
@@ -10,7 +10,7 @@
    "right": "Sir this is a FF league",
    "rightRec": "3-5",
    "leftScore": 0.0,
-   "leftProj": 119.38,
+   "leftProj": 119.62,
    "rightScore": 0.0,
    "rightProj": 105.2,
    "leftPct": 62,
@@ -89,6 +89,17 @@
      "game": "Sun 9:30 am vs NE"
     },
     {
+     "player": "Texans",
+     "pos": "DEF",
+     "slot": "DEF",
+     "rem": 9.95,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 9.95,
+     "live": 9.95,
+     "game": "Sun 1:00 pm @ Cle"
+    },
+    {
      "player": "S. Shrader",
      "pos": "K",
      "slot": "K",
@@ -98,17 +109,6 @@
      "proj": 9.89,
      "live": 9.89,
      "game": "Sun 1:00 pm vs Mia"
-    },
-    {
-     "player": "Texans",
-     "pos": "DEF",
-     "slot": "DEF",
-     "rem": 9.71,
-     "state": "pending",
-     "pts": 0.0,
-     "proj": 9.71,
-     "live": 9.71,
-     "game": "Sun 1:00 pm @ Cle"
     },
     {
      "player": "W. Marks",
@@ -233,7 +233,7 @@
    "leftScore": 0.0,
    "leftProj": 104.45,
    "rightScore": 0.0,
-   "rightProj": 112.97,
+   "rightProj": 112.82,
    "leftPct": 43,
    "leftRem": 7,
    "rightRem": 9,
@@ -335,7 +335,7 @@
      "game": "Sun 4:05 pm vs LAR"
     },
     {
-     "player": "Saints",
+     "player": "N. Orleans",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 6.21,
@@ -436,14 +436,14 @@
      "game": "Sun 1:00 pm vs KC"
     },
     {
-     "player": "Chiefs",
+     "player": "K. City",
      "pos": "DEF",
      "slot": "DEF",
-     "rem": 6.62,
+     "rem": 6.47,
      "state": "pending",
      "pts": 0.0,
-     "proj": 6.62,
-     "live": 6.62,
+     "proj": 6.47,
+     "live": 6.47,
      "game": "Sun 1:00 pm @ Atl"
     }
    ]
@@ -900,10 +900,10 @@
    "right": "Alex Michael Pagels",
    "rightRec": "3-5",
    "leftScore": 0.0,
-   "leftProj": 119.13,
+   "leftProj": 118.88,
    "rightScore": 0.0,
    "rightProj": 105.25,
-   "leftPct": 62,
+   "leftPct": 61,
    "leftRem": 9,
    "rightRem": 7,
    "shotgun": [
@@ -1029,11 +1029,11 @@
      "player": "Bills",
      "pos": "DEF",
      "slot": "DEF",
-     "rem": 8.56,
+     "rem": 8.31,
      "state": "pending",
      "pts": 0.0,
-     "proj": 8.56,
-     "live": 8.56,
+     "proj": 8.31,
+     "live": 8.31,
      "game": "Sun 1:00 pm @ NYJ"
     }
    ],
@@ -1124,7 +1124,7 @@
    "right": "Kiwis are better than mid",
    "rightRec": "5-3",
    "leftScore": 0.0,
-   "leftProj": 106.1,
+   "leftProj": 106.38,
    "rightScore": 0.0,
    "rightProj": 103.44,
    "leftPct": 52,
@@ -1256,11 +1256,11 @@
      "player": "Colts",
      "pos": "DEF",
      "slot": "DEF",
-     "rem": 8.7,
+     "rem": 8.98,
      "state": "pending",
      "pts": 0.0,
-     "proj": 8.7,
-     "live": 8.7,
+     "proj": 8.98,
+     "live": 8.98,
      "game": "Sun 1:00 pm vs Mia"
     }
    ],
