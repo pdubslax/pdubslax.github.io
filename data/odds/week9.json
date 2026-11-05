@@ -68,7 +68,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-05T04:18:26+00:00",
+  "ts": "2026-11-05T04:38:16+00:00",
   "week": 9,
   "matchups": [
    {
@@ -295,7 +295,7 @@
     "right": "Alex Michael Pagels",
     "rightRec": "3-5",
     "leftScore": 0.0,
-    "leftProj": 121.7,
+    "leftProj": 121.72,
     "rightScore": 0.0,
     "rightProj": 124.25,
     "shotgun": [],
@@ -304,11 +304,11 @@
       "player": "D. Maye",
       "pos": "QB",
       "slot": "QB",
-      "rem": 23.94,
+      "rem": 23.95,
       "state": "pending",
       "pts": 0.0,
-      "proj": 23.94,
-      "live": 23.94,
+      "proj": 23.95,
+      "live": 23.95,
       "game": "Sun 4:25 pm vs GB"
      },
      {
@@ -348,11 +348,11 @@
       "player": "M. Wilson",
       "pos": "WR",
       "slot": "WR",
-      "rem": 11.35,
+      "rem": 11.36,
       "state": "pending",
       "pts": 0.0,
-      "proj": 11.35,
-      "live": 11.35,
+      "proj": 11.36,
+      "live": 11.36,
       "game": "Sun 4:25 pm @ Sea"
      },
      {
@@ -512,20 +512,20 @@
     "right": "RosterMogged",
     "rightRec": "3-5",
     "leftScore": 0.0,
-    "leftProj": 143.16,
+    "leftProj": 143.15,
     "rightScore": 0.0,
-    "rightProj": 120.39,
+    "rightProj": 120.38,
     "shotgun": [],
     "leftActive": [
      {
       "player": "J. Gibbs",
       "pos": "RB",
       "slot": "RB",
-      "rem": 26.0,
+      "rem": 25.99,
       "state": "pending",
       "pts": 0.0,
-      "proj": 26.0,
-      "live": 26.0,
+      "proj": 25.99,
+      "live": 25.99,
       "game": "Sun 1:00 pm @ Mia"
      },
      {
@@ -666,11 +666,11 @@
       "player": "Z. Charbonnet",
       "pos": "RB",
       "slot": "RB",
-      "rem": 10.87,
+      "rem": 10.86,
       "state": "pending",
       "pts": 0.0,
-      "proj": 10.87,
-      "live": 10.87,
+      "proj": 10.86,
+      "live": 10.86,
       "game": "Sun 4:25 pm vs Ari"
      },
      {
@@ -731,7 +731,7 @@
     "leftScore": 0.0,
     "leftProj": 122.39,
     "rightScore": 0.0,
-    "rightProj": 123.58,
+    "rightProj": 123.6,
     "shotgun": [],
     "leftActive": [
      {
@@ -850,11 +850,11 @@
       "player": "A. St. Brown",
       "pos": "WR",
       "slot": "WR",
-      "rem": 18.07,
+      "rem": 18.08,
       "state": "pending",
       "pts": 0.0,
-      "proj": 18.07,
-      "live": 18.07,
+      "proj": 18.08,
+      "live": 18.08,
       "game": "Sun 1:00 pm @ Mia"
      },
      {
@@ -894,11 +894,11 @@
       "player": "Z. Flowers",
       "pos": "WR",
       "slot": "W/R/T",
-      "rem": 13.12,
+      "rem": 13.13,
       "state": "pending",
       "pts": 0.0,
-      "proj": 13.12,
-      "live": 13.12,
+      "proj": 13.13,
+      "live": 13.13,
       "game": "Thu 8:15 pm vs Jax"
      },
      {
@@ -1165,7 +1165,7 @@
     "leftScore": 0.0,
     "leftProj": 120.26,
     "rightScore": 0.0,
-    "rightProj": 112.61,
+    "rightProj": 112.62,
     "shotgun": [],
     "leftActive": [
      {
@@ -1317,11 +1317,11 @@
       "player": "J. Williams",
       "pos": "WR",
       "slot": "WR",
-      "rem": 11.56,
+      "rem": 11.57,
       "state": "pending",
       "pts": 0.0,
-      "proj": 11.56,
-      "live": 11.56,
+      "proj": 11.57,
+      "live": 11.57,
       "game": "Sun 1:00 pm @ Mia"
      },
      {
