@@ -68,7 +68,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-05T00:37:41+00:00",
+  "ts": "2026-11-05T00:57:32+00:00",
   "week": 9,
   "matchups": [
    {
@@ -114,7 +114,7 @@
       "pts": 0.0,
       "proj": 14.29,
       "live": 14.29,
-      "game": "Sun 4:25 pm @ NE"
+      "game": "Sun 4:25 pm @ NE"
      },
      {
       "player": "W. Marks",
@@ -180,7 +180,7 @@
       "pts": 0.0,
       "proj": 8.94,
       "live": 8.94,
-      "game": "Sun 4:25 pm @ SF"
+      "game": "Sun 4:25 pm @ SF"
      }
     ],
     "rightActive": [
@@ -281,7 +281,7 @@
       "pts": 0.0,
       "proj": 8.65,
       "live": 8.65,
-      "game": "Sun 1:00 pm @ Phi"
+      "game": "Sun 1:00 pm @ Phi"
      }
     ],
     "leftPct": 37,
@@ -309,7 +309,7 @@
       "pts": 0.0,
       "proj": 23.91,
       "live": 23.91,
-      "game": "Sun 4:25 pm vs GB"
+      "game": "Sun 4:25 pm vs GB"
      },
      {
       "player": "C. Brown",
@@ -331,7 +331,7 @@
       "pts": 0.0,
       "proj": 14.73,
       "live": 14.73,
-      "game": "Sun 4:25 pm @ NE"
+      "game": "Sun 4:25 pm @ NE"
      },
      {
       "player": "D. Henry",
@@ -375,7 +375,7 @@
       "pts": 0.0,
       "proj": 10.36,
       "live": 10.36,
-      "game": "Sun 1:00 pm @ Phi"
+      "game": "Sun 1:00 pm @ Phi"
      },
      {
       "player": "Saints",
@@ -443,7 +443,7 @@
       "pts": 0.0,
       "proj": 14.6,
       "live": 14.6,
-      "game": "Sun 4:25 pm @ NE"
+      "game": "Sun 4:25 pm @ NE"
      },
      {
       "player": "J. Coleman",
@@ -465,7 +465,7 @@
       "pts": 0.0,
       "proj": 14.05,
       "live": 14.05,
-      "game": "Sun 1:00 pm @ Phi"
+      "game": "Sun 1:00 pm @ Phi"
      },
      {
       "player": "Jaguars",
@@ -487,7 +487,7 @@
       "pts": 0.0,
       "proj": 8.41,
       "live": 8.41,
-      "game": "Sun 1:00 pm vs NYG"
+      "game": "Sun 1:00 pm vs NYG"
      },
      {
       "player": "D. Zvada",
@@ -498,7 +498,7 @@
       "pts": 0.0,
       "proj": 8.41,
       "live": 8.41,
-      "game": "Sun 1:00 pm @ Phi"
+      "game": "Sun 1:00 pm @ Phi"
      }
     ],
     "leftPct": 48,
@@ -570,7 +570,7 @@
       "pts": 0.0,
       "proj": 14.95,
       "live": 14.95,
-      "game": "Sun 4:25 pm vs LV"
+      "game": "Sun 4:25 pm vs LV"
      },
      {
       "player": "T. McMillan",
@@ -627,7 +627,7 @@
       "pts": 0.0,
       "proj": 25.48,
       "live": 25.48,
-      "game": "Sun 4:25 pm vs LV"
+      "game": "Sun 4:25 pm vs LV"
      },
      {
       "player": "K. Walker III",
@@ -715,7 +715,7 @@
       "pts": 0.0,
       "proj": 8.4,
       "live": 8.4,
-      "game": "Sun 4:25 pm @ SF"
+      "game": "Sun 4:25 pm @ SF"
      }
     ],
     "leftPct": 67,
@@ -798,7 +798,7 @@
       "pts": 0.0,
       "proj": 11.58,
       "live": 11.58,
-      "game": "Sun 4:25 pm @ SF"
+      "game": "Sun 4:25 pm @ SF"
      },
      {
       "player": "C. Little",
@@ -820,7 +820,7 @@
       "pts": 0.0,
       "proj": 9.71,
       "live": 9.71,
-      "game": "Sun 4:25 pm @ SF"
+      "game": "Sun 4:25 pm @ SF"
      },
      {
       "player": "Seahawks",
@@ -946,7 +946,7 @@
     "right": "Kiwis are better than mid",
     "rightRec": "5-3",
     "leftScore": 0.0,
-    "leftProj": 117.07,
+    "leftProj": 118.13,
     "rightScore": 0.0,
     "rightProj": 122.35,
     "shotgun": [],
@@ -1026,7 +1026,7 @@
       "pts": 0.0,
       "proj": 10.6,
       "live": 10.6,
-      "game": "Sun 4:25 pm vs GB"
+      "game": "Sun 4:25 pm vs GB"
      },
      {
       "player": "T. Kraft",
@@ -1037,18 +1037,18 @@
       "pts": 0.0,
       "proj": 10.37,
       "live": 10.37,
-      "game": "Sun 4:25 pm @ NE"
+      "game": "Sun 4:25 pm @ NE"
      },
      {
-      "player": "Vikings",
+      "player": "Rams",
       "pos": "DEF",
       "slot": "DEF",
-      "rem": 5.86,
+      "rem": 6.92,
       "state": "pending",
       "pts": 0.0,
-      "proj": 5.86,
-      "live": 5.86,
-      "game": "Mon 8:15 pm vs Buf"
+      "proj": 6.92,
+      "live": 6.92,
+      "game": "Sun 1:00 pm @ Was"
      }
     ],
     "rightActive": [
@@ -1072,7 +1072,7 @@
       "pts": 0.0,
       "proj": 21.27,
       "live": 21.27,
-      "game": "Sun 4:25 pm vs LV"
+      "game": "Sun 4:25 pm vs LV"
      },
      {
       "player": "B. Bowers",
@@ -1083,7 +1083,7 @@
       "pts": 0.0,
       "proj": 15.76,
       "live": 15.76,
-      "game": "Sun 4:25 pm @ SF"
+      "game": "Sun 4:25 pm @ SF"
      },
      {
       "player": "G. Wilson",
@@ -1199,7 +1199,7 @@
       "pts": 0.0,
       "proj": 13.87,
       "live": 13.87,
-      "game": "Sun 4:25 pm vs LV"
+      "game": "Sun 4:25 pm vs LV"
      },
      {
       "player": "G. Pickens",
@@ -1221,7 +1221,7 @@
       "pts": 0.0,
       "proj": 12.87,
       "live": 12.87,
-      "game": "Sun 1:00 pm @ Phi"
+      "game": "Sun 1:00 pm @ Phi"
      },
      {
       "player": "J. Bates",
@@ -1278,7 +1278,7 @@
       "pts": 0.0,
       "proj": 20.08,
       "live": 20.08,
-      "game": "Sun 4:25 pm @ NE"
+      "game": "Sun 4:25 pm @ NE"
      },
      {
       "player": "J. Cook III",
@@ -1311,7 +1311,7 @@
       "pts": 0.0,
       "proj": 12.64,
       "live": 12.64,
-      "game": "Sun 4:25 pm vs GB"
+      "game": "Sun 4:25 pm vs GB"
      },
      {
       "player": "J. Williams",
@@ -1355,7 +1355,7 @@
       "pts": 0.0,
       "proj": 7.83,
       "live": 7.83,
-      "game": "Sun 4:25 pm vs GB"
+      "game": "Sun 4:25 pm vs GB"
      },
      {
       "player": "Broncos",
