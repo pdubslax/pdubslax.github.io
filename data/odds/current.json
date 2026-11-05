@@ -68,7 +68,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-05T09:59:22+00:00",
+  "ts": "2026-11-05T10:19:13+00:00",
   "week": 9,
   "matchups": [
    {
@@ -161,7 +161,7 @@
       "game": "Sun 1:00 pm vs Dal"
      },
      {
-      "player": "Texans",
+      "player": "Houston",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 8.99,
@@ -273,7 +273,7 @@
       "game": "Sun 4:05 pm @ LAC"
      },
      {
-      "player": "Giants",
+      "player": "N. York",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 8.65,
@@ -295,9 +295,9 @@
     "right": "Alex Michael Pagels",
     "rightRec": "3-5",
     "leftScore": 0.0,
-    "leftProj": 121.79,
+    "leftProj": 121.7,
     "rightScore": 0.0,
-    "rightProj": 124.28,
+    "rightProj": 124.3,
     "shotgun": [],
     "leftActive": [
      {
@@ -359,11 +359,11 @@
       "player": "J. Waddle",
       "pos": "WR",
       "slot": "W/R/T",
-      "rem": 11.31,
+      "rem": 11.22,
       "state": "pending",
       "pts": 0.0,
-      "proj": 11.31,
-      "live": 11.31,
+      "proj": 11.22,
+      "live": 11.22,
       "game": "Sun 1:00 pm @ Car"
      },
      {
@@ -449,11 +449,11 @@
       "player": "J. Coleman",
       "pos": "RB",
       "slot": "RB",
-      "rem": 14.34,
+      "rem": 14.36,
       "state": "pending",
       "pts": 0.0,
-      "proj": 14.34,
-      "live": 14.34,
+      "proj": 14.36,
+      "live": 14.36,
       "game": "Sun 1:00 pm @ Car"
      },
      {
@@ -606,7 +606,7 @@
       "game": "Mon 8:15 pm vs Buf"
      },
      {
-      "player": "Lions",
+      "player": "Detroit",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 8.48,
@@ -674,7 +674,7 @@
       "game": "Sun 4:25 pm vs Ari"
      },
      {
-      "player": "Chiefs",
+      "player": "K. City",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 9.7,
