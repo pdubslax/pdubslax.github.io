@@ -68,7 +68,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-05T08:59:12+00:00",
+  "ts": "2026-11-05T09:19:23+00:00",
   "week": 9,
   "matchups": [
    {
@@ -80,7 +80,7 @@
     "leftScore": 0.0,
     "leftProj": 122.75,
     "rightScore": 0.0,
-    "rightProj": 140.88,
+    "rightProj": 140.79,
     "shotgun": [],
     "leftActive": [
      {
@@ -254,11 +254,11 @@
       "player": "T. Kelce",
       "pos": "TE",
       "slot": "TE",
-      "rem": 11.43,
+      "rem": 11.34,
       "state": "pending",
       "pts": 0.0,
-      "proj": 11.43,
-      "live": 11.43,
+      "proj": 11.34,
+      "live": 11.34,
       "game": "Sun 1:00 pm vs NYJ"
      },
      {
@@ -514,7 +514,7 @@
     "leftScore": 0.0,
     "leftProj": 143.14,
     "rightScore": 0.0,
-    "rightProj": 120.49,
+    "rightProj": 120.4,
     "shotgun": [],
     "leftActive": [
      {
@@ -633,22 +633,22 @@
       "player": "K. Walker III",
       "pos": "RB",
       "slot": "RB",
-      "rem": 23.39,
+      "rem": 23.33,
       "state": "pending",
       "pts": 0.0,
-      "proj": 23.39,
-      "live": 23.39,
+      "proj": 23.33,
+      "live": 23.33,
       "game": "Sun 1:00 pm vs NYJ"
      },
      {
       "player": "R. Rice",
       "pos": "WR",
       "slot": "WR",
-      "rem": 13.47,
+      "rem": 13.43,
       "state": "pending",
       "pts": 0.0,
-      "proj": 13.47,
-      "live": 13.47,
+      "proj": 13.43,
+      "live": 13.43,
       "game": "Sun 1:00 pm vs NYJ"
      },
      {
@@ -677,22 +677,22 @@
       "player": "Chiefs",
       "pos": "DEF",
       "slot": "DEF",
-      "rem": 9.68,
+      "rem": 9.7,
       "state": "pending",
       "pts": 0.0,
-      "proj": 9.68,
-      "live": 9.68,
+      "proj": 9.7,
+      "live": 9.7,
       "game": "Sun 1:00 pm vs NYJ"
      },
      {
       "player": "O. Cooper Jr.",
       "pos": "WR",
       "slot": "W/R/T",
-      "rem": 9.17,
+      "rem": 9.16,
       "state": "pending",
       "pts": 0.0,
-      "proj": 9.17,
-      "live": 9.17,
+      "proj": 9.16,
+      "live": 9.16,
       "game": "Sun 1:00 pm @ KC"
      },
      {
@@ -948,7 +948,7 @@
     "leftScore": 0.0,
     "leftProj": 118.19,
     "rightScore": 0.0,
-    "rightProj": 122.08,
+    "rightProj": 122.11,
     "shotgun": [],
     "leftActive": [
      {
@@ -1089,11 +1089,11 @@
       "player": "G. Wilson",
       "pos": "WR",
       "slot": "WR",
-      "rem": 11.66,
+      "rem": 11.69,
       "state": "pending",
       "pts": 0.0,
-      "proj": 11.66,
-      "live": 11.66,
+      "proj": 11.69,
+      "live": 11.69,
       "game": "Sun 1:00 pm @ KC"
      },
      {
