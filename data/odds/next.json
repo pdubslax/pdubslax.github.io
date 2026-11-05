@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 10,
- "ts": "2026-11-05T13:40:20+00:00",
+ "ts": "2026-11-05T14:20:18+00:00",
  "matchups": [
   {
    "id": "1v9",
@@ -18,7 +18,7 @@
    "rightRem": 8,
    "shotgun": [
     {
-     "player": "Denver",
+     "player": "Broncos",
      "pos": "DEF",
      "team": "Den",
      "pts": 0.0,
@@ -89,7 +89,7 @@
      "game": "Sun 9:30 am vs NE"
     },
     {
-     "player": "Houston",
+     "player": "Texans",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 9.95,
@@ -335,7 +335,7 @@
      "game": "Sun 4:05 pm vs LAR"
     },
     {
-     "player": "N. Orleans",
+     "player": "Saints",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 6.21,
@@ -436,7 +436,7 @@
      "game": "Sun 1:00 pm vs KC"
     },
     {
-     "player": "K. City",
+     "player": "Chiefs",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 6.47,
@@ -1160,7 +1160,7 @@
      "reason": "pts"
     },
     {
-     "player": "Chicago",
+     "player": "Bears",
      "pos": "DEF",
      "team": "Chi",
      "pts": 0.0,
@@ -1253,7 +1253,7 @@
      "game": "Sun 1:00 pm @ GB"
     },
     {
-     "player": "Indianapolis",
+     "player": "Colts",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 8.98,
