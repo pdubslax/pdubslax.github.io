@@ -68,7 +68,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-05T13:20:19+00:00",
+  "ts": "2026-11-05T13:41:56+00:00",
   "week": 9,
   "matchups": [
    {
@@ -161,7 +161,7 @@
       "game": "Sun 1:00 pm vs Dal"
      },
      {
-      "player": "Texans",
+      "player": "Houston",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 8.99,
@@ -273,7 +273,7 @@
       "game": "Sun 4:05 pm @ LAC"
      },
      {
-      "player": "Giants",
+      "player": "N. York",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 8.65,
@@ -512,7 +512,7 @@
     "right": "RosterMogged",
     "rightRec": "3-5",
     "leftScore": 0.0,
-    "leftProj": 143.21,
+    "leftProj": 139.15,
     "rightScore": 0.0,
     "rightProj": 120.54,
     "shotgun": [],
@@ -562,17 +562,6 @@
       "game": "Sun 8:20 pm vs TB"
      },
      {
-      "player": "M. Evans",
-      "pos": "WR",
-      "slot": "WR",
-      "rem": 14.94,
-      "state": "pending",
-      "pts": 0.0,
-      "proj": 14.94,
-      "live": 14.94,
-      "game": "Sun 4:25 pm vs LV"
-     },
-     {
       "player": "T. McMillan",
       "pos": "WR",
       "slot": "WR",
@@ -593,6 +582,17 @@
       "proj": 12.61,
       "live": 12.61,
       "game": "Sun 4:25 pm @ Sea"
+     },
+     {
+      "player": "S. Diggs",
+      "pos": "WR",
+      "slot": "WR",
+      "rem": 10.88,
+      "state": "pending",
+      "pts": 0.0,
+      "proj": 10.88,
+      "live": 10.88,
+      "game": "Sun 1:00 pm vs LAR"
      },
      {
       "player": "W. Reichard",
@@ -718,7 +718,7 @@
       "game": "Sun 4:25 pm @ SF"
      }
     ],
-    "leftPct": 67,
+    "leftPct": 64,
     "leftRem": 9,
     "rightRem": 9
    },
