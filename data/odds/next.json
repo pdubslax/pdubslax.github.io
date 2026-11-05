@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 10,
- "ts": "2026-11-05T04:18:17+00:00",
+ "ts": "2026-11-05T04:58:17+00:00",
  "matchups": [
   {
    "id": "1v9",
@@ -231,7 +231,7 @@
    "right": "RosterMogged",
    "rightRec": "3-5",
    "leftScore": 0.0,
-   "leftProj": 104.48,
+   "leftProj": 104.49,
    "rightScore": 0.0,
    "rightProj": 112.97,
    "leftPct": 43,
@@ -316,11 +316,11 @@
      "player": "I. Likely",
      "pos": "TE",
      "slot": "TE",
-     "rem": 13.36,
+     "rem": 13.37,
      "state": "pending",
      "pts": 0.0,
-     "proj": 13.36,
-     "live": 13.36,
+     "proj": 13.37,
+     "live": 13.37,
      "game": "Thu 8:15 pm vs Was"
     },
     {
@@ -900,9 +900,9 @@
    "right": "Alex Michael Pagels",
    "rightRec": "3-5",
    "leftScore": 0.0,
-   "leftProj": 118.94,
+   "leftProj": 118.93,
    "rightScore": 0.0,
-   "rightProj": 105.11,
+   "rightProj": 105.12,
    "leftPct": 61,
    "leftRem": 9,
    "rightRem": 7,
@@ -985,11 +985,11 @@
      "player": "C. Skattebo",
      "pos": "RB",
      "slot": "RB",
-     "rem": 12.75,
+     "rem": 12.74,
      "state": "pending",
      "pts": 0.0,
-     "proj": 12.75,
-     "live": 12.75,
+     "proj": 12.74,
+     "live": 12.74,
      "game": "Thu 8:15 pm vs Was"
     },
     {
@@ -1053,11 +1053,11 @@
      "player": "M. Nabers",
      "pos": "WR",
      "slot": "WR",
-     "rem": 18.13,
+     "rem": 18.14,
      "state": "pending",
      "pts": 0.0,
-     "proj": 18.13,
-     "live": 18.13,
+     "proj": 18.14,
+     "live": 18.14,
      "game": "Thu 8:15 pm vs Was"
     },
     {
