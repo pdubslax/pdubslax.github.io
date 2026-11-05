@@ -68,7 +68,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-05T11:20:18+00:00",
+  "ts": "2026-11-05T11:40:26+00:00",
   "week": 9,
   "matchups": [
    {
@@ -78,7 +78,7 @@
     "right": "James Ray Ervin Yonts",
     "rightRec": "5-3",
     "leftScore": 0.0,
-    "leftProj": 122.76,
+    "leftProj": 122.73,
     "rightScore": 0.0,
     "rightProj": 140.77,
     "shotgun": [],
@@ -109,11 +109,11 @@
       "player": "M. Golden",
       "pos": "WR",
       "slot": "WR",
-      "rem": 14.34,
+      "rem": 14.31,
       "state": "pending",
       "pts": 0.0,
-      "proj": 14.34,
-      "live": 14.34,
+      "proj": 14.31,
+      "live": 14.31,
       "game": "Sun 4:25 pm @ NE"
      },
      {
@@ -295,20 +295,20 @@
     "right": "Alex Michael Pagels",
     "rightRec": "3-5",
     "leftScore": 0.0,
-    "leftProj": 121.75,
+    "leftProj": 121.65,
     "rightScore": 0.0,
-    "rightProj": 124.29,
+    "rightProj": 124.27,
     "shotgun": [],
     "leftActive": [
      {
       "player": "D. Maye",
       "pos": "QB",
       "slot": "QB",
-      "rem": 23.97,
+      "rem": 23.91,
       "state": "pending",
       "pts": 0.0,
-      "proj": 23.97,
-      "live": 23.97,
+      "proj": 23.91,
+      "live": 23.91,
       "game": "Sun 4:25 pm vs GB"
      },
      {
@@ -326,11 +326,11 @@
       "player": "C. Watson",
       "pos": "WR",
       "slot": "WR",
-      "rem": 14.8,
+      "rem": 14.76,
       "state": "pending",
       "pts": 0.0,
-      "proj": 14.8,
-      "live": 14.8,
+      "proj": 14.76,
+      "live": 14.76,
       "game": "Sun 4:25 pm @ NE"
      },
      {
@@ -438,11 +438,11 @@
       "player": "J. Jacobs",
       "pos": "RB",
       "slot": "RB",
-      "rem": 14.65,
+      "rem": 14.63,
       "state": "pending",
       "pts": 0.0,
-      "proj": 14.65,
-      "live": 14.65,
+      "proj": 14.63,
+      "live": 14.63,
       "game": "Sun 4:25 pm @ NE"
      },
      {
@@ -823,7 +823,7 @@
       "game": "Sun 4:25 pm @ SF"
      },
      {
-      "player": "Seattle",
+      "player": "Seahawks",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 9.5,
@@ -924,7 +924,7 @@
       "game": "Mon 8:15 pm vs Buf"
      },
      {
-      "player": "Indianapolis",
+      "player": "Colts",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 4.03,
@@ -946,7 +946,7 @@
     "right": "Kiwis are better than mid",
     "rightRec": "5-3",
     "leftScore": 0.0,
-    "leftProj": 118.19,
+    "leftProj": 118.14,
     "rightScore": 0.0,
     "rightProj": 122.11,
     "shotgun": [],
@@ -1021,22 +1021,22 @@
       "player": "A.J. Brown",
       "pos": "WR",
       "slot": "WR",
-      "rem": 10.68,
+      "rem": 10.65,
       "state": "pending",
       "pts": 0.0,
-      "proj": 10.68,
-      "live": 10.68,
+      "proj": 10.65,
+      "live": 10.65,
       "game": "Sun 4:25 pm vs GB"
      },
      {
       "player": "T. Kraft",
       "pos": "TE",
       "slot": "TE",
-      "rem": 10.39,
+      "rem": 10.37,
       "state": "pending",
       "pts": 0.0,
-      "proj": 10.39,
-      "live": 10.39,
+      "proj": 10.37,
+      "live": 10.37,
       "game": "Sun 4:25 pm @ NE"
      },
      {
@@ -1165,7 +1165,7 @@
     "leftScore": 0.0,
     "leftProj": 120.33,
     "rightScore": 0.0,
-    "rightProj": 112.61,
+    "rightProj": 112.53,
     "shotgun": [],
     "leftActive": [
      {
@@ -1273,11 +1273,11 @@
       "player": "J. Love",
       "pos": "QB",
       "slot": "QB",
-      "rem": 20.14,
+      "rem": 20.08,
       "state": "pending",
       "pts": 0.0,
-      "proj": 20.14,
-      "live": 20.14,
+      "proj": 20.08,
+      "live": 20.08,
       "game": "Sun 4:25 pm @ NE"
      },
      {
@@ -1306,11 +1306,11 @@
       "player": "R. Stevenson",
       "pos": "RB",
       "slot": "W/R/T",
-      "rem": 12.62,
+      "rem": 12.61,
       "state": "pending",
       "pts": 0.0,
-      "proj": 12.62,
-      "live": 12.62,
+      "proj": 12.61,
+      "live": 12.61,
       "game": "Sun 4:25 pm vs GB"
      },
      {
@@ -1361,11 +1361,11 @@
       "player": "H. Henry",
       "pos": "TE",
       "slot": "TE",
-      "rem": 7.83,
+      "rem": 7.82,
       "state": "pending",
       "pts": 0.0,
-      "proj": 7.83,
-      "live": 7.83,
+      "proj": 7.82,
+      "live": 7.82,
       "game": "Sun 4:25 pm vs GB"
      }
     ],
