@@ -68,7 +68,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-05T05:38:27+00:00",
+  "ts": "2026-11-05T05:58:16+00:00",
   "week": 9,
   "matchups": [
    {
@@ -86,7 +86,7 @@
      {
       "player": "J. Smith-Njigba",
       "pos": "WR",
-      "slot": "WR",
+      "slot": "W/R/T",
       "rem": 23.49,
       "state": "pending",
       "pts": 0.0,
@@ -130,7 +130,7 @@
      {
       "player": "J. Coker",
       "pos": "WR",
-      "slot": "W/R/T",
+      "slot": "WR",
       "rem": 12.06,
       "state": "pending",
       "pts": 0.0,
