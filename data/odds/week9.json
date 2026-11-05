@@ -68,7 +68,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-05T13:41:56+00:00",
+  "ts": "2026-11-05T14:00:17+00:00",
   "week": 9,
   "matchups": [
    {
@@ -1040,7 +1040,7 @@
       "game": "Sun 4:25 pm @ NE"
      },
      {
-      "player": "L. Angeles",
+      "player": "Rams",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 6.91,
@@ -1141,7 +1141,7 @@
       "game": "Sun 1:00 pm @ Car"
      },
      {
-      "player": "Chicago",
+      "player": "Bears",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 8.57,
@@ -1257,7 +1257,7 @@
       "game": "Mon 8:15 pm vs Buf"
      },
      {
-      "player": "Buffalo",
+      "player": "Bills",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 6.41,
@@ -1347,7 +1347,7 @@
       "game": "Sun 1:00 pm @ KC"
      },
      {
-      "player": "Denver",
+      "player": "Broncos",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 7.83,
