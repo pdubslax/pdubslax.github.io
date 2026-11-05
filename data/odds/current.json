@@ -68,7 +68,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-05T17:21:28+00:00",
+  "ts": "2026-11-05T17:41:19+00:00",
   "week": 9,
   "matchups": [
    {
@@ -514,7 +514,7 @@
     "leftScore": 0.0,
     "leftProj": 139.08,
     "rightScore": 0.0,
-    "rightProj": 120.48,
+    "rightProj": 120.36,
     "shotgun": [],
     "leftActive": [
      {
@@ -622,11 +622,11 @@
       "player": "B. Purdy",
       "pos": "QB",
       "slot": "QB",
-      "rem": 25.49,
+      "rem": 25.39,
       "state": "pending",
       "pts": 0.0,
-      "proj": 25.49,
-      "live": 25.49,
+      "proj": 25.39,
+      "live": 25.39,
       "game": "Sun 4:25 pm vs LV"
      },
      {
@@ -710,11 +710,11 @@
       "player": "M. Gay",
       "pos": "K",
       "slot": "K",
-      "rem": 8.4,
+      "rem": 8.38,
       "state": "pending",
       "pts": 0.0,
-      "proj": 8.4,
-      "live": 8.4,
+      "proj": 8.38,
+      "live": 8.38,
       "game": "Sun 4:25 pm @ SF"
      }
     ],
@@ -729,7 +729,7 @@
     "right": "Zen Buddha Boys 🪷💨",
     "rightRec": "4-4",
     "leftScore": 0.0,
-    "leftProj": 122.45,
+    "leftProj": 122.4,
     "rightScore": 0.0,
     "rightProj": 123.56,
     "shotgun": [],
@@ -782,11 +782,11 @@
       "player": "A. Jeanty",
       "pos": "RB",
       "slot": "RB",
-      "rem": 11.81,
+      "rem": 11.79,
       "state": "pending",
       "pts": 0.0,
-      "proj": 11.81,
-      "live": 11.81,
+      "proj": 11.79,
+      "live": 11.79,
       "game": "Sun 4:25 pm @ SF"
      },
      {
@@ -815,11 +815,11 @@
       "player": "T. Tucker",
       "pos": "WR",
       "slot": "W/R/T",
-      "rem": 9.7,
+      "rem": 9.67,
       "state": "pending",
       "pts": 0.0,
-      "proj": 9.7,
-      "live": 9.7,
+      "proj": 9.67,
+      "live": 9.67,
       "game": "Sun 4:25 pm @ SF"
      },
      {
@@ -948,7 +948,7 @@
     "leftScore": 0.0,
     "leftProj": 117.07,
     "rightScore": 0.0,
-    "rightProj": 122.05,
+    "rightProj": 121.96,
     "shotgun": [],
     "leftActive": [
      {
@@ -1067,22 +1067,22 @@
       "player": "C. McCaffrey",
       "pos": "RB",
       "slot": "RB",
-      "rem": 21.27,
+      "rem": 21.22,
       "state": "pending",
       "pts": 0.0,
-      "proj": 21.27,
-      "live": 21.27,
+      "proj": 21.22,
+      "live": 21.22,
       "game": "Sun 4:25 pm vs LV"
      },
      {
       "player": "B. Bowers",
       "pos": "TE",
       "slot": "TE",
-      "rem": 15.77,
+      "rem": 15.73,
       "state": "pending",
       "pts": 0.0,
-      "proj": 15.77,
-      "live": 15.77,
+      "proj": 15.73,
+      "live": 15.73,
       "game": "Sun 4:25 pm @ SF"
      },
      {
@@ -1163,7 +1163,7 @@
     "right": "Sir this is a FF league",
     "rightRec": "3-5",
     "leftScore": 0.0,
-    "leftProj": 120.33,
+    "leftProj": 120.28,
     "rightScore": 0.0,
     "rightProj": 112.82,
     "shotgun": [],
@@ -1194,11 +1194,11 @@
       "player": "G. Kittle",
       "pos": "TE",
       "slot": "W/R/T",
-      "rem": 13.89,
+      "rem": 13.84,
       "state": "pending",
       "pts": 0.0,
-      "proj": 13.89,
-      "live": 13.89,
+      "proj": 13.84,
+      "live": 13.84,
       "game": "Sun 4:25 pm vs LV"
      },
      {
