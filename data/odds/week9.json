@@ -68,7 +68,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-05T16:41:29+00:00",
+  "ts": "2026-11-05T17:01:18+00:00",
   "week": 9,
   "matchups": [
    {
@@ -729,9 +729,9 @@
     "right": "Zen Buddha Boys 🪷💨",
     "rightRec": "4-4",
     "leftScore": 0.0,
-    "leftProj": 122.46,
+    "leftProj": 122.45,
     "rightScore": 0.0,
-    "rightProj": 123.53,
+    "rightProj": 123.56,
     "shotgun": [],
     "leftActive": [
      {
@@ -771,11 +771,11 @@
       "player": "P. Washington",
       "pos": "WR",
       "slot": "WR",
-      "rem": 13.66,
+      "rem": 13.65,
       "state": "pending",
       "pts": 0.0,
-      "proj": 13.66,
-      "live": 13.66,
+      "proj": 13.65,
+      "live": 13.65,
       "game": "Thu 8:15 pm @ Bal"
      },
      {
@@ -894,11 +894,11 @@
       "player": "Z. Flowers",
       "pos": "WR",
       "slot": "W/R/T",
-      "rem": 13.08,
+      "rem": 13.11,
       "state": "pending",
       "pts": 0.0,
-      "proj": 13.08,
-      "live": 13.08,
+      "proj": 13.11,
+      "live": 13.11,
       "game": "Thu 8:15 pm vs Jax"
      },
      {
@@ -946,7 +946,7 @@
     "right": "Kiwis are better than mid",
     "rightRec": "5-3",
     "leftScore": 0.0,
-    "leftProj": 117.51,
+    "leftProj": 117.07,
     "rightScore": 0.0,
     "rightProj": 122.05,
     "shotgun": [],
@@ -977,11 +977,11 @@
       "player": "B. Tuten",
       "pos": "RB",
       "slot": "RB",
-      "rem": 15.29,
+      "rem": 14.85,
       "state": "pending",
       "pts": 0.0,
-      "proj": 15.29,
-      "live": 15.29,
+      "proj": 14.85,
+      "live": 14.85,
       "game": "Thu 8:15 pm @ Bal"
      },
      {
