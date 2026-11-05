@@ -68,7 +68,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-05T19:41:19+00:00",
+  "ts": "2026-11-05T20:01:28+00:00",
   "week": 9,
   "matchups": [
    {
@@ -78,7 +78,7 @@
     "right": "James Ray Ervin Yonts",
     "rightRec": "5-3",
     "leftScore": 0.0,
-    "leftProj": 123.57,
+    "leftProj": 123.03,
     "rightScore": 0.0,
     "rightProj": 140.76,
     "shotgun": [],
@@ -172,15 +172,15 @@
       "game": "Sun 4:05 pm @ LAC"
      },
      {
-      "player": "M. Washington Jr.",
+      "player": "D. Singletary",
       "pos": "RB",
       "slot": "RB",
-      "rem": 8.54,
+      "rem": 8.0,
       "state": "pending",
       "pts": 0.0,
-      "proj": 8.54,
-      "live": 8.54,
-      "game": "Sun 4:25 pm @ SF"
+      "proj": 8.0,
+      "live": 8.0,
+      "game": "Sun 1:00 pm @ Phi"
      }
     ],
     "rightActive": [
@@ -295,9 +295,9 @@
     "right": "Alex Michael Pagels",
     "rightRec": "3-5",
     "leftScore": 0.0,
-    "leftProj": 121.35,
+    "leftProj": 121.33,
     "rightScore": 0.0,
-    "rightProj": 124.51,
+    "rightProj": 124.48,
     "shotgun": [],
     "leftActive": [
      {
@@ -359,11 +359,11 @@
       "player": "J. Waddle",
       "pos": "WR",
       "slot": "W/R/T",
-      "rem": 11.11,
+      "rem": 11.09,
       "state": "pending",
       "pts": 0.0,
-      "proj": 11.11,
-      "live": 11.11,
+      "proj": 11.09,
+      "live": 11.09,
       "game": "Sun 1:00 pm @ Car"
      },
      {
@@ -449,11 +449,11 @@
       "player": "J. Coleman",
       "pos": "RB",
       "slot": "RB",
-      "rem": 14.35,
+      "rem": 14.32,
       "state": "pending",
       "pts": 0.0,
-      "proj": 14.35,
-      "live": 14.35,
+      "proj": 14.32,
+      "live": 14.32,
       "game": "Sun 1:00 pm @ Car"
      },
      {
@@ -512,7 +512,7 @@
     "right": "RosterMogged",
     "rightRec": "3-5",
     "leftScore": 0.0,
-    "leftProj": 139.22,
+    "leftProj": 139.19,
     "rightScore": 0.0,
     "rightProj": 121.03,
     "shotgun": [],
@@ -554,11 +554,11 @@
       "player": "D. Swift",
       "pos": "RB",
       "slot": "W/R/T",
-      "rem": 17.27,
+      "rem": 17.21,
       "state": "pending",
       "pts": 0.0,
-      "proj": 17.27,
-      "live": 17.27,
+      "proj": 17.21,
+      "live": 17.21,
       "game": "Sun 8:20 pm vs TB"
      },
      {
@@ -598,11 +598,11 @@
       "player": "W. Reichard",
       "pos": "K",
       "slot": "K",
-      "rem": 9.62,
+      "rem": 9.65,
       "state": "pending",
       "pts": 0.0,
-      "proj": 9.62,
-      "live": 9.62,
+      "proj": 9.65,
+      "live": 9.65,
       "game": "Mon 8:15 pm vs Buf"
      },
      {
@@ -731,7 +731,7 @@
     "leftScore": 0.0,
     "leftProj": 122.58,
     "rightScore": 0.0,
-    "rightProj": 123.45,
+    "rightProj": 123.46,
     "shotgun": [],
     "leftActive": [
      {
@@ -839,11 +839,11 @@
       "player": "C. Williams",
       "pos": "QB",
       "slot": "QB",
-      "rem": 22.03,
+      "rem": 21.95,
       "state": "pending",
       "pts": 0.0,
-      "proj": 22.03,
-      "live": 22.03,
+      "proj": 21.95,
+      "live": 21.95,
       "game": "Sun 8:20 pm vs TB"
      },
      {
@@ -916,11 +916,11 @@
       "player": "T.J. Hockenson",
       "pos": "TE",
       "slot": "TE",
-      "rem": 9.8,
+      "rem": 9.89,
       "state": "pending",
       "pts": 0.0,
-      "proj": 9.8,
-      "live": 9.8,
+      "proj": 9.89,
+      "live": 9.89,
       "game": "Mon 8:15 pm vs Buf"
      },
      {
@@ -946,9 +946,9 @@
     "right": "Kiwis are better than mid",
     "rightRec": "5-3",
     "leftScore": 0.0,
-    "leftProj": 116.96,
+    "leftProj": 116.88,
     "rightScore": 0.0,
-    "rightProj": 120.85,
+    "rightProj": 120.8,
     "shotgun": [],
     "leftActive": [
      {
@@ -988,22 +988,22 @@
       "player": "L. Burden III",
       "pos": "WR",
       "slot": "WR",
-      "rem": 13.2,
+      "rem": 13.13,
       "state": "pending",
       "pts": 0.0,
-      "proj": 13.2,
-      "live": 13.2,
+      "proj": 13.13,
+      "live": 13.13,
       "game": "Sun 8:20 pm vs TB"
      },
      {
       "player": "DJ Moore",
       "pos": "WR",
       "slot": "WR",
-      "rem": 11.58,
+      "rem": 11.57,
       "state": "pending",
       "pts": 0.0,
-      "proj": 11.58,
-      "live": 11.58,
+      "proj": 11.57,
+      "live": 11.57,
       "game": "Mon 8:15 pm @ Min"
      },
      {
@@ -1056,11 +1056,11 @@
       "player": "J. Allen",
       "pos": "QB",
       "slot": "QB",
-      "rem": 24.91,
+      "rem": 24.86,
       "state": "pending",
       "pts": 0.0,
-      "proj": 24.91,
-      "live": 24.91,
+      "proj": 24.86,
+      "live": 24.86,
       "game": "Mon 8:15 pm @ Min"
      },
      {
@@ -1163,9 +1163,9 @@
     "right": "Sir this is a FF league",
     "rightRec": "3-5",
     "leftScore": 0.0,
-    "leftProj": 123.37,
+    "leftProj": 123.41,
     "rightScore": 0.0,
-    "rightProj": 112.82,
+    "rightProj": 112.96,
     "shotgun": [],
     "leftActive": [
      {
@@ -1238,33 +1238,33 @@
       "player": "D. Kincaid",
       "pos": "TE",
       "slot": "TE",
-      "rem": 9.62,
+      "rem": 9.61,
       "state": "pending",
       "pts": 0.0,
-      "proj": 9.62,
-      "live": 9.62,
+      "proj": 9.61,
+      "live": 9.61,
       "game": "Mon 8:15 pm @ Min"
      },
      {
       "player": "J. Addison",
       "pos": "WR",
       "slot": "WR",
-      "rem": 9.38,
+      "rem": 9.45,
       "state": "pending",
       "pts": 0.0,
-      "proj": 9.38,
-      "live": 9.38,
+      "proj": 9.45,
+      "live": 9.45,
       "game": "Mon 8:15 pm vs Buf"
      },
      {
       "player": "Bills",
       "pos": "DEF",
       "slot": "DEF",
-      "rem": 7.31,
+      "rem": 7.29,
       "state": "pending",
       "pts": 0.0,
-      "proj": 7.31,
-      "live": 7.31,
+      "proj": 7.29,
+      "live": 7.29,
       "game": "Mon 8:15 pm @ Min"
      }
     ],
@@ -1281,26 +1281,26 @@
       "game": "Sun 4:25 pm @ NE"
      },
      {
-      "player": "J. Cook III",
-      "pos": "RB",
-      "slot": "RB",
-      "rem": 16.45,
-      "state": "pending",
-      "pts": 0.0,
-      "proj": 16.45,
-      "live": 16.45,
-      "game": "Mon 8:15 pm @ Min"
-     },
-     {
       "player": "J. Jefferson",
       "pos": "WR",
       "slot": "WR",
-      "rem": 16.31,
+      "rem": 16.47,
       "state": "pending",
       "pts": 0.0,
-      "proj": 16.31,
-      "live": 16.31,
+      "proj": 16.47,
+      "live": 16.47,
       "game": "Mon 8:15 pm vs Buf"
+     },
+     {
+      "player": "J. Cook III",
+      "pos": "RB",
+      "slot": "RB",
+      "rem": 16.43,
+      "state": "pending",
+      "pts": 0.0,
+      "proj": 16.43,
+      "live": 16.43,
+      "game": "Mon 8:15 pm @ Min"
      },
      {
       "player": "R. Stevenson",
