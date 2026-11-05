@@ -68,7 +68,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-05T11:00:30+00:00",
+  "ts": "2026-11-05T11:20:18+00:00",
   "week": 9,
   "matchups": [
    {
@@ -378,7 +378,7 @@
       "game": "Sun 1:00 pm @ Phi"
      },
      {
-      "player": "N. Orleans",
+      "player": "Saints",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 10.02,
@@ -468,7 +468,7 @@
       "game": "Sun 1:00 pm @ Phi"
      },
      {
-      "player": "Jacksonville",
+      "player": "Jaguars",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 9.07,
@@ -823,7 +823,7 @@
       "game": "Sun 4:25 pm @ SF"
      },
      {
-      "player": "Seahawks",
+      "player": "Seattle",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 9.5,
@@ -924,7 +924,7 @@
       "game": "Mon 8:15 pm vs Buf"
      },
      {
-      "player": "Colts",
+      "player": "Indianapolis",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 4.03,
