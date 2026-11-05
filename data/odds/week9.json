@@ -68,7 +68,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-05T03:58:17+00:00",
+  "ts": "2026-11-05T04:18:26+00:00",
   "week": 9,
   "matchups": [
    {
@@ -295,9 +295,9 @@
     "right": "Alex Michael Pagels",
     "rightRec": "3-5",
     "leftScore": 0.0,
-    "leftProj": 121.73,
+    "leftProj": 121.7,
     "rightScore": 0.0,
-    "rightProj": 124.23,
+    "rightProj": 124.25,
     "shotgun": [],
     "leftActive": [
      {
@@ -370,22 +370,22 @@
       "player": "I. Likely",
       "pos": "TE",
       "slot": "TE",
-      "rem": 10.36,
+      "rem": 10.32,
       "state": "pending",
       "pts": 0.0,
-      "proj": 10.36,
-      "live": 10.36,
+      "proj": 10.32,
+      "live": 10.32,
       "game": "Sun 1:00 pm @ Phi"
      },
      {
-      "player": "N. Orleans",
+      "player": "Saints",
       "pos": "DEF",
       "slot": "DEF",
-      "rem": 10.04,
+      "rem": 10.05,
       "state": "pending",
       "pts": 0.0,
-      "proj": 10.04,
-      "live": 10.04,
+      "proj": 10.05,
+      "live": 10.05,
       "game": "Sun 1:00 pm vs Cle"
      },
      {
@@ -427,11 +427,11 @@
       "player": "C. Olave",
       "pos": "WR",
       "slot": "W/R/T",
-      "rem": 14.77,
+      "rem": 14.79,
       "state": "pending",
       "pts": 0.0,
-      "proj": 14.77,
-      "live": 14.77,
+      "proj": 14.79,
+      "live": 14.79,
       "game": "Sun 1:00 pm vs Cle"
      },
      {
@@ -460,15 +460,15 @@
       "player": "M. Nabers",
       "pos": "WR",
       "slot": "WR",
-      "rem": 14.05,
+      "rem": 14.09,
       "state": "pending",
       "pts": 0.0,
-      "proj": 14.05,
-      "live": 14.05,
+      "proj": 14.09,
+      "live": 14.09,
       "game": "Sun 1:00 pm @ Phi"
      },
      {
-      "player": "Jacksonville",
+      "player": "Jaguars",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 9.08,
@@ -477,17 +477,6 @@
       "proj": 9.08,
       "live": 9.08,
       "game": "Thu 8:15 pm @ Bal"
-     },
-     {
-      "player": "D. Goedert",
-      "pos": "TE",
-      "slot": "TE",
-      "rem": 8.41,
-      "state": "pending",
-      "pts": 0.0,
-      "proj": 8.41,
-      "live": 8.41,
-      "game": "Sun 1:00 pm vs NYG"
      },
      {
       "player": "D. Zvada",
@@ -499,6 +488,17 @@
       "proj": 8.41,
       "live": 8.41,
       "game": "Sun 1:00 pm @ Phi"
+     },
+     {
+      "player": "D. Goedert",
+      "pos": "TE",
+      "slot": "TE",
+      "rem": 8.37,
+      "state": "pending",
+      "pts": 0.0,
+      "proj": 8.37,
+      "live": 8.37,
+      "game": "Sun 1:00 pm vs NYG"
      }
     ],
     "leftPct": 48,
@@ -1163,7 +1163,7 @@
     "right": "Sir this is a FF league",
     "rightRec": "3-5",
     "leftScore": 0.0,
-    "leftProj": 120.28,
+    "leftProj": 120.26,
     "rightScore": 0.0,
     "rightProj": 112.61,
     "shotgun": [],
@@ -1216,11 +1216,11 @@
       "player": "C. Skattebo",
       "pos": "RB",
       "slot": "RB",
-      "rem": 12.87,
+      "rem": 12.85,
       "state": "pending",
       "pts": 0.0,
-      "proj": 12.87,
-      "live": 12.87,
+      "proj": 12.85,
+      "live": 12.85,
       "game": "Sun 1:00 pm @ Phi"
      },
      {
