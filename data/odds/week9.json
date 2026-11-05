@@ -68,7 +68,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-05T09:39:13+00:00",
+  "ts": "2026-11-05T09:59:22+00:00",
   "week": 9,
   "matchups": [
    {
@@ -295,9 +295,9 @@
     "right": "Alex Michael Pagels",
     "rightRec": "3-5",
     "leftScore": 0.0,
-    "leftProj": 121.81,
+    "leftProj": 121.79,
     "rightScore": 0.0,
-    "rightProj": 124.33,
+    "rightProj": 124.28,
     "shotgun": [],
     "leftActive": [
      {
@@ -359,11 +359,11 @@
       "player": "J. Waddle",
       "pos": "WR",
       "slot": "W/R/T",
-      "rem": 11.33,
+      "rem": 11.31,
       "state": "pending",
       "pts": 0.0,
-      "proj": 11.33,
-      "live": 11.33,
+      "proj": 11.31,
+      "live": 11.31,
       "game": "Sun 1:00 pm @ Car"
      },
      {
@@ -449,11 +449,11 @@
       "player": "J. Coleman",
       "pos": "RB",
       "slot": "RB",
-      "rem": 14.39,
+      "rem": 14.34,
       "state": "pending",
       "pts": 0.0,
-      "proj": 14.39,
-      "live": 14.39,
+      "proj": 14.34,
+      "live": 14.34,
       "game": "Sun 1:00 pm @ Car"
      },
      {
