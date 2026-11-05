@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 10,
- "ts": "2026-11-05T09:59:13+00:00",
+ "ts": "2026-11-05T10:39:13+00:00",
  "matchups": [
   {
    "id": "1v9",
@@ -231,7 +231,7 @@
    "right": "RosterMogged",
    "rightRec": "3-5",
    "leftScore": 0.0,
-   "leftProj": 104.53,
+   "leftProj": 104.56,
    "rightScore": 0.0,
    "rightProj": 112.83,
    "leftPct": 43,
@@ -294,11 +294,11 @@
      "player": "C. Brown",
      "pos": "RB",
      "slot": "RB",
-     "rem": 15.08,
+     "rem": 15.11,
      "state": "pending",
      "pts": 0.0,
-     "proj": 15.08,
-     "live": 15.08,
+     "proj": 15.11,
+     "live": 15.11,
      "game": "Sun 8:20 pm vs Pit"
     },
     {
@@ -335,7 +335,7 @@
      "game": "Sun 4:05 pm vs LAR"
     },
     {
-     "player": "Saints",
+     "player": "N. Orleans",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 6.21,
@@ -436,7 +436,7 @@
      "game": "Sun 1:00 pm vs KC"
     },
     {
-     "player": "Chiefs",
+     "player": "K. City",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 6.47,
@@ -679,7 +679,7 @@
    "right": "James Ray Ervin Yonts",
    "rightRec": "5-3",
    "leftScore": 0.0,
-   "leftProj": 116.75,
+   "leftProj": 116.68,
    "rightScore": 0.0,
    "rightProj": 119.1,
    "leftPct": 48,
@@ -717,11 +717,11 @@
      "player": "J. Chase",
      "pos": "WR",
      "slot": "WR",
-     "rem": 17.74,
+     "rem": 17.67,
      "state": "pending",
      "pts": 0.0,
-     "proj": 17.74,
-     "live": 17.74,
+     "proj": 17.67,
+     "live": 17.67,
      "game": "Sun 8:20 pm vs Pit"
     },
     {
@@ -791,7 +791,7 @@
      "game": "Sun 4:05 pm vs Sea"
     },
     {
-     "player": "Seattle",
+     "player": "Seahawks",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 7.54,
@@ -881,7 +881,7 @@
      "game": "Sun 1:00 pm @ Cle"
     },
     {
-     "player": "N. York",
+     "player": "Giants",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 7.08,
@@ -900,9 +900,9 @@
    "right": "Alex Michael Pagels",
    "rightRec": "3-5",
    "leftScore": 0.0,
-   "leftProj": 118.8,
+   "leftProj": 118.81,
    "rightScore": 0.0,
-   "rightProj": 105.3,
+   "rightProj": 105.17,
    "leftPct": 61,
    "leftRem": 9,
    "rightRem": 7,
@@ -985,11 +985,11 @@
      "player": "C. Skattebo",
      "pos": "RB",
      "slot": "RB",
-     "rem": 12.71,
+     "rem": 12.72,
      "state": "pending",
      "pts": 0.0,
-     "proj": 12.71,
-     "live": 12.71,
+     "proj": 12.72,
+     "live": 12.72,
      "game": "Thu 8:15 pm vs Was"
     },
     {
@@ -1042,11 +1042,11 @@
      "player": "J. Burrow",
      "pos": "QB",
      "slot": "QB",
-     "rem": 23.05,
+     "rem": 22.99,
      "state": "pending",
      "pts": 0.0,
-     "proj": 23.05,
-     "live": 23.05,
+     "proj": 22.99,
+     "live": 22.99,
      "game": "Sun 8:20 pm vs Pit"
     },
     {
@@ -1061,17 +1061,6 @@
      "game": "Thu 8:15 pm vs Was"
     },
     {
-     "player": "T. Higgins",
-     "pos": "WR",
-     "slot": "WR",
-     "rem": 15.56,
-     "state": "pending",
-     "pts": 0.0,
-     "proj": 15.56,
-     "live": 15.56,
-     "game": "Sun 8:20 pm vs Pit"
-    },
-    {
      "player": "J. Jacobs",
      "pos": "RB",
      "slot": "RB",
@@ -1081,6 +1070,17 @@
      "proj": 15.49,
      "live": 15.49,
      "game": "Sun 1:00 pm vs Min"
+    },
+    {
+     "player": "T. Higgins",
+     "pos": "WR",
+     "slot": "WR",
+     "rem": 15.49,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 15.49,
+     "live": 15.49,
+     "game": "Sun 8:20 pm vs Pit"
     },
     {
      "player": "C. Olave",
