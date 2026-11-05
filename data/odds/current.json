@@ -68,7 +68,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-05T10:39:22+00:00",
+  "ts": "2026-11-05T10:59:13+00:00",
   "week": 9,
   "matchups": [
    {
@@ -161,7 +161,7 @@
       "game": "Sun 1:00 pm vs Dal"
      },
      {
-      "player": "Texans",
+      "player": "Houston",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 8.99,
@@ -273,7 +273,7 @@
       "game": "Sun 4:05 pm @ LAC"
      },
      {
-      "player": "Giants",
+      "player": "N. York",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 8.65,
@@ -606,7 +606,7 @@
       "game": "Mon 8:15 pm vs Buf"
      },
      {
-      "player": "Detroit",
+      "player": "Lions",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 8.48,
@@ -674,7 +674,7 @@
       "game": "Sun 4:25 pm vs Ari"
      },
      {
-      "player": "K. City",
+      "player": "Chiefs",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 9.7,
