@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 10,
- "ts": "2026-11-05T21:41:59+00:00",
+ "ts": "2026-11-05T22:21:58+00:00",
  "matchups": [
   {
    "id": "1v9",
@@ -679,10 +679,10 @@
    "right": "James Ray Ervin Yonts",
    "rightRec": "5-3",
    "leftScore": 0.0,
-   "leftProj": 116.71,
+   "leftProj": 117.35,
    "rightScore": 0.0,
    "rightProj": 119.11,
-   "leftPct": 48,
+   "leftPct": 49,
    "leftRem": 9,
    "rightRem": 8,
    "shotgun": [
@@ -780,15 +780,15 @@
      "game": "Sun 1:00 pm @ Ten"
     },
     {
-     "player": "T. Tucker",
+     "player": "J. Downs",
      "pos": "WR",
      "slot": "W/R/T",
-     "rem": 8.95,
+     "rem": 9.59,
      "state": "pending",
      "pts": 0.0,
-     "proj": 8.95,
-     "live": 8.95,
-     "game": "Sun 4:05 pm vs Sea"
+     "proj": 9.59,
+     "live": 9.59,
+     "game": "Sun 1:00 pm vs Mia"
     },
     {
      "player": "Seahawks",
