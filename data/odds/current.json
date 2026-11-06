@@ -217853,7 +217853,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-06T16:09:25+00:00",
+  "ts": "2026-11-06T16:29:36+00:00",
   "week": 9,
   "matchups": [
    {
@@ -217865,7 +217865,7 @@
     "leftScore": 0.0,
     "leftProj": 122.33,
     "rightScore": 0.0,
-    "rightProj": 140.7,
+    "rightProj": 140.63,
     "shotgun": [],
     "leftActive": [
      {
@@ -218006,11 +218006,11 @@
       "player": "D. London",
       "pos": "WR",
       "slot": "WR",
-      "rem": 17.3,
+      "rem": 17.23,
       "state": "pending",
       "pts": 0.0,
-      "proj": 17.3,
-      "live": 17.3,
+      "proj": 17.23,
+      "live": 17.23,
       "game": "Sun 9:30 am vs Cin"
      },
      {
@@ -218277,7 +218277,7 @@
     "leftScore": 0.0,
     "leftProj": 139.33,
     "rightScore": 0.0,
-    "rightProj": 122.22,
+    "rightProj": 122.14,
     "shotgun": [],
     "leftActive": [
      {
@@ -218462,11 +218462,11 @@
       "player": "K. Pitts Sr.",
       "pos": "TE",
       "slot": "TE",
-      "rem": 9.01,
+      "rem": 8.93,
       "state": "pending",
       "pts": 0.0,
-      "proj": 9.01,
-      "live": 9.01,
+      "proj": 8.93,
+      "live": 8.93,
       "game": "Sun 9:30 am vs Cin"
      },
      {
@@ -218748,7 +218748,7 @@
       "game": "Sun 4:25 pm vs GB"
      },
      {
-      "player": "Rams",
+      "player": "L. Angeles",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 6.89,
@@ -218838,7 +218838,7 @@
       "game": "Sun 1:00 pm @ Car"
      },
      {
-      "player": "Bears",
+      "player": "Chicago",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 8.59,
@@ -218860,20 +218860,20 @@
     "right": "Sir this is a FF league",
     "rightRec": "3-5",
     "leftScore": 0.0,
-    "leftProj": 122.76,
+    "leftProj": 122.78,
     "rightScore": 0.0,
-    "rightProj": 111.97,
+    "rightProj": 113.14,
     "shotgun": [],
     "leftActive": [
      {
       "player": "B. Robinson",
       "pos": "RB",
       "slot": "RB",
-      "rem": 23.55,
+      "rem": 23.57,
       "state": "pending",
       "pts": 0.0,
-      "proj": 23.55,
-      "live": 23.55,
+      "proj": 23.57,
+      "live": 23.57,
       "game": "Sun 9:30 am vs Cin"
      },
      {
@@ -219022,6 +219022,17 @@
       "game": "Sun 1:00 pm @ Mia"
      },
      {
+      "player": "B. Hall",
+      "pos": "RB",
+      "slot": "RB",
+      "rem": 11.04,
+      "state": "pending",
+      "pts": 0.0,
+      "proj": 11.04,
+      "live": 11.04,
+      "game": "Sun 1:00 pm @ KC"
+     },
+     {
       "player": "E. McPherson",
       "pos": "K",
       "slot": "K",
@@ -219031,17 +219042,6 @@
       "proj": 10.25,
       "live": 10.25,
       "game": "Sun 9:30 am @ Atl"
-     },
-     {
-      "player": "B. Allen",
-      "pos": "RB",
-      "slot": "RB",
-      "rem": 9.87,
-      "state": "pending",
-      "pts": 0.0,
-      "proj": 9.87,
-      "live": 9.87,
-      "game": "Sun 1:00 pm @ KC"
      },
      {
       "player": "Broncos",
@@ -219066,7 +219066,7 @@
       "game": "Sun 4:25 pm vs GB"
      }
     ],
-    "leftPct": 59,
+    "leftPct": 58,
     "leftRem": 9,
     "rightRem": 9
    }

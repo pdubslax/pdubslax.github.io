@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 10,
- "ts": "2026-11-06T15:49:25+00:00",
+ "ts": "2026-11-06T16:29:26+00:00",
  "matchups": [
   {
    "id": "1v9",
@@ -12,8 +12,8 @@
    "leftScore": 0.0,
    "leftProj": 120.79,
    "rightScore": 0.0,
-   "rightProj": 105.29,
-   "leftPct": 63,
+   "rightProj": 106.86,
+   "leftPct": 61,
    "leftRem": 9,
    "rightRem": 8,
    "shotgun": [
@@ -190,6 +190,17 @@
      "game": "Sun 9:30 am vs NE"
     },
     {
+     "player": "B. Hall",
+     "pos": "RB",
+     "slot": "RB",
+     "rem": 11.38,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 11.38,
+     "live": 11.38,
+     "game": "Sun 1:00 pm vs Buf"
+    },
+    {
      "player": "E. McPherson",
      "pos": "K",
      "slot": "K",
@@ -199,17 +210,6 @@
      "proj": 9.91,
      "live": 9.91,
      "game": "Sun 8:20 pm vs Pit"
-    },
-    {
-     "player": "B. Allen",
-     "pos": "RB",
-     "slot": "RB",
-     "rem": 9.81,
-     "state": "pending",
-     "pts": 0.0,
-     "proj": 9.81,
-     "live": 9.81,
-     "game": "Sun 1:00 pm vs Buf"
     },
     {
      "player": "H. Henry",
