@@ -217853,7 +217853,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-06T05:27:37+00:00",
+  "ts": "2026-11-06T05:47:45+00:00",
   "week": 9,
   "matchups": [
    {
@@ -218564,7 +218564,7 @@
       "game": "Sun 1:00 pm vs Dal"
      },
      {
-      "player": "Seahawks",
+      "player": "Seattle",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 9.51,
@@ -218654,7 +218654,7 @@
       "game": "Mon 8:15 pm vs Buf"
      },
      {
-      "player": "49ers",
+      "player": "S. Francisco",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 6.74,
@@ -218748,7 +218748,7 @@
       "game": "Sun 4:25 pm vs GB"
      },
      {
-      "player": "L. Angeles",
+      "player": "Rams",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 6.89,
@@ -218849,7 +218849,7 @@
       "game": "Sun 1:00 pm @ Car"
      },
      {
-      "player": "Chicago",
+      "player": "Bears",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 8.59,

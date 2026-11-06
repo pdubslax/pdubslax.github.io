@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 10,
- "ts": "2026-11-06T05:07:37+00:00",
+ "ts": "2026-11-06T05:47:38+00:00",
  "matchups": [
   {
    "id": "1v9",
@@ -18,7 +18,7 @@
    "rightRem": 8,
    "shotgun": [
     {
-     "player": "Broncos",
+     "player": "Denver",
      "pos": "DEF",
      "team": "Den",
      "pts": 0.0,
@@ -89,7 +89,7 @@
      "game": "Sun 9:30 am vs NE"
     },
     {
-     "player": "Texans",
+     "player": "Houston",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 9.95,
@@ -570,7 +570,7 @@
      "game": "Sun 1:00 pm @ GB"
     },
     {
-     "player": "Lions",
+     "player": "Detroit",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 4.37,
@@ -660,7 +660,7 @@
      "game": "Sun 9:30 am @ Det"
     },
     {
-     "player": "Rams",
+     "player": "L. Angeles",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 8.15,
@@ -791,7 +791,7 @@
      "game": "Sun 1:00 pm vs Mia"
     },
     {
-     "player": "Seahawks",
+     "player": "Seattle",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 7.54,
@@ -881,7 +881,7 @@
      "game": "Sun 1:00 pm @ Cle"
     },
     {
-     "player": "Giants",
+     "player": "N. York",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 7.08,
@@ -1026,7 +1026,7 @@
      "game": "Sun 1:00 pm @ GB"
     },
     {
-     "player": "Bills",
+     "player": "Buffalo",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 8.31,
@@ -1105,7 +1105,7 @@
      "game": "Thu 8:15 pm vs Was"
     },
     {
-     "player": "Jaguars",
+     "player": "Jacksonville",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 8.68,
