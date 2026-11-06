@@ -217853,7 +217853,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-06T04:07:36+00:00",
+  "ts": "2026-11-06T04:27:43+00:00",
   "week": 9,
   "matchups": [
    {
@@ -217935,7 +217935,7 @@
       "game": "Sun 1:00 pm @ Mia"
      },
      {
-      "player": "Texans",
+      "player": "Houston",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 9.12,
@@ -218058,7 +218058,7 @@
       "game": "Sun 4:05 pm @ LAC"
      },
      {
-      "player": "Giants",
+      "player": "N. York",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 8.59,
@@ -218152,7 +218152,7 @@
       "game": "Sun 1:00 pm @ Phi"
      },
      {
-      "player": "N. Orleans",
+      "player": "Saints",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 10.01,
@@ -218748,7 +218748,7 @@
       "game": "Sun 4:25 pm vs GB"
      },
      {
-      "player": "L. Angeles",
+      "player": "Rams",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 6.89,
@@ -218849,7 +218849,7 @@
       "game": "Sun 1:00 pm @ Car"
      },
      {
-      "player": "Chicago",
+      "player": "Bears",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 8.59,
@@ -218965,7 +218965,7 @@
       "game": "Mon 8:15 pm vs Buf"
      },
      {
-      "player": "Buffalo",
+      "player": "Bills",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 7.34,
@@ -219055,7 +219055,7 @@
       "game": "Sun 1:00 pm @ KC"
      },
      {
-      "player": "Denver",
+      "player": "Broncos",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 7.79,
