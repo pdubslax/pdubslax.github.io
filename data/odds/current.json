@@ -68,7 +68,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-05T23:42:06+00:00",
+  "ts": "2026-11-06T00:01:59+00:00",
   "week": 9,
   "matchups": [
    {
@@ -80,7 +80,7 @@
     "leftScore": 0.0,
     "leftProj": 123.04,
     "rightScore": 0.0,
-    "rightProj": 140.73,
+    "rightProj": 140.72,
     "shotgun": [],
     "leftActive": [
      {
@@ -232,11 +232,11 @@
       "player": "D. London",
       "pos": "WR",
       "slot": "WR",
-      "rem": 17.27,
+      "rem": 17.26,
       "state": "pending",
       "pts": 0.0,
-      "proj": 17.27,
-      "live": 17.27,
+      "proj": 17.26,
+      "live": 17.26,
       "game": "Sun 9:30 am vs Cin"
      },
      {
@@ -295,31 +295,31 @@
     "right": "Alex Michael Pagels",
     "rightRec": "3-5",
     "leftScore": 0.0,
-    "leftProj": 121.24,
+    "leftProj": 121.39,
     "rightScore": 0.0,
-    "rightProj": 124.45,
+    "rightProj": 124.41,
     "shotgun": [],
     "leftActive": [
      {
       "player": "D. Maye",
       "pos": "QB",
       "slot": "QB",
-      "rem": 23.81,
+      "rem": 23.87,
       "state": "pending",
       "pts": 0.0,
-      "proj": 23.81,
-      "live": 23.81,
+      "proj": 23.87,
+      "live": 23.87,
       "game": "Sun 4:25 pm vs GB"
      },
      {
       "player": "C. Brown",
       "pos": "RB",
       "slot": "RB",
-      "rem": 16.58,
+      "rem": 16.57,
       "state": "pending",
       "pts": 0.0,
-      "proj": 16.58,
-      "live": 16.58,
+      "proj": 16.57,
+      "live": 16.57,
       "game": "Sun 9:30 am @ Atl"
      },
      {
@@ -337,11 +337,11 @@
       "player": "D. Henry",
       "pos": "RB",
       "slot": "RB",
-      "rem": 13.84,
+      "rem": 13.94,
       "state": "pending",
       "pts": 0.0,
-      "proj": 13.84,
-      "live": 13.84,
+      "proj": 13.94,
+      "live": 13.94,
       "game": "Thu 8:15 pm vs Jax"
      },
      {
@@ -405,22 +405,22 @@
       "player": "J. Burrow",
       "pos": "QB",
       "slot": "QB",
-      "rem": 24.32,
+      "rem": 24.29,
       "state": "pending",
       "pts": 0.0,
-      "proj": 24.32,
-      "live": 24.32,
+      "proj": 24.29,
+      "live": 24.29,
       "game": "Sun 9:30 am @ Atl"
      },
      {
       "player": "T. Higgins",
       "pos": "WR",
       "slot": "WR",
-      "rem": 16.4,
+      "rem": 16.39,
       "state": "pending",
       "pts": 0.0,
-      "proj": 16.4,
-      "live": 16.4,
+      "proj": 16.39,
+      "live": 16.39,
       "game": "Sun 9:30 am @ Atl"
      },
      {
@@ -449,11 +449,11 @@
       "player": "J. Coleman",
       "pos": "RB",
       "slot": "RB",
-      "rem": 14.32,
+      "rem": 14.33,
       "state": "pending",
       "pts": 0.0,
-      "proj": 14.32,
-      "live": 14.32,
+      "proj": 14.33,
+      "live": 14.33,
       "game": "Sun 1:00 pm @ Car"
      },
      {
@@ -482,11 +482,11 @@
       "player": "D. Goedert",
       "pos": "TE",
       "slot": "TE",
-      "rem": 8.41,
+      "rem": 8.4,
       "state": "pending",
       "pts": 0.0,
-      "proj": 8.41,
-      "live": 8.41,
+      "proj": 8.4,
+      "live": 8.4,
       "game": "Sun 1:00 pm vs NYG"
      },
      {
@@ -501,7 +501,7 @@
       "game": "Sun 1:00 pm @ Phi"
      }
     ],
-    "leftPct": 47,
+    "leftPct": 48,
     "leftRem": 9,
     "rightRem": 9
    },
@@ -514,7 +514,7 @@
     "leftScore": 0.0,
     "leftProj": 139.25,
     "rightScore": 0.0,
-    "rightProj": 120.78,
+    "rightProj": 120.8,
     "shotgun": [],
     "leftActive": [
      {
@@ -622,11 +622,11 @@
       "player": "B. Purdy",
       "pos": "QB",
       "slot": "QB",
-      "rem": 25.66,
+      "rem": 25.55,
       "state": "pending",
       "pts": 0.0,
-      "proj": 25.66,
-      "live": 25.66,
+      "proj": 25.55,
+      "live": 25.55,
       "game": "Sun 4:25 pm vs LV"
      },
      {
@@ -699,11 +699,11 @@
       "player": "K. Pitts Sr.",
       "pos": "TE",
       "slot": "TE",
-      "rem": 8.78,
+      "rem": 8.91,
       "state": "pending",
       "pts": 0.0,
-      "proj": 8.78,
-      "live": 8.78,
+      "proj": 8.91,
+      "live": 8.91,
       "game": "Sun 9:30 am vs Cin"
      },
      {
@@ -729,9 +729,9 @@
     "right": "Zen Buddha Boys 🪷💨",
     "rightRec": "4-4",
     "leftScore": 0.0,
-    "leftProj": 123.03,
+    "leftProj": 123.09,
     "rightScore": 0.0,
-    "rightProj": 123.38,
+    "rightProj": 126.16,
     "shotgun": [],
     "leftActive": [
      {
@@ -749,11 +749,11 @@
       "player": "J. Chase",
       "pos": "WR",
       "slot": "WR",
-      "rem": 18.79,
+      "rem": 18.77,
       "state": "pending",
       "pts": 0.0,
-      "proj": 18.79,
-      "live": 18.79,
+      "proj": 18.77,
+      "live": 18.77,
       "game": "Sun 9:30 am @ Atl"
      },
      {
@@ -771,11 +771,11 @@
       "player": "P. Washington",
       "pos": "WR",
       "slot": "WR",
-      "rem": 13.64,
+      "rem": 13.7,
       "state": "pending",
       "pts": 0.0,
-      "proj": 13.64,
-      "live": 13.64,
+      "proj": 13.7,
+      "live": 13.7,
       "game": "Thu 8:15 pm @ Bal"
      },
      {
@@ -804,11 +804,11 @@
       "player": "C. Little",
       "pos": "K",
       "slot": "K",
-      "rem": 10.15,
+      "rem": 10.17,
       "state": "pending",
       "pts": 0.0,
-      "proj": 10.15,
-      "live": 10.15,
+      "proj": 10.17,
+      "live": 10.17,
       "game": "Thu 8:15 pm @ Bal"
      },
      {
@@ -894,11 +894,11 @@
       "player": "Z. Flowers",
       "pos": "WR",
       "slot": "W/R/T",
-      "rem": 13.06,
+      "rem": 13.2,
       "state": "pending",
       "pts": 0.0,
-      "proj": 13.06,
-      "live": 13.06,
+      "proj": 13.2,
+      "live": 13.2,
       "game": "Thu 8:15 pm vs Jax"
      },
      {
@@ -924,18 +924,18 @@
       "game": "Mon 8:15 pm vs Buf"
      },
      {
-      "player": "Colts",
+      "player": "49ers",
       "pos": "DEF",
       "slot": "DEF",
-      "rem": 4.07,
+      "rem": 6.71,
       "state": "pending",
       "pts": 0.0,
-      "proj": 4.07,
-      "live": 4.07,
-      "game": "Sun 1:00 pm vs Dal"
+      "proj": 6.71,
+      "live": 6.71,
+      "game": "Sun 4:25 pm vs LV"
      }
     ],
-    "leftPct": 50,
+    "leftPct": 48,
     "leftRem": 9,
     "rightRem": 9
    },
@@ -946,20 +946,20 @@
     "right": "Kiwis are better than mid",
     "rightRec": "5-3",
     "leftScore": 0.0,
-    "leftProj": 116.43,
+    "leftProj": 109.58,
     "rightScore": 0.0,
-    "rightProj": 120.71,
+    "rightProj": 120.6,
     "shotgun": [],
     "leftActive": [
      {
       "player": "T. Lawrence",
       "pos": "QB",
       "slot": "QB",
-      "rem": 21.23,
+      "rem": 21.28,
       "state": "pending",
       "pts": 0.0,
-      "proj": 21.23,
-      "live": 21.23,
+      "proj": 21.28,
+      "live": 21.28,
       "game": "Thu 8:15 pm @ Bal"
      },
      {
@@ -977,11 +977,11 @@
       "player": "B. Tuten",
       "pos": "RB",
       "slot": "RB",
-      "rem": 14.7,
+      "rem": 14.71,
       "state": "pending",
       "pts": 0.0,
-      "proj": 14.7,
-      "live": 14.7,
+      "proj": 14.71,
+      "live": 14.71,
       "game": "Thu 8:15 pm @ Bal"
      },
      {
@@ -1029,17 +1029,6 @@
       "game": "Sun 4:25 pm @ NE"
      },
      {
-      "player": "A.J. Brown",
-      "pos": "WR",
-      "slot": "W/R/T",
-      "rem": 9.69,
-      "state": "pending",
-      "pts": 0.0,
-      "proj": 9.69,
-      "live": 9.69,
-      "game": "Sun 4:25 pm vs GB"
-     },
-     {
       "player": "Rams",
       "pos": "DEF",
       "slot": "DEF",
@@ -1049,6 +1038,17 @@
       "proj": 6.9,
       "live": 6.9,
       "game": "Sun 1:00 pm @ Was"
+     },
+     {
+      "player": "A.J. Brown",
+      "pos": "WR",
+      "slot": "W/R/T",
+      "rem": 2.78,
+      "state": "pending",
+      "pts": 0.0,
+      "proj": 2.78,
+      "live": 2.78,
+      "game": "Sun 4:25 pm vs GB"
      }
     ],
     "rightActive": [
@@ -1067,11 +1067,11 @@
       "player": "C. McCaffrey",
       "pos": "RB",
       "slot": "RB",
-      "rem": 20.22,
+      "rem": 20.11,
       "state": "pending",
       "pts": 0.0,
-      "proj": 20.22,
-      "live": 20.22,
+      "proj": 20.11,
+      "live": 20.11,
       "game": "Sun 4:25 pm vs LV"
      },
      {
@@ -1152,7 +1152,7 @@
       "game": "Sun 8:20 pm vs TB"
      }
     ],
-    "leftPct": 46,
+    "leftPct": 40,
     "leftRem": 9,
     "rightRem": 9
    },
@@ -1163,20 +1163,20 @@
     "right": "Sir this is a FF league",
     "rightRec": "3-5",
     "leftScore": 0.0,
-    "leftProj": 122.79,
+    "leftProj": 122.72,
     "rightScore": 0.0,
-    "rightProj": 112.61,
+    "rightProj": 112.63,
     "shotgun": [],
     "leftActive": [
      {
       "player": "B. Robinson",
       "pos": "RB",
       "slot": "RB",
-      "rem": 23.16,
+      "rem": 23.14,
       "state": "pending",
       "pts": 0.0,
-      "proj": 23.16,
-      "live": 23.16,
+      "proj": 23.14,
+      "live": 23.14,
       "game": "Sun 9:30 am vs Cin"
      },
      {
@@ -1194,11 +1194,11 @@
       "player": "G. Kittle",
       "pos": "TE",
       "slot": "W/R/T",
-      "rem": 15.54,
+      "rem": 15.49,
       "state": "pending",
       "pts": 0.0,
-      "proj": 15.54,
-      "live": 15.54,
+      "proj": 15.49,
+      "live": 15.49,
       "game": "Sun 4:25 pm vs LV"
      },
      {
@@ -1306,11 +1306,11 @@
       "player": "R. Stevenson",
       "pos": "RB",
       "slot": "W/R/T",
-      "rem": 12.83,
+      "rem": 12.85,
       "state": "pending",
       "pts": 0.0,
-      "proj": 12.83,
-      "live": 12.83,
+      "proj": 12.85,
+      "live": 12.85,
       "game": "Sun 4:25 pm vs GB"
      },
      {
