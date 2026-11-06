@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 10,
- "ts": "2026-11-06T05:47:38+00:00",
+ "ts": "2026-11-06T06:27:37+00:00",
  "matchups": [
   {
    "id": "1v9",
@@ -18,7 +18,7 @@
    "rightRem": 8,
    "shotgun": [
     {
-     "player": "Denver",
+     "player": "Broncos",
      "pos": "DEF",
      "team": "Den",
      "pts": 0.0,
@@ -89,7 +89,7 @@
      "game": "Sun 9:30 am vs NE"
     },
     {
-     "player": "Houston",
+     "player": "Texans",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 9.95,
@@ -335,7 +335,7 @@
      "game": "Sun 4:05 pm vs LAR"
     },
     {
-     "player": "N. Orleans",
+     "player": "Saints",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 6.21,
@@ -436,7 +436,7 @@
      "game": "Sun 1:00 pm vs KC"
     },
     {
-     "player": "K. City",
+     "player": "Chiefs",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 6.47,
@@ -457,7 +457,7 @@
    "leftScore": 0.0,
    "leftProj": 118.72,
    "rightScore": 0.0,
-   "rightProj": 106.3,
+   "rightProj": 106.45,
    "leftPct": 60,
    "leftRem": 8,
    "rightRem": 8,
@@ -570,7 +570,7 @@
      "game": "Sun 1:00 pm @ GB"
     },
     {
-     "player": "Detroit",
+     "player": "Lions",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 4.37,
@@ -586,11 +586,11 @@
      "player": "T. Lawrence",
      "pos": "QB",
      "slot": "QB",
-     "rem": 23.15,
+     "rem": 23.27,
      "state": "pending",
      "pts": 0.0,
-     "proj": 23.15,
-     "live": 23.15,
+     "proj": 23.27,
+     "live": 23.27,
      "game": "Sun 1:00 pm @ Ten"
     },
     {
@@ -608,11 +608,11 @@
      "player": "B. Tuten",
      "pos": "RB",
      "slot": "RB",
-     "rem": 16.48,
+     "rem": 16.51,
      "state": "pending",
      "pts": 0.0,
-     "proj": 16.48,
-     "live": 16.48,
+     "proj": 16.51,
+     "live": 16.51,
      "game": "Sun 1:00 pm @ Ten"
     },
     {
@@ -660,7 +660,7 @@
      "game": "Sun 9:30 am @ Det"
     },
     {
-     "player": "L. Angeles",
+     "player": "Rams",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 8.15,
@@ -679,7 +679,7 @@
    "right": "James Ray Ervin Yonts",
    "rightRec": "5-3",
    "leftScore": 0.0,
-   "leftProj": 117.38,
+   "leftProj": 117.5,
    "rightScore": 0.0,
    "rightProj": 119.11,
    "leftPct": 49,
@@ -739,11 +739,11 @@
      "player": "P. Washington",
      "pos": "WR",
      "slot": "WR",
-     "rem": 14.69,
+     "rem": 14.76,
      "state": "pending",
      "pts": 0.0,
-     "proj": 14.69,
-     "live": 14.69,
+     "proj": 14.76,
+     "live": 14.76,
      "game": "Sun 1:00 pm @ Ten"
     },
     {
@@ -772,11 +772,11 @@
      "player": "C. Little",
      "pos": "K",
      "slot": "K",
-     "rem": 10.07,
+     "rem": 10.12,
      "state": "pending",
      "pts": 0.0,
-     "proj": 10.07,
-     "live": 10.07,
+     "proj": 10.12,
+     "live": 10.12,
      "game": "Sun 1:00 pm @ Ten"
     },
     {
@@ -791,7 +791,7 @@
      "game": "Sun 1:00 pm vs Mia"
     },
     {
-     "player": "Seattle",
+     "player": "Seahawks",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 7.54,
@@ -881,7 +881,7 @@
      "game": "Sun 1:00 pm @ Cle"
     },
     {
-     "player": "N. York",
+     "player": "Giants",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 7.08,
@@ -902,7 +902,7 @@
    "leftScore": 0.0,
    "leftProj": 118.87,
    "rightScore": 0.0,
-   "rightProj": 105.26,
+   "rightProj": 105.32,
    "leftPct": 61,
    "leftRem": 9,
    "rightRem": 7,
@@ -1026,7 +1026,7 @@
      "game": "Sun 1:00 pm @ GB"
     },
     {
-     "player": "Buffalo",
+     "player": "Bills",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 8.31,
@@ -1105,14 +1105,14 @@
      "game": "Thu 8:15 pm vs Was"
     },
     {
-     "player": "Jacksonville",
+     "player": "Jaguars",
      "pos": "DEF",
      "slot": "DEF",
-     "rem": 8.68,
+     "rem": 8.74,
      "state": "pending",
      "pts": 0.0,
-     "proj": 8.68,
-     "live": 8.68,
+     "proj": 8.74,
+     "live": 8.74,
      "game": "Sun 1:00 pm @ Ten"
     }
    ]
