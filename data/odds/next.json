@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 10,
- "ts": "2026-11-06T20:50:29+00:00",
+ "ts": "2026-11-06T21:30:28+00:00",
  "matchups": [
   {
    "id": "1v9",
@@ -529,11 +529,11 @@
      "player": "T. McBride",
      "pos": "TE",
      "slot": "TE",
-     "rem": 14.87,
+     "rem": 14.86,
      "state": "pending",
      "pts": 0.0,
-     "proj": 14.87,
-     "live": 14.87,
+     "proj": 14.86,
+     "live": 14.86,
      "game": "Sun 4:05 pm vs LAR"
     },
     {
@@ -851,11 +851,11 @@
      "player": "T. Allgeier",
      "pos": "RB",
      "slot": "RB",
-     "rem": 12.78,
+     "rem": 12.77,
      "state": "pending",
      "pts": 0.0,
-     "proj": 12.78,
-     "live": 12.78,
+     "proj": 12.77,
+     "live": 12.77,
      "game": "Sun 4:05 pm vs LAR"
     },
     {
