@@ -217853,7 +217853,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-06T23:11:51+00:00",
+  "ts": "2026-11-06T23:31:41+00:00",
   "week": 9,
   "matchups": [
    {
@@ -217863,9 +217863,9 @@
     "right": "James Ray Ervin Yonts",
     "rightRec": "5-3",
     "leftScore": 0.0,
-    "leftProj": 129.31,
+    "leftProj": 129.28,
     "rightScore": 0.0,
-    "rightProj": 142.21,
+    "rightProj": 142.24,
     "shotgun": [],
     "leftActive": [
      {
@@ -217883,11 +217883,11 @@
       "player": "M. Stafford",
       "pos": "QB",
       "slot": "QB",
-      "rem": 20.87,
+      "rem": 20.84,
       "state": "pending",
       "pts": 0.0,
-      "proj": 20.87,
-      "live": 20.87,
+      "proj": 20.84,
+      "live": 20.84,
       "game": "Sun 1:00 pm @ Was"
      },
      {
@@ -217984,11 +217984,11 @@
       "player": "P. Nacua",
       "pos": "WR",
       "slot": "WR",
-      "rem": 22.21,
+      "rem": 22.24,
       "state": "pending",
       "pts": 0.0,
-      "proj": 22.21,
-      "live": 22.21,
+      "proj": 22.24,
+      "live": 22.24,
       "game": "Sun 1:00 pm @ Was"
      },
      {
@@ -218275,7 +218275,7 @@
     "right": "RosterMogged",
     "rightRec": "3-5",
     "leftScore": 0.0,
-    "leftProj": 139.45,
+    "leftProj": 139.46,
     "rightScore": 0.0,
     "rightProj": 122.03,
     "shotgun": [],
@@ -218306,11 +218306,11 @@
       "player": "K. Williams",
       "pos": "RB",
       "slot": "RB",
-      "rem": 18.05,
+      "rem": 18.07,
       "state": "pending",
       "pts": 0.0,
-      "proj": 18.05,
-      "live": 18.05,
+      "proj": 18.07,
+      "live": 18.07,
       "game": "Sun 1:00 pm @ Was"
      },
      {
@@ -218350,11 +218350,11 @@
       "player": "S. Diggs",
       "pos": "WR",
       "slot": "WR",
-      "rem": 11.22,
+      "rem": 11.21,
       "state": "pending",
       "pts": 0.0,
-      "proj": 11.22,
-      "live": 11.22,
+      "proj": 11.21,
+      "live": 11.21,
       "game": "Sun 1:00 pm vs LAR"
      },
      {
@@ -218748,7 +218748,7 @@
       "game": "Sun 4:25 pm vs GB"
      },
      {
-      "player": "L. Angeles",
+      "player": "Rams",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 6.88,
@@ -218838,7 +218838,7 @@
       "game": "Sun 1:00 pm @ Car"
      },
      {
-      "player": "Chicago",
+      "player": "Bears",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 8.28,
@@ -218943,7 +218943,7 @@
       "game": "Mon 8:15 pm @ Min"
      },
      {
-      "player": "Buffalo",
+      "player": "Bills",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 7.31,
@@ -219044,7 +219044,7 @@
       "game": "Sun 9:30 am @ Atl"
      },
      {
-      "player": "Denver",
+      "player": "Broncos",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 7.73,
