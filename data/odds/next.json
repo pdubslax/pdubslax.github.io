@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 10,
- "ts": "2026-11-05T23:41:59+00:00",
+ "ts": "2026-11-06T00:21:58+00:00",
  "matchups": [
   {
    "id": "1v9",
@@ -231,7 +231,7 @@
    "right": "RosterMogged",
    "rightRec": "3-5",
    "leftScore": 0.0,
-   "leftProj": 104.44,
+   "leftProj": 104.43,
    "rightScore": 0.0,
    "rightProj": 112.92,
    "leftPct": 43,
@@ -294,11 +294,11 @@
      "player": "C. Brown",
      "pos": "RB",
      "slot": "RB",
-     "rem": 15.07,
+     "rem": 15.06,
      "state": "pending",
      "pts": 0.0,
-     "proj": 15.07,
-     "live": 15.07,
+     "proj": 15.06,
+     "live": 15.06,
      "game": "Sun 8:20 pm vs Pit"
     },
     {
@@ -679,7 +679,7 @@
    "right": "James Ray Ervin Yonts",
    "rightRec": "5-3",
    "leftScore": 0.0,
-   "leftProj": 117.48,
+   "leftProj": 117.46,
    "rightScore": 0.0,
    "rightProj": 119.11,
    "leftPct": 49,
@@ -717,11 +717,11 @@
      "player": "J. Chase",
      "pos": "WR",
      "slot": "WR",
-     "rem": 17.75,
+     "rem": 17.73,
      "state": "pending",
      "pts": 0.0,
-     "proj": 17.75,
-     "live": 17.75,
+     "proj": 17.73,
+     "live": 17.73,
      "game": "Sun 8:20 pm vs Pit"
     },
     {
@@ -902,7 +902,7 @@
    "leftScore": 0.0,
    "leftProj": 118.89,
    "rightScore": 0.0,
-   "rightProj": 105.29,
+   "rightProj": 105.25,
    "leftPct": 61,
    "leftRem": 9,
    "rightRem": 7,
@@ -1042,11 +1042,11 @@
      "player": "J. Burrow",
      "pos": "QB",
      "slot": "QB",
-     "rem": 23.06,
+     "rem": 23.03,
      "state": "pending",
      "pts": 0.0,
-     "proj": 23.06,
-     "live": 23.06,
+     "proj": 23.03,
+     "live": 23.03,
      "game": "Sun 8:20 pm vs Pit"
     },
     {
@@ -1064,11 +1064,11 @@
      "player": "T. Higgins",
      "pos": "WR",
      "slot": "WR",
-     "rem": 15.57,
+     "rem": 15.56,
      "state": "pending",
      "pts": 0.0,
-     "proj": 15.57,
-     "live": 15.57,
+     "proj": 15.56,
+     "live": 15.56,
      "game": "Sun 8:20 pm vs Pit"
     },
     {
@@ -1124,10 +1124,10 @@
    "right": "Kiwis are better than mid",
    "rightRec": "5-3",
    "leftScore": 0.0,
-   "leftProj": 106.3,
+   "leftProj": 101.39,
    "rightScore": 0.0,
    "rightProj": 103.7,
-   "leftPct": 52,
+   "leftPct": 48,
    "leftRem": 8,
    "rightRem": 7,
    "shotgun": [
@@ -1253,15 +1253,15 @@
      "game": "Sun 1:00 pm @ GB"
     },
     {
-     "player": "Colts",
+     "player": "49ers",
      "pos": "DEF",
      "slot": "DEF",
-     "rem": 8.98,
+     "rem": 4.07,
      "state": "pending",
      "pts": 0.0,
-     "proj": 8.98,
-     "live": 8.98,
-     "game": "Sun 1:00 pm vs Mia"
+     "proj": 4.07,
+     "live": 4.07,
+     "game": "Sun 4:25 pm @ Dal"
     }
    ],
    "rightActive": [
