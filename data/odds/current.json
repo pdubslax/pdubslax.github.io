@@ -217853,7 +217853,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-06T06:27:43+00:00",
+  "ts": "2026-11-06T06:47:38+00:00",
   "week": 9,
   "matchups": [
    {
@@ -218369,7 +218369,7 @@
       "game": "Mon 8:15 pm vs Buf"
      },
      {
-      "player": "Detroit",
+      "player": "Lions",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 8.48,
@@ -218437,7 +218437,7 @@
       "game": "Sun 4:25 pm vs Ari"
      },
      {
-      "player": "K. City",
+      "player": "Chiefs",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 9.67,
@@ -218564,7 +218564,7 @@
       "game": "Sun 1:00 pm vs Dal"
      },
      {
-      "player": "Seahawks",
+      "player": "Seattle",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 9.49,
@@ -218654,7 +218654,7 @@
       "game": "Mon 8:15 pm vs Buf"
      },
      {
-      "player": "49ers",
+      "player": "S. Francisco",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 6.74,
@@ -218965,7 +218965,7 @@
       "game": "Mon 8:15 pm vs Buf"
      },
      {
-      "player": "Bills",
+      "player": "Buffalo",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 7.32,
@@ -219055,7 +219055,7 @@
       "game": "Sun 1:00 pm @ KC"
      },
      {
-      "player": "Broncos",
+      "player": "Denver",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 7.79,
