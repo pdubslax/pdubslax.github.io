@@ -217853,7 +217853,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-06T11:08:34+00:00",
+  "ts": "2026-11-06T11:28:43+00:00",
   "week": 9,
   "matchups": [
    {
@@ -218167,7 +218167,7 @@
       "game": "Sun 1:00 pm @ Phi"
      },
      {
-      "player": "Saints",
+      "player": "N. Orleans",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 10.01,
@@ -218752,7 +218752,7 @@
       "game": "Sun 4:25 pm vs GB"
      },
      {
-      "player": "Rams",
+      "player": "L. Angeles",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 6.89,
@@ -218853,7 +218853,7 @@
       "game": "Sun 1:00 pm @ Car"
      },
      {
-      "player": "Bears",
+      "player": "Chicago",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 8.59,
