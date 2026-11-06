@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 10,
- "ts": "2026-11-06T06:27:37+00:00",
+ "ts": "2026-11-06T07:07:37+00:00",
  "matchups": [
   {
    "id": "1v9",
@@ -10,7 +10,7 @@
    "right": "Sir this is a FF league",
    "rightRec": "3-5",
    "leftScore": 0.0,
-   "leftProj": 120.63,
+   "leftProj": 120.7,
    "rightScore": 0.0,
    "rightProj": 104.7,
    "leftPct": 63,
@@ -18,7 +18,7 @@
    "rightRem": 8,
    "shotgun": [
     {
-     "player": "Broncos",
+     "player": "Denver",
      "pos": "DEF",
      "team": "Den",
      "pts": 0.0,
@@ -89,7 +89,7 @@
      "game": "Sun 9:30 am vs NE"
     },
     {
-     "player": "Texans",
+     "player": "Houston",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 9.95,
@@ -114,11 +114,11 @@
      "player": "W. Marks",
      "pos": "RB",
      "slot": "RB",
-     "rem": 9.17,
+     "rem": 9.24,
      "state": "pending",
      "pts": 0.0,
-     "proj": 9.17,
-     "live": 9.17,
+     "proj": 9.24,
+     "live": 9.24,
      "game": "Sun 1:00 pm @ Cle"
     },
     {
@@ -570,7 +570,7 @@
      "game": "Sun 1:00 pm @ GB"
     },
     {
-     "player": "Lions",
+     "player": "Detroit",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 4.37,
@@ -660,7 +660,7 @@
      "game": "Sun 9:30 am @ Det"
     },
     {
-     "player": "Rams",
+     "player": "L. Angeles",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 8.15,
@@ -791,7 +791,7 @@
      "game": "Sun 1:00 pm vs Mia"
     },
     {
-     "player": "Seahawks",
+     "player": "Seattle",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 7.54,
@@ -881,7 +881,7 @@
      "game": "Sun 1:00 pm @ Cle"
     },
     {
-     "player": "Giants",
+     "player": "N. York",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 7.08,
@@ -1124,7 +1124,7 @@
    "right": "Kiwis are better than mid",
    "rightRec": "5-3",
    "leftScore": 0.0,
-   "leftProj": 101.43,
+   "leftProj": 101.26,
    "rightScore": 0.0,
    "rightProj": 103.7,
    "leftPct": 48,
@@ -1212,11 +1212,11 @@
      "player": "N. Collins",
      "pos": "WR",
      "slot": "WR",
-     "rem": 13.81,
+     "rem": 13.64,
      "state": "pending",
      "pts": 0.0,
-     "proj": 13.81,
-     "live": 13.81,
+     "proj": 13.64,
+     "live": 13.64,
      "game": "Sun 1:00 pm @ Cle"
     },
     {
