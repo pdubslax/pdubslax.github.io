@@ -217853,7 +217853,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-06T08:28:33+00:00",
+  "ts": "2026-11-06T08:48:42+00:00",
   "week": 9,
   "matchups": [
    {
@@ -217865,7 +217865,7 @@
     "leftScore": 0.0,
     "leftProj": 122.34,
     "rightScore": 0.0,
-    "rightProj": 140.7,
+    "rightProj": 140.69,
     "shotgun": [],
     "leftActive": [
      {
@@ -218028,11 +218028,11 @@
       "player": "T. Allgeier",
       "pos": "RB",
       "slot": "RB",
-      "rem": 12.37,
+      "rem": 12.36,
       "state": "pending",
       "pts": 0.0,
-      "proj": 12.37,
-      "live": 12.37,
+      "proj": 12.36,
+      "live": 12.36,
       "game": "Sun 4:25 pm @ Sea"
      },
      {
