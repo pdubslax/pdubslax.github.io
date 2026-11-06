@@ -217853,7 +217853,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-06T19:50:27+00:00",
+  "ts": "2026-11-06T20:10:38+00:00",
   "week": 9,
   "matchups": [
    {
@@ -217863,20 +217863,20 @@
     "right": "James Ray Ervin Yonts",
     "rightRec": "5-3",
     "leftScore": 0.0,
-    "leftProj": 127.22,
+    "leftProj": 127.26,
     "rightScore": 0.0,
-    "rightProj": 142.33,
+    "rightProj": 142.35,
     "shotgun": [],
     "leftActive": [
      {
       "player": "J. Smith-Njigba",
       "pos": "WR",
       "slot": "W/R/T",
-      "rem": 22.1,
+      "rem": 22.16,
       "state": "pending",
       "pts": 0.0,
-      "proj": 22.1,
-      "live": 22.1,
+      "proj": 22.16,
+      "live": 22.16,
       "game": "Sun 4:25 pm vs Ari"
      },
      {
@@ -217905,11 +217905,11 @@
       "player": "M. Golden",
       "pos": "WR",
       "slot": "WR",
-      "rem": 14.59,
+      "rem": 14.57,
       "state": "pending",
       "pts": 0.0,
-      "proj": 14.59,
-      "live": 14.59,
+      "proj": 14.57,
+      "live": 14.57,
       "game": "Sun 4:25 pm @ NE"
      },
      {
@@ -218028,11 +218028,11 @@
       "player": "T. Allgeier",
       "pos": "RB",
       "slot": "RB",
-      "rem": 13.97,
+      "rem": 13.99,
       "state": "pending",
       "pts": 0.0,
-      "proj": 13.97,
-      "live": 13.97,
+      "proj": 13.99,
+      "live": 13.99,
       "game": "Sun 4:25 pm @ Sea"
      },
      {
@@ -218082,18 +218082,18 @@
     "leftScore": 7.08,
     "leftProj": 114.83,
     "rightScore": 14.0,
-    "rightProj": 129.9,
+    "rightProj": 129.91,
     "shotgun": [],
     "leftActive": [
      {
       "player": "D. Maye",
       "pos": "QB",
       "slot": "QB",
-      "rem": 23.82,
+      "rem": 23.84,
       "state": "pending",
       "pts": 0.0,
-      "proj": 23.82,
-      "live": 23.82,
+      "proj": 23.84,
+      "live": 23.84,
       "game": "Sun 4:25 pm vs GB"
      },
      {
@@ -218111,11 +218111,11 @@
       "player": "C. Watson",
       "pos": "WR",
       "slot": "WR",
-      "rem": 14.8,
+      "rem": 14.78,
       "state": "pending",
       "pts": 0.0,
-      "proj": 14.8,
-      "live": 14.8,
+      "proj": 14.78,
+      "live": 14.78,
       "game": "Sun 4:25 pm @ NE"
      },
      {
@@ -218212,11 +218212,11 @@
       "player": "J. Jacobs",
       "pos": "RB",
       "slot": "RB",
-      "rem": 14.64,
+      "rem": 14.65,
       "state": "pending",
       "pts": 0.0,
-      "proj": 14.64,
-      "live": 14.64,
+      "proj": 14.65,
+      "live": 14.65,
       "game": "Sun 4:25 pm @ NE"
      },
      {
@@ -218275,9 +218275,9 @@
     "right": "RosterMogged",
     "rightRec": "3-5",
     "leftScore": 0.0,
-    "leftProj": 139.53,
+    "leftProj": 139.57,
     "rightScore": 0.0,
-    "rightProj": 122.37,
+    "rightProj": 122.42,
     "shotgun": [],
     "leftActive": [
      {
@@ -218339,11 +218339,11 @@
       "player": "T. McBride",
       "pos": "TE",
       "slot": "TE",
-      "rem": 12.88,
+      "rem": 12.92,
       "state": "pending",
       "pts": 0.0,
-      "proj": 12.88,
-      "live": 12.88,
+      "proj": 12.92,
+      "live": 12.92,
       "game": "Sun 4:25 pm @ Sea"
      },
      {
@@ -218440,11 +218440,11 @@
       "player": "Z. Charbonnet",
       "pos": "RB",
       "slot": "RB",
-      "rem": 10.63,
+      "rem": 10.68,
       "state": "pending",
       "pts": 0.0,
-      "proj": 10.63,
-      "live": 10.63,
+      "proj": 10.68,
+      "live": 10.68,
       "game": "Sun 4:25 pm vs Ari"
      },
      {
@@ -218729,22 +218729,22 @@
       "player": "T. Kraft",
       "pos": "TE",
       "slot": "TE",
-      "rem": 10.45,
+      "rem": 10.44,
       "state": "pending",
       "pts": 0.0,
-      "proj": 10.45,
-      "live": 10.45,
+      "proj": 10.44,
+      "live": 10.44,
       "game": "Sun 4:25 pm @ NE"
      },
      {
       "player": "D. Douglas",
       "pos": "WR",
       "slot": "W/R/T",
-      "rem": 8.94,
+      "rem": 8.95,
       "state": "pending",
       "pts": 0.0,
-      "proj": 8.94,
-      "live": 8.94,
+      "proj": 8.95,
+      "live": 8.95,
       "game": "Sun 4:25 pm vs GB"
      },
      {
@@ -218862,7 +218862,7 @@
     "leftScore": 0.0,
     "leftProj": 116.38,
     "rightScore": 0.0,
-    "rightProj": 116.86,
+    "rightProj": 116.83,
     "shotgun": [],
     "leftActive": [
      {
@@ -218970,22 +218970,22 @@
       "player": "J. Love",
       "pos": "QB",
       "slot": "QB",
-      "rem": 20.08,
+      "rem": 20.07,
       "state": "pending",
       "pts": 0.0,
-      "proj": 20.08,
-      "live": 20.08,
+      "proj": 20.07,
+      "live": 20.07,
       "game": "Sun 4:25 pm @ NE"
      },
      {
       "player": "R. Stevenson",
       "pos": "RB",
       "slot": "W/R/T",
-      "rem": 16.36,
+      "rem": 16.37,
       "state": "pending",
       "pts": 0.0,
-      "proj": 16.36,
-      "live": 16.36,
+      "proj": 16.37,
+      "live": 16.37,
       "game": "Sun 4:25 pm vs GB"
      },
      {
@@ -219058,11 +219058,11 @@
       "player": "H. Henry",
       "pos": "TE",
       "slot": "TE",
-      "rem": 6.75,
+      "rem": 6.72,
       "state": "pending",
       "pts": 0.0,
-      "proj": 6.75,
-      "live": 6.75,
+      "proj": 6.72,
+      "live": 6.72,
       "game": "Sun 4:25 pm vs GB"
      }
     ],
