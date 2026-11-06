@@ -217853,7 +217853,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-06T22:11:43+00:00",
+  "ts": "2026-11-06T22:31:52+00:00",
   "week": 9,
   "matchups": [
    {
@@ -217863,9 +217863,9 @@
     "right": "James Ray Ervin Yonts",
     "rightRec": "5-3",
     "leftScore": 0.0,
-    "leftProj": 129.52,
+    "leftProj": 129.51,
     "rightScore": 0.0,
-    "rightProj": 141.83,
+    "rightProj": 141.82,
     "shotgun": [],
     "leftActive": [
      {
@@ -217938,11 +217938,11 @@
       "player": "S. LaPorta",
       "pos": "TE",
       "slot": "TE",
-      "rem": 10.9,
+      "rem": 10.89,
       "state": "pending",
       "pts": 0.0,
-      "proj": 10.9,
-      "live": 10.9,
+      "proj": 10.89,
+      "live": 10.89,
       "game": "Sun 1:00 pm @ Mia"
      },
      {
@@ -217984,11 +217984,11 @@
       "player": "P. Nacua",
       "pos": "WR",
       "slot": "WR",
-      "rem": 21.8,
+      "rem": 21.79,
       "state": "pending",
       "pts": 0.0,
-      "proj": 21.8,
-      "live": 21.8,
+      "proj": 21.79,
+      "live": 21.79,
       "game": "Sun 1:00 pm @ Was"
      },
      {
@@ -218275,20 +218275,20 @@
     "right": "RosterMogged",
     "rightRec": "3-5",
     "leftScore": 0.0,
-    "leftProj": 139.08,
+    "leftProj": 139.15,
     "rightScore": 0.0,
-    "rightProj": 122.11,
+    "rightProj": 122.16,
     "shotgun": [],
     "leftActive": [
      {
       "player": "J. Gibbs",
       "pos": "RB",
       "slot": "RB",
-      "rem": 25.79,
+      "rem": 25.8,
       "state": "pending",
       "pts": 0.0,
-      "proj": 25.79,
-      "live": 25.79,
+      "proj": 25.8,
+      "live": 25.8,
       "game": "Sun 1:00 pm @ Mia"
      },
      {
@@ -218306,11 +218306,11 @@
       "player": "K. Williams",
       "pos": "RB",
       "slot": "RB",
-      "rem": 18.01,
+      "rem": 18.0,
       "state": "pending",
       "pts": 0.0,
-      "proj": 18.01,
-      "live": 18.01,
+      "proj": 18.0,
+      "live": 18.0,
       "game": "Sun 1:00 pm @ Was"
      },
      {
@@ -218350,11 +218350,11 @@
       "player": "S. Diggs",
       "pos": "WR",
       "slot": "WR",
-      "rem": 10.93,
+      "rem": 11.0,
       "state": "pending",
       "pts": 0.0,
-      "proj": 10.93,
-      "live": 10.93,
+      "proj": 11.0,
+      "live": 11.0,
       "game": "Sun 1:00 pm vs LAR"
      },
      {
@@ -218385,11 +218385,11 @@
       "player": "B. Purdy",
       "pos": "QB",
       "slot": "QB",
-      "rem": 25.07,
+      "rem": 25.12,
       "state": "pending",
       "pts": 0.0,
-      "proj": 25.07,
-      "live": 25.07,
+      "proj": 25.12,
+      "live": 25.12,
       "game": "Sun 4:25 pm vs LV"
      },
      {
@@ -218494,7 +218494,7 @@
     "leftScore": 32.7,
     "leftProj": 132.3,
     "rightScore": 3.8,
-    "rightProj": 117.21,
+    "rightProj": 117.22,
     "shotgun": [],
     "leftActive": [
      {
@@ -218564,7 +218564,7 @@
       "game": "Sun 1:00 pm vs Dal"
      },
      {
-      "player": "Seahawks",
+      "player": "Seattle",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 10.14,
@@ -218624,11 +218624,11 @@
       "player": "O. Gordon II",
       "pos": "RB",
       "slot": "RB",
-      "rem": 14.12,
+      "rem": 14.13,
       "state": "pending",
       "pts": 0.0,
-      "proj": 14.12,
-      "live": 14.12,
+      "proj": 14.13,
+      "live": 14.13,
       "game": "Sun 1:00 pm vs Det"
      },
      {
@@ -218654,7 +218654,7 @@
       "game": "Mon 8:15 pm vs Buf"
      },
      {
-      "player": "49ers",
+      "player": "S. Francisco",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 6.7,
@@ -218678,7 +218678,7 @@
     "leftScore": 24.48,
     "leftProj": 103.74,
     "rightScore": 0.0,
-    "rightProj": 111.44,
+    "rightProj": 111.41,
     "shotgun": [],
     "leftActive": [
      {
@@ -218748,7 +218748,7 @@
       "game": "Sun 4:25 pm vs GB"
      },
      {
-      "player": "Rams",
+      "player": "L. Angeles",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 6.88,
@@ -218775,11 +218775,11 @@
       "player": "C. McCaffrey",
       "pos": "RB",
       "slot": "RB",
-      "rem": 22.45,
+      "rem": 22.48,
       "state": "pending",
       "pts": 0.0,
-      "proj": 22.45,
-      "live": 22.45,
+      "proj": 22.48,
+      "live": 22.48,
       "game": "Sun 4:25 pm vs LV"
      },
      {
@@ -218797,11 +218797,11 @@
       "player": "R. White",
       "pos": "RB",
       "slot": "RB",
-      "rem": 11.45,
+      "rem": 11.39,
       "state": "pending",
       "pts": 0.0,
-      "proj": 11.45,
-      "live": 11.45,
+      "proj": 11.39,
+      "live": 11.39,
       "game": "Sun 1:00 pm vs LAR"
      },
      {
@@ -218838,7 +218838,7 @@
       "game": "Sun 1:00 pm @ Car"
      },
      {
-      "player": "Bears",
+      "player": "Chicago",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 8.28,
@@ -218880,22 +218880,22 @@
       "player": "J. Daniels",
       "pos": "QB",
       "slot": "QB",
-      "rem": 21.86,
+      "rem": 21.84,
       "state": "pending",
       "pts": 0.0,
-      "proj": 21.86,
-      "live": 21.86,
+      "proj": 21.84,
+      "live": 21.84,
       "game": "Sun 1:00 pm vs LAR"
      },
      {
       "player": "G. Kittle",
       "pos": "TE",
       "slot": "W/R/T",
-      "rem": 14.96,
+      "rem": 14.98,
       "state": "pending",
       "pts": 0.0,
-      "proj": 14.96,
-      "live": 14.96,
+      "proj": 14.98,
+      "live": 14.98,
       "game": "Sun 4:25 pm vs LV"
      },
      {
@@ -218943,7 +218943,7 @@
       "game": "Mon 8:15 pm @ Min"
      },
      {
-      "player": "Bills",
+      "player": "Buffalo",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 7.31,
@@ -219044,7 +219044,7 @@
       "game": "Sun 9:30 am @ Atl"
      },
      {
-      "player": "Broncos",
+      "player": "Denver",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 7.73,
