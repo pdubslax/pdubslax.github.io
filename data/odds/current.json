@@ -68,7 +68,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-06T00:22:06+00:00",
+  "ts": "2026-11-06T00:41:59+00:00",
   "week": 9,
   "matchups": [
    {
@@ -78,7 +78,7 @@
     "right": "James Ray Ervin Yonts",
     "rightRec": "5-3",
     "leftScore": 0.0,
-    "leftProj": 123.12,
+    "leftProj": 123.13,
     "rightScore": 0.0,
     "rightProj": 140.59,
     "shotgun": [],
@@ -120,11 +120,11 @@
       "player": "M. Golden",
       "pos": "WR",
       "slot": "WR",
-      "rem": 14.51,
+      "rem": 14.52,
       "state": "pending",
       "pts": 0.0,
-      "proj": 14.51,
-      "live": 14.51,
+      "proj": 14.52,
+      "live": 14.52,
       "game": "Sun 4:25 pm @ NE"
      },
      {
@@ -295,7 +295,7 @@
     "right": "Alex Michael Pagels",
     "rightRec": "3-5",
     "leftScore": 0.0,
-    "leftProj": 121.33,
+    "leftProj": 121.35,
     "rightScore": 0.0,
     "rightProj": 124.41,
     "shotgun": [],
@@ -337,22 +337,22 @@
       "player": "D. Henry",
       "pos": "RB",
       "slot": "RB",
-      "rem": 13.97,
+      "rem": 13.98,
       "state": "pending",
       "pts": 0.0,
-      "proj": 13.97,
-      "live": 13.97,
+      "proj": 13.98,
+      "live": 13.98,
       "game": "Thu 8:15 pm vs Jax"
      },
      {
       "player": "M. Wilson",
       "pos": "WR",
       "slot": "WR",
-      "rem": 11.37,
+      "rem": 11.38,
       "state": "pending",
       "pts": 0.0,
-      "proj": 11.37,
-      "live": 11.37,
+      "proj": 11.38,
+      "live": 11.38,
       "game": "Sun 4:25 pm @ Sea"
      },
      {
@@ -521,11 +521,11 @@
       "player": "J. Gibbs",
       "pos": "RB",
       "slot": "RB",
-      "rem": 25.92,
+      "rem": 25.91,
       "state": "pending",
       "pts": 0.0,
-      "proj": 25.92,
-      "live": 25.92,
+      "proj": 25.91,
+      "live": 25.91,
       "game": "Sun 1:00 pm @ Mia"
      },
      {
@@ -576,11 +576,11 @@
       "player": "T. McBride",
       "pos": "TE",
       "slot": "TE",
-      "rem": 12.52,
+      "rem": 12.53,
       "state": "pending",
       "pts": 0.0,
-      "proj": 12.52,
-      "live": 12.52,
+      "proj": 12.53,
+      "live": 12.53,
       "game": "Sun 4:25 pm @ Sea"
      },
      {
@@ -731,7 +731,7 @@
     "leftScore": 0.0,
     "leftProj": 123.15,
     "rightScore": 0.0,
-    "rightProj": 126.3,
+    "rightProj": 126.17,
     "shotgun": [],
     "leftActive": [
      {
@@ -894,11 +894,11 @@
       "player": "Z. Flowers",
       "pos": "WR",
       "slot": "W/R/T",
-      "rem": 13.34,
+      "rem": 13.21,
       "state": "pending",
       "pts": 0.0,
-      "proj": 13.34,
-      "live": 13.34,
+      "proj": 13.21,
+      "live": 13.21,
       "game": "Thu 8:15 pm vs Jax"
      },
      {
