@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 10,
- "ts": "2026-11-06T10:08:34+00:00",
+ "ts": "2026-11-06T10:48:34+00:00",
  "matchups": [
   {
    "id": "1v9",
@@ -10,7 +10,7 @@
    "right": "Sir this is a FF league",
    "rightRec": "3-5",
    "leftScore": 0.0,
-   "leftProj": 120.71,
+   "leftProj": 120.72,
    "rightScore": 0.0,
    "rightProj": 105.03,
    "leftPct": 63,
@@ -125,11 +125,11 @@
      "player": "D. Singletary",
      "pos": "RB",
      "slot": "RB",
-     "rem": 8.02,
+     "rem": 8.03,
      "state": "pending",
      "pts": 0.0,
-     "proj": 8.02,
-     "live": 8.02,
+     "proj": 8.03,
+     "live": 8.03,
      "game": "Thu 8:15 pm vs Was"
     }
    ],
@@ -455,7 +455,7 @@
    "right": "Tuten Brown",
    "rightRec": "5-3",
    "leftScore": 0.0,
-   "leftProj": 118.72,
+   "leftProj": 118.71,
    "rightScore": 0.0,
    "rightProj": 106.25,
    "leftPct": 60,
@@ -551,11 +551,11 @@
      "player": "S. Diggs",
      "pos": "WR",
      "slot": "WR",
-     "rem": 10.61,
+     "rem": 10.6,
      "state": "pending",
      "pts": 0.0,
-     "proj": 10.61,
-     "live": 10.61,
+     "proj": 10.6,
+     "live": 10.6,
      "game": "Thu 8:15 pm @ NYG"
     },
     {
@@ -902,7 +902,7 @@
    "leftScore": 0.0,
    "leftProj": 118.77,
    "rightScore": 0.0,
-   "rightProj": 96.17,
+   "rightProj": 96.16,
    "leftPct": 68,
    "leftRem": 9,
    "rightRem": 6,
@@ -1067,11 +1067,11 @@
      "player": "M. Nabers",
      "pos": "WR",
      "slot": "W/R/T",
-     "rem": 18.19,
+     "rem": 18.18,
      "state": "pending",
      "pts": 0.0,
-     "proj": 18.19,
-     "live": 18.19,
+     "proj": 18.18,
+     "live": 18.18,
      "game": "Thu 8:15 pm vs Was"
     },
     {

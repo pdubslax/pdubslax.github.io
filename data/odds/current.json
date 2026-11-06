@@ -217853,7 +217853,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-06T10:28:32+00:00",
+  "ts": "2026-11-06T10:48:43+00:00",
   "week": 9,
   "matchups": [
    {
@@ -218498,7 +218498,7 @@
     "leftScore": 32.7,
     "leftProj": 132.45,
     "rightScore": 3.8,
-    "rightProj": 116.95,
+    "rightProj": 116.94,
     "shotgun": [],
     "leftActive": [
      {
@@ -218595,11 +218595,11 @@
       "player": "A. St. Brown",
       "pos": "WR",
       "slot": "WR",
-      "rem": 18.22,
+      "rem": 18.21,
       "state": "pending",
       "pts": 0.0,
-      "proj": 18.22,
-      "live": 18.22,
+      "proj": 18.21,
+      "live": 18.21,
       "game": "Sun 1:00 pm @ Mia"
      },
      {
