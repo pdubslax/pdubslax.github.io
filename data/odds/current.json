@@ -217853,7 +217853,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-06T08:48:42+00:00",
+  "ts": "2026-11-06T09:08:34+00:00",
   "week": 9,
   "matchups": [
    {
@@ -218082,8 +218082,23 @@
     "leftScore": 7.08,
     "leftProj": 114.43,
     "rightScore": 14.0,
-    "rightProj": 129.42,
-    "shotgun": [],
+    "rightProj": 121.02,
+    "shotgun": [
+     {
+      "player": "(Empty)",
+      "pos": "",
+      "team": "",
+      "pts": 0.0,
+      "game": "",
+      "tag": null,
+      "state": "empty",
+      "slot": "K",
+      "manager": "Alex Michael Pagels",
+      "locked": false,
+      "live": null,
+      "reason": "pts"
+     }
+    ],
     "leftActive": [
      {
       "player": "D. Maye",
@@ -218242,17 +218257,6 @@
       "game": "Sun 1:00 pm @ Phi"
      },
      {
-      "player": "D. Zvada",
-      "pos": "K",
-      "slot": "K",
-      "rem": 8.4,
-      "state": "pending",
-      "pts": 0.0,
-      "proj": 8.4,
-      "live": 8.4,
-      "game": "Sun 1:00 pm @ Phi"
-     },
-     {
       "player": "D. Goedert",
       "pos": "TE",
       "slot": "TE",
@@ -218264,9 +218268,9 @@
       "game": "Sun 1:00 pm vs NYG"
      }
     ],
-    "leftPct": 37,
+    "leftPct": 44,
     "leftRem": 8,
-    "rightRem": 8
+    "rightRem": 7
    },
    {
     "id": "3v10",
