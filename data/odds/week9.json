@@ -217853,7 +217853,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-06T13:49:36+00:00",
+  "ts": "2026-11-06T14:09:25+00:00",
   "week": 9,
   "matchups": [
    {
@@ -217865,7 +217865,7 @@
     "leftScore": 0.0,
     "leftProj": 122.31,
     "rightScore": 0.0,
-    "rightProj": 140.59,
+    "rightProj": 140.68,
     "shotgun": [],
     "leftActive": [
      {
@@ -218006,11 +218006,11 @@
       "player": "D. London",
       "pos": "WR",
       "slot": "WR",
-      "rem": 17.2,
+      "rem": 17.29,
       "state": "pending",
       "pts": 0.0,
-      "proj": 17.2,
-      "live": 17.2,
+      "proj": 17.29,
+      "live": 17.29,
       "game": "Sun 9:30 am vs Cin"
      },
      {
@@ -218281,7 +218281,7 @@
     "leftScore": 0.0,
     "leftProj": 139.37,
     "rightScore": 0.0,
-    "rightProj": 120.11,
+    "rightProj": 120.21,
     "shotgun": [],
     "leftActive": [
      {
@@ -218466,11 +218466,11 @@
       "player": "K. Pitts Sr.",
       "pos": "TE",
       "slot": "TE",
-      "rem": 8.88,
+      "rem": 8.98,
       "state": "pending",
       "pts": 0.0,
-      "proj": 8.88,
-      "live": 8.88,
+      "proj": 8.98,
+      "live": 8.98,
       "game": "Sun 9:30 am vs Cin"
      },
      {
@@ -218875,7 +218875,7 @@
     "right": "Sir this is a FF league",
     "rightRec": "3-5",
     "leftScore": 0.0,
-    "leftProj": 122.36,
+    "leftProj": 122.61,
     "rightScore": 0.0,
     "rightProj": 111.8,
     "shotgun": [],
@@ -218884,11 +218884,11 @@
       "player": "B. Robinson",
       "pos": "RB",
       "slot": "RB",
-      "rem": 23.15,
+      "rem": 23.4,
       "state": "pending",
       "pts": 0.0,
-      "proj": 23.15,
-      "live": 23.15,
+      "proj": 23.4,
+      "live": 23.4,
       "game": "Sun 9:30 am vs Cin"
      },
      {
@@ -218969,7 +218969,7 @@
       "game": "Mon 8:15 pm vs Buf"
      },
      {
-      "player": "Buffalo",
+      "player": "Bills",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 7.32,
@@ -219059,7 +219059,7 @@
       "game": "Sun 1:00 pm @ KC"
      },
      {
-      "player": "Denver",
+      "player": "Broncos",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 7.79,
