@@ -217853,7 +217853,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-06T15:09:36+00:00",
+  "ts": "2026-11-06T15:29:26+00:00",
   "week": 9,
   "matchups": [
    {
@@ -217863,9 +217863,9 @@
     "right": "James Ray Ervin Yonts",
     "rightRec": "5-3",
     "leftScore": 0.0,
-    "leftProj": 122.31,
+    "leftProj": 122.33,
     "rightScore": 0.0,
-    "rightProj": 140.69,
+    "rightProj": 140.7,
     "shotgun": [],
     "leftActive": [
      {
@@ -217916,11 +217916,11 @@
       "player": "J. Coker",
       "pos": "WR",
       "slot": "WR",
-      "rem": 12.07,
+      "rem": 12.09,
       "state": "pending",
       "pts": 0.0,
-      "proj": 12.07,
-      "live": 12.07,
+      "proj": 12.09,
+      "live": 12.09,
       "game": "Sun 1:00 pm vs Den"
      },
      {
@@ -218006,11 +218006,11 @@
       "player": "D. London",
       "pos": "WR",
       "slot": "WR",
-      "rem": 17.29,
+      "rem": 17.3,
       "state": "pending",
       "pts": 0.0,
-      "proj": 17.29,
-      "live": 17.29,
+      "proj": 17.3,
+      "live": 17.3,
       "game": "Sun 9:30 am vs Cin"
      },
      {
@@ -218082,7 +218082,7 @@
     "leftScore": 7.08,
     "leftProj": 114.43,
     "rightScore": 14.0,
-    "rightProj": 129.83,
+    "rightProj": 129.84,
     "shotgun": [],
     "leftActive": [
      {
@@ -218100,11 +218100,11 @@
       "player": "C. Brown",
       "pos": "RB",
       "slot": "RB",
-      "rem": 16.56,
+      "rem": 16.55,
       "state": "pending",
       "pts": 0.0,
-      "proj": 16.56,
-      "live": 16.56,
+      "proj": 16.55,
+      "live": 16.55,
       "game": "Sun 9:30 am @ Atl"
      },
      {
@@ -218133,11 +218133,11 @@
       "player": "J. Waddle",
       "pos": "WR",
       "slot": "W/R/T",
-      "rem": 11.1,
+      "rem": 11.11,
       "state": "pending",
       "pts": 0.0,
-      "proj": 11.1,
-      "live": 11.1,
+      "proj": 11.11,
+      "live": 11.11,
       "game": "Sun 1:00 pm @ Car"
      },
      {
@@ -218179,22 +218179,22 @@
       "player": "J. Burrow",
       "pos": "QB",
       "slot": "QB",
-      "rem": 24.3,
+      "rem": 24.29,
       "state": "pending",
       "pts": 0.0,
-      "proj": 24.3,
-      "live": 24.3,
+      "proj": 24.29,
+      "live": 24.29,
       "game": "Sun 9:30 am @ Atl"
      },
      {
       "player": "T. Higgins",
       "pos": "WR",
       "slot": "WR",
-      "rem": 16.45,
+      "rem": 16.44,
       "state": "pending",
       "pts": 0.0,
-      "proj": 16.45,
-      "live": 16.45,
+      "proj": 16.44,
+      "live": 16.44,
       "game": "Sun 9:30 am @ Atl"
      },
      {
@@ -218223,11 +218223,11 @@
       "player": "J. Coleman",
       "pos": "RB",
       "slot": "RB",
-      "rem": 14.4,
+      "rem": 14.43,
       "state": "pending",
       "pts": 0.0,
-      "proj": 14.4,
-      "live": 14.4,
+      "proj": 14.43,
+      "live": 14.43,
       "game": "Sun 1:00 pm @ Car"
      },
      {
@@ -218275,9 +218275,9 @@
     "right": "RosterMogged",
     "rightRec": "3-5",
     "leftScore": 0.0,
-    "leftProj": 139.33,
+    "leftProj": 139.35,
     "rightScore": 0.0,
-    "rightProj": 120.08,
+    "rightProj": 120.1,
     "shotgun": [],
     "leftActive": [
      {
@@ -218328,11 +218328,11 @@
       "player": "T. McMillan",
       "pos": "WR",
       "slot": "WR",
-      "rem": 13.02,
+      "rem": 13.04,
       "state": "pending",
       "pts": 0.0,
-      "proj": 13.02,
-      "live": 13.02,
+      "proj": 13.04,
+      "live": 13.04,
       "game": "Sun 1:00 pm vs Den"
      },
      {
@@ -218462,11 +218462,11 @@
       "player": "K. Pitts Sr.",
       "pos": "TE",
       "slot": "TE",
-      "rem": 8.98,
+      "rem": 9.0,
       "state": "pending",
       "pts": 0.0,
-      "proj": 8.98,
-      "live": 8.98,
+      "proj": 9.0,
+      "live": 9.0,
       "game": "Sun 9:30 am vs Cin"
      },
      {
@@ -218492,9 +218492,9 @@
     "right": "Zen Buddha Boys 🪷💨",
     "rightRec": "4-4",
     "leftScore": 32.7,
-    "leftProj": 132.49,
+    "leftProj": 132.46,
     "rightScore": 3.8,
-    "rightProj": 116.91,
+    "rightProj": 116.93,
     "shotgun": [],
     "leftActive": [
      {
@@ -218512,11 +218512,11 @@
       "player": "J. Chase",
       "pos": "WR",
       "slot": "WR",
-      "rem": 18.8,
+      "rem": 18.78,
       "state": "pending",
       "pts": 0.0,
-      "proj": 18.8,
-      "live": 18.8,
+      "proj": 18.78,
+      "live": 18.78,
       "game": "Sun 9:30 am @ Atl"
      },
      {
@@ -218534,11 +218534,11 @@
       "player": "A. Jeanty",
       "pos": "RB",
       "slot": "RB",
-      "rem": 11.94,
+      "rem": 11.93,
       "state": "pending",
       "pts": 0.0,
-      "proj": 11.94,
-      "live": 11.94,
+      "proj": 11.93,
+      "live": 11.93,
       "game": "Sun 4:25 pm @ SF"
      },
      {
@@ -218602,11 +218602,11 @@
       "player": "C. Hubbard",
       "pos": "RB",
       "slot": "RB",
-      "rem": 17.43,
+      "rem": 17.45,
       "state": "pending",
       "pts": 0.0,
-      "proj": 17.43,
-      "live": 17.43,
+      "proj": 17.45,
+      "live": 17.45,
       "game": "Sun 1:00 pm vs Den"
      },
      {
@@ -218678,7 +218678,7 @@
     "leftScore": 24.48,
     "leftProj": 104.41,
     "rightScore": 0.0,
-    "rightProj": 123.19,
+    "rightProj": 123.2,
     "shotgun": [],
     "leftActive": [
      {
@@ -218841,11 +218841,11 @@
       "player": "W. Lutz",
       "pos": "K",
       "slot": "K",
-      "rem": 8.82,
+      "rem": 8.83,
       "state": "pending",
       "pts": 0.0,
-      "proj": 8.82,
-      "live": 8.82,
+      "proj": 8.83,
+      "live": 8.83,
       "game": "Sun 1:00 pm @ Car"
      },
      {
@@ -218871,7 +218871,7 @@
     "right": "Sir this is a FF league",
     "rightRec": "3-5",
     "leftScore": 0.0,
-    "leftProj": 122.61,
+    "leftProj": 122.83,
     "rightScore": 0.0,
     "rightProj": 111.8,
     "shotgun": [],
@@ -218880,11 +218880,11 @@
       "player": "B. Robinson",
       "pos": "RB",
       "slot": "RB",
-      "rem": 23.4,
+      "rem": 23.62,
       "state": "pending",
       "pts": 0.0,
-      "proj": 23.4,
-      "live": 23.4,
+      "proj": 23.62,
+      "live": 23.62,
       "game": "Sun 9:30 am vs Cin"
      },
      {
