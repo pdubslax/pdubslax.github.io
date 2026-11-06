@@ -217853,7 +217853,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-06T19:10:28+00:00",
+  "ts": "2026-11-06T19:30:37+00:00",
   "week": 9,
   "matchups": [
    {
@@ -218082,7 +218082,7 @@
     "leftScore": 7.08,
     "leftProj": 114.83,
     "rightScore": 14.0,
-    "rightProj": 129.89,
+    "rightProj": 129.9,
     "shotgun": [],
     "leftActive": [
      {
@@ -218201,11 +218201,11 @@
       "player": "C. Olave",
       "pos": "WR",
       "slot": "WR",
-      "rem": 14.76,
+      "rem": 14.77,
       "state": "pending",
       "pts": 0.0,
-      "proj": 14.76,
-      "live": 14.76,
+      "proj": 14.77,
+      "live": 14.77,
       "game": "Sun 1:00 pm vs Cle"
      },
      {
@@ -218678,7 +218678,7 @@
     "leftScore": 24.48,
     "leftProj": 104.02,
     "rightScore": 0.0,
-    "rightProj": 111.58,
+    "rightProj": 111.6,
     "shotgun": [],
     "leftActive": [
      {
@@ -218819,11 +218819,11 @@
       "player": "A. Kamara",
       "pos": "RB",
       "slot": "W/R/T",
-      "rem": 9.43,
+      "rem": 9.45,
       "state": "pending",
       "pts": 0.0,
-      "proj": 9.43,
-      "live": 9.43,
+      "proj": 9.45,
+      "live": 9.45,
       "game": "Sun 1:00 pm vs Cle"
      },
      {
