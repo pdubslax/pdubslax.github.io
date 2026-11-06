@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 10,
- "ts": "2026-11-06T16:29:26+00:00",
+ "ts": "2026-11-06T17:09:27+00:00",
  "matchups": [
   {
    "id": "1v9",
@@ -231,7 +231,7 @@
    "right": "RosterMogged",
    "rightRec": "3-5",
    "leftScore": 0.0,
-   "leftProj": 104.58,
+   "leftProj": 104.56,
    "rightScore": 0.0,
    "rightProj": 112.76,
    "leftPct": 43,
@@ -283,11 +283,11 @@
      "player": "D. Henry",
      "pos": "RB",
      "slot": "RB",
-     "rem": 17.61,
+     "rem": 17.6,
      "state": "pending",
      "pts": 0.0,
-     "proj": 17.61,
-     "live": 17.61,
+     "proj": 17.6,
+     "live": 17.6,
      "game": "Mon 8:15 pm vs LAC"
     },
     {
@@ -316,11 +316,11 @@
      "player": "I. Likely",
      "pos": "TE",
      "slot": "TE",
-     "rem": 13.4,
+     "rem": 13.39,
      "state": "pending",
      "pts": 0.0,
-     "proj": 13.4,
-     "live": 13.4,
+     "proj": 13.39,
+     "live": 13.39,
      "game": "Thu 8:15 pm vs Was"
     },
     {
@@ -900,9 +900,9 @@
    "right": "Alex Michael Pagels",
    "rightRec": "3-5",
    "leftScore": 0.0,
-   "leftProj": 118.85,
+   "leftProj": 118.86,
    "rightScore": 0.0,
-   "rightProj": 96.09,
+   "rightProj": 96.08,
    "leftPct": 69,
    "leftRem": 9,
    "rightRem": 6,
@@ -999,11 +999,11 @@
      "player": "C. Skattebo",
      "pos": "RB",
      "slot": "RB",
-     "rem": 12.72,
+     "rem": 12.73,
      "state": "pending",
      "pts": 0.0,
-     "proj": 12.72,
-     "live": 12.72,
+     "proj": 12.73,
+     "live": 12.73,
      "game": "Thu 8:15 pm vs Was"
     },
     {
@@ -1067,11 +1067,11 @@
      "player": "M. Nabers",
      "pos": "WR",
      "slot": "W/R/T",
-     "rem": 18.18,
+     "rem": 18.17,
      "state": "pending",
      "pts": 0.0,
-     "proj": 18.18,
-     "live": 18.18,
+     "proj": 18.17,
+     "live": 18.17,
      "game": "Thu 8:15 pm vs Was"
     },
     {
@@ -1127,7 +1127,7 @@
    "right": "Kiwis are better than mid",
    "rightRec": "5-3",
    "leftScore": 0.0,
-   "leftProj": 101.53,
+   "leftProj": 101.41,
    "rightScore": 0.0,
    "rightProj": 103.5,
    "leftPct": 48,
@@ -1204,11 +1204,11 @@
      "player": "Z. Flowers",
      "pos": "WR",
      "slot": "W/R/T",
-     "rem": 14.31,
+     "rem": 14.19,
      "state": "pending",
      "pts": 0.0,
-     "proj": 14.31,
-     "live": 14.31,
+     "proj": 14.19,
+     "live": 14.19,
      "game": "Mon 8:15 pm vs LAC"
     },
     {
