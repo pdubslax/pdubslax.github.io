@@ -217853,7 +217853,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-06T16:29:36+00:00",
+  "ts": "2026-11-06T16:49:26+00:00",
   "week": 9,
   "matchups": [
    {
@@ -217863,7 +217863,7 @@
     "right": "James Ray Ervin Yonts",
     "rightRec": "5-3",
     "leftScore": 0.0,
-    "leftProj": 122.33,
+    "leftProj": 122.35,
     "rightScore": 0.0,
     "rightProj": 140.63,
     "shotgun": [],
@@ -217927,11 +217927,11 @@
       "player": "S. LaPorta",
       "pos": "TE",
       "slot": "TE",
-      "rem": 10.93,
+      "rem": 10.95,
       "state": "pending",
       "pts": 0.0,
-      "proj": 10.93,
-      "live": 10.93,
+      "proj": 10.95,
+      "live": 10.95,
       "game": "Sun 1:00 pm @ Mia"
      },
      {
@@ -218275,7 +218275,7 @@
     "right": "RosterMogged",
     "rightRec": "3-5",
     "leftScore": 0.0,
-    "leftProj": 139.33,
+    "leftProj": 139.39,
     "rightScore": 0.0,
     "rightProj": 122.14,
     "shotgun": [],
@@ -218284,11 +218284,11 @@
       "player": "J. Gibbs",
       "pos": "RB",
       "slot": "RB",
-      "rem": 25.86,
+      "rem": 25.9,
       "state": "pending",
       "pts": 0.0,
-      "proj": 25.86,
-      "live": 25.86,
+      "proj": 25.9,
+      "live": 25.9,
       "game": "Sun 1:00 pm @ Mia"
      },
      {
@@ -218372,11 +218372,11 @@
       "player": "Lions",
       "pos": "DEF",
       "slot": "DEF",
-      "rem": 8.46,
+      "rem": 8.48,
       "state": "pending",
       "pts": 0.0,
-      "proj": 8.46,
-      "live": 8.46,
+      "proj": 8.48,
+      "live": 8.48,
       "game": "Sun 1:00 pm @ Mia"
      }
     ],
@@ -218492,20 +218492,20 @@
     "right": "Zen Buddha Boys 🪷💨",
     "rightRec": "4-4",
     "leftScore": 32.7,
-    "leftProj": 132.48,
+    "leftProj": 132.44,
     "rightScore": 3.8,
-    "rightProj": 116.93,
+    "rightProj": 116.92,
     "shotgun": [],
     "leftActive": [
      {
       "player": "M. Willis",
       "pos": "QB",
       "slot": "QB",
-      "rem": 19.87,
+      "rem": 19.83,
       "state": "pending",
       "pts": 0.0,
-      "proj": 19.87,
-      "live": 19.87,
+      "proj": 19.83,
+      "live": 19.83,
       "game": "Sun 1:00 pm vs Det"
      },
      {
@@ -218591,11 +218591,11 @@
       "player": "A. St. Brown",
       "pos": "WR",
       "slot": "WR",
-      "rem": 18.2,
+      "rem": 18.22,
       "state": "pending",
       "pts": 0.0,
-      "proj": 18.2,
-      "live": 18.2,
+      "proj": 18.22,
+      "live": 18.22,
       "game": "Sun 1:00 pm @ Mia"
      },
      {
@@ -218624,11 +218624,11 @@
       "player": "O. Gordon II",
       "pos": "RB",
       "slot": "RB",
-      "rem": 13.71,
+      "rem": 13.68,
       "state": "pending",
       "pts": 0.0,
-      "proj": 13.71,
-      "live": 13.71,
+      "proj": 13.68,
+      "live": 13.68,
       "game": "Sun 1:00 pm vs Det"
      },
      {
@@ -218748,7 +218748,7 @@
       "game": "Sun 4:25 pm vs GB"
      },
      {
-      "player": "L. Angeles",
+      "player": "Rams",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 6.89,
@@ -218838,7 +218838,7 @@
       "game": "Sun 1:00 pm @ Car"
      },
      {
-      "player": "Chicago",
+      "player": "Bears",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 8.59,
@@ -218860,7 +218860,7 @@
     "right": "Sir this is a FF league",
     "rightRec": "3-5",
     "leftScore": 0.0,
-    "leftProj": 122.78,
+    "leftProj": 122.8,
     "rightScore": 0.0,
     "rightProj": 113.14,
     "shotgun": [],
@@ -218924,11 +218924,11 @@
       "player": "J. Bates",
       "pos": "K",
       "slot": "K",
-      "rem": 9.88,
+      "rem": 9.9,
       "state": "pending",
       "pts": 0.0,
-      "proj": 9.88,
-      "live": 9.88,
+      "proj": 9.9,
+      "live": 9.9,
       "game": "Sun 1:00 pm @ Mia"
      },
      {
