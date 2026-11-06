@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 10,
- "ts": "2026-11-06T08:48:33+00:00",
+ "ts": "2026-11-06T09:28:34+00:00",
  "matchups": [
   {
    "id": "1v9",
@@ -902,10 +902,10 @@
    "leftScore": 0.0,
    "leftProj": 118.77,
    "rightScore": 0.0,
-   "rightProj": 105.15,
-   "leftPct": 61,
+   "rightProj": 96.17,
+   "leftPct": 68,
    "leftRem": 9,
-   "rightRem": 7,
+   "rightRem": 6,
    "shotgun": [
     {
      "player": "J. Coleman",
@@ -930,6 +930,20 @@
      "tag": null,
      "state": "bye",
      "slot": "TE",
+     "manager": "Alex Michael Pagels",
+     "locked": false,
+     "live": 0.0,
+     "reason": "pts"
+    },
+    {
+     "player": "(Empty)",
+     "pos": "",
+     "team": "",
+     "pts": 0.0,
+     "game": "",
+     "tag": null,
+     "state": "empty",
+     "slot": "K",
      "manager": "Alex Michael Pagels",
      "locked": false,
      "live": 0.0,
@@ -1092,17 +1106,6 @@
      "proj": 15.35,
      "live": 15.35,
      "game": "Sun 1:00 pm vs Car"
-    },
-    {
-     "player": "D. Zvada",
-     "pos": "K",
-     "slot": "K",
-     "rem": 8.98,
-     "state": "pending",
-     "pts": 0.0,
-     "proj": 8.98,
-     "live": 8.98,
-     "game": "Thu 8:15 pm vs Was"
     },
     {
      "player": "Jaguars",
