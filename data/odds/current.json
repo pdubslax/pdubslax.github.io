@@ -217853,7 +217853,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-06T09:48:34+00:00",
+  "ts": "2026-11-06T10:08:43+00:00",
   "week": 9,
   "matchups": [
    {
@@ -217863,9 +217863,9 @@
     "right": "James Ray Ervin Yonts",
     "rightRec": "5-3",
     "leftScore": 0.0,
-    "leftProj": 122.34,
+    "leftProj": 122.33,
     "rightScore": 0.0,
-    "rightProj": 140.69,
+    "rightProj": 140.59,
     "shotgun": [],
     "leftActive": [
      {
@@ -217938,11 +217938,11 @@
       "player": "Texans",
       "pos": "DEF",
       "slot": "DEF",
-      "rem": 9.14,
+      "rem": 9.13,
       "state": "pending",
       "pts": 0.0,
-      "proj": 9.14,
-      "live": 9.14,
+      "proj": 9.13,
+      "live": 9.13,
       "game": "Sun 4:05 pm @ LAC"
      },
      {
@@ -218039,11 +218039,11 @@
       "player": "T. Kelce",
       "pos": "TE",
       "slot": "TE",
-      "rem": 11.44,
+      "rem": 11.34,
       "state": "pending",
       "pts": 0.0,
-      "proj": 11.44,
-      "live": 11.44,
+      "proj": 11.34,
+      "live": 11.34,
       "game": "Sun 1:00 pm vs NYJ"
      },
      {
@@ -218279,9 +218279,9 @@
     "right": "RosterMogged",
     "rightRec": "3-5",
     "leftScore": 0.0,
-    "leftProj": 139.43,
+    "leftProj": 139.44,
     "rightScore": 0.0,
-    "rightProj": 120.22,
+    "rightProj": 120.11,
     "shotgun": [],
     "leftActive": [
      {
@@ -218299,11 +218299,11 @@
       "player": "P. Mahomes",
       "pos": "QB",
       "slot": "QB",
-      "rem": 23.22,
+      "rem": 23.23,
       "state": "pending",
       "pts": 0.0,
-      "proj": 23.22,
-      "live": 23.22,
+      "proj": 23.23,
+      "live": 23.23,
       "game": "Sun 1:00 pm vs NYJ"
      },
      {
@@ -218400,33 +218400,33 @@
       "player": "K. Walker III",
       "pos": "RB",
       "slot": "RB",
-      "rem": 23.33,
+      "rem": 23.31,
       "state": "pending",
       "pts": 0.0,
-      "proj": 23.33,
-      "live": 23.33,
+      "proj": 23.31,
+      "live": 23.31,
       "game": "Sun 1:00 pm vs NYJ"
      },
      {
       "player": "R. Rice",
       "pos": "WR",
       "slot": "WR",
-      "rem": 13.48,
+      "rem": 13.41,
       "state": "pending",
       "pts": 0.0,
-      "proj": 13.48,
-      "live": 13.48,
+      "proj": 13.41,
+      "live": 13.41,
       "game": "Sun 1:00 pm vs NYJ"
      },
      {
       "player": "L. McConkey",
       "pos": "WR",
       "slot": "WR",
-      "rem": 11.58,
+      "rem": 11.55,
       "state": "pending",
       "pts": 0.0,
-      "proj": 11.58,
-      "live": 11.58,
+      "proj": 11.55,
+      "live": 11.55,
       "game": "Sun 4:05 pm vs Hou"
      },
      {
@@ -218444,22 +218444,22 @@
       "player": "Chiefs",
       "pos": "DEF",
       "slot": "DEF",
-      "rem": 9.68,
+      "rem": 9.7,
       "state": "pending",
       "pts": 0.0,
-      "proj": 9.68,
-      "live": 9.68,
+      "proj": 9.7,
+      "live": 9.7,
       "game": "Sun 1:00 pm vs NYJ"
      },
      {
       "player": "O. Cooper Jr.",
       "pos": "WR",
       "slot": "W/R/T",
-      "rem": 9.2,
+      "rem": 9.19,
       "state": "pending",
       "pts": 0.0,
-      "proj": 9.2,
-      "live": 9.2,
+      "proj": 9.19,
+      "live": 9.19,
       "game": "Sun 1:00 pm @ KC"
      },
      {
@@ -218485,7 +218485,7 @@
       "game": "Sun 4:25 pm @ SF"
      }
     ],
-    "leftPct": 64,
+    "leftPct": 65,
     "leftRem": 9,
     "rightRem": 9
    },
@@ -218498,7 +218498,7 @@
     "leftScore": 32.7,
     "leftProj": 132.45,
     "rightScore": 3.8,
-    "rightProj": 116.98,
+    "rightProj": 116.95,
     "shotgun": [],
     "leftActive": [
      {
@@ -218617,11 +218617,11 @@
       "player": "N. Collins",
       "pos": "WR",
       "slot": "WR",
-      "rem": 15.16,
+      "rem": 15.13,
       "state": "pending",
       "pts": 0.0,
-      "proj": 15.16,
-      "live": 15.16,
+      "proj": 15.13,
+      "live": 15.13,
       "game": "Sun 4:05 pm @ LAC"
      },
      {
@@ -218682,7 +218682,7 @@
     "leftScore": 24.48,
     "leftProj": 104.44,
     "rightScore": 0.0,
-    "rightProj": 123.2,
+    "rightProj": 123.16,
     "shotgun": [],
     "leftActive": [
      {
@@ -218801,11 +218801,11 @@
       "player": "G. Wilson",
       "pos": "WR",
       "slot": "WR",
-      "rem": 11.72,
+      "rem": 11.68,
       "state": "pending",
       "pts": 0.0,
-      "proj": 11.72,
-      "live": 11.72,
+      "proj": 11.68,
+      "live": 11.68,
       "game": "Sun 1:00 pm @ KC"
      },
      {
@@ -218864,7 +218864,7 @@
       "game": "Sun 8:20 pm vs TB"
      }
     ],
-    "leftPct": 33,
+    "leftPct": 34,
     "leftRem": 7,
     "rightRem": 9
    },
@@ -218877,7 +218877,7 @@
     "leftScore": 0.0,
     "leftProj": 122.38,
     "rightScore": 0.0,
-    "rightProj": 111.79,
+    "rightProj": 111.8,
     "shotgun": [],
     "leftActive": [
      {
@@ -219051,11 +219051,11 @@
       "player": "B. Allen",
       "pos": "RB",
       "slot": "RB",
-      "rem": 9.67,
+      "rem": 9.68,
       "state": "pending",
       "pts": 0.0,
-      "proj": 9.67,
-      "live": 9.67,
+      "proj": 9.68,
+      "live": 9.68,
       "game": "Sun 1:00 pm @ KC"
      },
      {
