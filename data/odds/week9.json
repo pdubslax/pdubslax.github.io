@@ -217853,7 +217853,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-07T22:15:15+00:00",
+  "ts": "2026-11-07T22:35:26+00:00",
   "week": 9,
   "matchups": [
    {
@@ -217863,20 +217863,20 @@
     "right": "James Ray Ervin Yonts",
     "rightRec": "5-3",
     "leftScore": 0.0,
-    "leftProj": 129.51,
+    "leftProj": 129.5,
     "rightScore": 0.0,
-    "rightProj": 141.75,
+    "rightProj": 141.65,
     "shotgun": [],
     "leftActive": [
      {
       "player": "J. Smith-Njigba",
       "pos": "WR",
       "slot": "W/R/T",
-      "rem": 22.53,
+      "rem": 22.52,
       "state": "pending",
       "pts": 0.0,
-      "proj": 22.53,
-      "live": 22.53,
+      "proj": 22.52,
+      "live": 22.52,
       "game": "Sun 4:25 pm vs Ari"
      },
      {
@@ -218028,11 +218028,11 @@
       "player": "T. Allgeier",
       "pos": "RB",
       "slot": "RB",
-      "rem": 13.6,
+      "rem": 13.5,
       "state": "pending",
       "pts": 0.0,
-      "proj": 13.6,
-      "live": 13.6,
+      "proj": 13.5,
+      "live": 13.5,
       "game": "Sun 4:25 pm @ Sea"
      },
      {
@@ -218069,7 +218069,7 @@
       "game": "Sun 1:00 pm @ Phi"
      }
     ],
-    "leftPct": 41,
+    "leftPct": 42,
     "leftRem": 9,
     "rightRem": 9
    },
@@ -218275,20 +218275,20 @@
     "right": "RosterMogged",
     "rightRec": "3-5",
     "leftScore": 0.0,
-    "leftProj": 139.8,
+    "leftProj": 139.81,
     "rightScore": 0.0,
-    "rightProj": 121.31,
+    "rightProj": 121.32,
     "shotgun": [],
     "leftActive": [
      {
       "player": "J. Gibbs",
       "pos": "RB",
       "slot": "RB",
-      "rem": 25.74,
+      "rem": 25.75,
       "state": "pending",
       "pts": 0.0,
-      "proj": 25.74,
-      "live": 25.74,
+      "proj": 25.75,
+      "live": 25.75,
       "game": "Sun 1:00 pm @ Mia"
      },
      {
@@ -218440,11 +218440,11 @@
       "player": "Z. Charbonnet",
       "pos": "RB",
       "slot": "RB",
-      "rem": 10.66,
+      "rem": 10.67,
       "state": "pending",
       "pts": 0.0,
-      "proj": 10.66,
-      "live": 10.66,
+      "proj": 10.67,
+      "live": 10.67,
       "game": "Sun 4:25 pm vs Ari"
      },
      {
@@ -218492,20 +218492,20 @@
     "right": "Zen Buddha Boys 🪷💨",
     "rightRec": "4-4",
     "leftScore": 32.7,
-    "leftProj": 132.14,
+    "leftProj": 132.12,
     "rightScore": 3.8,
-    "rightProj": 117.57,
+    "rightProj": 117.84,
     "shotgun": [],
     "leftActive": [
      {
       "player": "M. Willis",
       "pos": "QB",
       "slot": "QB",
-      "rem": 19.78,
+      "rem": 19.76,
       "state": "pending",
       "pts": 0.0,
-      "proj": 19.78,
-      "live": 19.78,
+      "proj": 19.76,
+      "live": 19.76,
       "game": "Sun 1:00 pm vs Det"
      },
      {
@@ -218624,11 +218624,11 @@
       "player": "O. Gordon II",
       "pos": "RB",
       "slot": "RB",
-      "rem": 14.16,
+      "rem": 14.43,
       "state": "pending",
       "pts": 0.0,
-      "proj": 14.16,
-      "live": 14.16,
+      "proj": 14.43,
+      "live": 14.43,
       "game": "Sun 1:00 pm vs Det"
      },
      {
@@ -218678,7 +218678,7 @@
     "leftScore": 24.48,
     "leftProj": 104.25,
     "rightScore": 0.0,
-    "rightProj": 115.16,
+    "rightProj": 115.01,
     "shotgun": [],
     "leftActive": [
      {
@@ -218797,11 +218797,11 @@
       "player": "A. Kamara",
       "pos": "RB",
       "slot": "W/R/T",
-      "rem": 13.69,
+      "rem": 13.54,
       "state": "pending",
       "pts": 0.0,
-      "proj": 13.69,
-      "live": 13.69,
+      "proj": 13.54,
+      "live": 13.54,
       "game": "Sun 1:00 pm vs Cle"
      },
      {
@@ -218860,7 +218860,7 @@
     "right": "Sir this is a FF league",
     "rightRec": "3-5",
     "leftScore": 0.0,
-    "leftProj": 111.48,
+    "leftProj": 111.49,
     "rightScore": 0.0,
     "rightProj": 117.95,
     "shotgun": [],
@@ -218924,11 +218924,11 @@
       "player": "J. Addison",
       "pos": "WR",
       "slot": "WR",
-      "rem": 9.76,
+      "rem": 9.77,
       "state": "pending",
       "pts": 0.0,
-      "proj": 9.76,
-      "live": 9.76,
+      "proj": 9.77,
+      "live": 9.77,
       "game": "Mon 8:15 pm vs Buf"
      },
      {
