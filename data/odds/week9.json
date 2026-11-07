@@ -217853,7 +217853,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-07T14:14:30+00:00",
+  "ts": "2026-11-07T14:34:21+00:00",
   "week": 9,
   "matchups": [
    {
@@ -218080,9 +218080,9 @@
     "right": "Alex Michael Pagels",
     "rightRec": "3-5",
     "leftScore": 7.08,
-    "leftProj": 114.57,
+    "leftProj": 114.6,
     "rightScore": 14.0,
-    "rightProj": 130.21,
+    "rightProj": 130.22,
     "shotgun": [],
     "leftActive": [
      {
@@ -218152,14 +218152,14 @@
       "game": "Sun 1:00 pm @ Phi"
      },
      {
-      "player": "Saints",
+      "player": "N. Orleans",
       "pos": "DEF",
       "slot": "DEF",
-      "rem": 9.96,
+      "rem": 9.99,
       "state": "pending",
       "pts": 0.0,
-      "proj": 9.96,
-      "live": 9.96,
+      "proj": 9.99,
+      "live": 9.99,
       "game": "Sun 1:00 pm vs Cle"
      },
      {
@@ -218201,11 +218201,11 @@
       "player": "C. Olave",
       "pos": "WR",
       "slot": "WR",
-      "rem": 14.79,
+      "rem": 14.8,
       "state": "pending",
       "pts": 0.0,
-      "proj": 14.79,
-      "live": 14.79,
+      "proj": 14.8,
+      "live": 14.8,
       "game": "Sun 1:00 pm vs Cle"
      },
      {
@@ -218678,7 +218678,7 @@
     "leftScore": 24.48,
     "leftProj": 104.26,
     "rightScore": 0.0,
-    "rightProj": 111.48,
+    "rightProj": 111.49,
     "shotgun": [],
     "leftActive": [
      {
@@ -218819,11 +218819,11 @@
       "player": "A. Kamara",
       "pos": "RB",
       "slot": "W/R/T",
-      "rem": 9.69,
+      "rem": 9.7,
       "state": "pending",
       "pts": 0.0,
-      "proj": 9.69,
-      "live": 9.69,
+      "proj": 9.7,
+      "live": 9.7,
       "game": "Sun 1:00 pm vs Cle"
      },
      {
