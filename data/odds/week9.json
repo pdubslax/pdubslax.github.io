@@ -217853,7 +217853,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-07T03:12:38+00:00",
+  "ts": "2026-11-07T03:32:47+00:00",
   "week": 9,
   "matchups": [
    {
@@ -218676,7 +218676,7 @@
     "right": "Kiwis are better than mid",
     "rightRec": "5-3",
     "leftScore": 24.48,
-    "leftProj": 104.23,
+    "leftProj": 104.22,
     "rightScore": 0.0,
     "rightProj": 111.62,
     "shotgun": [],
@@ -218707,11 +218707,11 @@
       "player": "DJ Moore",
       "pos": "WR",
       "slot": "WR",
-      "rem": 11.44,
+      "rem": 11.43,
       "state": "pending",
       "pts": 0.0,
-      "proj": 11.44,
-      "live": 11.44,
+      "proj": 11.43,
+      "live": 11.43,
       "game": "Mon 8:15 pm @ Min"
      },
      {
@@ -218748,7 +218748,7 @@
       "game": "Sun 4:25 pm vs GB"
      },
      {
-      "player": "Rams",
+      "player": "L. Angeles",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 6.84,
@@ -218838,7 +218838,7 @@
       "game": "Sun 1:00 pm @ Car"
      },
      {
-      "player": "Bears",
+      "player": "Chicago",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 8.3,
@@ -218862,7 +218862,7 @@
     "leftScore": 0.0,
     "leftProj": 111.22,
     "rightScore": 0.0,
-    "rightProj": 113.71,
+    "rightProj": 113.72,
     "shotgun": [],
     "leftActive": [
      {
@@ -218981,11 +218981,11 @@
       "player": "J. Cook III",
       "pos": "RB",
       "slot": "RB",
-      "rem": 16.36,
+      "rem": 16.37,
       "state": "pending",
       "pts": 0.0,
-      "proj": 16.36,
-      "live": 16.36,
+      "proj": 16.37,
+      "live": 16.37,
       "game": "Mon 8:15 pm @ Min"
      },
      {
