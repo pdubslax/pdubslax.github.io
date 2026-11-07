@@ -217853,7 +217853,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-07T00:11:43+00:00",
+  "ts": "2026-11-07T00:31:52+00:00",
   "week": 9,
   "matchups": [
    {
@@ -218080,7 +218080,7 @@
     "right": "Alex Michael Pagels",
     "rightRec": "3-5",
     "leftScore": 7.08,
-    "leftProj": 114.49,
+    "leftProj": 114.48,
     "rightScore": 14.0,
     "rightProj": 130.35,
     "shotgun": [],
@@ -218089,11 +218089,11 @@
       "player": "D. Maye",
       "pos": "QB",
       "slot": "QB",
-      "rem": 23.72,
+      "rem": 23.71,
       "state": "pending",
       "pts": 0.0,
-      "proj": 23.72,
-      "live": 23.72,
+      "proj": 23.71,
+      "live": 23.71,
       "game": "Sun 4:25 pm vs GB"
      },
      {
