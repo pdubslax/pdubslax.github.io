@@ -217853,7 +217853,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-07T07:52:38+00:00",
+  "ts": "2026-11-07T08:12:47+00:00",
   "week": 9,
   "matchups": [
    {
@@ -217877,7 +217877,7 @@
       "pts": 0.0,
       "proj": 22.59,
       "live": 22.59,
-      "game": "Sun 4:25 pm vs Ari"
+      "game": "Sun 4:25 pm vs Ari"
      },
      {
       "player": "M. Stafford",
@@ -217921,7 +217921,7 @@
       "pts": 0.0,
       "proj": 14.63,
       "live": 14.63,
-      "game": "Sun 4:25 pm @ NE"
+      "game": "Sun 4:25 pm @ NE"
      },
      {
       "player": "J. Coker",
@@ -218033,7 +218033,7 @@
       "pts": 0.0,
       "proj": 13.63,
       "live": 13.63,
-      "game": "Sun 4:25 pm @ Sea"
+      "game": "Sun 4:25 pm @ Sea"
      },
      {
       "player": "T. Kelce",
@@ -218094,7 +218094,7 @@
       "pts": 0.0,
       "proj": 23.71,
       "live": 23.71,
-      "game": "Sun 4:25 pm vs GB"
+      "game": "Sun 4:25 pm vs GB"
      },
      {
       "player": "C. Brown",
@@ -218116,7 +218116,7 @@
       "pts": 0.0,
       "proj": 14.79,
       "live": 14.79,
-      "game": "Sun 4:25 pm @ NE"
+      "game": "Sun 4:25 pm @ NE"
      },
      {
       "player": "M. Wilson",
@@ -218127,7 +218127,7 @@
       "pts": 0.0,
       "proj": 11.42,
       "live": 11.42,
-      "game": "Sun 4:25 pm @ Sea"
+      "game": "Sun 4:25 pm @ Sea"
      },
      {
       "player": "J. Waddle",
@@ -218217,7 +218217,7 @@
       "pts": 0.0,
       "proj": 14.65,
       "live": 14.65,
-      "game": "Sun 4:25 pm @ NE"
+      "game": "Sun 4:25 pm @ NE"
      },
      {
       "player": "J. Coleman",
@@ -218344,7 +218344,7 @@
       "pts": 0.0,
       "proj": 12.67,
       "live": 12.67,
-      "game": "Sun 4:25 pm @ Sea"
+      "game": "Sun 4:25 pm @ Sea"
      },
      {
       "player": "S. Diggs",
@@ -218369,7 +218369,7 @@
       "game": "Mon 8:15 pm vs Buf"
      },
      {
-      "player": "Detroit",
+      "player": "Lions",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 8.34,
@@ -218390,7 +218390,7 @@
       "pts": 0.0,
       "proj": 25.09,
       "live": 25.09,
-      "game": "Sun 4:25 pm vs LV"
+      "game": "Sun 4:25 pm vs LV"
      },
      {
       "player": "K. Walker III",
@@ -218445,10 +218445,10 @@
       "pts": 0.0,
       "proj": 10.7,
       "live": 10.7,
-      "game": "Sun 4:25 pm vs Ari"
+      "game": "Sun 4:25 pm vs Ari"
      },
      {
-      "player": "K. City",
+      "player": "Chiefs",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 9.06,
@@ -218478,7 +218478,7 @@
       "pts": 0.0,
       "proj": 8.37,
       "live": 8.37,
-      "game": "Sun 4:25 pm @ SF"
+      "game": "Sun 4:25 pm @ SF"
      }
     ],
     "leftPct": 63,
@@ -218539,7 +218539,7 @@
       "pts": 0.0,
       "proj": 11.9,
       "live": 11.9,
-      "game": "Sun 4:25 pm @ SF"
+      "game": "Sun 4:25 pm @ SF"
      },
      {
       "player": "T. Warren",
@@ -218572,7 +218572,7 @@
       "pts": 0.0,
       "proj": 10.14,
       "live": 10.14,
-      "game": "Sun 4:25 pm vs Ari"
+      "game": "Sun 4:25 pm vs Ari"
      }
     ],
     "rightActive": [
@@ -218640,7 +218640,7 @@
       "pts": 0.0,
       "proj": 10.21,
       "live": 10.21,
-      "game": "Sun 4:25 pm vs Ari"
+      "game": "Sun 4:25 pm vs Ari"
      },
      {
       "player": "T.J. Hockenson",
@@ -218662,7 +218662,7 @@
       "pts": 0.0,
       "proj": 6.68,
       "live": 6.68,
-      "game": "Sun 4:25 pm vs LV"
+      "game": "Sun 4:25 pm vs LV"
      }
     ],
     "leftPct": 62,
@@ -218734,7 +218734,7 @@
       "pts": 0.0,
       "proj": 10.19,
       "live": 10.19,
-      "game": "Sun 4:25 pm @ NE"
+      "game": "Sun 4:25 pm @ NE"
      },
      {
       "player": "D. Douglas",
@@ -218745,7 +218745,7 @@
       "pts": 0.0,
       "proj": 9.45,
       "live": 9.45,
-      "game": "Sun 4:25 pm vs GB"
+      "game": "Sun 4:25 pm vs GB"
      },
      {
       "player": "Rams",
@@ -218780,7 +218780,7 @@
       "pts": 0.0,
       "proj": 22.57,
       "live": 22.57,
-      "game": "Sun 4:25 pm vs LV"
+      "game": "Sun 4:25 pm vs LV"
      },
      {
       "player": "B. Bowers",
@@ -218791,7 +218791,7 @@
       "pts": 0.0,
       "proj": 15.66,
       "live": 15.66,
-      "game": "Sun 4:25 pm @ SF"
+      "game": "Sun 4:25 pm @ SF"
      },
      {
       "player": "R. White",
@@ -218896,7 +218896,7 @@
       "pts": 0.0,
       "proj": 15.38,
       "live": 15.38,
-      "game": "Sun 4:25 pm vs LV"
+      "game": "Sun 4:25 pm vs LV"
      },
      {
       "player": "G. Pickens",
@@ -218975,7 +218975,7 @@
       "pts": 0.0,
       "proj": 20.03,
       "live": 20.03,
-      "game": "Sun 4:25 pm @ NE"
+      "game": "Sun 4:25 pm @ NE"
      },
      {
       "player": "J. Cook III",
@@ -219008,7 +219008,7 @@
       "pts": 0.0,
       "proj": 15.93,
       "live": 15.93,
-      "game": "Sun 4:25 pm vs GB"
+      "game": "Sun 4:25 pm vs GB"
      },
      {
       "player": "J. Williams",
@@ -219063,7 +219063,7 @@
       "pts": 0.0,
       "proj": 3.87,
       "live": 3.87,
-      "game": "Sun 4:25 pm vs GB"
+      "game": "Sun 4:25 pm vs GB"
      }
     ],
     "leftPct": 48,
