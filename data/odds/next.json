@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 10,
- "ts": "2026-11-07T08:33:29+00:00",
+ "ts": "2026-11-07T09:13:28+00:00",
  "matchups": [
   {
    "id": "1v9",
@@ -12,11 +12,25 @@
    "leftScore": 0.0,
    "leftProj": 120.67,
    "rightScore": 0.0,
-   "rightProj": 106.53,
-   "leftPct": 62,
+   "rightProj": 97.27,
+   "leftPct": 69,
    "leftRem": 9,
-   "rightRem": 8,
+   "rightRem": 7,
    "shotgun": [
+    {
+     "player": "(Empty)",
+     "pos": "",
+     "team": "",
+     "pts": 0.0,
+     "game": "",
+     "tag": null,
+     "state": "empty",
+     "slot": "TE",
+     "manager": "Sir this is a FF league",
+     "locked": false,
+     "live": 0.0,
+     "reason": "pts"
+    },
     {
      "player": "Broncos",
      "pos": "DEF",
@@ -210,17 +224,6 @@
      "proj": 9.91,
      "live": 9.91,
      "game": "Sun 8:20 pm vs Pit"
-    },
-    {
-     "player": "H. Henry",
-     "pos": "TE",
-     "slot": "TE",
-     "rem": 9.26,
-     "state": "pending",
-     "pts": 0.0,
-     "proj": 9.26,
-     "live": 9.26,
-     "game": "Sun 9:30 am @ Det"
     }
    ]
   },

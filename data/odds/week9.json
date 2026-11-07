@@ -217853,7 +217853,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-07T08:53:30+00:00",
+  "ts": "2026-11-07T09:13:36+00:00",
   "week": 9,
   "matchups": [
    {
@@ -217877,7 +217877,7 @@
       "pts": 0.0,
       "proj": 22.56,
       "live": 22.56,
-      "game": "Sun 4:25 pm vs Ari"
+      "game": "Sun 4:25 pm vs Ari"
      },
      {
       "player": "M. Stafford",
@@ -217921,7 +217921,7 @@
       "pts": 0.0,
       "proj": 14.67,
       "live": 14.67,
-      "game": "Sun 4:25 pm @ NE"
+      "game": "Sun 4:25 pm @ NE"
      },
      {
       "player": "J. Coker",
@@ -217943,10 +217943,10 @@
       "pts": 0.0,
       "proj": 10.89,
       "live": 10.89,
-      "game": "Sun 1:00 pm @ Mia"
+      "game": "Sun 1:00 pm @ Mia"
      },
      {
-      "player": "Houston",
+      "player": "Texans",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 9.14,
@@ -218033,7 +218033,7 @@
       "pts": 0.0,
       "proj": 13.64,
       "live": 13.64,
-      "game": "Sun 4:25 pm @ Sea"
+      "game": "Sun 4:25 pm @ Sea"
      },
      {
       "player": "T. Kelce",
@@ -218058,7 +218058,7 @@
       "game": "Sun 4:05 pm @ LAC"
      },
      {
-      "player": "N. York",
+      "player": "Giants",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 8.77,
@@ -218094,7 +218094,7 @@
       "pts": 0.0,
       "proj": 23.74,
       "live": 23.74,
-      "game": "Sun 4:25 pm vs GB"
+      "game": "Sun 4:25 pm vs GB"
      },
      {
       "player": "C. Brown",
@@ -218116,7 +218116,7 @@
       "pts": 0.0,
       "proj": 14.82,
       "live": 14.82,
-      "game": "Sun 4:25 pm @ NE"
+      "game": "Sun 4:25 pm @ NE"
      },
      {
       "player": "M. Wilson",
@@ -218127,7 +218127,7 @@
       "pts": 0.0,
       "proj": 11.41,
       "live": 11.41,
-      "game": "Sun 4:25 pm @ Sea"
+      "game": "Sun 4:25 pm @ Sea"
      },
      {
       "player": "J. Waddle",
@@ -218152,7 +218152,7 @@
       "game": "Sun 1:00 pm @ Phi"
      },
      {
-      "player": "N. Orleans",
+      "player": "Saints",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 9.99,
@@ -218217,7 +218217,7 @@
       "pts": 0.0,
       "proj": 14.63,
       "live": 14.63,
-      "game": "Sun 4:25 pm @ NE"
+      "game": "Sun 4:25 pm @ NE"
      },
      {
       "player": "J. Coleman",
@@ -218289,7 +218289,7 @@
       "pts": 0.0,
       "proj": 25.7,
       "live": 25.7,
-      "game": "Sun 1:00 pm @ Mia"
+      "game": "Sun 1:00 pm @ Mia"
      },
      {
       "player": "P. Mahomes",
@@ -218344,7 +218344,7 @@
       "pts": 0.0,
       "proj": 12.65,
       "live": 12.65,
-      "game": "Sun 4:25 pm @ Sea"
+      "game": "Sun 4:25 pm @ Sea"
      },
      {
       "player": "S. Diggs",
@@ -218377,7 +218377,7 @@
       "pts": 0.0,
       "proj": 8.34,
       "live": 8.34,
-      "game": "Sun 1:00 pm @ Mia"
+      "game": "Sun 1:00 pm @ Mia"
      }
     ],
     "rightActive": [
@@ -218445,7 +218445,7 @@
       "pts": 0.0,
       "proj": 10.71,
       "live": 10.71,
-      "game": "Sun 4:25 pm vs Ari"
+      "game": "Sun 4:25 pm vs Ari"
      },
      {
       "player": "Chiefs",
@@ -218506,7 +218506,7 @@
       "pts": 0.0,
       "proj": 19.76,
       "live": 19.76,
-      "game": "Sun 1:00 pm vs Det"
+      "game": "Sun 1:00 pm vs Det"
      },
      {
       "player": "J. Chase",
@@ -218564,7 +218564,7 @@
       "game": "Sun 1:00 pm vs Dal"
      },
      {
-      "player": "Seattle",
+      "player": "Seahawks",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 10.14,
@@ -218572,7 +218572,7 @@
       "pts": 0.0,
       "proj": 10.14,
       "live": 10.14,
-      "game": "Sun 4:25 pm vs Ari"
+      "game": "Sun 4:25 pm vs Ari"
      }
     ],
     "rightActive": [
@@ -218596,7 +218596,7 @@
       "pts": 0.0,
       "proj": 18.13,
       "live": 18.13,
-      "game": "Sun 1:00 pm @ Mia"
+      "game": "Sun 1:00 pm @ Mia"
      },
      {
       "player": "C. Hubbard",
@@ -218629,7 +218629,7 @@
       "pts": 0.0,
       "proj": 14.12,
       "live": 14.12,
-      "game": "Sun 1:00 pm vs Det"
+      "game": "Sun 1:00 pm vs Det"
      },
      {
       "player": "J. Myers",
@@ -218640,7 +218640,7 @@
       "pts": 0.0,
       "proj": 10.21,
       "live": 10.21,
-      "game": "Sun 4:25 pm vs Ari"
+      "game": "Sun 4:25 pm vs Ari"
      },
      {
       "player": "T.J. Hockenson",
@@ -218654,7 +218654,7 @@
       "game": "Mon 8:15 pm vs Buf"
      },
      {
-      "player": "S. Francisco",
+      "player": "49ers",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 6.68,
@@ -218734,7 +218734,7 @@
       "pts": 0.0,
       "proj": 10.21,
       "live": 10.21,
-      "game": "Sun 4:25 pm @ NE"
+      "game": "Sun 4:25 pm @ NE"
      },
      {
       "player": "D. Douglas",
@@ -218745,7 +218745,7 @@
       "pts": 0.0,
       "proj": 9.47,
       "live": 9.47,
-      "game": "Sun 4:25 pm vs GB"
+      "game": "Sun 4:25 pm vs GB"
      },
      {
       "player": "Rams",
@@ -218862,8 +218862,23 @@
     "leftScore": 0.0,
     "leftProj": 111.17,
     "rightScore": 0.0,
-    "rightProj": 113.79,
-    "shotgun": [],
+    "rightProj": 109.89,
+    "shotgun": [
+     {
+      "player": "(Empty)",
+      "pos": "",
+      "team": "",
+      "pts": 0.0,
+      "game": "",
+      "tag": null,
+      "state": "empty",
+      "slot": "TE",
+      "manager": "Sir this is a FF league",
+      "locked": false,
+      "live": null,
+      "reason": "pts"
+     }
+    ],
     "leftActive": [
      {
       "player": "B. Robinson",
@@ -218918,7 +218933,7 @@
       "pts": 0.0,
       "proj": 9.79,
       "live": 9.79,
-      "game": "Sun 1:00 pm @ Mia"
+      "game": "Sun 1:00 pm @ Mia"
      },
      {
       "player": "J. Addison",
@@ -218975,7 +218990,7 @@
       "pts": 0.0,
       "proj": 20.06,
       "live": 20.06,
-      "game": "Sun 4:25 pm @ NE"
+      "game": "Sun 4:25 pm @ NE"
      },
      {
       "player": "J. Cook III",
@@ -219008,7 +219023,7 @@
       "pts": 0.0,
       "proj": 15.92,
       "live": 15.92,
-      "game": "Sun 4:25 pm vs GB"
+      "game": "Sun 4:25 pm vs GB"
      },
      {
       "player": "J. Williams",
@@ -219019,7 +219034,7 @@
       "pts": 0.0,
       "proj": 12.34,
       "live": 12.34,
-      "game": "Sun 1:00 pm @ Mia"
+      "game": "Sun 1:00 pm @ Mia"
      },
      {
       "player": "B. Hall",
@@ -219053,22 +219068,11 @@
       "proj": 7.77,
       "live": 7.77,
       "game": "Sun 1:00 pm @ Car"
-     },
-     {
-      "player": "H. Henry",
-      "pos": "TE",
-      "slot": "TE",
-      "rem": 3.9,
-      "state": "pending",
-      "pts": 0.0,
-      "proj": 3.9,
-      "live": 3.9,
-      "game": "Sun 4:25 pm vs GB"
      }
     ],
-    "leftPct": 48,
+    "leftPct": 51,
     "leftRem": 9,
-    "rightRem": 9
+    "rightRem": 8
    }
   ]
  }
