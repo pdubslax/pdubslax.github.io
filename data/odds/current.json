@@ -217853,7 +217853,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-07T08:33:37+00:00",
+  "ts": "2026-11-07T08:53:30+00:00",
   "week": 9,
   "matchups": [
    {
@@ -217946,7 +217946,7 @@
       "game": "Sun 1:00 pm @ Mia"
      },
      {
-      "player": "Texans",
+      "player": "Houston",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 9.14,
@@ -218058,7 +218058,7 @@
       "game": "Sun 4:05 pm @ LAC"
      },
      {
-      "player": "Giants",
+      "player": "N. York",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 8.77,
@@ -218152,7 +218152,7 @@
       "game": "Sun 1:00 pm @ Phi"
      },
      {
-      "player": "Saints",
+      "player": "N. Orleans",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 9.99,
@@ -218564,7 +218564,7 @@
       "game": "Sun 1:00 pm vs Dal"
      },
      {
-      "player": "Seahawks",
+      "player": "Seattle",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 10.14,
@@ -218654,7 +218654,7 @@
       "game": "Mon 8:15 pm vs Buf"
      },
      {
-      "player": "49ers",
+      "player": "S. Francisco",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 6.68,
