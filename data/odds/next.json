@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 10,
- "ts": "2026-11-07T04:12:38+00:00",
+ "ts": "2026-11-07T04:52:39+00:00",
  "matchups": [
   {
    "id": "1v9",
@@ -231,7 +231,7 @@
    "right": "RosterMogged",
    "rightRec": "3-5",
    "leftScore": 0.0,
-   "leftProj": 104.55,
+   "leftProj": 104.54,
    "rightScore": 0.0,
    "rightProj": 112.84,
    "leftPct": 43,
@@ -316,11 +316,11 @@
      "player": "I. Likely",
      "pos": "TE",
      "slot": "TE",
-     "rem": 13.4,
+     "rem": 13.39,
      "state": "pending",
      "pts": 0.0,
-     "proj": 13.4,
-     "live": 13.4,
+     "proj": 13.39,
+     "live": 13.39,
      "game": "Thu 8:15 pm vs Was"
     },
     {
@@ -902,7 +902,7 @@
    "leftScore": 0.0,
    "leftProj": 118.56,
    "rightScore": 0.0,
-   "rightProj": 95.99,
+   "rightProj": 95.98,
    "leftPct": 68,
    "leftRem": 9,
    "rightRem": 6,
@@ -1067,11 +1067,11 @@
      "player": "M. Nabers",
      "pos": "WR",
      "slot": "W/R/T",
-     "rem": 18.18,
+     "rem": 18.17,
      "state": "pending",
      "pts": 0.0,
-     "proj": 18.18,
-     "live": 18.18,
+     "proj": 18.17,
+     "live": 18.17,
      "game": "Thu 8:15 pm vs Was"
     },
     {
