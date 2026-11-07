@@ -217853,7 +217853,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-07T19:15:25+00:00",
+  "ts": "2026-11-07T19:35:16+00:00",
   "week": 9,
   "matchups": [
    {
@@ -217863,9 +217863,9 @@
     "right": "James Ray Ervin Yonts",
     "rightRec": "5-3",
     "leftScore": 0.0,
-    "leftProj": 129.5,
+    "leftProj": 129.53,
     "rightScore": 0.0,
-    "rightProj": 141.98,
+    "rightProj": 141.88,
     "shotgun": [],
     "leftActive": [
      {
@@ -218080,9 +218080,9 @@
     "right": "Alex Michael Pagels",
     "rightRec": "3-5",
     "leftScore": 7.08,
-    "leftProj": 114.66,
+    "leftProj": 114.68,
     "rightScore": 14.0,
-    "rightProj": 130.78,
+    "rightProj": 130.72,
     "shotgun": [],
     "leftActive": [
      {
@@ -218275,9 +218275,9 @@
     "right": "RosterMogged",
     "rightRec": "3-5",
     "leftScore": 0.0,
-    "leftProj": 139.94,
+    "leftProj": 139.82,
     "rightScore": 0.0,
-    "rightProj": 121.75,
+    "rightProj": 121.69,
     "shotgun": [],
     "leftActive": [
      {
@@ -218492,9 +218492,9 @@
     "right": "Zen Buddha Boys 🪷💨",
     "rightRec": "4-4",
     "leftScore": 32.7,
-    "leftProj": 132.23,
+    "leftProj": 132.2,
     "rightScore": 3.8,
-    "rightProj": 117.55,
+    "rightProj": 117.51,
     "shotgun": [],
     "leftActive": [
      {
@@ -218646,11 +218646,11 @@
       "player": "T.J. Hockenson",
       "pos": "TE",
       "slot": "TE",
-      "rem": 9.71,
+      "rem": 9.68,
       "state": "pending",
       "pts": 0.0,
-      "proj": 9.71,
-      "live": 9.71,
+      "proj": 9.68,
+      "live": 9.68,
       "game": "Mon 8:15 pm vs Buf"
      },
      {
@@ -218678,7 +218678,7 @@
     "leftScore": 24.48,
     "leftProj": 104.16,
     "rightScore": 0.0,
-    "rightProj": 111.6,
+    "rightProj": 112.44,
     "shotgun": [],
     "leftActive": [
      {
@@ -218860,9 +218860,9 @@
     "right": "Sir this is a FF league",
     "rightRec": "3-5",
     "leftScore": 0.0,
-    "leftProj": 111.23,
+    "leftProj": 111.12,
     "rightScore": 0.0,
-    "rightProj": 109.59,
+    "rightProj": 109.52,
     "shotgun": [
      {
       "player": "(Empty)",
@@ -218939,11 +218939,11 @@
       "player": "J. Addison",
       "pos": "WR",
       "slot": "WR",
-      "rem": 9.59,
+      "rem": 9.56,
       "state": "pending",
       "pts": 0.0,
-      "proj": 9.59,
-      "live": 9.59,
+      "proj": 9.56,
+      "live": 9.56,
       "game": "Mon 8:15 pm vs Buf"
      },
      {
@@ -219007,11 +219007,11 @@
       "player": "J. Jefferson",
       "pos": "WR",
       "slot": "WR",
-      "rem": 16.23,
+      "rem": 16.18,
       "state": "pending",
       "pts": 0.0,
-      "proj": 16.23,
-      "live": 16.23,
+      "proj": 16.18,
+      "live": 16.18,
       "game": "Mon 8:15 pm vs Buf"
      },
      {
