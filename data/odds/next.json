@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 10,
- "ts": "2026-11-07T19:55:16+00:00",
+ "ts": "2026-11-07T20:35:15+00:00",
  "matchups": [
   {
    "id": "1v9",
@@ -12,25 +12,11 @@
    "leftScore": 0.0,
    "leftProj": 120.82,
    "rightScore": 0.0,
-   "rightProj": 97.29,
-   "leftPct": 69,
+   "rightProj": 105.45,
+   "leftPct": 63,
    "leftRem": 9,
-   "rightRem": 7,
+   "rightRem": 8,
    "shotgun": [
-    {
-     "player": "(Empty)",
-     "pos": "",
-     "team": "",
-     "pts": 0.0,
-     "game": "",
-     "tag": null,
-     "state": "empty",
-     "slot": "TE",
-     "manager": "Sir this is a FF league",
-     "locked": false,
-     "live": 0.0,
-     "reason": "pts"
-    },
     {
      "player": "Broncos",
      "pos": "DEF",
@@ -223,6 +209,17 @@
      "pts": 0.0,
      "proj": 9.91,
      "live": 9.91,
+     "game": "Sun 8:20 pm vs Pit"
+    },
+    {
+     "player": "M. Gesicki",
+     "pos": "TE",
+     "slot": "TE",
+     "rem": 8.16,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 8.16,
+     "live": 8.16,
      "game": "Sun 8:20 pm vs Pit"
     }
    ]
@@ -1130,7 +1127,7 @@
    "right": "Kiwis are better than mid",
    "rightRec": "5-3",
    "leftScore": 0.0,
-   "leftProj": 101.03,
+   "leftProj": 101.02,
    "rightScore": 0.0,
    "rightProj": 103.74,
    "leftPct": 48,
@@ -1218,11 +1215,11 @@
      "player": "N. Collins",
      "pos": "WR",
      "slot": "WR",
-     "rem": 13.65,
+     "rem": 13.64,
      "state": "pending",
      "pts": 0.0,
-     "proj": 13.65,
-     "live": 13.65,
+     "proj": 13.64,
+     "live": 13.64,
      "game": "Sun 1:00 pm @ Cle"
     },
     {
