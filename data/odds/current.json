@@ -217853,7 +217853,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-07T04:12:47+00:00",
+  "ts": "2026-11-07T04:32:38+00:00",
   "week": 9,
   "matchups": [
    {
@@ -217863,7 +217863,7 @@
     "right": "James Ray Ervin Yonts",
     "rightRec": "5-3",
     "leftScore": 0.0,
-    "leftProj": 129.57,
+    "leftProj": 129.55,
     "rightScore": 0.0,
     "rightProj": 142.22,
     "shotgun": [],
@@ -217872,11 +217872,11 @@
       "player": "J. Smith-Njigba",
       "pos": "WR",
       "slot": "W/R/T",
-      "rem": 22.61,
+      "rem": 22.59,
       "state": "pending",
       "pts": 0.0,
-      "proj": 22.61,
-      "live": 22.61,
+      "proj": 22.59,
+      "live": 22.59,
       "game": "Sun 4:25 pm vs Ari"
      },
      {
@@ -218080,7 +218080,7 @@
     "right": "Alex Michael Pagels",
     "rightRec": "3-5",
     "leftScore": 7.08,
-    "leftProj": 114.51,
+    "leftProj": 114.5,
     "rightScore": 14.0,
     "rightProj": 130.37,
     "shotgun": [],
@@ -218122,11 +218122,11 @@
       "player": "M. Wilson",
       "pos": "WR",
       "slot": "WR",
-      "rem": 11.43,
+      "rem": 11.42,
       "state": "pending",
       "pts": 0.0,
-      "proj": 11.43,
-      "live": 11.43,
+      "proj": 11.42,
+      "live": 11.42,
       "game": "Sun 4:25 pm @ Sea"
      },
      {
@@ -218275,20 +218275,20 @@
     "right": "RosterMogged",
     "rightRec": "3-5",
     "leftScore": 0.0,
-    "leftProj": 139.88,
+    "leftProj": 139.86,
     "rightScore": 0.0,
-    "rightProj": 122.13,
+    "rightProj": 122.14,
     "shotgun": [],
     "leftActive": [
      {
       "player": "J. Gibbs",
       "pos": "RB",
       "slot": "RB",
-      "rem": 25.72,
+      "rem": 25.71,
       "state": "pending",
       "pts": 0.0,
-      "proj": 25.72,
-      "live": 25.72,
+      "proj": 25.71,
+      "live": 25.71,
       "game": "Sun 1:00 pm @ Mia"
      },
      {
@@ -218339,11 +218339,11 @@
       "player": "T. McBride",
       "pos": "TE",
       "slot": "TE",
-      "rem": 12.68,
+      "rem": 12.67,
       "state": "pending",
       "pts": 0.0,
-      "proj": 12.68,
-      "live": 12.68,
+      "proj": 12.67,
+      "live": 12.67,
       "game": "Sun 4:25 pm @ Sea"
      },
      {
@@ -218440,11 +218440,11 @@
       "player": "Z. Charbonnet",
       "pos": "RB",
       "slot": "RB",
-      "rem": 10.69,
+      "rem": 10.7,
       "state": "pending",
       "pts": 0.0,
-      "proj": 10.69,
-      "live": 10.69,
+      "proj": 10.7,
+      "live": 10.7,
       "game": "Sun 4:25 pm vs Ari"
      },
      {
@@ -218492,20 +218492,20 @@
     "right": "Zen Buddha Boys 🪷💨",
     "rightRec": "4-4",
     "leftScore": 32.7,
-    "leftProj": 132.27,
+    "leftProj": 132.28,
     "rightScore": 3.8,
-    "rightProj": 117.61,
+    "rightProj": 117.6,
     "shotgun": [],
     "leftActive": [
      {
       "player": "M. Willis",
       "pos": "QB",
       "slot": "QB",
-      "rem": 19.75,
+      "rem": 19.76,
       "state": "pending",
       "pts": 0.0,
-      "proj": 19.75,
-      "live": 19.75,
+      "proj": 19.76,
+      "live": 19.76,
       "game": "Sun 1:00 pm vs Det"
      },
      {
@@ -218624,11 +218624,11 @@
       "player": "O. Gordon II",
       "pos": "RB",
       "slot": "RB",
-      "rem": 14.14,
+      "rem": 14.13,
       "state": "pending",
       "pts": 0.0,
-      "proj": 14.14,
-      "live": 14.14,
+      "proj": 14.13,
+      "live": 14.13,
       "game": "Sun 1:00 pm vs Det"
      },
      {
@@ -218862,7 +218862,7 @@
     "leftScore": 0.0,
     "leftProj": 111.17,
     "rightScore": 0.0,
-    "rightProj": 113.72,
+    "rightProj": 113.73,
     "shotgun": [],
     "leftActive": [
      {
@@ -219014,11 +219014,11 @@
       "player": "J. Williams",
       "pos": "WR",
       "slot": "WR",
-      "rem": 12.33,
+      "rem": 12.34,
       "state": "pending",
       "pts": 0.0,
-      "proj": 12.33,
-      "live": 12.33,
+      "proj": 12.34,
+      "live": 12.34,
       "game": "Sun 1:00 pm @ Mia"
      },
      {
