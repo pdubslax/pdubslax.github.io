@@ -217853,7 +217853,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-07T16:14:31+00:00",
+  "ts": "2026-11-07T16:34:20+00:00",
   "week": 9,
   "matchups": [
    {
@@ -217863,7 +217863,7 @@
     "right": "James Ray Ervin Yonts",
     "rightRec": "5-3",
     "leftScore": 0.0,
-    "leftProj": 129.6,
+    "leftProj": 129.59,
     "rightScore": 0.0,
     "rightProj": 142.12,
     "shotgun": [],
@@ -217872,11 +217872,11 @@
       "player": "J. Smith-Njigba",
       "pos": "WR",
       "slot": "W/R/T",
-      "rem": 22.59,
+      "rem": 22.58,
       "state": "pending",
       "pts": 0.0,
-      "proj": 22.59,
-      "live": 22.59,
+      "proj": 22.58,
+      "live": 22.58,
       "game": "Sun 4:25 pm vs Ari"
      },
      {
@@ -217921,7 +217921,7 @@
       "pts": 0.0,
       "proj": 14.67,
       "live": 14.67,
-      "game": "Sun 4:25 pm @ NE"
+      "game": "Sun 4:25 pm @ NE"
      },
      {
       "player": "J. Coker",
@@ -217946,7 +217946,7 @@
       "game": "Sun 1:00 pm @ Mia"
      },
      {
-      "player": "Houston",
+      "player": "Texans",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 9.14,
@@ -218058,7 +218058,7 @@
       "game": "Sun 4:05 pm @ LAC"
      },
      {
-      "player": "N. York",
+      "player": "Giants",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 8.77,
@@ -218080,7 +218080,7 @@
     "right": "Alex Michael Pagels",
     "rightRec": "3-5",
     "leftScore": 7.08,
-    "leftProj": 114.6,
+    "leftProj": 114.59,
     "rightScore": 14.0,
     "rightProj": 130.22,
     "shotgun": [],
@@ -218089,12 +218089,12 @@
       "player": "D. Maye",
       "pos": "QB",
       "slot": "QB",
-      "rem": 23.74,
+      "rem": 23.73,
       "state": "pending",
       "pts": 0.0,
-      "proj": 23.74,
-      "live": 23.74,
-      "game": "Sun 4:25 pm vs GB"
+      "proj": 23.73,
+      "live": 23.73,
+      "game": "Sun 4:25 pm vs GB"
      },
      {
       "player": "C. Brown",
@@ -218116,7 +218116,7 @@
       "pts": 0.0,
       "proj": 14.82,
       "live": 14.82,
-      "game": "Sun 4:25 pm @ NE"
+      "game": "Sun 4:25 pm @ NE"
      },
      {
       "player": "M. Wilson",
@@ -218217,7 +218217,7 @@
       "pts": 0.0,
       "proj": 14.63,
       "live": 14.63,
-      "game": "Sun 4:25 pm @ NE"
+      "game": "Sun 4:25 pm @ NE"
      },
      {
       "player": "J. Coleman",
@@ -218734,7 +218734,7 @@
       "pts": 0.0,
       "proj": 10.21,
       "live": 10.21,
-      "game": "Sun 4:25 pm @ NE"
+      "game": "Sun 4:25 pm @ NE"
      },
      {
       "player": "D. Douglas",
@@ -218745,10 +218745,10 @@
       "pts": 0.0,
       "proj": 9.47,
       "live": 9.47,
-      "game": "Sun 4:25 pm vs GB"
+      "game": "Sun 4:25 pm vs GB"
      },
      {
-      "player": "Rams",
+      "player": "L. Angeles",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 6.84,
@@ -218838,7 +218838,7 @@
       "game": "Sun 1:00 pm @ Car"
      },
      {
-      "player": "Bears",
+      "player": "Chicago",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 8.27,
@@ -218990,7 +218990,7 @@
       "pts": 0.0,
       "proj": 20.06,
       "live": 20.06,
-      "game": "Sun 4:25 pm @ NE"
+      "game": "Sun 4:25 pm @ NE"
      },
      {
       "player": "J. Cook III",
@@ -219023,7 +219023,7 @@
       "pts": 0.0,
       "proj": 15.92,
       "live": 15.92,
-      "game": "Sun 4:25 pm vs GB"
+      "game": "Sun 4:25 pm vs GB"
      },
      {
       "player": "J. Williams",
