@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 10,
- "ts": "2026-11-07T18:35:15+00:00",
+ "ts": "2026-11-07T19:15:15+00:00",
  "matchups": [
   {
    "id": "1v9",
@@ -905,8 +905,8 @@
    "leftScore": 0.0,
    "leftProj": 118.66,
    "rightScore": 0.0,
-   "rightProj": 95.87,
-   "leftPct": 69,
+   "rightProj": 95.95,
+   "leftPct": 68,
    "leftRem": 9,
    "rightRem": 6,
    "shotgun": [
@@ -1103,11 +1103,11 @@
      "player": "C. Olave",
      "pos": "WR",
      "slot": "WR",
-     "rem": 15.35,
+     "rem": 15.43,
      "state": "pending",
      "pts": 0.0,
-     "proj": 15.35,
-     "live": 15.35,
+     "proj": 15.43,
+     "live": 15.43,
      "game": "Sun 1:00 pm vs Car"
     },
     {
@@ -1132,7 +1132,7 @@
    "leftScore": 0.0,
    "leftProj": 101.08,
    "rightScore": 0.0,
-   "rightProj": 103.71,
+   "rightProj": 103.74,
    "leftPct": 48,
    "leftRem": 8,
    "rightRem": 7,
@@ -1341,11 +1341,11 @@
      "player": "A. Kamara",
      "pos": "RB",
      "slot": "W/R/T",
-     "rem": 6.07,
+     "rem": 6.1,
      "state": "pending",
      "pts": 0.0,
-     "proj": 6.07,
-     "live": 6.07,
+     "proj": 6.1,
+     "live": 6.1,
      "game": "Sun 1:00 pm vs Car"
     }
    ]
