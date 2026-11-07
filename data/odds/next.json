@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 10,
- "ts": "2026-11-07T19:15:15+00:00",
+ "ts": "2026-11-07T19:55:16+00:00",
  "matchups": [
   {
    "id": "1v9",
@@ -12,7 +12,7 @@
    "leftScore": 0.0,
    "leftProj": 120.82,
    "rightScore": 0.0,
-   "rightProj": 97.37,
+   "rightProj": 97.29,
    "leftPct": 69,
    "leftRem": 9,
    "rightRem": 7,
@@ -174,11 +174,11 @@
      "player": "J. Jefferson",
      "pos": "WR",
      "slot": "WR",
-     "rem": 15.25,
+     "rem": 15.17,
      "state": "pending",
      "pts": 0.0,
-     "proj": 15.25,
-     "live": 15.25,
+     "proj": 15.17,
+     "live": 15.17,
      "game": "Sun 1:00 pm @ GB"
     },
     {
@@ -903,7 +903,7 @@
    "right": "Alex Michael Pagels",
    "rightRec": "3-5",
    "leftScore": 0.0,
-   "leftProj": 118.66,
+   "leftProj": 118.63,
    "rightScore": 0.0,
    "rightProj": 95.95,
    "leftPct": 68,
@@ -1035,11 +1035,11 @@
      "player": "J. Addison",
      "pos": "WR",
      "slot": "WR",
-     "rem": 8.86,
+     "rem": 8.83,
      "state": "pending",
      "pts": 0.0,
-     "proj": 8.86,
-     "live": 8.86,
+     "proj": 8.83,
+     "live": 8.83,
      "game": "Sun 1:00 pm @ GB"
     },
     {
@@ -1130,7 +1130,7 @@
    "right": "Kiwis are better than mid",
    "rightRec": "5-3",
    "leftScore": 0.0,
-   "leftProj": 101.08,
+   "leftProj": 101.03,
    "rightScore": 0.0,
    "rightProj": 103.74,
    "leftPct": 48,
@@ -1251,11 +1251,11 @@
      "player": "T.J. Hockenson",
      "pos": "TE",
      "slot": "TE",
-     "rem": 9.02,
+     "rem": 8.97,
      "state": "pending",
      "pts": 0.0,
-     "proj": 9.02,
-     "live": 9.02,
+     "proj": 8.97,
+     "live": 8.97,
      "game": "Sun 1:00 pm @ GB"
     },
     {
