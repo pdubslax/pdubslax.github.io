@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 10,
- "ts": "2026-11-07T06:12:37+00:00",
+ "ts": "2026-11-07T06:52:38+00:00",
  "matchups": [
   {
    "id": "1v9",
@@ -231,7 +231,7 @@
    "right": "RosterMogged",
    "rightRec": "3-5",
    "leftScore": 0.0,
-   "leftProj": 104.54,
+   "leftProj": 104.58,
    "rightScore": 0.0,
    "rightProj": 112.84,
    "leftPct": 43,
@@ -294,11 +294,11 @@
      "player": "C. Brown",
      "pos": "RB",
      "slot": "RB",
-     "rem": 15.07,
+     "rem": 15.11,
      "state": "pending",
      "pts": 0.0,
-     "proj": 15.07,
-     "live": 15.07,
+     "proj": 15.11,
+     "live": 15.11,
      "game": "Sun 8:20 pm vs Pit"
     },
     {
@@ -679,7 +679,7 @@
    "right": "James Ray Ervin Yonts",
    "rightRec": "5-3",
    "leftScore": 0.0,
-   "leftProj": 117.42,
+   "leftProj": 117.35,
    "rightScore": 0.0,
    "rightProj": 119.1,
    "leftPct": 49,
@@ -717,11 +717,11 @@
      "player": "J. Chase",
      "pos": "WR",
      "slot": "WR",
-     "rem": 17.72,
+     "rem": 17.65,
      "state": "pending",
      "pts": 0.0,
-     "proj": 17.72,
-     "live": 17.72,
+     "proj": 17.65,
+     "live": 17.65,
      "game": "Sun 8:20 pm vs Pit"
     },
     {
@@ -902,7 +902,7 @@
    "leftScore": 0.0,
    "leftProj": 118.56,
    "rightScore": 0.0,
-   "rightProj": 95.98,
+   "rightProj": 95.86,
    "leftPct": 68,
    "leftRem": 9,
    "rightRem": 6,
@@ -1056,11 +1056,11 @@
      "player": "J. Burrow",
      "pos": "QB",
      "slot": "QB",
-     "rem": 23.02,
+     "rem": 22.96,
      "state": "pending",
      "pts": 0.0,
-     "proj": 23.02,
-     "live": 23.02,
+     "proj": 22.96,
+     "live": 22.96,
      "game": "Sun 8:20 pm vs Pit"
     },
     {
@@ -1075,17 +1075,6 @@
      "game": "Thu 8:15 pm vs Was"
     },
     {
-     "player": "T. Higgins",
-     "pos": "WR",
-     "slot": "WR",
-     "rem": 15.55,
-     "state": "pending",
-     "pts": 0.0,
-     "proj": 15.55,
-     "live": 15.55,
-     "game": "Sun 8:20 pm vs Pit"
-    },
-    {
      "player": "J. Jacobs",
      "pos": "RB",
      "slot": "RB",
@@ -1095,6 +1084,17 @@
      "proj": 15.52,
      "live": 15.52,
      "game": "Sun 1:00 pm vs Min"
+    },
+    {
+     "player": "T. Higgins",
+     "pos": "WR",
+     "slot": "WR",
+     "rem": 15.49,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 15.49,
+     "live": 15.49,
+     "game": "Sun 8:20 pm vs Pit"
     },
     {
      "player": "C. Olave",
