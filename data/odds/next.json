@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 10,
- "ts": "2026-11-07T00:31:42+00:00",
+ "ts": "2026-11-07T01:11:41+00:00",
  "matchups": [
   {
    "id": "1v9",
@@ -233,7 +233,7 @@
    "leftScore": 0.0,
    "leftProj": 104.59,
    "rightScore": 0.0,
-   "rightProj": 112.82,
+   "rightProj": 112.83,
    "leftPct": 43,
    "leftRem": 7,
    "rightRem": 9,
@@ -395,11 +395,11 @@
      "player": "Z. Charbonnet",
      "pos": "RB",
      "slot": "RB",
-     "rem": 10.67,
+     "rem": 10.68,
      "state": "pending",
      "pts": 0.0,
-     "proj": 10.67,
-     "live": 10.67,
+     "proj": 10.68,
+     "live": 10.68,
      "game": "Sun 4:05 pm @ LV"
     },
     {
