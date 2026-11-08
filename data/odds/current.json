@@ -217853,7 +217853,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-08T05:37:00+00:00",
+  "ts": "2026-11-08T05:57:09+00:00",
   "week": 9,
   "matchups": [
    {
@@ -218492,7 +218492,7 @@
     "right": "Zen Buddha Boys 🪷💨",
     "rightRec": "4-4",
     "leftScore": 32.7,
-    "leftProj": 131.45,
+    "leftProj": 131.98,
     "rightScore": 3.8,
     "rightProj": 117.47,
     "shotgun": [],
@@ -218553,7 +218553,18 @@
       "game": "Sun 1:00 pm vs Dal"
      },
      {
-      "player": "Seahawks",
+      "player": "A. Mitchell",
+      "pos": "WR",
+      "slot": "W/R/T",
+      "rem": 10.3,
+      "state": "pending",
+      "pts": 0.0,
+      "proj": 10.3,
+      "live": 10.3,
+      "game": "Sun 1:00 pm @ KC"
+     },
+     {
+      "player": "Seattle",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 10.11,
@@ -218562,17 +218573,6 @@
       "proj": 10.11,
       "live": 10.11,
       "game": "Sun 4:25 pm vs Ari"
-     },
-     {
-      "player": "J. Downs",
-      "pos": "WR",
-      "slot": "W/R/T",
-      "rem": 9.77,
-      "state": "pending",
-      "pts": 0.0,
-      "proj": 9.77,
-      "live": 9.77,
-      "game": "Sun 1:00 pm vs Dal"
      }
     ],
     "rightActive": [
@@ -218654,7 +218654,7 @@
       "game": "Mon 8:15 pm vs Buf"
      },
      {
-      "player": "49ers",
+      "player": "S. Francisco",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 6.27,
@@ -218748,7 +218748,7 @@
       "game": "Sun 4:25 pm vs GB"
      },
      {
-      "player": "Rams",
+      "player": "L. Angeles",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 6.47,
@@ -218838,7 +218838,7 @@
       "game": "Sun 1:00 pm @ Car"
      },
      {
-      "player": "Bears",
+      "player": "Chicago",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 8.18,

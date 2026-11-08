@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 10,
- "ts": "2026-11-08T05:17:00+00:00",
+ "ts": "2026-11-08T05:57:00+00:00",
  "matchups": [
   {
    "id": "1v9",
@@ -679,10 +679,10 @@
    "right": "James Ray Ervin Yonts",
    "rightRec": "5-3",
    "leftScore": 0.0,
-   "leftProj": 117.37,
+   "leftProj": 115.57,
    "rightScore": 0.0,
    "rightProj": 119.07,
-   "leftPct": 49,
+   "leftPct": 47,
    "leftRem": 9,
    "rightRem": 8,
    "shotgun": [
@@ -780,15 +780,15 @@
      "game": "Sun 1:00 pm @ Ten"
     },
     {
-     "player": "J. Downs",
+     "player": "A. Mitchell",
      "pos": "WR",
      "slot": "W/R/T",
-     "rem": 9.59,
+     "rem": 7.79,
      "state": "pending",
      "pts": 0.0,
-     "proj": 9.59,
-     "live": 9.59,
-     "game": "Sun 1:00 pm vs Mia"
+     "proj": 7.79,
+     "live": 7.79,
+     "game": "Sun 1:00 pm vs Buf"
     },
     {
      "player": "Seahawks",
@@ -900,13 +900,27 @@
    "right": "Alex Michael Pagels",
    "rightRec": "3-5",
    "leftScore": 0.0,
-   "leftProj": 118.51,
+   "leftProj": 105.74,
    "rightScore": 0.0,
    "rightProj": 95.77,
-   "leftPct": 69,
-   "leftRem": 9,
+   "leftPct": 59,
+   "leftRem": 8,
    "rightRem": 6,
    "shotgun": [
+    {
+     "player": "K. Gainwell",
+     "pos": "RB",
+     "team": "TB",
+     "pts": 0.0,
+     "game": "Bye",
+     "tag": null,
+     "state": "bye",
+     "slot": "RB",
+     "manager": "MELONHEADS (daniel)",
+     "locked": false,
+     "live": 0.0,
+     "reason": "pts"
+    },
     {
      "player": "J. Coleman",
      "pos": "RB",
@@ -994,17 +1008,6 @@
      "proj": 13.23,
      "live": 13.23,
      "game": "Sun 4:25 pm vs SF"
-    },
-    {
-     "player": "C. Skattebo",
-     "pos": "RB",
-     "slot": "RB",
-     "rem": 12.77,
-     "state": "pending",
-     "pts": 0.0,
-     "proj": 12.77,
-     "live": 12.77,
-     "game": "Thu 8:15 pm vs Was"
     },
     {
      "player": "D. Kincaid",
