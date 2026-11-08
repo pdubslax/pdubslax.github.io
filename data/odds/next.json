@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 10,
- "ts": "2026-11-08T17:26:44+00:00",
+ "ts": "2026-11-08T17:56:44+00:00",
  "matchups": [
   {
    "id": "1v9",
@@ -900,10 +900,10 @@
    "right": "Alex Michael Pagels",
    "rightRec": "3-5",
    "leftScore": 0.0,
-   "leftProj": 105.72,
+   "leftProj": 101.67,
    "rightScore": 0.0,
    "rightProj": 95.9,
-   "leftPct": 58,
+   "leftPct": 55,
    "leftRem": 8,
    "rightRem": 6,
    "shotgun": [
@@ -999,17 +999,6 @@
      "game": "Sun 4:25 pm @ Dal"
     },
     {
-     "player": "G. Pickens",
-     "pos": "WR",
-     "slot": "WR",
-     "rem": 13.2,
-     "state": "pending",
-     "pts": 0.0,
-     "proj": 13.2,
-     "live": 13.2,
-     "game": "Sun 4:25 pm vs SF"
-    },
-    {
      "player": "D. Kincaid",
      "pos": "TE",
      "slot": "TE",
@@ -1030,6 +1019,17 @@
      "proj": 9.52,
      "live": 9.52,
      "game": "Sun 9:30 am vs NE"
+    },
+    {
+     "player": "K. Shakir",
+     "pos": "WR",
+     "slot": "WR",
+     "rem": 9.15,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 9.15,
+     "live": 9.15,
+     "game": "Sun 1:00 pm @ NYJ"
     },
     {
      "player": "J. Addison",
