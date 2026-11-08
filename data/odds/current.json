@@ -217853,7 +217853,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-08T08:17:00+00:00",
+  "ts": "2026-11-08T08:37:08+00:00",
   "week": 9,
   "matchups": [
    {
@@ -217863,7 +217863,7 @@
     "right": "James Ray Ervin Yonts",
     "rightRec": "5-3",
     "leftScore": 0.0,
-    "leftProj": 129.48,
+    "leftProj": 129.49,
     "rightScore": 0.0,
     "rightProj": 140.32,
     "shotgun": [],
@@ -217872,11 +217872,11 @@
       "player": "J. Smith-Njigba",
       "pos": "WR",
       "slot": "W/R/T",
-      "rem": 22.53,
+      "rem": 22.54,
       "state": "pending",
       "pts": 0.0,
-      "proj": 22.53,
-      "live": 22.53,
+      "proj": 22.54,
+      "live": 22.54,
       "game": "Sun 4:25 pm vs Ari"
      },
      {
@@ -217943,7 +217943,7 @@
       "pts": 0.0,
       "proj": 10.87,
       "live": 10.87,
-      "game": "Sun 1:00 pm @ Mia"
+      "game": "Sun 1:00 pm @ Mia"
      },
      {
       "player": "S. Shrader",
@@ -218289,7 +218289,7 @@
       "pts": 0.0,
       "proj": 25.74,
       "live": 25.74,
-      "game": "Sun 1:00 pm @ Mia"
+      "game": "Sun 1:00 pm @ Mia"
      },
      {
       "player": "P. Mahomes",
@@ -218377,7 +218377,7 @@
       "pts": 0.0,
       "proj": 7.94,
       "live": 7.94,
-      "game": "Sun 1:00 pm @ Mia"
+      "game": "Sun 1:00 pm @ Mia"
      }
     ],
     "rightActive": [
@@ -218506,7 +218506,7 @@
       "pts": 0.0,
       "proj": 19.76,
       "live": 19.76,
-      "game": "Sun 1:00 pm vs Det"
+      "game": "Sun 1:00 pm vs Det"
      },
      {
       "player": "J. Chase",
@@ -218596,7 +218596,7 @@
       "pts": 0.0,
       "proj": 18.14,
       "live": 18.14,
-      "game": "Sun 1:00 pm @ Mia"
+      "game": "Sun 1:00 pm @ Mia"
      },
      {
       "player": "C. Hubbard",
@@ -218629,7 +218629,7 @@
       "pts": 0.0,
       "proj": 14.43,
       "live": 14.43,
-      "game": "Sun 1:00 pm vs Det"
+      "game": "Sun 1:00 pm vs Det"
      },
      {
       "player": "J. Myers",
@@ -218929,7 +218929,7 @@
       "pts": 0.0,
       "proj": 9.79,
       "live": 9.79,
-      "game": "Sun 1:00 pm @ Mia"
+      "game": "Sun 1:00 pm @ Mia"
      },
      {
       "player": "J. Addison",
@@ -219030,7 +219030,7 @@
       "pts": 0.0,
       "proj": 12.38,
       "live": 12.38,
-      "game": "Sun 1:00 pm @ Mia"
+      "game": "Sun 1:00 pm @ Mia"
      },
      {
       "player": "B. Hall",
