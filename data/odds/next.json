@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 10,
- "ts": "2026-11-08T22:50:48+00:00",
+ "ts": "2026-11-08T23:11:47+00:00",
  "matchups": [
   {
    "id": "1v9",
@@ -1043,7 +1043,7 @@
      "game": "Sun 1:00 pm @ GB"
     },
     {
-     "player": "Buffalo",
+     "player": "Bills",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 8.01,
@@ -1111,7 +1111,7 @@
      "game": "Sun 1:00 pm vs Car"
     },
     {
-     "player": "Jacksonville",
+     "player": "Jaguars",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 8.37,
