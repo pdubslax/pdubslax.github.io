@@ -217853,7 +217853,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-08T10:17:59+00:00",
+  "ts": "2026-11-08T10:37:50+00:00",
   "week": 9,
   "matchups": [
    {
@@ -217863,7 +217863,7 @@
     "right": "James Ray Ervin Yonts",
     "rightRec": "5-3",
     "leftScore": 0.0,
-    "leftProj": 129.49,
+    "leftProj": 129.48,
     "rightScore": 0.0,
     "rightProj": 140.32,
     "shotgun": [],
@@ -217872,11 +217872,11 @@
       "player": "J. Smith-Njigba",
       "pos": "WR",
       "slot": "W/R/T",
-      "rem": 22.54,
+      "rem": 22.53,
       "state": "pending",
       "pts": 0.0,
-      "proj": 22.54,
-      "live": 22.54,
+      "proj": 22.53,
+      "live": 22.53,
       "game": "Sun 4:25 pm vs Ari"
      },
      {
@@ -218564,7 +218564,7 @@
       "game": "Sun 1:00 pm @ KC"
      },
      {
-      "player": "Seahawks",
+      "player": "Seattle",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 10.11,
@@ -218654,7 +218654,7 @@
       "game": "Mon 8:15 pm vs Buf"
      },
      {
-      "player": "49ers",
+      "player": "S. Francisco",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 6.27,
