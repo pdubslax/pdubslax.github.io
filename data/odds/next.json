@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 10,
- "ts": "2026-11-08T20:23:48+00:00",
+ "ts": "2026-11-08T20:44:48+00:00",
  "matchups": [
   {
    "id": "1v9",
@@ -10,9 +10,9 @@
    "right": "Sir this is a FF league",
    "rightRec": "3-5",
    "leftScore": 0.0,
-   "leftProj": 121.6,
+   "leftProj": 121.58,
    "rightScore": 0.0,
-   "rightProj": 105.18,
+   "rightProj": 105.14,
    "leftPct": 64,
    "leftRem": 9,
    "rightRem": 8,
@@ -37,11 +37,11 @@
      "player": "J. Smith-Njigba",
      "pos": "WR",
      "slot": "W/R/T",
-     "rem": 23.44,
+     "rem": 23.42,
      "state": "pending",
      "pts": 0.0,
-     "proj": 23.44,
-     "live": 23.44,
+     "proj": 23.42,
+     "live": 23.42,
      "game": "Sun 4:05 pm @ LV"
     },
     {
@@ -215,11 +215,11 @@
      "player": "M. Gesicki",
      "pos": "TE",
      "slot": "TE",
-     "rem": 8.22,
+     "rem": 8.18,
      "state": "pending",
      "pts": 0.0,
-     "proj": 8.22,
-     "live": 8.22,
+     "proj": 8.18,
+     "live": 8.18,
      "game": "Sun 8:20 pm vs Pit"
     }
    ]
@@ -233,7 +233,7 @@
    "leftScore": 0.0,
    "leftProj": 104.46,
    "rightScore": 0.0,
-   "rightProj": 112.46,
+   "rightProj": 112.49,
    "leftPct": 43,
    "leftRem": 7,
    "rightRem": 9,
@@ -283,22 +283,22 @@
      "player": "D. Henry",
      "pos": "RB",
      "slot": "RB",
-     "rem": 17.49,
+     "rem": 17.45,
      "state": "pending",
      "pts": 0.0,
-     "proj": 17.49,
-     "live": 17.49,
+     "proj": 17.45,
+     "live": 17.45,
      "game": "Mon 8:15 pm vs LAC"
     },
     {
      "player": "C. Brown",
      "pos": "RB",
      "slot": "RB",
-     "rem": 15.1,
+     "rem": 15.14,
      "state": "pending",
      "pts": 0.0,
-     "proj": 15.1,
-     "live": 15.1,
+     "proj": 15.14,
+     "live": 15.14,
      "game": "Sun 8:20 pm vs Pit"
     },
     {
@@ -384,11 +384,11 @@
      "player": "L. McConkey",
      "pos": "WR",
      "slot": "WR",
-     "rem": 10.98,
+     "rem": 11.01,
      "state": "pending",
      "pts": 0.0,
-     "proj": 10.98,
-     "live": 10.98,
+     "proj": 11.01,
+     "live": 11.01,
      "game": "Mon 8:15 pm @ Bal"
     },
     {
@@ -679,10 +679,10 @@
    "right": "James Ray Ervin Yonts",
    "rightRec": "5-3",
    "leftScore": 0.0,
-   "leftProj": 116.11,
+   "leftProj": 116.04,
    "rightScore": 0.0,
    "rightProj": 117.97,
-   "leftPct": 49,
+   "leftPct": 48,
    "leftRem": 9,
    "rightRem": 8,
    "shotgun": [
@@ -717,11 +717,11 @@
      "player": "J. Chase",
      "pos": "WR",
      "slot": "WR",
-     "rem": 17.78,
+     "rem": 17.71,
      "state": "pending",
      "pts": 0.0,
-     "proj": 17.78,
-     "live": 17.78,
+     "proj": 17.71,
+     "live": 17.71,
      "game": "Sun 8:20 pm vs Pit"
     },
     {
@@ -902,7 +902,7 @@
    "leftScore": 0.0,
    "leftProj": 101.69,
    "rightScore": 0.0,
-   "rightProj": 95.99,
+   "rightProj": 95.87,
    "leftPct": 55,
    "leftRem": 8,
    "rightRem": 6,
@@ -1043,7 +1043,7 @@
      "game": "Sun 1:00 pm @ GB"
     },
     {
-     "player": "Bills",
+     "player": "Buffalo",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 8.01,
@@ -1059,33 +1059,33 @@
      "player": "J. Burrow",
      "pos": "QB",
      "slot": "QB",
-     "rem": 23.13,
+     "rem": 23.07,
      "state": "pending",
      "pts": 0.0,
-     "proj": 23.13,
-     "live": 23.13,
+     "proj": 23.07,
+     "live": 23.07,
      "game": "Sun 8:20 pm vs Pit"
     },
     {
      "player": "M. Nabers",
      "pos": "WR",
      "slot": "W/R/T",
-     "rem": 18.05,
+     "rem": 18.06,
      "state": "pending",
      "pts": 0.0,
-     "proj": 18.05,
-     "live": 18.05,
+     "proj": 18.06,
+     "live": 18.06,
      "game": "Thu 8:15 pm vs Was"
     },
     {
      "player": "T. Higgins",
      "pos": "WR",
      "slot": "WR",
-     "rem": 15.59,
+     "rem": 15.52,
      "state": "pending",
      "pts": 0.0,
-     "proj": 15.59,
-     "live": 15.59,
+     "proj": 15.52,
+     "live": 15.52,
      "game": "Sun 8:20 pm vs Pit"
     },
     {
@@ -1111,7 +1111,7 @@
      "game": "Sun 1:00 pm vs Car"
     },
     {
-     "player": "Jaguars",
+     "player": "Jacksonville",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 8.37,
@@ -1130,7 +1130,7 @@
    "right": "Kiwis are better than mid",
    "rightRec": "5-3",
    "leftScore": 0.0,
-   "leftProj": 101.19,
+   "leftProj": 101.23,
    "rightScore": 0.0,
    "rightProj": 96.73,
    "leftPct": 54,
@@ -1166,7 +1166,7 @@
      "reason": "pts"
     },
     {
-     "player": "Chicago",
+     "player": "Bears",
      "pos": "DEF",
      "team": "Chi",
      "pts": 0.0,
@@ -1207,11 +1207,11 @@
      "player": "Z. Flowers",
      "pos": "WR",
      "slot": "W/R/T",
-     "rem": 14.62,
+     "rem": 14.66,
      "state": "pending",
      "pts": 0.0,
-     "proj": 14.62,
-     "live": 14.62,
+     "proj": 14.66,
+     "live": 14.66,
      "game": "Mon 8:15 pm vs LAC"
     },
     {
@@ -1259,7 +1259,7 @@
      "game": "Sun 1:00 pm @ GB"
     },
     {
-     "player": "S. Francisco",
+     "player": "49ers",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 3.81,
