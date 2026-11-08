@@ -217853,7 +217853,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-08T03:16:08+00:00",
+  "ts": "2026-11-08T03:36:18+00:00",
   "week": 9,
   "matchups": [
    {
@@ -217865,7 +217865,7 @@
     "leftScore": 0.0,
     "leftProj": 129.49,
     "rightScore": 0.0,
-    "rightProj": 140.17,
+    "rightProj": 140.22,
     "shotgun": [],
     "leftActive": [
      {
@@ -218039,11 +218039,11 @@
       "player": "T. Kelce",
       "pos": "TE",
       "slot": "TE",
-      "rem": 11.49,
+      "rem": 11.54,
       "state": "pending",
       "pts": 0.0,
-      "proj": 11.49,
-      "live": 11.49,
+      "proj": 11.54,
+      "live": 11.54,
       "game": "Sun 1:00 pm vs NYJ"
      },
      {
@@ -218275,9 +218275,9 @@
     "right": "RosterMogged",
     "rightRec": "3-5",
     "leftScore": 0.0,
-    "leftProj": 139.52,
+    "leftProj": 139.61,
     "rightScore": 0.0,
-    "rightProj": 121.38,
+    "rightProj": 121.54,
     "shotgun": [],
     "leftActive": [
      {
@@ -218295,11 +218295,11 @@
       "player": "P. Mahomes",
       "pos": "QB",
       "slot": "QB",
-      "rem": 23.25,
+      "rem": 23.34,
       "state": "pending",
       "pts": 0.0,
-      "proj": 23.25,
-      "live": 23.25,
+      "proj": 23.34,
+      "live": 23.34,
       "game": "Sun 1:00 pm vs NYJ"
      },
      {
@@ -218396,22 +218396,22 @@
       "player": "K. Walker III",
       "pos": "RB",
       "slot": "RB",
-      "rem": 23.34,
+      "rem": 23.4,
       "state": "pending",
       "pts": 0.0,
-      "proj": 23.34,
-      "live": 23.34,
+      "proj": 23.4,
+      "live": 23.4,
       "game": "Sun 1:00 pm vs NYJ"
      },
      {
       "player": "R. Rice",
       "pos": "WR",
       "slot": "WR",
-      "rem": 13.5,
+      "rem": 13.55,
       "state": "pending",
       "pts": 0.0,
-      "proj": 13.5,
-      "live": 13.5,
+      "proj": 13.55,
+      "live": 13.55,
       "game": "Sun 1:00 pm vs NYJ"
      },
      {
@@ -218429,11 +218429,11 @@
       "player": "O. Cooper Jr.",
       "pos": "WR",
       "slot": "W/R/T",
-      "rem": 11.14,
+      "rem": 11.17,
       "state": "pending",
       "pts": 0.0,
-      "proj": 11.14,
-      "live": 11.14,
+      "proj": 11.17,
+      "live": 11.17,
       "game": "Sun 1:00 pm @ KC"
      },
      {
@@ -218451,11 +218451,11 @@
       "player": "Chiefs",
       "pos": "DEF",
       "slot": "DEF",
-      "rem": 8.93,
+      "rem": 8.95,
       "state": "pending",
       "pts": 0.0,
-      "proj": 8.93,
-      "live": 8.93,
+      "proj": 8.95,
+      "live": 8.95,
       "game": "Sun 1:00 pm vs NYJ"
      },
      {
@@ -218862,7 +218862,7 @@
     "leftScore": 0.0,
     "leftProj": 111.38,
     "rightScore": 0.0,
-    "rightProj": 117.82,
+    "rightProj": 117.84,
     "shotgun": [],
     "leftActive": [
      {
@@ -219025,11 +219025,11 @@
       "player": "B. Hall",
       "pos": "RB",
       "slot": "RB",
-      "rem": 10.85,
+      "rem": 10.87,
       "state": "pending",
       "pts": 0.0,
-      "proj": 10.85,
-      "live": 10.85,
+      "proj": 10.87,
+      "live": 10.87,
       "game": "Sun 1:00 pm @ KC"
      },
      {
