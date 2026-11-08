@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 10,
- "ts": "2026-11-08T16:23:43+00:00",
+ "ts": "2026-11-08T16:44:44+00:00",
  "matchups": [
   {
    "id": "1v9",
@@ -10,9 +10,9 @@
    "right": "Sir this is a FF league",
    "rightRec": "3-5",
    "leftScore": 0.0,
-   "leftProj": 121.48,
+   "leftProj": 121.47,
    "rightScore": 0.0,
-   "rightProj": 105.14,
+   "rightProj": 105.18,
    "leftPct": 63,
    "leftRem": 9,
    "rightRem": 8,
@@ -125,11 +125,11 @@
      "player": "D. Singletary",
      "pos": "RB",
      "slot": "RB",
-     "rem": 8.59,
+     "rem": 8.58,
      "state": "pending",
      "pts": 0.0,
-     "proj": 8.59,
-     "live": 8.59,
+     "proj": 8.58,
+     "live": 8.58,
      "game": "Thu 8:15 pm vs Was"
     }
    ],
@@ -215,11 +215,11 @@
      "player": "M. Gesicki",
      "pos": "TE",
      "slot": "TE",
-     "rem": 8.18,
+     "rem": 8.22,
      "state": "pending",
      "pts": 0.0,
-     "proj": 8.18,
-     "live": 8.18,
+     "proj": 8.22,
+     "live": 8.22,
      "game": "Sun 8:20 pm vs Pit"
     }
    ]
@@ -231,7 +231,7 @@
    "right": "RosterMogged",
    "rightRec": "3-5",
    "leftScore": 0.0,
-   "leftProj": 104.4,
+   "leftProj": 104.39,
    "rightScore": 0.0,
    "rightProj": 112.46,
    "leftPct": 43,
@@ -294,11 +294,11 @@
      "player": "C. Brown",
      "pos": "RB",
      "slot": "RB",
-     "rem": 15.14,
+     "rem": 15.1,
      "state": "pending",
      "pts": 0.0,
-     "proj": 15.14,
-     "live": 15.14,
+     "proj": 15.1,
+     "live": 15.1,
      "game": "Sun 8:20 pm vs Pit"
     },
     {
@@ -316,11 +316,11 @@
      "player": "I. Likely",
      "pos": "TE",
      "slot": "TE",
-     "rem": 13.24,
+     "rem": 13.27,
      "state": "pending",
      "pts": 0.0,
-     "proj": 13.24,
-     "live": 13.24,
+     "proj": 13.27,
+     "live": 13.27,
      "game": "Thu 8:15 pm vs Was"
     },
     {
@@ -455,7 +455,7 @@
    "right": "Tuten Brown",
    "rightRec": "5-3",
    "leftScore": 0.0,
-   "leftProj": 118.08,
+   "leftProj": 118.1,
    "rightScore": 0.0,
    "rightProj": 106.2,
    "leftPct": 60,
@@ -551,11 +551,11 @@
      "player": "S. Diggs",
      "pos": "WR",
      "slot": "WR",
-     "rem": 10.48,
+     "rem": 10.5,
      "state": "pending",
      "pts": 0.0,
-     "proj": 10.48,
-     "live": 10.48,
+     "proj": 10.5,
+     "live": 10.5,
      "game": "Thu 8:15 pm @ NYG"
     },
     {
@@ -570,7 +570,7 @@
      "game": "Sun 1:00 pm @ GB"
     },
     {
-     "player": "Detroit",
+     "player": "Lions",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 4.46,
@@ -660,7 +660,7 @@
      "game": "Sun 9:30 am @ Det"
     },
     {
-     "player": "L. Angeles",
+     "player": "Rams",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 8.02,
@@ -679,7 +679,7 @@
    "right": "James Ray Ervin Yonts",
    "rightRec": "5-3",
    "leftScore": 0.0,
-   "leftProj": 115.97,
+   "leftProj": 116.04,
    "rightScore": 0.0,
    "rightProj": 117.97,
    "leftPct": 48,
@@ -717,11 +717,11 @@
      "player": "J. Chase",
      "pos": "WR",
      "slot": "WR",
-     "rem": 17.71,
+     "rem": 17.78,
      "state": "pending",
      "pts": 0.0,
-     "proj": 17.71,
-     "live": 17.71,
+     "proj": 17.78,
+     "live": 17.78,
      "game": "Sun 8:20 pm vs Pit"
     },
     {
@@ -902,8 +902,8 @@
    "leftScore": 0.0,
    "leftProj": 105.72,
    "rightScore": 0.0,
-   "rightProj": 95.74,
-   "leftPct": 59,
+   "rightProj": 95.9,
+   "leftPct": 58,
    "leftRem": 8,
    "rightRem": 6,
    "shotgun": [
@@ -1059,33 +1059,33 @@
      "player": "J. Burrow",
      "pos": "QB",
      "slot": "QB",
-     "rem": 23.07,
+     "rem": 23.13,
      "state": "pending",
      "pts": 0.0,
-     "proj": 23.07,
-     "live": 23.07,
+     "proj": 23.13,
+     "live": 23.13,
      "game": "Sun 8:20 pm vs Pit"
     },
     {
      "player": "M. Nabers",
      "pos": "WR",
      "slot": "W/R/T",
-     "rem": 17.98,
+     "rem": 18.01,
      "state": "pending",
      "pts": 0.0,
-     "proj": 17.98,
-     "live": 17.98,
+     "proj": 18.01,
+     "live": 18.01,
      "game": "Thu 8:15 pm vs Was"
     },
     {
      "player": "T. Higgins",
      "pos": "WR",
      "slot": "WR",
-     "rem": 15.52,
+     "rem": 15.59,
      "state": "pending",
      "pts": 0.0,
-     "proj": 15.52,
-     "live": 15.52,
+     "proj": 15.59,
+     "live": 15.59,
      "game": "Sun 8:20 pm vs Pit"
     },
     {
