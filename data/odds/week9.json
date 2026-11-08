@@ -217853,7 +217853,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-08T04:17:03+00:00",
+  "ts": "2026-11-08T04:37:09+00:00",
   "week": 9,
   "matchups": [
    {
@@ -217863,20 +217863,20 @@
     "right": "James Ray Ervin Yonts",
     "rightRec": "5-3",
     "leftScore": 0.0,
-    "leftProj": 129.49,
+    "leftProj": 129.52,
     "rightScore": 0.0,
-    "rightProj": 140.22,
+    "rightProj": 140.21,
     "shotgun": [],
     "leftActive": [
      {
       "player": "J. Smith-Njigba",
       "pos": "WR",
       "slot": "W/R/T",
-      "rem": 22.5,
+      "rem": 22.53,
       "state": "pending",
       "pts": 0.0,
-      "proj": 22.5,
-      "live": 22.5,
+      "proj": 22.53,
+      "live": 22.53,
       "game": "Sun 4:25 pm vs Ari"
      },
      {
@@ -218028,11 +218028,11 @@
       "player": "T. Allgeier",
       "pos": "RB",
       "slot": "RB",
-      "rem": 13.27,
+      "rem": 13.26,
       "state": "pending",
       "pts": 0.0,
-      "proj": 13.27,
-      "live": 13.27,
+      "proj": 13.26,
+      "live": 13.26,
       "game": "Sun 4:25 pm @ Sea"
      },
      {
@@ -218080,7 +218080,7 @@
     "right": "Alex Michael Pagels",
     "rightRec": "3-5",
     "leftScore": 7.08,
-    "leftProj": 114.58,
+    "leftProj": 114.59,
     "rightScore": 14.0,
     "rightProj": 130.33,
     "shotgun": [],
@@ -218122,11 +218122,11 @@
       "player": "M. Wilson",
       "pos": "WR",
       "slot": "WR",
-      "rem": 11.54,
+      "rem": 11.55,
       "state": "pending",
       "pts": 0.0,
-      "proj": 11.54,
-      "live": 11.54,
+      "proj": 11.55,
+      "live": 11.55,
       "game": "Sun 4:25 pm @ Sea"
      },
      {
@@ -218284,11 +218284,11 @@
       "player": "J. Gibbs",
       "pos": "RB",
       "slot": "RB",
-      "rem": 25.75,
+      "rem": 25.74,
       "state": "pending",
       "pts": 0.0,
-      "proj": 25.75,
-      "live": 25.75,
+      "proj": 25.74,
+      "live": 25.74,
       "game": "Sun 1:00 pm @ Mia"
      },
      {
@@ -218339,11 +218339,11 @@
       "player": "T. McBride",
       "pos": "TE",
       "slot": "TE",
-      "rem": 12.7,
+      "rem": 12.71,
       "state": "pending",
       "pts": 0.0,
-      "proj": 12.7,
-      "live": 12.7,
+      "proj": 12.71,
+      "live": 12.71,
       "game": "Sun 4:25 pm @ Sea"
      },
      {
@@ -218494,7 +218494,7 @@
     "leftScore": 32.7,
     "leftProj": 131.61,
     "rightScore": 3.8,
-    "rightProj": 117.49,
+    "rightProj": 117.5,
     "shotgun": [],
     "leftActive": [
      {
@@ -218591,11 +218591,11 @@
       "player": "A. St. Brown",
       "pos": "WR",
       "slot": "WR",
-      "rem": 18.13,
+      "rem": 18.14,
       "state": "pending",
       "pts": 0.0,
-      "proj": 18.13,
-      "live": 18.13,
+      "proj": 18.14,
+      "live": 18.14,
       "game": "Sun 1:00 pm @ Mia"
      },
      {
@@ -218954,7 +218954,7 @@
       "game": "Mon 8:15 pm @ Min"
      },
      {
-      "player": "Bills",
+      "player": "Buffalo",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 7.67,
@@ -219066,7 +219066,7 @@
       "game": "Sun 9:30 am @ Atl"
      },
      {
-      "player": "Broncos",
+      "player": "Denver",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 7.6,
