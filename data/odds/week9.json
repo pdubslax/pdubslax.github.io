@@ -217853,7 +217853,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-08T03:56:09+00:00",
+  "ts": "2026-11-08T04:16:16+00:00",
   "week": 9,
   "matchups": [
    {
@@ -218678,7 +218678,7 @@
     "leftScore": 24.48,
     "leftProj": 103.8,
     "rightScore": 0.0,
-    "rightProj": 114.63,
+    "rightProj": 122.46,
     "shotgun": [],
     "leftActive": [
      {
@@ -218847,9 +218847,20 @@
       "proj": 8.18,
       "live": 8.18,
       "game": "Sun 8:20 pm vs TB"
+     },
+     {
+      "player": "D. Robinson",
+      "pos": "WR",
+      "slot": "WR",
+      "rem": 7.83,
+      "state": "pending",
+      "pts": 0.0,
+      "proj": 7.83,
+      "live": 7.83,
+      "game": "Sun 4:25 pm vs LV"
      }
     ],
-    "leftPct": 40,
+    "leftPct": 33,
     "leftRem": 7,
     "rightRem": 9
    },

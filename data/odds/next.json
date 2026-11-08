@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 10,
- "ts": "2026-11-08T03:36:09+00:00",
+ "ts": "2026-11-08T04:16:08+00:00",
  "matchups": [
   {
    "id": "1v9",
@@ -791,7 +791,7 @@
      "game": "Sun 1:00 pm vs Mia"
     },
     {
-     "player": "Seattle",
+     "player": "Seahawks",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 7.54,
@@ -881,7 +881,7 @@
      "game": "Sun 1:00 pm @ Cle"
     },
     {
-     "player": "N. York",
+     "player": "Giants",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 7.08,
@@ -1040,7 +1040,7 @@
      "game": "Sun 1:00 pm @ GB"
     },
     {
-     "player": "Buffalo",
+     "player": "Bills",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 8.05,
@@ -1108,7 +1108,7 @@
      "game": "Sun 1:00 pm vs Car"
     },
     {
-     "player": "Jacksonville",
+     "player": "Jaguars",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 8.37,
@@ -1129,8 +1129,8 @@
    "leftScore": 0.0,
    "leftProj": 101.17,
    "rightScore": 0.0,
-   "rightProj": 103.48,
-   "leftPct": 48,
+   "rightProj": 95.15,
+   "leftPct": 55,
    "leftRem": 8,
    "rightRem": 7,
    "shotgun": [
@@ -1302,17 +1302,6 @@
      "game": "Sun 4:05 pm vs Sea"
     },
     {
-     "player": "G. Wilson",
-     "pos": "WR",
-     "slot": "WR",
-     "rem": 13.67,
-     "state": "pending",
-     "pts": 0.0,
-     "proj": 13.67,
-     "live": 13.67,
-     "game": "Sun 1:00 pm vs Buf"
-    },
-    {
      "player": "R. White",
      "pos": "RB",
      "slot": "RB",
@@ -1344,6 +1333,17 @@
      "proj": 6.03,
      "live": 6.03,
      "game": "Sun 1:00 pm vs Car"
+    },
+    {
+     "player": "D. Robinson",
+     "pos": "WR",
+     "slot": "WR",
+     "rem": 5.34,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 5.34,
+     "live": 5.34,
+     "game": "Sun 4:25 pm @ Dal"
     }
    ]
   }
