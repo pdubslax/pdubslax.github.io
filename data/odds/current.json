@@ -217853,7 +217853,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-08T07:17:09+00:00",
+  "ts": "2026-11-08T07:37:00+00:00",
   "week": 9,
   "matchups": [
    {
@@ -218080,7 +218080,7 @@
     "right": "Alex Michael Pagels",
     "rightRec": "3-5",
     "leftScore": 7.08,
-    "leftProj": 114.59,
+    "leftProj": 114.62,
     "rightScore": 14.0,
     "rightProj": 130.36,
     "shotgun": [],
@@ -218155,11 +218155,11 @@
       "player": "Saints",
       "pos": "DEF",
       "slot": "DEF",
-      "rem": 10.01,
+      "rem": 10.04,
       "state": "pending",
       "pts": 0.0,
-      "proj": 10.01,
-      "live": 10.01,
+      "proj": 10.04,
+      "live": 10.04,
       "game": "Sun 1:00 pm vs Cle"
      },
      {
@@ -218678,7 +218678,7 @@
     "leftScore": 24.48,
     "leftProj": 103.74,
     "rightScore": 0.0,
-    "rightProj": 122.38,
+    "rightProj": 122.4,
     "shotgun": [],
     "leftActive": [
      {
@@ -218797,11 +218797,11 @@
       "player": "A. Kamara",
       "pos": "RB",
       "slot": "W/R/T",
-      "rem": 13.66,
+      "rem": 13.68,
       "state": "pending",
       "pts": 0.0,
-      "proj": 13.66,
-      "live": 13.66,
+      "proj": 13.68,
+      "live": 13.68,
       "game": "Sun 1:00 pm vs Cle"
      },
      {
