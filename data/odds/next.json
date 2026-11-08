@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 10,
- "ts": "2026-11-08T23:32:47+00:00",
+ "ts": "2026-11-08T23:53:47+00:00",
  "matchups": [
   {
    "id": "1v9",
@@ -18,7 +18,7 @@
    "rightRem": 8,
    "shotgun": [
     {
-     "player": "Broncos",
+     "player": "Denver",
      "pos": "DEF",
      "team": "Den",
      "pts": 0.0,
@@ -100,7 +100,7 @@
      "game": "Sun 1:00 pm vs Mia"
     },
     {
-     "player": "Texans",
+     "player": "Houston",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 9.9,
