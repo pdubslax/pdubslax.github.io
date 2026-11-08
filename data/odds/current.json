@@ -435974,6 +435974,1237 @@
      "rightRem": 9
     }
    ]
+  },
+  {
+   "ts": "2026-11-08T17:33:45+00:00",
+   "week": 9,
+   "matchups": [
+    {
+     "id": "1v7",
+     "left": "Silly Shrek Squad",
+     "leftRec": "4-4",
+     "right": "James Ray Ervin Yonts",
+     "rightRec": "5-3",
+     "leftScore": 0.0,
+     "leftProj": 129.44,
+     "rightScore": 10.8,
+     "rightProj": 134.95,
+     "shotgun": [],
+     "leftActive": [
+      {
+       "player": "J. Smith-Njigba",
+       "pos": "WR",
+       "slot": "W/R/T",
+       "rem": 22.36,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 22.36,
+       "live": 22.36,
+       "game": "Sun 9:25 PM vs ARI"
+      },
+      {
+       "player": "M. Stafford",
+       "pos": "QB",
+       "slot": "QB",
+       "rem": 20.83,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 20.83,
+       "live": 20.83,
+       "game": "Sun 6:00 PM @ WAS"
+      },
+      {
+       "player": "W. Marks",
+       "pos": "RB",
+       "slot": "RB",
+       "rem": 15.17,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 15.17,
+       "live": 15.17,
+       "game": "Sun 9:05 PM @ LAC"
+      },
+      {
+       "player": "D. Singletary",
+       "pos": "RB",
+       "slot": "RB",
+       "rem": 15.08,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 15.08,
+       "live": 15.08,
+       "game": "Sun 6:00 PM @ PHI"
+      },
+      {
+       "player": "M. Golden",
+       "pos": "WR",
+       "slot": "WR",
+       "rem": 14.64,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 14.64,
+       "live": 14.64,
+       "game": "Sun 9:25 PM @ NE"
+      },
+      {
+       "player": "J. Coker",
+       "pos": "WR",
+       "slot": "WR",
+       "rem": 12.16,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 12.16,
+       "live": 12.16,
+       "game": "Sun 6:00 PM vs DEN"
+      },
+      {
+       "player": "S. LaPorta",
+       "pos": "TE",
+       "slot": "TE",
+       "rem": 10.95,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 10.95,
+       "live": 10.95,
+       "game": "Sun 6:00 PM @ MIA"
+      },
+      {
+       "player": "S. Shrader",
+       "pos": "K",
+       "slot": "K",
+       "rem": 9.17,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 9.17,
+       "live": 9.17,
+       "game": "Sun 6:00 PM vs DAL"
+      },
+      {
+       "player": "Texans",
+       "pos": "DEF",
+       "slot": "DEF",
+       "rem": 9.08,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 9.08,
+       "live": 9.08,
+       "game": "Sun 9:05 PM @ LAC"
+      }
+     ],
+     "rightActive": [
+      {
+       "player": "D. Prescott",
+       "pos": "QB",
+       "slot": "QB",
+       "rem": 22.12,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 22.12,
+       "live": 22.12,
+       "game": "Sun 6:00 PM @ IND"
+      },
+      {
+       "player": "P. Nacua",
+       "pos": "WR",
+       "slot": "WR",
+       "rem": 21.95,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 21.95,
+       "live": 21.95,
+       "game": "Sun 6:00 PM @ WAS"
+      },
+      {
+       "player": "C. Lamb",
+       "pos": "WR",
+       "slot": "W/R/T",
+       "rem": 19.86,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 19.86,
+       "live": 19.86,
+       "game": "Sun 6:00 PM @ IND"
+      },
+      {
+       "player": "B. Irving",
+       "pos": "RB",
+       "slot": "RB",
+       "rem": 17.14,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 17.14,
+       "live": 17.14,
+       "game": "Mon 1:20 AM @ CHI"
+      },
+      {
+       "player": "T. Allgeier",
+       "pos": "RB",
+       "slot": "RB",
+       "rem": 13.17,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 13.17,
+       "live": 13.17,
+       "game": "Sun 9:25 PM @ SEA"
+      },
+      {
+       "player": "T. Kelce",
+       "pos": "TE",
+       "slot": "TE",
+       "rem": 11.36,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 11.36,
+       "live": 11.36,
+       "game": "Sun 6:00 PM vs NYJ"
+      },
+      {
+       "player": "K. Fairbairn",
+       "pos": "K",
+       "slot": "K",
+       "rem": 9.79,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 9.79,
+       "live": 9.79,
+       "game": "Sun 9:05 PM @ LAC"
+      },
+      {
+       "player": "Giants",
+       "pos": "DEF",
+       "slot": "DEF",
+       "rem": 8.38,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 8.38,
+       "live": 8.38,
+       "game": "Sun 6:00 PM @ PHI"
+      },
+      {
+       "player": "D. London",
+       "pos": "WR",
+       "slot": "WR",
+       "rem": 0.38,
+       "state": "live",
+       "pts": 10.8,
+       "proj": 17.2,
+       "live": 11.18,
+       "game": "4th 1:19, 17-34 vs CIN"
+      }
+     ],
+     "leftPct": 46,
+     "leftRem": 9,
+     "rightRem": 9
+    },
+    {
+     "id": "2v8",
+     "left": "BDSM AI Stealth Founder",
+     "leftRec": "3-5",
+     "right": "Alex Michael Pagels",
+     "rightRec": "3-5",
+     "leftScore": 18.08,
+     "leftProj": 109.49,
+     "rightScore": 64.74,
+     "rightProj": 141.17,
+     "shotgun": [],
+     "leftActive": [
+      {
+       "player": "D. Maye",
+       "pos": "QB",
+       "slot": "QB",
+       "rem": 23.77,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 23.77,
+       "live": 23.77,
+       "game": "Sun 9:25 PM vs GB"
+      },
+      {
+       "player": "C. Watson",
+       "pos": "WR",
+       "slot": "WR",
+       "rem": 14.84,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 14.84,
+       "live": 14.84,
+       "game": "Sun 9:25 PM @ NE"
+      },
+      {
+       "player": "M. Wilson",
+       "pos": "WR",
+       "slot": "WR",
+       "rem": 11.49,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 11.49,
+       "live": 11.49,
+       "game": "Sun 9:25 PM @ SEA"
+      },
+      {
+       "player": "J. Waddle",
+       "pos": "WR",
+       "slot": "W/R/T",
+       "rem": 11.25,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 11.25,
+       "live": 11.25,
+       "game": "Sun 6:00 PM @ CAR"
+      },
+      {
+       "player": "I. Likely",
+       "pos": "TE",
+       "slot": "TE",
+       "rem": 10.16,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 10.16,
+       "live": 10.16,
+       "game": "Sun 6:00 PM @ PHI"
+      },
+      {
+       "player": "Saints",
+       "pos": "DEF",
+       "slot": "DEF",
+       "rem": 10.04,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 10.04,
+       "live": 10.04,
+       "game": "Sun 6:00 PM vs CLE"
+      },
+      {
+       "player": "C. Santos",
+       "pos": "K",
+       "slot": "K",
+       "rem": 9.5,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 9.5,
+       "live": 9.5,
+       "game": "Mon 1:20 AM vs TB"
+      },
+      {
+       "player": "C. Brown",
+       "pos": "RB",
+       "slot": "RB",
+       "rem": 0.36,
+       "state": "live",
+       "pts": 11.0,
+       "proj": 16.47,
+       "live": 11.36,
+       "game": "4th 1:19, 34-17 @ ATL RZ"
+      }
+     ],
+     "rightActive": [
+      {
+       "player": "J. Coleman",
+       "pos": "RB",
+       "slot": "RB",
+       "rem": 14.89,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 14.89,
+       "live": 14.89,
+       "game": "Sun 6:00 PM @ CAR"
+      },
+      {
+       "player": "J. Jacobs",
+       "pos": "RB",
+       "slot": "RB",
+       "rem": 14.63,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 14.63,
+       "live": 14.63,
+       "game": "Sun 9:25 PM @ NE"
+      },
+      {
+       "player": "C. Olave",
+       "pos": "WR",
+       "slot": "WR",
+       "rem": 14.62,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 14.62,
+       "live": 14.62,
+       "game": "Sun 6:00 PM vs CLE"
+      },
+      {
+       "player": "M. Nabers",
+       "pos": "WR",
+       "slot": "W/R/T",
+       "rem": 14.12,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 14.12,
+       "live": 14.12,
+       "game": "Sun 6:00 PM @ PHI"
+      },
+      {
+       "player": "C. McLaughlin",
+       "pos": "K",
+       "slot": "K",
+       "rem": 8.81,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 8.81,
+       "live": 8.81,
+       "game": "Mon 1:20 AM @ CHI"
+      },
+      {
+       "player": "D. Goedert",
+       "pos": "TE",
+       "slot": "TE",
+       "rem": 8.47,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 8.47,
+       "live": 8.47,
+       "game": "Sun 6:00 PM vs NYG"
+      },
+      {
+       "player": "J. Burrow",
+       "pos": "QB",
+       "slot": "QB",
+       "rem": 0.53,
+       "state": "live",
+       "pts": 32.04,
+       "proj": 24.14,
+       "live": 32.57,
+       "game": "4th 1:19, 34-17 @ ATL RZ"
+      },
+      {
+       "player": "T. Higgins",
+       "pos": "WR",
+       "slot": "WR",
+       "rem": 0.36,
+       "state": "live",
+       "pts": 18.7,
+       "proj": 16.36,
+       "live": 19.06,
+       "game": "4th 1:19, 34-17 @ ATL RZ"
+      }
+     ],
+     "leftPct": 21,
+     "leftRem": 8,
+     "rightRem": 8
+    },
+    {
+     "id": "3v10",
+     "left": "Robotripping Gardener",
+     "leftRec": "5-3",
+     "right": "RosterMogged",
+     "rightRec": "3-5",
+     "leftScore": 0.0,
+     "leftProj": 140.59,
+     "rightScore": 3.8,
+     "rightProj": 116.68,
+     "shotgun": [],
+     "leftActive": [
+      {
+       "player": "J. Gibbs",
+       "pos": "RB",
+       "slot": "RB",
+       "rem": 25.68,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 25.68,
+       "live": 25.68,
+       "game": "Sun 6:00 PM @ MIA"
+      },
+      {
+       "player": "P. Mahomes",
+       "pos": "QB",
+       "slot": "QB",
+       "rem": 23.16,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 23.16,
+       "live": 23.16,
+       "game": "Sun 6:00 PM vs NYJ"
+      },
+      {
+       "player": "D. Swift",
+       "pos": "RB",
+       "slot": "W/R/T",
+       "rem": 18.62,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 18.62,
+       "live": 18.62,
+       "game": "Mon 1:20 AM vs TB"
+      },
+      {
+       "player": "K. Williams",
+       "pos": "RB",
+       "slot": "RB",
+       "rem": 18.09,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 18.09,
+       "live": 18.09,
+       "game": "Sun 6:00 PM @ WAS"
+      },
+      {
+       "player": "T. McMillan",
+       "pos": "WR",
+       "slot": "WR",
+       "rem": 13.09,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 13.09,
+       "live": 13.09,
+       "game": "Sun 6:00 PM vs DEN"
+      },
+      {
+       "player": "T. McBride",
+       "pos": "TE",
+       "slot": "TE",
+       "rem": 12.68,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 12.68,
+       "live": 12.68,
+       "game": "Sun 9:25 PM @ SEA"
+      },
+      {
+       "player": "S. Diggs",
+       "pos": "WR",
+       "slot": "WR",
+       "rem": 11.72,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 11.72,
+       "live": 11.72,
+       "game": "Sun 6:00 PM vs LAR"
+      },
+      {
+       "player": "W. Reichard",
+       "pos": "K",
+       "slot": "K",
+       "rem": 9.59,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 9.59,
+       "live": 9.59,
+       "game": "Tue 1:15 AM vs BUF"
+      },
+      {
+       "player": "Lions",
+       "pos": "DEF",
+       "slot": "DEF",
+       "rem": 7.96,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 7.96,
+       "live": 7.96,
+       "game": "Sun 6:00 PM @ MIA"
+      }
+     ],
+     "rightActive": [
+      {
+       "player": "B. Purdy",
+       "pos": "QB",
+       "slot": "QB",
+       "rem": 24.91,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 24.91,
+       "live": 24.91,
+       "game": "Sun 9:25 PM vs LV"
+      },
+      {
+       "player": "K. Walker III",
+       "pos": "RB",
+       "slot": "RB",
+       "rem": 23.18,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 23.18,
+       "live": 23.18,
+       "game": "Sun 6:00 PM vs NYJ"
+      },
+      {
+       "player": "R. Rice",
+       "pos": "WR",
+       "slot": "WR",
+       "rem": 13.37,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 13.37,
+       "live": 13.37,
+       "game": "Sun 6:00 PM vs NYJ"
+      },
+      {
+       "player": "L. McConkey",
+       "pos": "WR",
+       "slot": "WR",
+       "rem": 11.7,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 11.7,
+       "live": 11.7,
+       "game": "Sun 9:05 PM vs HOU"
+      },
+      {
+       "player": "O. Cooper Jr.",
+       "pos": "WR",
+       "slot": "W/R/T",
+       "rem": 11.5,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 11.5,
+       "live": 11.5,
+       "game": "Sun 6:00 PM @ KC"
+      },
+      {
+       "player": "Z. Charbonnet",
+       "pos": "RB",
+       "slot": "RB",
+       "rem": 10.65,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 10.65,
+       "live": 10.65,
+       "game": "Sun 9:25 PM vs ARI"
+      },
+      {
+       "player": "Chiefs",
+       "pos": "DEF",
+       "slot": "DEF",
+       "rem": 8.97,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 8.97,
+       "live": 8.97,
+       "game": "Sun 6:00 PM vs NYJ"
+      },
+      {
+       "player": "M. Gay",
+       "pos": "K",
+       "slot": "K",
+       "rem": 8.4,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 8.4,
+       "live": 8.4,
+       "game": "Sun 9:25 PM @ SF"
+      },
+      {
+       "player": "K. Pitts Sr.",
+       "pos": "TE",
+       "slot": "TE",
+       "rem": 0.2,
+       "state": "live",
+       "pts": 3.8,
+       "proj": 8.92,
+       "live": 4.0,
+       "game": "4th 1:19, 17-34 vs CIN"
+      }
+     ],
+     "leftPct": 68,
+     "leftRem": 9,
+     "rightRem": 9
+    },
+    {
+     "id": "4v11",
+     "left": "Matt #chubb69",
+     "leftRec": "3-5",
+     "right": "Zen Buddha Boys 🪷💨",
+     "rightRec": "4-4",
+     "leftScore": 62.7,
+     "leftProj": 143.87,
+     "rightScore": 3.8,
+     "rightProj": 118.13,
+     "shotgun": [],
+     "leftActive": [
+      {
+       "player": "M. Willis",
+       "pos": "QB",
+       "slot": "QB",
+       "rem": 20.04,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 20.04,
+       "live": 20.04,
+       "game": "Sun 6:00 PM vs DET"
+      },
+      {
+       "player": "J. Williams",
+       "pos": "RB",
+       "slot": "RB",
+       "rem": 17.3,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 17.3,
+       "live": 17.3,
+       "game": "Sun 6:00 PM @ IND"
+      },
+      {
+       "player": "A. Jeanty",
+       "pos": "RB",
+       "slot": "RB",
+       "rem": 12.0,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 12.0,
+       "live": 12.0,
+       "game": "Sun 9:25 PM @ SF"
+      },
+      {
+       "player": "T. Warren",
+       "pos": "TE",
+       "slot": "TE",
+       "rem": 11.18,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 11.18,
+       "live": 11.18,
+       "game": "Sun 6:00 PM vs DAL"
+      },
+      {
+       "player": "A. Mitchell",
+       "pos": "WR",
+       "slot": "W/R/T",
+       "rem": 10.33,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 10.33,
+       "live": 10.33,
+       "game": "Sun 6:00 PM @ KC"
+      },
+      {
+       "player": "Seahawks",
+       "pos": "DEF",
+       "slot": "DEF",
+       "rem": 9.91,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 9.91,
+       "live": 9.91,
+       "game": "Sun 9:25 PM vs ARI"
+      },
+      {
+       "player": "J. Chase",
+       "pos": "WR",
+       "slot": "WR",
+       "rem": 0.41,
+       "state": "live",
+       "pts": 30.0,
+       "proj": 18.62,
+       "live": 30.41,
+       "game": "4th 1:19, 34-17 @ ATL RZ"
+      }
+     ],
+     "rightActive": [
+      {
+       "player": "C. Williams",
+       "pos": "QB",
+       "slot": "QB",
+       "rem": 22.08,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 22.08,
+       "live": 22.08,
+       "game": "Mon 1:20 AM vs TB"
+      },
+      {
+       "player": "A. St. Brown",
+       "pos": "WR",
+       "slot": "WR",
+       "rem": 18.26,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 18.26,
+       "live": 18.26,
+       "game": "Sun 6:00 PM @ MIA"
+      },
+      {
+       "player": "C. Hubbard",
+       "pos": "RB",
+       "slot": "RB",
+       "rem": 17.89,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 17.89,
+       "live": 17.89,
+       "game": "Sun 6:00 PM vs DEN"
+      },
+      {
+       "player": "N. Collins",
+       "pos": "WR",
+       "slot": "WR",
+       "rem": 15.21,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 15.21,
+       "live": 15.21,
+       "game": "Sun 9:05 PM @ LAC"
+      },
+      {
+       "player": "O. Gordon II",
+       "pos": "RB",
+       "slot": "RB",
+       "rem": 14.7,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 14.7,
+       "live": 14.7,
+       "game": "Sun 6:00 PM vs DET"
+      },
+      {
+       "player": "J. Myers",
+       "pos": "K",
+       "slot": "K",
+       "rem": 10.21,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 10.21,
+       "live": 10.21,
+       "game": "Sun 9:25 PM vs ARI"
+      },
+      {
+       "player": "T.J. Hockenson",
+       "pos": "TE",
+       "slot": "TE",
+       "rem": 9.71,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 9.71,
+       "live": 9.71,
+       "game": "Tue 1:15 AM vs BUF"
+      },
+      {
+       "player": "49ers",
+       "pos": "DEF",
+       "slot": "DEF",
+       "rem": 6.27,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 6.27,
+       "live": 6.27,
+       "game": "Sun 9:25 PM vs LV"
+      }
+     ],
+     "leftPct": 72,
+     "leftRem": 7,
+     "rightRem": 8
+    },
+    {
+     "id": "5v12",
+     "left": "Tuten Brown",
+     "leftRec": "5-3",
+     "right": "Kiwis are better than mid",
+     "rightRec": "5-3",
+     "leftScore": 24.48,
+     "leftProj": 103.81,
+     "rightScore": 0.0,
+     "rightProj": 122.84,
+     "shotgun": [],
+     "leftActive": [
+      {
+       "player": "J. Taylor",
+       "pos": "RB",
+       "slot": "RB",
+       "rem": 17.81,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 17.81,
+       "live": 17.81,
+       "game": "Sun 6:00 PM vs DAL"
+      },
+      {
+       "player": "L. Burden III",
+       "pos": "WR",
+       "slot": "WR",
+       "rem": 13.2,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 13.2,
+       "live": 13.2,
+       "game": "Mon 1:20 AM vs TB"
+      },
+      {
+       "player": "D. Moore",
+       "pos": "WR",
+       "slot": "WR",
+       "rem": 11.53,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 11.53,
+       "live": 11.53,
+       "game": "Tue 1:15 AM @ MIN"
+      },
+      {
+       "player": "B. Aubrey",
+       "pos": "K",
+       "slot": "K",
+       "rem": 10.94,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 10.94,
+       "live": 10.94,
+       "game": "Sun 6:00 PM @ IND"
+      },
+      {
+       "player": "T. Kraft",
+       "pos": "TE",
+       "slot": "TE",
+       "rem": 10.25,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 10.25,
+       "live": 10.25,
+       "game": "Sun 9:25 PM @ NE"
+      },
+      {
+       "player": "D. Douglas",
+       "pos": "WR",
+       "slot": "W/R/T",
+       "rem": 9.11,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 9.11,
+       "live": 9.11,
+       "game": "Sun 9:25 PM vs GB"
+      },
+      {
+       "player": "Rams",
+       "pos": "DEF",
+       "slot": "DEF",
+       "rem": 6.49,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 6.49,
+       "live": 6.49,
+       "game": "Sun 6:00 PM @ WAS"
+      }
+     ],
+     "rightActive": [
+      {
+       "player": "J. Allen",
+       "pos": "QB",
+       "slot": "QB",
+       "rem": 24.59,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 24.59,
+       "live": 24.59,
+       "game": "Tue 1:15 AM @ MIN"
+      },
+      {
+       "player": "C. McCaffrey",
+       "pos": "RB",
+       "slot": "RB",
+       "rem": 22.58,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 22.58,
+       "live": 22.58,
+       "game": "Sun 9:25 PM vs LV"
+      },
+      {
+       "player": "B. Bowers",
+       "pos": "TE",
+       "slot": "TE",
+       "rem": 15.79,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 15.79,
+       "live": 15.79,
+       "game": "Sun 9:25 PM @ SF"
+      },
+      {
+       "player": "A. Kamara",
+       "pos": "RB",
+       "slot": "W/R/T",
+       "rem": 13.7,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 13.7,
+       "live": 13.7,
+       "game": "Sun 6:00 PM vs CLE"
+      },
+      {
+       "player": "R. White",
+       "pos": "RB",
+       "slot": "RB",
+       "rem": 11.39,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 11.39,
+       "live": 11.39,
+       "game": "Sun 6:00 PM vs LAR"
+      },
+      {
+       "player": "K. Allen",
+       "pos": "WR",
+       "slot": "WR",
+       "rem": 9.84,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 9.84,
+       "live": 9.84,
+       "game": "Sun 6:00 PM vs DAL"
+      },
+      {
+       "player": "W. Lutz",
+       "pos": "K",
+       "slot": "K",
+       "rem": 8.88,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 8.88,
+       "live": 8.88,
+       "game": "Sun 6:00 PM @ CAR"
+      },
+      {
+       "player": "Bears",
+       "pos": "DEF",
+       "slot": "DEF",
+       "rem": 8.18,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 8.18,
+       "live": 8.18,
+       "game": "Mon 1:20 AM vs TB"
+      },
+      {
+       "player": "D. Robinson",
+       "pos": "WR",
+       "slot": "WR",
+       "rem": 7.89,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 7.89,
+       "live": 7.89,
+       "game": "Sun 9:25 PM vs LV"
+      }
+     ],
+     "leftPct": 33,
+     "leftRem": 7,
+     "rightRem": 9
+    },
+    {
+     "id": "6v9",
+     "left": "MELONHEADS (daniel)",
+     "leftRec": "5-3",
+     "right": "Sir this is a FF league",
+     "rightRec": "3-5",
+     "leftScore": 27.7,
+     "leftProj": 118.55,
+     "rightScore": 16.1,
+     "rightProj": 115.38,
+     "shotgun": [],
+     "leftActive": [
+      {
+       "player": "J. Daniels",
+       "pos": "QB",
+       "slot": "QB",
+       "rem": 21.91,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 21.91,
+       "live": 21.91,
+       "game": "Sun 6:00 PM vs LAR"
+      },
+      {
+       "player": "G. Kittle",
+       "pos": "TE",
+       "slot": "W/R/T",
+       "rem": 15.38,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 15.38,
+       "live": 15.38,
+       "game": "Sun 9:25 PM vs LV"
+      },
+      {
+       "player": "J. Bates",
+       "pos": "K",
+       "slot": "K",
+       "rem": 9.83,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 9.83,
+       "live": 9.83,
+       "game": "Sun 6:00 PM @ MIA"
+      },
+      {
+       "player": "J. Addison",
+       "pos": "WR",
+       "slot": "WR",
+       "rem": 9.77,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 9.77,
+       "live": 9.77,
+       "game": "Tue 1:15 AM vs BUF"
+      },
+      {
+       "player": "D. Kincaid",
+       "pos": "TE",
+       "slot": "TE",
+       "rem": 9.48,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 9.48,
+       "live": 9.48,
+       "game": "Tue 1:15 AM @ MIN"
+      },
+      {
+       "player": "K. Shakir",
+       "pos": "WR",
+       "slot": "WR",
+       "rem": 8.67,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 8.67,
+       "live": 8.67,
+       "game": "Tue 1:15 AM @ MIN"
+      },
+      {
+       "player": "Bills",
+       "pos": "DEF",
+       "slot": "DEF",
+       "rem": 7.67,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 7.67,
+       "live": 7.67,
+       "game": "Tue 1:15 AM @ MIN"
+      },
+      {
+       "player": "K. Gainwell",
+       "pos": "RB",
+       "slot": "RB",
+       "rem": 7.6,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 7.6,
+       "live": 7.6,
+       "game": "Mon 1:20 AM @ CHI"
+      },
+      {
+       "player": "B. Robinson",
+       "pos": "RB",
+       "slot": "RB",
+       "rem": 0.54,
+       "state": "live",
+       "pts": 27.7,
+       "proj": 24.47,
+       "live": 28.24,
+       "game": "4th 1:19, 17-34 vs CIN"
+      }
+     ],
+     "rightActive": [
+      {
+       "player": "J. Love",
+       "pos": "QB",
+       "slot": "QB",
+       "rem": 20.07,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 20.07,
+       "live": 20.07,
+       "game": "Sun 9:25 PM @ NE"
+      },
+      {
+       "player": "J. Cook III",
+       "pos": "RB",
+       "slot": "RB",
+       "rem": 16.39,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 16.39,
+       "live": 16.39,
+       "game": "Tue 1:15 AM @ MIN"
+      },
+      {
+       "player": "J. Jefferson",
+       "pos": "WR",
+       "slot": "WR",
+       "rem": 16.27,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 16.27,
+       "live": 16.27,
+       "game": "Tue 1:15 AM vs BUF"
+      },
+      {
+       "player": "R. Stevenson",
+       "pos": "RB",
+       "slot": "W/R/T",
+       "rem": 15.47,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 15.47,
+       "live": 15.47,
+       "game": "Sun 9:25 PM vs GB"
+      },
+      {
+       "player": "J. Williams",
+       "pos": "WR",
+       "slot": "WR",
+       "rem": 12.39,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 12.39,
+       "live": 12.39,
+       "game": "Sun 6:00 PM @ MIA"
+      },
+      {
+       "player": "B. Hall",
+       "pos": "RB",
+       "slot": "RB",
+       "rem": 10.61,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 10.61,
+       "live": 10.61,
+       "game": "Sun 6:00 PM @ KC"
+      },
+      {
+       "player": "Broncos",
+       "pos": "DEF",
+       "slot": "DEF",
+       "rem": 7.67,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 7.67,
+       "live": 7.67,
+       "game": "Sun 6:00 PM @ CAR"
+      },
+      {
+       "player": "E. McPherson",
+       "pos": "K",
+       "slot": "K",
+       "rem": 0.23,
+       "state": "live",
+       "pts": 14.0,
+       "proj": 10.26,
+       "live": 14.23,
+       "game": "4th 1:19, 34-17 @ ATL RZ"
+      },
+      {
+       "player": "M. Gesicki",
+       "pos": "TE",
+       "slot": "TE",
+       "rem": 0.18,
+       "state": "live",
+       "pts": 2.1,
+       "proj": 8.4,
+       "live": 2.28,
+       "game": "4th 1:19, 34-17 @ ATL RZ"
+      }
+     ],
+     "leftPct": 53,
+     "leftRem": 9,
+     "rightRem": 9
+    }
+   ]
   }
  ],
  "segments": [
