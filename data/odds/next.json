@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 10,
- "ts": "2026-11-08T22:29:48+00:00",
+ "ts": "2026-11-08T22:50:48+00:00",
  "matchups": [
   {
    "id": "1v9",
@@ -10,7 +10,7 @@
    "right": "Sir this is a FF league",
    "rightRec": "3-5",
    "leftScore": 0.0,
-   "leftProj": 121.58,
+   "leftProj": 121.6,
    "rightScore": 0.0,
    "rightProj": 105.14,
    "leftPct": 64,
@@ -18,7 +18,7 @@
    "rightRem": 8,
    "shotgun": [
     {
-     "player": "Broncos",
+     "player": "Denver",
      "pos": "DEF",
      "team": "Den",
      "pts": 0.0,
@@ -100,7 +100,7 @@
      "game": "Sun 1:00 pm vs Mia"
     },
     {
-     "player": "Texans",
+     "player": "Houston",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 9.95,
@@ -125,11 +125,11 @@
      "player": "D. Singletary",
      "pos": "RB",
      "slot": "RB",
-     "rem": 8.56,
+     "rem": 8.58,
      "state": "pending",
      "pts": 0.0,
-     "proj": 8.56,
-     "live": 8.56,
+     "proj": 8.58,
+     "live": 8.58,
      "game": "Thu 8:15 pm vs Was"
     }
    ],
@@ -231,7 +231,7 @@
    "right": "RosterMogged",
    "rightRec": "3-5",
    "leftScore": 0.0,
-   "leftProj": 104.46,
+   "leftProj": 104.42,
    "rightScore": 0.0,
    "rightProj": 112.49,
    "leftPct": 43,
@@ -316,11 +316,11 @@
      "player": "I. Likely",
      "pos": "TE",
      "slot": "TE",
-     "rem": 13.3,
+     "rem": 13.26,
      "state": "pending",
      "pts": 0.0,
-     "proj": 13.3,
-     "live": 13.3,
+     "proj": 13.26,
+     "live": 13.26,
      "game": "Thu 8:15 pm vs Was"
     },
     {
@@ -335,7 +335,7 @@
      "game": "Sun 4:05 pm vs LAR"
     },
     {
-     "player": "N. Orleans",
+     "player": "Saints",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 6.23,
@@ -436,7 +436,7 @@
      "game": "Sun 1:00 pm vs KC"
     },
     {
-     "player": "K. City",
+     "player": "Chiefs",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 6.47,
@@ -455,7 +455,7 @@
    "right": "Tuten Brown",
    "rightRec": "5-3",
    "leftScore": 0.0,
-   "leftProj": 118.18,
+   "leftProj": 118.14,
    "rightScore": 0.0,
    "rightProj": 106.34,
    "leftPct": 60,
@@ -551,11 +551,11 @@
      "player": "S. Diggs",
      "pos": "WR",
      "slot": "WR",
-     "rem": 10.53,
+     "rem": 10.49,
      "state": "pending",
      "pts": 0.0,
-     "proj": 10.53,
-     "live": 10.53,
+     "proj": 10.49,
+     "live": 10.49,
      "game": "Thu 8:15 pm @ NYG"
     },
     {
@@ -570,7 +570,7 @@
      "game": "Sun 1:00 pm @ GB"
     },
     {
-     "player": "Detroit",
+     "player": "Lions",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 4.46,
@@ -660,7 +660,7 @@
      "game": "Sun 9:30 am @ Det"
     },
     {
-     "player": "L. Angeles",
+     "player": "Rams",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 8.02,
@@ -900,9 +900,9 @@
    "right": "Alex Michael Pagels",
    "rightRec": "3-5",
    "leftScore": 0.0,
-   "leftProj": 101.69,
+   "leftProj": 101.67,
    "rightScore": 0.0,
-   "rightProj": 95.87,
+   "rightProj": 95.81,
    "leftPct": 55,
    "leftRem": 8,
    "rightRem": 6,
@@ -969,11 +969,11 @@
      "player": "J. Daniels",
      "pos": "QB",
      "slot": "QB",
-     "rem": 21.46,
+     "rem": 21.44,
      "state": "pending",
      "pts": 0.0,
-     "proj": 21.46,
-     "live": 21.46,
+     "proj": 21.44,
+     "live": 21.44,
      "game": "Thu 8:15 pm @ NYG"
     },
     {
@@ -1043,7 +1043,7 @@
      "game": "Sun 1:00 pm @ GB"
     },
     {
-     "player": "Bills",
+     "player": "Buffalo",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 8.01,
@@ -1070,11 +1070,11 @@
      "player": "M. Nabers",
      "pos": "WR",
      "slot": "W/R/T",
-     "rem": 18.06,
+     "rem": 18.0,
      "state": "pending",
      "pts": 0.0,
-     "proj": 18.06,
-     "live": 18.06,
+     "proj": 18.0,
+     "live": 18.0,
      "game": "Thu 8:15 pm vs Was"
     },
     {
@@ -1111,7 +1111,7 @@
      "game": "Sun 1:00 pm vs Car"
     },
     {
-     "player": "Jaguars",
+     "player": "Jacksonville",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 8.37,
@@ -1130,9 +1130,9 @@
    "right": "Kiwis are better than mid",
    "rightRec": "5-3",
    "leftScore": 0.0,
-   "leftProj": 101.23,
+   "leftProj": 101.24,
    "rightScore": 0.0,
-   "rightProj": 96.73,
+   "rightProj": 96.75,
    "leftPct": 54,
    "leftRem": 8,
    "rightRem": 7,
@@ -1166,7 +1166,7 @@
      "reason": "pts"
     },
     {
-     "player": "Chicago",
+     "player": "Bears",
      "pos": "DEF",
      "team": "Chi",
      "pts": 0.0,
@@ -1251,15 +1251,15 @@
      "player": "T.J. Hockenson",
      "pos": "TE",
      "slot": "TE",
-     "rem": 8.91,
+     "rem": 8.92,
      "state": "pending",
      "pts": 0.0,
-     "proj": 8.91,
-     "live": 8.91,
+     "proj": 8.92,
+     "live": 8.92,
      "game": "Sun 1:00 pm @ GB"
     },
     {
-     "player": "S. Francisco",
+     "player": "49ers",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 3.81,
@@ -1308,11 +1308,11 @@
      "player": "R. White",
      "pos": "RB",
      "slot": "RB",
-     "rem": 11.87,
+     "rem": 11.89,
      "state": "pending",
      "pts": 0.0,
-     "proj": 11.87,
-     "live": 11.87,
+     "proj": 11.89,
+     "live": 11.89,
      "game": "Thu 8:15 pm @ NYG"
     },
     {
