@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 10,
- "ts": "2026-11-09T14:43:26+00:00",
+ "ts": "2026-11-09T15:23:25+00:00",
  "matchups": [
   {
    "id": "1v9",
@@ -451,10 +451,10 @@
    "right": "Tuten Brown",
    "rightRec": "5-3",
    "leftScore": 0.0,
-   "leftProj": 118.29,
+   "leftProj": 122.73,
    "rightScore": 0.0,
    "rightProj": 106.5,
-   "leftPct": 60,
+   "leftPct": 63,
    "leftRem": 8,
    "rightRem": 8,
    "shotgun": [
@@ -566,15 +566,15 @@
      "game": "Sun 1:00 pm @ GB"
     },
     {
-     "player": "Lions",
+     "player": "Packers",
      "pos": "DEF",
      "slot": "DEF",
-     "rem": 4.65,
+     "rem": 9.09,
      "state": "pending",
      "pts": 0.0,
-     "proj": 4.65,
-     "live": 4.65,
-     "game": "Sun 9:30 am vs NE"
+     "proj": 9.09,
+     "live": 9.09,
+     "game": "Sun 1:00 pm vs Min"
     }
    ],
    "rightActive": [
