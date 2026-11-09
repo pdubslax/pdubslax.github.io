@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 10,
- "ts": "2026-11-09T03:30:39+00:00",
+ "ts": "2026-11-09T03:51:37+00:00",
  "matchups": [
   {
    "id": "1v9",
@@ -12,7 +12,7 @@
    "leftScore": 0.0,
    "leftProj": 121.37,
    "rightScore": 0.0,
-   "rightProj": 112.77,
+   "rightProj": 112.81,
    "leftPct": 57,
    "leftRem": 9,
    "rightRem": 9,
@@ -229,7 +229,7 @@
    "leftScore": 0.0,
    "leftProj": 103.84,
    "rightScore": 0.0,
-   "rightProj": 112.59,
+   "rightProj": 112.61,
    "leftPct": 42,
    "leftRem": 7,
    "rightRem": 9,
@@ -331,7 +331,7 @@
      "game": "Sun 4:05 pm vs LAR"
     },
     {
-     "player": "N. Orleans",
+     "player": "Saints",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 6.23,
@@ -432,7 +432,7 @@
      "game": "Sun 1:00 pm vs KC"
     },
     {
-     "player": "K. City",
+     "player": "Chiefs",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 6.33,
@@ -453,7 +453,7 @@
    "leftScore": 0.0,
    "leftProj": 118.52,
    "rightScore": 0.0,
-   "rightProj": 106.62,
+   "rightProj": 106.74,
    "leftPct": 60,
    "leftRem": 8,
    "rightRem": 8,
@@ -566,7 +566,7 @@
      "game": "Sun 1:00 pm @ GB"
     },
     {
-     "player": "Detroit",
+     "player": "Lions",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 4.64,
@@ -656,7 +656,7 @@
      "game": "Sun 9:30 am @ Det"
     },
     {
-     "player": "L. Angeles",
+     "player": "Rams",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 7.91,
@@ -675,7 +675,7 @@
    "right": "James Ray Ervin Yonts",
    "rightRec": "5-3",
    "leftScore": 0.0,
-   "leftProj": 115.79,
+   "leftProj": 115.86,
    "rightScore": 0.0,
    "rightProj": 118.24,
    "leftPct": 48,
@@ -787,7 +787,7 @@
      "game": "Sun 1:00 pm vs Buf"
     },
     {
-     "player": "Seattle",
+     "player": "Seahawks",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 7.4,
@@ -877,7 +877,7 @@
      "game": "Sun 1:00 pm @ Cle"
     },
     {
-     "player": "N. York",
+     "player": "Giants",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 7.18,
@@ -896,9 +896,9 @@
    "right": "Alex Michael Pagels",
    "rightRec": "3-5",
    "leftScore": 0.0,
-   "leftProj": 101.88,
+   "leftProj": 101.98,
    "rightScore": 0.0,
-   "rightProj": 95.1,
+   "rightProj": 95.12,
    "leftPct": 56,
    "leftRem": 8,
    "rightRem": 6,
@@ -1039,7 +1039,7 @@
      "game": "Sun 1:00 pm @ GB"
     },
     {
-     "player": "Buffalo",
+     "player": "Bills",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 7.88,
@@ -1107,7 +1107,7 @@
      "game": "Sun 1:00 pm vs Min"
     },
     {
-     "player": "Jacksonville",
+     "player": "Jaguars",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 8.47,
@@ -1128,7 +1128,7 @@
    "leftScore": 0.0,
    "leftProj": 101.43,
    "rightScore": 0.0,
-   "rightProj": 97.16,
+   "rightProj": 97.26,
    "leftPct": 54,
    "leftRem": 8,
    "rightRem": 7,
