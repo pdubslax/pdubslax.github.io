@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 10,
- "ts": "2026-11-09T04:12:38+00:00",
+ "ts": "2026-11-09T04:33:38+00:00",
  "matchups": [
   {
    "id": "1v9",
@@ -74,7 +74,7 @@
      "game": "Sun 9:30 am vs NE"
     },
     {
-     "player": "Houston",
+     "player": "Texans",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 9.99,
@@ -197,7 +197,7 @@
      "game": "Sun 8:20 pm vs Pit"
     },
     {
-     "player": "Indianapolis",
+     "player": "Colts",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 9.62,
@@ -227,7 +227,7 @@
    "right": "RosterMogged",
    "rightRec": "3-5",
    "leftScore": 0.0,
-   "leftProj": 103.84,
+   "leftProj": 103.85,
    "rightScore": 0.0,
    "rightProj": 112.61,
    "leftPct": 42,
@@ -279,11 +279,11 @@
      "player": "D. Henry",
      "pos": "RB",
      "slot": "RB",
-     "rem": 17.58,
+     "rem": 17.59,
      "state": "pending",
      "pts": 0.0,
-     "proj": 17.58,
-     "live": 17.58,
+     "proj": 17.59,
+     "live": 17.59,
      "game": "Mon 8:15 pm vs LAC"
     },
     {
@@ -331,7 +331,7 @@
      "game": "Sun 4:05 pm vs LAR"
     },
     {
-     "player": "Saints",
+     "player": "N. Orleans",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 6.23,
@@ -432,7 +432,7 @@
      "game": "Sun 1:00 pm vs KC"
     },
     {
-     "player": "Chiefs",
+     "player": "K. City",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 6.33,
@@ -451,7 +451,7 @@
    "right": "Tuten Brown",
    "rightRec": "5-3",
    "leftScore": 0.0,
-   "leftProj": 118.52,
+   "leftProj": 118.51,
    "rightScore": 0.0,
    "rightProj": 106.74,
    "leftPct": 60,
@@ -547,11 +547,11 @@
      "player": "S. Diggs",
      "pos": "WR",
      "slot": "WR",
-     "rem": 10.41,
+     "rem": 10.4,
      "state": "pending",
      "pts": 0.0,
-     "proj": 10.41,
-     "live": 10.41,
+     "proj": 10.4,
+     "live": 10.4,
      "game": "Thu 8:15 pm @ NYG"
     },
     {
@@ -898,7 +898,7 @@
    "leftScore": 0.0,
    "leftProj": 101.98,
    "rightScore": 0.0,
-   "rightProj": 95.12,
+   "rightProj": 95.11,
    "leftPct": 56,
    "leftRem": 8,
    "rightRem": 6,
@@ -1066,11 +1066,11 @@
      "player": "M. Nabers",
      "pos": "WR",
      "slot": "W/R/T",
-     "rem": 17.88,
+     "rem": 17.87,
      "state": "pending",
      "pts": 0.0,
-     "proj": 17.88,
-     "live": 17.88,
+     "proj": 17.87,
+     "live": 17.87,
      "game": "Thu 8:15 pm vs Was"
     },
     {
