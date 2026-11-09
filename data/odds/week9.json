@@ -862317,7 +862317,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-09T19:45:03+00:00",
+  "ts": "2026-11-09T20:04:51+00:00",
   "week": 9,
   "matchups": [
    {
@@ -862407,7 +862407,7 @@
     "leftScore": 120.72,
     "leftProj": 120.72,
     "rightScore": 102.71,
-    "rightProj": 112.52,
+    "rightProj": 112.51,
     "shotgun": [
      {
       "player": "A. Mitchell",
@@ -862430,11 +862430,11 @@
       "player": "T.J. Hockenson",
       "pos": "TE",
       "slot": "TE",
-      "rem": 9.81,
+      "rem": 9.8,
       "state": "pending",
       "pts": 0.0,
-      "proj": 9.81,
-      "live": 9.81,
+      "proj": 9.8,
+      "live": 9.8,
       "game": "Mon 8:15 pm vs Buf"
      }
     ],
@@ -862490,20 +862490,20 @@
     "right": "Sir this is a FF league",
     "rightRec": "3-5",
     "leftScore": 79.46,
-    "leftProj": 115.32,
+    "leftProj": 115.31,
     "rightScore": 94.28,
-    "rightProj": 127.15,
+    "rightProj": 127.14,
     "shotgun": [],
     "leftActive": [
      {
       "player": "J. Addison",
       "pos": "WR",
       "slot": "WR",
-      "rem": 9.87,
+      "rem": 9.86,
       "state": "pending",
       "pts": 0.0,
-      "proj": 9.87,
-      "live": 9.87,
+      "proj": 9.86,
+      "live": 9.86,
       "game": "Mon 8:15 pm vs Buf"
      },
      {
@@ -862556,11 +862556,11 @@
       "player": "J. Jefferson",
       "pos": "WR",
       "slot": "WR",
-      "rem": 16.41,
+      "rem": 16.4,
       "state": "pending",
       "pts": 0.0,
-      "proj": 16.41,
-      "live": 16.41,
+      "proj": 16.4,
+      "live": 16.4,
       "game": "Mon 8:15 pm vs Buf"
      }
     ],
