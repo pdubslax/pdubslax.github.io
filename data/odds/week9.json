@@ -862317,7 +862317,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-09T20:25:57+00:00",
+  "ts": "2026-11-09T20:46:07+00:00",
   "week": 9,
   "matchups": [
    {
@@ -862407,7 +862407,7 @@
     "leftScore": 120.72,
     "leftProj": 120.72,
     "rightScore": 102.71,
-    "rightProj": 112.51,
+    "rightProj": 112.58,
     "shotgun": [
      {
       "player": "A. Mitchell",
@@ -862430,15 +862430,15 @@
       "player": "T.J. Hockenson",
       "pos": "TE",
       "slot": "TE",
-      "rem": 9.8,
+      "rem": 9.87,
       "state": "pending",
       "pts": 0.0,
-      "proj": 9.8,
-      "live": 9.8,
+      "proj": 9.87,
+      "live": 9.87,
       "game": "Mon 8:15 pm vs Buf"
      }
     ],
-    "leftPct": 82,
+    "leftPct": 81,
     "leftRem": 0,
     "rightRem": 1
    },
@@ -862449,20 +862449,20 @@
     "right": "Kiwis are better than mid",
     "rightRec": "5-3",
     "leftScore": 88.98,
-    "leftProj": 100.58,
+    "leftProj": 100.51,
     "rightScore": 93.5,
-    "rightProj": 118.3,
+    "rightProj": 118.33,
     "shotgun": [],
     "leftActive": [
      {
       "player": "DJ Moore",
       "pos": "WR",
       "slot": "WR",
-      "rem": 11.6,
+      "rem": 11.53,
       "state": "pending",
       "pts": 0.0,
-      "proj": 11.6,
-      "live": 11.6,
+      "proj": 11.53,
+      "live": 11.53,
       "game": "Mon 8:15 pm @ Min"
      }
     ],
@@ -862471,11 +862471,11 @@
       "player": "J. Allen",
       "pos": "QB",
       "slot": "QB",
-      "rem": 24.8,
+      "rem": 24.83,
       "state": "pending",
       "pts": 0.0,
-      "proj": 24.8,
-      "live": 24.8,
+      "proj": 24.83,
+      "live": 24.83,
       "game": "Mon 8:15 pm @ Min"
      }
     ],
@@ -862490,42 +862490,42 @@
     "right": "Sir this is a FF league",
     "rightRec": "3-5",
     "leftScore": 79.46,
-    "leftProj": 115.31,
+    "leftProj": 115.38,
     "rightScore": 94.28,
-    "rightProj": 127.14,
+    "rightProj": 127.22,
     "shotgun": [],
     "leftActive": [
      {
       "player": "J. Addison",
       "pos": "WR",
       "slot": "WR",
-      "rem": 9.86,
+      "rem": 9.89,
       "state": "pending",
       "pts": 0.0,
-      "proj": 9.86,
-      "live": 9.86,
+      "proj": 9.89,
+      "live": 9.89,
       "game": "Mon 8:15 pm vs Buf"
      },
      {
       "player": "D. Kincaid",
       "pos": "TE",
       "slot": "TE",
-      "rem": 9.54,
+      "rem": 9.56,
       "state": "pending",
       "pts": 0.0,
-      "proj": 9.54,
-      "live": 9.54,
+      "proj": 9.56,
+      "live": 9.56,
       "game": "Mon 8:15 pm @ Min"
      },
      {
       "player": "K. Shakir",
       "pos": "WR",
       "slot": "WR",
-      "rem": 8.7,
+      "rem": 8.72,
       "state": "pending",
       "pts": 0.0,
-      "proj": 8.7,
-      "live": 8.7,
+      "proj": 8.72,
+      "live": 8.72,
       "game": "Mon 8:15 pm @ Min"
      },
      {
@@ -862545,22 +862545,22 @@
       "player": "J. Cook III",
       "pos": "RB",
       "slot": "RB",
-      "rem": 16.46,
+      "rem": 16.51,
       "state": "pending",
       "pts": 0.0,
-      "proj": 16.46,
-      "live": 16.46,
+      "proj": 16.51,
+      "live": 16.51,
       "game": "Mon 8:15 pm @ Min"
      },
      {
       "player": "J. Jefferson",
       "pos": "WR",
       "slot": "WR",
-      "rem": 16.4,
+      "rem": 16.43,
       "state": "pending",
       "pts": 0.0,
-      "proj": 16.4,
-      "live": 16.4,
+      "proj": 16.43,
+      "live": 16.43,
       "game": "Mon 8:15 pm vs Buf"
      }
     ],
