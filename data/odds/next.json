@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 10,
- "ts": "2026-11-09T09:02:27+00:00",
+ "ts": "2026-11-09T09:42:27+00:00",
  "matchups": [
   {
    "id": "1v9",
@@ -10,7 +10,7 @@
    "right": "Sir this is a FF league",
    "rightRec": "3-5",
    "leftScore": 0.0,
-   "leftProj": 121.34,
+   "leftProj": 121.35,
    "rightScore": 0.0,
    "rightProj": 112.77,
    "leftPct": 57,
@@ -44,11 +44,11 @@
      "player": "J. Coker",
      "pos": "WR",
      "slot": "WR",
-     "rem": 13.24,
+     "rem": 13.25,
      "state": "pending",
      "pts": 0.0,
-     "proj": 13.24,
-     "live": 13.24,
+     "proj": 13.25,
+     "live": 13.25,
      "game": "Sun 1:00 pm @ NO"
     },
     {
@@ -227,7 +227,7 @@
    "right": "RosterMogged",
    "rightRec": "3-5",
    "leftScore": 0.0,
-   "leftProj": 104.02,
+   "leftProj": 103.98,
    "rightScore": 0.0,
    "rightProj": 112.2,
    "leftPct": 43,
@@ -331,14 +331,14 @@
      "game": "Sun 4:05 pm vs LAR"
     },
     {
-     "player": "Saints",
+     "player": "N. Orleans",
      "pos": "DEF",
      "slot": "DEF",
-     "rem": 6.25,
+     "rem": 6.21,
      "state": "pending",
      "pts": 0.0,
-     "proj": 6.25,
-     "live": 6.25,
+     "proj": 6.21,
+     "live": 6.21,
      "game": "Sun 1:00 pm vs Car"
     }
    ],
@@ -432,7 +432,7 @@
      "game": "Sun 1:00 pm vs KC"
     },
     {
-     "player": "Chiefs",
+     "player": "K. City",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 6.25,
@@ -451,7 +451,7 @@
    "right": "Tuten Brown",
    "rightRec": "5-3",
    "leftScore": 0.0,
-   "leftProj": 118.31,
+   "leftProj": 118.29,
    "rightScore": 0.0,
    "rightProj": 106.65,
    "leftPct": 60,
@@ -536,11 +536,11 @@
      "player": "T. McMillan",
      "pos": "WR",
      "slot": "WR",
-     "rem": 14.05,
+     "rem": 14.03,
      "state": "pending",
      "pts": 0.0,
-     "proj": 14.05,
-     "live": 14.05,
+     "proj": 14.03,
+     "live": 14.03,
      "game": "Sun 1:00 pm @ NO"
     },
     {
@@ -898,7 +898,7 @@
    "leftScore": 0.0,
    "leftProj": 101.83,
    "rightScore": 0.0,
-   "rightProj": 95.1,
+   "rightProj": 95.0,
    "leftPct": 56,
    "leftRem": 8,
    "rightRem": 6,
@@ -1088,11 +1088,11 @@
      "player": "C. Olave",
      "pos": "WR",
      "slot": "WR",
-     "rem": 15.42,
+     "rem": 15.32,
      "state": "pending",
      "pts": 0.0,
-     "proj": 15.42,
-     "live": 15.42,
+     "proj": 15.32,
+     "live": 15.32,
      "game": "Sun 1:00 pm vs Car"
     },
     {
@@ -1126,9 +1126,9 @@
    "right": "Kiwis are better than mid",
    "rightRec": "5-3",
    "leftScore": 0.0,
-   "leftProj": 101.29,
+   "leftProj": 101.42,
    "rightScore": 0.0,
-   "rightProj": 96.99,
+   "rightProj": 96.97,
    "leftPct": 54,
    "leftRem": 8,
    "rightRem": 7,
@@ -1192,11 +1192,11 @@
      "player": "C. Hubbard",
      "pos": "RB",
      "slot": "RB",
-     "rem": 17.87,
+     "rem": 18.0,
      "state": "pending",
      "pts": 0.0,
-     "proj": 17.87,
-     "live": 17.87,
+     "proj": 18.0,
+     "live": 18.0,
      "game": "Sun 1:00 pm @ NO"
     },
     {
@@ -1326,11 +1326,11 @@
      "player": "A. Kamara",
      "pos": "RB",
      "slot": "W/R/T",
-     "rem": 7.82,
+     "rem": 7.8,
      "state": "pending",
      "pts": 0.0,
-     "proj": 7.82,
-     "live": 7.82,
+     "proj": 7.8,
+     "live": 7.8,
      "game": "Sun 1:00 pm vs Car"
     },
     {
