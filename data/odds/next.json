@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 10,
- "ts": "2026-11-09T04:33:38+00:00",
+ "ts": "2026-11-09T05:00:38+00:00",
  "matchups": [
   {
    "id": "1v9",
@@ -10,9 +10,9 @@
    "right": "Sir this is a FF league",
    "rightRec": "3-5",
    "leftScore": 0.0,
-   "leftProj": 121.37,
+   "leftProj": 121.33,
    "rightScore": 0.0,
-   "rightProj": 112.81,
+   "rightProj": 112.77,
    "leftPct": 57,
    "leftRem": 9,
    "rightRem": 9,
@@ -88,11 +88,11 @@
      "player": "S. Shrader",
      "pos": "K",
      "slot": "K",
-     "rem": 9.91,
+     "rem": 9.87,
      "state": "pending",
      "pts": 0.0,
-     "proj": 9.91,
-     "live": 9.91,
+     "proj": 9.87,
+     "live": 9.87,
      "game": "Sun 1:00 pm vs Mia"
     },
     {
@@ -200,11 +200,11 @@
      "player": "Colts",
      "pos": "DEF",
      "slot": "DEF",
-     "rem": 9.62,
+     "rem": 9.58,
      "state": "pending",
      "pts": 0.0,
-     "proj": 9.62,
-     "live": 9.62,
+     "proj": 9.58,
+     "live": 9.58,
      "game": "Sun 1:00 pm vs Mia"
     },
     {
@@ -227,10 +227,10 @@
    "right": "RosterMogged",
    "rightRec": "3-5",
    "leftScore": 0.0,
-   "leftProj": 103.85,
+   "leftProj": 103.93,
    "rightScore": 0.0,
-   "rightProj": 112.61,
-   "leftPct": 42,
+   "rightProj": 112.55,
+   "leftPct": 43,
    "leftRem": 7,
    "rightRem": 9,
    "shotgun": [
@@ -279,11 +279,11 @@
      "player": "D. Henry",
      "pos": "RB",
      "slot": "RB",
-     "rem": 17.59,
+     "rem": 17.67,
      "state": "pending",
      "pts": 0.0,
-     "proj": 17.59,
-     "live": 17.59,
+     "proj": 17.67,
+     "live": 17.67,
      "game": "Mon 8:15 pm vs LAC"
     },
     {
@@ -331,7 +331,7 @@
      "game": "Sun 4:05 pm vs LAR"
     },
     {
-     "player": "N. Orleans",
+     "player": "Saints",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 6.23,
@@ -380,11 +380,11 @@
      "player": "L. McConkey",
      "pos": "WR",
      "slot": "WR",
-     "rem": 11.02,
+     "rem": 10.96,
      "state": "pending",
      "pts": 0.0,
-     "proj": 11.02,
-     "live": 11.02,
+     "proj": 10.96,
+     "live": 10.96,
      "game": "Mon 8:15 pm @ Bal"
     },
     {
@@ -432,7 +432,7 @@
      "game": "Sun 1:00 pm vs KC"
     },
     {
-     "player": "K. City",
+     "player": "Chiefs",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 6.33,
@@ -453,7 +453,7 @@
    "leftScore": 0.0,
    "leftProj": 118.51,
    "rightScore": 0.0,
-   "rightProj": 106.74,
+   "rightProj": 106.69,
    "leftPct": 60,
    "leftRem": 8,
    "rightRem": 8,
@@ -593,11 +593,11 @@
      "player": "J. Taylor",
      "pos": "RB",
      "slot": "RB",
-     "rem": 17.46,
+     "rem": 17.41,
      "state": "pending",
      "pts": 0.0,
-     "proj": 17.46,
-     "live": 17.46,
+     "proj": 17.41,
+     "live": 17.41,
      "game": "Sun 1:00 pm vs Mia"
     },
     {
@@ -675,7 +675,7 @@
    "right": "James Ray Ervin Yonts",
    "rightRec": "5-3",
    "leftScore": 0.0,
-   "leftProj": 115.86,
+   "leftProj": 115.7,
    "rightScore": 0.0,
    "rightProj": 118.24,
    "leftPct": 48,
@@ -702,11 +702,11 @@
      "player": "M. Willis",
      "pos": "QB",
      "slot": "QB",
-     "rem": 19.35,
+     "rem": 19.23,
      "state": "pending",
      "pts": 0.0,
-     "proj": 19.35,
-     "live": 19.35,
+     "proj": 19.23,
+     "live": 19.23,
      "game": "Sun 1:00 pm @ Ind"
     },
     {
@@ -757,11 +757,11 @@
      "player": "T. Warren",
      "pos": "TE",
      "slot": "TE",
-     "rem": 11.14,
+     "rem": 11.1,
      "state": "pending",
      "pts": 0.0,
-     "proj": 11.14,
-     "live": 11.14,
+     "proj": 11.1,
+     "live": 11.1,
      "game": "Sun 1:00 pm vs Mia"
     },
     {
@@ -787,7 +787,7 @@
      "game": "Sun 1:00 pm vs Buf"
     },
     {
-     "player": "Seattle",
+     "player": "Seahawks",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 7.4,
@@ -877,7 +877,7 @@
      "game": "Sun 1:00 pm @ Cle"
     },
     {
-     "player": "N. York",
+     "player": "Giants",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 7.18,
@@ -1126,9 +1126,9 @@
    "right": "Kiwis are better than mid",
    "rightRec": "5-3",
    "leftScore": 0.0,
-   "leftProj": 101.43,
+   "leftProj": 101.39,
    "rightScore": 0.0,
-   "rightProj": 97.26,
+   "rightProj": 97.23,
    "leftPct": 54,
    "leftRem": 8,
    "rightRem": 7,
@@ -1203,11 +1203,11 @@
      "player": "Z. Flowers",
      "pos": "WR",
      "slot": "W/R/T",
-     "rem": 14.75,
+     "rem": 14.77,
      "state": "pending",
      "pts": 0.0,
-     "proj": 14.75,
-     "live": 14.75,
+     "proj": 14.77,
+     "live": 14.77,
      "game": "Mon 8:15 pm vs LAC"
     },
     {
@@ -1225,11 +1225,11 @@
      "player": "O. Gordon II",
      "pos": "RB",
      "slot": "RB",
-     "rem": 13.37,
+     "rem": 13.31,
      "state": "pending",
      "pts": 0.0,
-     "proj": 13.37,
-     "live": 13.37,
+     "proj": 13.31,
+     "live": 13.31,
      "game": "Sun 1:00 pm @ Ind"
     },
     {
@@ -1315,11 +1315,11 @@
      "player": "K. Allen",
      "pos": "WR",
      "slot": "WR",
-     "rem": 9.43,
+     "rem": 9.4,
      "state": "pending",
      "pts": 0.0,
-     "proj": 9.43,
-     "live": 9.43,
+     "proj": 9.4,
+     "live": 9.4,
      "game": "Sun 1:00 pm vs Mia"
     },
     {
