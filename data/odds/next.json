@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 10,
- "ts": "2026-11-09T12:03:25+00:00",
+ "ts": "2026-11-09T12:43:25+00:00",
  "matchups": [
   {
    "id": "1v9",
@@ -12,7 +12,7 @@
    "leftScore": 0.0,
    "leftProj": 121.34,
    "rightScore": 0.0,
-   "rightProj": 112.77,
+   "rightProj": 112.98,
    "leftPct": 57,
    "leftRem": 9,
    "rightRem": 9,
@@ -134,11 +134,11 @@
      "player": "J. Cook III",
      "pos": "RB",
      "slot": "RB",
-     "rem": 17.06,
+     "rem": 17.24,
      "state": "pending",
      "pts": 0.0,
-     "proj": 17.06,
-     "live": 17.06,
+     "proj": 17.24,
+     "live": 17.24,
      "game": "Sun 1:00 pm @ NYJ"
     },
     {
@@ -167,11 +167,11 @@
      "player": "B. Hall",
      "pos": "RB",
      "slot": "RB",
-     "rem": 11.35,
+     "rem": 11.38,
      "state": "pending",
      "pts": 0.0,
-     "proj": 11.35,
-     "live": 11.35,
+     "proj": 11.38,
+     "live": 11.38,
      "game": "Sun 1:00 pm vs Buf"
     },
     {
@@ -229,7 +229,7 @@
    "leftScore": 0.0,
    "leftProj": 104.1,
    "rightScore": 0.0,
-   "rightProj": 112.11,
+   "rightProj": 112.01,
    "leftPct": 43,
    "leftRem": 7,
    "rightRem": 9,
@@ -402,11 +402,11 @@
      "player": "O. Cooper Jr.",
      "pos": "WR",
      "slot": "W/R/T",
-     "rem": 8.49,
+     "rem": 8.39,
      "state": "pending",
      "pts": 0.0,
-     "proj": 8.49,
-     "live": 8.49,
+     "proj": 8.39,
+     "live": 8.39,
      "game": "Sun 1:00 pm vs Buf"
     },
     {
@@ -453,7 +453,7 @@
    "leftScore": 0.0,
    "leftProj": 118.32,
    "rightScore": 0.0,
-   "rightProj": 106.66,
+   "rightProj": 106.51,
    "leftPct": 60,
    "leftRem": 8,
    "rightRem": 8,
@@ -615,11 +615,11 @@
      "player": "DJ Moore",
      "pos": "WR",
      "slot": "WR",
-     "rem": 12.63,
+     "rem": 12.48,
      "state": "pending",
      "pts": 0.0,
-     "proj": 12.63,
-     "live": 12.63,
+     "proj": 12.48,
+     "live": 12.48,
      "game": "Sun 1:00 pm @ NYJ"
     },
     {
@@ -675,7 +675,7 @@
    "right": "James Ray Ervin Yonts",
    "rightRec": "5-3",
    "leftScore": 0.0,
-   "leftProj": 115.61,
+   "leftProj": 115.54,
    "rightScore": 0.0,
    "rightProj": 118.23,
    "leftPct": 48,
@@ -779,11 +779,11 @@
      "player": "A. Mitchell",
      "pos": "WR",
      "slot": "W/R/T",
-     "rem": 8.24,
+     "rem": 8.17,
      "state": "pending",
      "pts": 0.0,
-     "proj": 8.24,
-     "live": 8.24,
+     "proj": 8.17,
+     "live": 8.17,
      "game": "Sun 1:00 pm vs Buf"
     },
     {
@@ -896,7 +896,7 @@
    "right": "Alex Michael Pagels",
    "rightRec": "3-5",
    "leftScore": 0.0,
-   "leftProj": 101.84,
+   "leftProj": 101.63,
    "rightScore": 0.0,
    "rightProj": 95.04,
    "leftPct": 56,
@@ -998,11 +998,11 @@
      "player": "D. Kincaid",
      "pos": "TE",
      "slot": "TE",
-     "rem": 10.17,
+     "rem": 10.07,
      "state": "pending",
      "pts": 0.0,
-     "proj": 10.17,
-     "live": 10.17,
+     "proj": 10.07,
+     "live": 10.07,
      "game": "Sun 1:00 pm @ NYJ"
     },
     {
@@ -1020,11 +1020,11 @@
      "player": "K. Shakir",
      "pos": "WR",
      "slot": "WR",
-     "rem": 9.19,
+     "rem": 9.08,
      "state": "pending",
      "pts": 0.0,
-     "proj": 9.19,
-     "live": 9.19,
+     "proj": 9.08,
+     "live": 9.08,
      "game": "Sun 1:00 pm @ NYJ"
     },
     {
@@ -1128,7 +1128,7 @@
    "leftScore": 0.0,
    "leftProj": 101.43,
    "rightScore": 0.0,
-   "rightProj": 96.96,
+   "rightProj": 96.89,
    "leftPct": 54,
    "leftRem": 8,
    "rightRem": 7,
@@ -1162,7 +1162,7 @@
      "reason": "pts"
     },
     {
-     "player": "Chicago",
+     "player": "Bears",
      "pos": "DEF",
      "team": "Chi",
      "pts": 0.0,
@@ -1255,7 +1255,7 @@
      "game": "Sun 1:00 pm @ GB"
     },
     {
-     "player": "S. Francisco",
+     "player": "49ers",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 3.79,
@@ -1271,11 +1271,11 @@
      "player": "J. Allen",
      "pos": "QB",
      "slot": "QB",
-     "rem": 27.66,
+     "rem": 27.59,
      "state": "pending",
      "pts": 0.0,
-     "proj": 27.66,
-     "live": 27.66,
+     "proj": 27.59,
+     "live": 27.59,
      "game": "Sun 1:00 pm @ NYJ"
     },
     {
