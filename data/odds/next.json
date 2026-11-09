@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 10,
- "ts": "2026-11-09T05:21:29+00:00",
+ "ts": "2026-11-09T06:01:27+00:00",
  "matchups": [
   {
    "id": "1v9",
@@ -229,7 +229,7 @@
    "leftScore": 0.0,
    "leftProj": 103.93,
    "rightScore": 0.0,
-   "rightProj": 112.55,
+   "rightProj": 112.49,
    "leftPct": 43,
    "leftRem": 7,
    "rightRem": 9,
@@ -358,22 +358,22 @@
      "player": "K. Walker III",
      "pos": "RB",
      "slot": "RB",
-     "rem": 21.92,
+     "rem": 21.87,
      "state": "pending",
      "pts": 0.0,
-     "proj": 21.92,
-     "live": 21.92,
+     "proj": 21.87,
+     "live": 21.87,
      "game": "Sun 1:00 pm @ Atl"
     },
     {
      "player": "R. Rice",
      "pos": "WR",
      "slot": "WR",
-     "rem": 13.16,
+     "rem": 13.15,
      "state": "pending",
      "pts": 0.0,
-     "proj": 13.16,
-     "live": 13.16,
+     "proj": 13.15,
+     "live": 13.15,
      "game": "Sun 1:00 pm @ Atl"
     },
     {
@@ -424,22 +424,22 @@
      "player": "K. Pitts Sr.",
      "pos": "TE",
      "slot": "TE",
-     "rem": 7.71,
+     "rem": 7.73,
      "state": "pending",
      "pts": 0.0,
-     "proj": 7.71,
-     "live": 7.71,
+     "proj": 7.73,
+     "live": 7.73,
      "game": "Sun 1:00 pm vs KC"
     },
     {
      "player": "Chiefs",
      "pos": "DEF",
      "slot": "DEF",
-     "rem": 6.33,
+     "rem": 6.31,
      "state": "pending",
      "pts": 0.0,
-     "proj": 6.33,
-     "live": 6.33,
+     "proj": 6.31,
+     "live": 6.31,
      "game": "Sun 1:00 pm @ Atl"
     }
    ]
@@ -451,7 +451,7 @@
    "right": "Tuten Brown",
    "rightRec": "5-3",
    "leftScore": 0.0,
-   "leftProj": 118.51,
+   "leftProj": 118.48,
    "rightScore": 0.0,
    "rightProj": 106.69,
    "leftPct": 60,
@@ -503,11 +503,11 @@
      "player": "P. Mahomes",
      "pos": "QB",
      "slot": "QB",
-     "rem": 21.56,
+     "rem": 21.53,
      "state": "pending",
      "pts": 0.0,
-     "proj": 21.56,
-     "live": 21.56,
+     "proj": 21.53,
+     "live": 21.53,
      "game": "Sun 1:00 pm @ Atl"
     },
     {
@@ -677,7 +677,7 @@
    "leftScore": 0.0,
    "leftProj": 115.7,
    "rightScore": 0.0,
-   "rightProj": 118.24,
+   "rightProj": 118.26,
    "leftPct": 48,
    "leftRem": 9,
    "rightRem": 8,
@@ -787,7 +787,7 @@
      "game": "Sun 1:00 pm vs Buf"
     },
     {
-     "player": "Seattle",
+     "player": "Seahawks",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 7.4,
@@ -836,11 +836,11 @@
      "player": "D. London",
      "pos": "WR",
      "slot": "WR",
-     "rem": 15.75,
+     "rem": 15.77,
      "state": "pending",
      "pts": 0.0,
-     "proj": 15.75,
-     "live": 15.75,
+     "proj": 15.77,
+     "live": 15.77,
      "game": "Sun 1:00 pm vs KC"
     },
     {
@@ -877,7 +877,7 @@
      "game": "Sun 1:00 pm @ Cle"
     },
     {
-     "player": "N. York",
+     "player": "Giants",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 7.18,
@@ -896,7 +896,7 @@
    "right": "Alex Michael Pagels",
    "rightRec": "3-5",
    "leftScore": 0.0,
-   "leftProj": 101.98,
+   "leftProj": 102.04,
    "rightScore": 0.0,
    "rightProj": 95.11,
    "leftPct": 56,
@@ -976,11 +976,11 @@
      "player": "B. Robinson",
      "pos": "RB",
      "slot": "RB",
-     "rem": 20.42,
+     "rem": 20.48,
      "state": "pending",
      "pts": 0.0,
-     "proj": 20.42,
-     "live": 20.42,
+     "proj": 20.48,
+     "live": 20.48,
      "game": "Sun 1:00 pm vs KC"
     },
     {
@@ -1039,7 +1039,7 @@
      "game": "Sun 1:00 pm @ GB"
     },
     {
-     "player": "Bills",
+     "player": "Buffalo",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 7.88,
@@ -1107,7 +1107,7 @@
      "game": "Sun 1:00 pm vs Min"
     },
     {
-     "player": "Jaguars",
+     "player": "Jacksonville",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 8.47,
@@ -1162,7 +1162,7 @@
      "reason": "pts"
     },
     {
-     "player": "Bears",
+     "player": "Chicago",
      "pos": "DEF",
      "team": "Chi",
      "pts": 0.0,
@@ -1255,7 +1255,7 @@
      "game": "Sun 1:00 pm @ GB"
     },
     {
-     "player": "49ers",
+     "player": "S. Francisco",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 3.81,
