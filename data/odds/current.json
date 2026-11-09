@@ -862317,7 +862317,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-09T07:42:37+00:00",
+  "ts": "2026-11-09T08:02:27+00:00",
   "week": 9,
   "matchups": [
    {
@@ -862376,7 +862376,7 @@
       "slot": "WR",
       "manager": "RosterMogged",
       "locked": true,
-      "live": 11.7,
+      "live": 11.87,
       "reason": "pts"
      }
     ],
@@ -862420,7 +862420,7 @@
       "slot": "W/R/T",
       "manager": "Matt #chubb69",
       "locked": true,
-      "live": 10.42,
+      "live": 10.47,
       "reason": "pts"
      }
     ],
@@ -862529,7 +862529,7 @@
       "game": "Mon 8:15 pm @ Min"
      },
      {
-      "player": "Bills",
+      "player": "Buffalo",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 7.65,
