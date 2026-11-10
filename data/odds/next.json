@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 10,
- "ts": "2026-11-10T02:09:37+00:00",
+ "ts": "2026-11-10T02:29:47+00:00",
  "matchups": [
   {
    "id": "1v9",
@@ -566,7 +566,7 @@
      "game": "Sun 1:00 pm @ GB"
     },
     {
-     "player": "G. Bay",
+     "player": "Packers",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 9.12,
@@ -656,7 +656,7 @@
      "game": "Sun 9:30 am @ Det"
     },
     {
-     "player": "L. Angeles",
+     "player": "Rams",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 8.11,
@@ -1035,7 +1035,7 @@
      "game": "Sun 1:00 pm @ GB"
     },
     {
-     "player": "Buffalo",
+     "player": "Bills",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 7.8,
@@ -1103,7 +1103,7 @@
      "game": "Sun 1:00 pm vs Min"
     },
     {
-     "player": "Jacksonville",
+     "player": "Jaguars",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 8.41,
@@ -1158,7 +1158,7 @@
      "reason": "pts"
     },
     {
-     "player": "Bears",
+     "player": "Chicago",
      "pos": "DEF",
      "team": "Chi",
      "pts": 0.0,
@@ -1251,7 +1251,7 @@
      "game": "Sun 1:00 pm @ GB"
     },
     {
-     "player": "49ers",
+     "player": "S. Francisco",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 3.58,
