@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 10,
- "ts": "2026-11-10T02:29:47+00:00",
+ "ts": "2026-11-10T02:51:56+00:00",
  "matchups": [
   {
    "id": "1v9",
@@ -892,7 +892,7 @@
    "right": "Alex Michael Pagels",
    "rightRec": "3-5",
    "leftScore": 0.0,
-   "leftProj": 101.69,
+   "leftProj": 101.68,
    "rightScore": 0.0,
    "rightProj": 90.13,
    "leftPct": 60,
@@ -961,11 +961,11 @@
      "player": "J. Daniels",
      "pos": "QB",
      "slot": "QB",
-     "rem": 21.25,
+     "rem": 21.24,
      "state": "pending",
      "pts": 0.0,
-     "proj": 21.25,
-     "live": 21.25,
+     "proj": 21.24,
+     "live": 21.24,
      "game": "Thu 8:15 pm @ NYG"
     },
     {
@@ -1158,7 +1158,7 @@
      "reason": "pts"
     },
     {
-     "player": "Chicago",
+     "player": "Bears",
      "pos": "DEF",
      "team": "Chi",
      "pts": 0.0,
@@ -1251,7 +1251,7 @@
      "game": "Sun 1:00 pm @ GB"
     },
     {
-     "player": "S. Francisco",
+     "player": "49ers",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 3.58,
