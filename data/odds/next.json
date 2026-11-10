@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 10,
- "ts": "2026-11-10T03:14:02+00:00",
+ "ts": "2026-11-10T03:36:06+00:00",
  "matchups": [
   {
    "id": "1v9",
@@ -451,7 +451,7 @@
    "right": "Tuten Brown",
    "rightRec": "5-3",
    "leftScore": 0.0,
-   "leftProj": 122.45,
+   "leftProj": 122.46,
    "rightScore": 0.0,
    "rightProj": 106.91,
    "leftPct": 63,
@@ -536,11 +536,11 @@
      "player": "T. McBride",
      "pos": "TE",
      "slot": "TE",
-     "rem": 13.91,
+     "rem": 13.92,
      "state": "pending",
      "pts": 0.0,
-     "proj": 13.91,
-     "live": 13.91,
+     "proj": 13.92,
+     "live": 13.92,
      "game": "Sun 4:05 pm vs LAR"
     },
     {
@@ -772,7 +772,7 @@
      "game": "Sun 1:00 pm vs Buf"
     },
     {
-     "player": "Seattle",
+     "player": "Seahawks",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 7.36,
@@ -873,7 +873,7 @@
      "game": "Sun 1:00 pm @ Cle"
     },
     {
-     "player": "L. Angeles",
+     "player": "Chargers",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 6.83,
@@ -1035,7 +1035,7 @@
      "game": "Sun 1:00 pm @ GB"
     },
     {
-     "player": "Bills",
+     "player": "Buffalo",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 7.8,
@@ -1103,7 +1103,7 @@
      "game": "Sun 1:00 pm vs Min"
     },
     {
-     "player": "Jaguars",
+     "player": "Jacksonville",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 8.41,
