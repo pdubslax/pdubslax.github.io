@@ -871971,6 +871971,291 @@
      "rightRem": 2
     }
    ]
+  },
+  {
+   "ts": "2026-11-10T02:33:39+00:00",
+   "week": 9,
+   "matchups": [
+    {
+     "id": "1v7",
+     "left": "Silly Shrek Squad",
+     "leftRec": "4-4",
+     "right": "James Ray Ervin Yonts",
+     "rightRec": "5-3",
+     "leftScore": 113.02,
+     "leftProj": 113.02,
+     "rightScore": 184.8,
+     "rightProj": 184.8,
+     "shotgun": [],
+     "leftActive": [],
+     "rightActive": [],
+     "stale": true,
+     "leftPct": 0,
+     "leftRem": 0,
+     "rightRem": 0
+    },
+    {
+     "id": "2v8",
+     "left": "BDSM AI Stealth Founder",
+     "leftRec": "3-5",
+     "right": "Alex Michael Pagels",
+     "rightRec": "3-5",
+     "leftScore": 114.54,
+     "leftProj": 114.54,
+     "rightScore": 123.84,
+     "rightProj": 123.84,
+     "shotgun": [],
+     "leftActive": [],
+     "rightActive": [],
+     "stale": true,
+     "leftPct": 0,
+     "leftRem": 0,
+     "rightRem": 0
+    },
+    {
+     "id": "3v10",
+     "left": "Robotripping Gardener",
+     "leftRec": "5-3",
+     "right": "RosterMogged",
+     "rightRec": "3-5",
+     "leftScore": 91.23,
+     "leftProj": 96.72,
+     "rightScore": 125.68,
+     "rightProj": 125.68,
+     "shotgun": [
+      {
+       "player": "L. McConkey",
+       "pos": "WR",
+       "team": "LAC",
+       "pts": 0.0,
+       "game": "Final (L) 22-44 vs HOU",
+       "tag": "Q",
+       "state": "final",
+       "slot": "WR",
+       "manager": "RosterMogged",
+       "locked": true,
+       "live": 11.87,
+       "reason": "pts"
+      }
+     ],
+     "leftActive": [
+      {
+       "player": "W. Reichard",
+       "pos": "K",
+       "slot": "K",
+       "rem": 5.48,
+       "state": "live",
+       "pts": 4.3,
+       "proj": 9.66,
+       "live": 9.78,
+       "game": "2nd 4:02, 3-3 vs BUF"
+      }
+     ],
+     "rightActive": [],
+     "leftPct": 1,
+     "leftRem": 1,
+     "rightRem": 0
+    },
+    {
+     "id": "4v11",
+     "left": "Matt #chubb69",
+     "leftRec": "3-5",
+     "right": "Zen Buddha Boys 🪷💨",
+     "rightRec": "4-4",
+     "leftScore": 120.72,
+     "leftProj": 120.72,
+     "rightScore": 105.91,
+     "rightProj": 111.56,
+     "shotgun": [
+      {
+       "player": "A. Mitchell",
+       "pos": "WR",
+       "team": "NYJ",
+       "pts": 0.0,
+       "game": "Final (L) 12-35 @ KC",
+       "tag": null,
+       "state": "final",
+       "slot": "W/R/T",
+       "manager": "Matt #chubb69",
+       "locked": true,
+       "live": 10.47,
+       "reason": "pts"
+      }
+     ],
+     "leftActive": [],
+     "rightActive": [
+      {
+       "player": "T.J. Hockenson",
+       "pos": "TE",
+       "slot": "TE",
+       "rem": 5.64,
+       "state": "live",
+       "pts": 3.2,
+       "proj": 9.95,
+       "live": 8.84,
+       "game": "2nd 4:02, 3-3 vs BUF"
+      }
+     ],
+     "leftPct": 91,
+     "leftRem": 0,
+     "rightRem": 1
+    },
+    {
+     "id": "5v12",
+     "left": "Tuten Brown",
+     "leftRec": "5-3",
+     "right": "Kiwis are better than mid",
+     "rightRec": "5-3",
+     "leftScore": 91.98,
+     "leftProj": 98.58,
+     "rightScore": 96.58,
+     "rightProj": 110.81,
+     "shotgun": [],
+     "leftActive": [
+      {
+       "player": "D. Moore",
+       "pos": "WR",
+       "slot": "WR",
+       "rem": 6.59,
+       "state": "live",
+       "pts": 3.0,
+       "proj": 11.62,
+       "live": 9.59,
+       "game": "2nd 4:02, 3-3 @ MIN"
+      }
+     ],
+     "rightActive": [
+      {
+       "player": "J. Allen",
+       "pos": "QB",
+       "slot": "QB",
+       "rem": 14.21,
+       "state": "live",
+       "pts": 3.08,
+       "proj": 25.05,
+       "live": 17.29,
+       "game": "2nd 4:02, 3-3 @ MIN"
+      }
+     ],
+     "leftPct": 16,
+     "leftRem": 1,
+     "rightRem": 1
+    },
+    {
+     "id": "6v9",
+     "left": "MELONHEADS (daniel)",
+     "leftRec": "5-3",
+     "right": "Sir this is a FF league",
+     "rightRec": "3-5",
+     "leftScore": 102.31,
+     "leftProj": 114.9,
+     "rightScore": 96.58,
+     "rightProj": 115.42,
+     "shotgun": [
+      {
+       "player": "J. Addison",
+       "pos": "WR",
+       "team": "Min",
+       "pts": 0.0,
+       "game": "2nd 4:02, 3-3 vs BUF",
+       "tag": null,
+       "state": "live",
+       "slot": "WR",
+       "manager": "MELONHEADS (daniel)",
+       "locked": false,
+       "live": 5.66,
+       "reason": "pts"
+      },
+      {
+       "player": "J. Jefferson",
+       "pos": "WR",
+       "team": "Min",
+       "pts": 0.0,
+       "game": "2nd 4:02, 3-3 vs BUF",
+       "tag": null,
+       "state": "live",
+       "slot": "WR",
+       "manager": "Sir this is a FF league",
+       "locked": false,
+       "live": 9.4,
+       "reason": "pts"
+      }
+     ],
+     "leftActive": [
+      {
+       "player": "J. Addison",
+       "pos": "WR",
+       "slot": "WR",
+       "rem": 5.66,
+       "state": "live",
+       "pts": 0.0,
+       "proj": 9.98,
+       "live": 5.66,
+       "game": "2nd 4:02, 3-3 vs BUF"
+      },
+      {
+       "player": "D. Kincaid",
+       "pos": "TE",
+       "slot": "TE",
+       "rem": 5.46,
+       "state": "live",
+       "pts": 2.2,
+       "proj": 9.62,
+       "live": 7.66,
+       "game": "2nd 4:02, 3-3 @ MIN"
+      },
+      {
+       "player": "K. Shakir",
+       "pos": "WR",
+       "slot": "WR",
+       "rem": 4.98,
+       "state": "live",
+       "pts": 1.9,
+       "proj": 8.78,
+       "live": 6.88,
+       "game": "2nd 4:02, 3-3 @ MIN"
+      },
+      {
+       "player": "Bills",
+       "pos": "DEF",
+       "slot": "DEF",
+       "rem": 0.0,
+       "state": "live",
+       "pts": 16.75,
+       "proj": 7.78,
+       "live": 13.22,
+       "game": "2nd 4:02, 3-3 @ MIN"
+      }
+     ],
+     "rightActive": [
+      {
+       "player": "J. Cook III",
+       "pos": "RB",
+       "slot": "RB",
+       "rem": 9.41,
+       "state": "live",
+       "pts": 2.3,
+       "proj": 16.59,
+       "live": 11.71,
+       "game": "2nd 4:02, 3-3 @ MIN"
+      },
+      {
+       "player": "J. Jefferson",
+       "pos": "WR",
+       "slot": "WR",
+       "rem": 9.4,
+       "state": "live",
+       "pts": 0.0,
+       "proj": 16.58,
+       "live": 9.4,
+       "game": "2nd 4:02, 3-3 vs BUF"
+      }
+     ],
+     "leftPct": 45,
+     "leftRem": 4,
+     "rightRem": 2
+    }
+   ]
   }
  ],
  "segments": [
