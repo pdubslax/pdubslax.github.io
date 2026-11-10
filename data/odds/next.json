@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 10,
- "ts": "2026-11-10T22:01:32+00:00",
+ "ts": "2026-11-10T22:27:34+00:00",
  "matchups": [
   {
    "id": "1v9",
@@ -1108,8 +1108,8 @@
    "leftScore": 0.0,
    "leftProj": 123.79,
    "rightScore": 0.0,
-   "rightProj": 92.58,
-   "leftPct": 75,
+   "rightProj": 106.24,
+   "leftPct": 64,
    "leftRem": 9,
    "rightRem": 7,
    "shotgun": [
@@ -1278,6 +1278,28 @@
      "game": "Sun 4:05 pm vs Sea"
     },
     {
+     "player": "G. Wilson",
+     "pos": "WR",
+     "slot": "WR",
+     "rem": 13.1,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 13.1,
+     "live": 13.1,
+     "game": "Sun 1:00 pm vs Buf"
+    },
+    {
+     "player": "DK Metcalf",
+     "pos": "WR",
+     "slot": "WR",
+     "rem": 10.93,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 10.93,
+     "live": 10.93,
+     "game": "Sun 8:20 pm @ Cin"
+    },
+    {
      "player": "R. White",
      "pos": "RB",
      "slot": "RB",
@@ -1289,17 +1311,6 @@
      "game": "Thu 8:15 pm @ NYG"
     },
     {
-     "player": "D. Robinson",
-     "pos": "WR",
-     "slot": "WR",
-     "rem": 8.11,
-     "state": "pending",
-     "pts": 0.0,
-     "proj": 8.11,
-     "live": 8.11,
-     "game": "Sun 4:25 pm @ Dal"
-    },
-    {
      "player": "A. Kamara",
      "pos": "RB",
      "slot": "W/R/T",
@@ -1309,17 +1320,6 @@
      "proj": 7.84,
      "live": 7.84,
      "game": "Sun 1:00 pm vs Car"
-    },
-    {
-     "player": "K. Allen",
-     "pos": "WR",
-     "slot": "WR",
-     "rem": 2.26,
-     "state": "pending",
-     "pts": 0.0,
-     "proj": 2.26,
-     "live": 2.26,
-     "game": "Sun 4:25 pm @ Dal"
     }
    ]
   }
