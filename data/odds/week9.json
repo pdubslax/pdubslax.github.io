@@ -862317,7 +862317,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-10T00:46:07+00:00",
+  "ts": "2026-11-10T01:05:57+00:00",
   "week": 9,
   "matchups": [
    {
@@ -862490,7 +862490,7 @@
     "right": "Sir this is a FF league",
     "rightRec": "3-5",
     "leftScore": 79.46,
-    "leftProj": 115.41,
+    "leftProj": 115.44,
     "rightScore": 94.28,
     "rightProj": 127.29,
     "shotgun": [],
@@ -862532,11 +862532,11 @@
       "player": "Bills",
       "pos": "DEF",
       "slot": "DEF",
-      "rem": 7.75,
+      "rem": 7.78,
       "state": "pending",
       "pts": 0.0,
-      "proj": 7.75,
-      "live": 7.75,
+      "proj": 7.78,
+      "live": 7.78,
       "game": "Mon 8:15 pm @ Min"
      }
     ],
