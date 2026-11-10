@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 10,
- "ts": "2026-11-10T12:15:34+00:00",
+ "ts": "2026-11-10T12:55:33+00:00",
  "matchups": [
   {
    "id": "1v9",
@@ -10,9 +10,9 @@
    "right": "Sir this is a FF league",
    "rightRec": "4-5",
    "leftScore": 0.0,
-   "leftProj": 112.16,
+   "leftProj": 112.09,
    "rightScore": 0.0,
-   "rightProj": 114.01,
+   "rightProj": 113.89,
    "leftPct": 48,
    "leftRem": 9,
    "rightRem": 9,
@@ -44,11 +44,11 @@
      "player": "M. Golden",
      "pos": "WR",
      "slot": "WR",
-     "rem": 14.51,
+     "rem": 14.44,
      "state": "pending",
      "pts": 0.0,
-     "proj": 14.51,
-     "live": 14.51,
+     "proj": 14.44,
+     "live": 14.44,
      "game": "Sun 1:00 pm vs Min"
     },
     {
@@ -85,7 +85,7 @@
      "game": "Sun 1:00 pm @ Cle"
     },
     {
-     "player": "Texans",
+     "player": "Houston",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 10.07,
@@ -112,11 +112,11 @@
      "player": "J. Love",
      "pos": "QB",
      "slot": "QB",
-     "rem": 20.08,
+     "rem": 20.03,
      "state": "pending",
      "pts": 0.0,
-     "proj": 20.08,
-     "live": 20.08,
+     "proj": 20.03,
+     "live": 20.03,
      "game": "Sun 1:00 pm vs Min"
     },
     {
@@ -134,11 +134,11 @@
      "player": "J. Jefferson",
      "pos": "WR",
      "slot": "WR",
-     "rem": 14.31,
+     "rem": 14.24,
      "state": "pending",
      "pts": 0.0,
-     "proj": 14.31,
-     "live": 14.31,
+     "proj": 14.24,
+     "live": 14.24,
      "game": "Sun 1:00 pm @ GB"
     },
     {
@@ -186,7 +186,7 @@
      "game": "Sun 8:20 pm vs Pit"
     },
     {
-     "player": "Colts",
+     "player": "Indianapolis",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 9.57,
@@ -216,9 +216,9 @@
    "right": "RosterMogged",
    "rightRec": "4-5",
    "leftScore": 0.0,
-   "leftProj": 88.11,
+   "leftProj": 88.1,
    "rightScore": 0.0,
-   "rightProj": 111.6,
+   "rightProj": 111.55,
    "leftPct": 29,
    "leftRem": 7,
    "rightRem": 9,
@@ -268,22 +268,22 @@
      "player": "D. Henry",
      "pos": "RB",
      "slot": "RB",
-     "rem": 16.18,
+     "rem": 16.24,
      "state": "pending",
      "pts": 0.0,
-     "proj": 16.18,
-     "live": 16.18,
+     "proj": 16.24,
+     "live": 16.24,
      "game": "Mon 8:15 pm vs LAC"
     },
     {
      "player": "C. Watson",
      "pos": "WR",
      "slot": "WR",
-     "rem": 15.87,
+     "rem": 15.8,
      "state": "pending",
      "pts": 0.0,
-     "proj": 15.87,
-     "live": 15.87,
+     "proj": 15.8,
+     "live": 15.8,
      "game": "Sun 1:00 pm vs Min"
     },
     {
@@ -309,7 +309,7 @@
      "game": "Thu 8:15 pm vs Was"
     },
     {
-     "player": "Saints",
+     "player": "N. Orleans",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 6.51,
@@ -369,11 +369,11 @@
      "player": "L. McConkey",
      "pos": "WR",
      "slot": "WR",
-     "rem": 10.19,
+     "rem": 10.14,
      "state": "pending",
      "pts": 0.0,
-     "proj": 10.19,
-     "live": 10.19,
+     "proj": 10.14,
+     "live": 10.14,
      "game": "Mon 8:15 pm @ Bal"
     },
     {
@@ -410,7 +410,7 @@
      "game": "Sun 1:00 pm vs KC"
     },
     {
-     "player": "Chiefs",
+     "player": "K. City",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 6.03,
@@ -431,7 +431,7 @@
    "leftScore": 0.0,
    "leftProj": 122.02,
    "rightScore": 0.0,
-   "rightProj": 106.94,
+   "rightProj": 106.9,
    "leftPct": 63,
    "leftRem": 8,
    "rightRem": 8,
@@ -615,11 +615,11 @@
      "player": "T. Kraft",
      "pos": "TE",
      "slot": "TE",
-     "rem": 10.06,
+     "rem": 10.02,
      "state": "pending",
      "pts": 0.0,
-     "proj": 10.06,
-     "live": 10.06,
+     "proj": 10.02,
+     "live": 10.02,
      "game": "Sun 1:00 pm vs Min"
     },
     {
@@ -870,7 +870,7 @@
    "right": "Alex Michael Pagels",
    "rightRec": "4-5",
    "leftScore": 0.0,
-   "leftProj": 101.58,
+   "leftProj": 101.55,
    "rightScore": 0.0,
    "rightProj": 80.68,
    "leftPct": 69,
@@ -1005,11 +1005,11 @@
      "player": "J. Addison",
      "pos": "WR",
      "slot": "WR",
-     "rem": 7.91,
+     "rem": 7.88,
      "state": "pending",
      "pts": 0.0,
-     "proj": 7.91,
-     "live": 7.91,
+     "proj": 7.88,
+     "live": 7.88,
      "game": "Sun 1:00 pm @ GB"
     },
     {
@@ -1089,7 +1089,7 @@
    "right": "Kiwis are better than mid",
    "rightRec": "6-3",
    "leftScore": 0.0,
-   "leftProj": 101.16,
+   "leftProj": 101.03,
    "rightScore": 0.0,
    "rightProj": 97.82,
    "leftPct": 53,
@@ -1166,11 +1166,11 @@
      "player": "Z. Flowers",
      "pos": "WR",
      "slot": "W/R/T",
-     "rem": 14.52,
+     "rem": 14.44,
      "state": "pending",
      "pts": 0.0,
-     "proj": 14.52,
-     "live": 14.52,
+     "proj": 14.44,
+     "live": 14.44,
      "game": "Mon 8:15 pm vs LAC"
     },
     {
@@ -1210,11 +1210,11 @@
      "player": "T.J. Hockenson",
      "pos": "TE",
      "slot": "TE",
-     "rem": 8.57,
+     "rem": 8.52,
      "state": "pending",
      "pts": 0.0,
-     "proj": 8.57,
-     "live": 8.57,
+     "proj": 8.52,
+     "live": 8.52,
      "game": "Sun 1:00 pm @ GB"
     },
     {
