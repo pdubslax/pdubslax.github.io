@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 10,
- "ts": "2026-11-10T02:51:56+00:00",
+ "ts": "2026-11-10T03:14:02+00:00",
  "matchups": [
   {
    "id": "1v9",
@@ -331,7 +331,7 @@
      "game": "Sun 4:05 pm vs LAR"
     },
     {
-     "player": "N. Orleans",
+     "player": "Saints",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 6.37,
@@ -432,7 +432,7 @@
      "game": "Sun 1:00 pm vs KC"
     },
     {
-     "player": "K. City",
+     "player": "Chiefs",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 6.25,
@@ -772,7 +772,7 @@
      "game": "Sun 1:00 pm vs Buf"
     },
     {
-     "player": "Seahawks",
+     "player": "Seattle",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 7.36,
@@ -873,7 +873,7 @@
      "game": "Sun 1:00 pm @ Cle"
     },
     {
-     "player": "Chargers",
+     "player": "L. Angeles",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 6.83,
