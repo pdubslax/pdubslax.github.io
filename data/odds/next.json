@@ -1,19 +1,19 @@
 {
  "v": 3,
  "week": 10,
- "ts": "2026-11-10T07:49:38+00:00",
+ "ts": "2026-11-10T08:29:37+00:00",
  "matchups": [
   {
    "id": "1v9",
    "left": "Nick Leif Erikson Barden",
-   "leftRec": "4-4",
+   "leftRec": "4-5",
    "right": "Sir this is a FF league",
-   "rightRec": "3-5",
+   "rightRec": "4-5",
    "leftScore": 0.0,
-   "leftProj": 122.62,
+   "leftProj": 112.23,
    "rightScore": 0.0,
    "rightProj": 114.96,
-   "leftPct": 56,
+   "leftPct": 48,
    "leftRem": 9,
    "rightRem": 9,
    "shotgun": [],
@@ -74,18 +74,7 @@
      "game": "Sun 9:30 am vs NE"
     },
     {
-     "player": "T. Etienne Jr.",
-     "pos": "RB",
-     "slot": "RB",
-     "rem": 10.39,
-     "state": "pending",
-     "pts": 0.0,
-     "proj": 10.39,
-     "live": 10.39,
-     "game": "Sun 1:00 pm vs Car"
-    },
-    {
-     "player": "Houston",
+     "player": "Texans",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 9.98,
@@ -197,7 +186,7 @@
      "game": "Sun 8:20 pm vs Pit"
     },
     {
-     "player": "Indianapolis",
+     "player": "Colts",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 9.57,
@@ -223,14 +212,14 @@
   {
    "id": "2v10",
    "left": "BDSM AI Stealth Founder",
-   "leftRec": "3-5",
+   "leftRec": "3-6",
    "right": "RosterMogged",
-   "rightRec": "3-5",
+   "rightRec": "4-5",
    "leftScore": 0.0,
-   "leftProj": 95.67,
+   "leftProj": 91.42,
    "rightScore": 0.0,
    "rightProj": 112.59,
-   "leftPct": 35,
+   "leftPct": 31,
    "leftRem": 7,
    "rightRem": 9,
    "shotgun": [
@@ -329,17 +318,6 @@
      "proj": 6.39,
      "live": 6.39,
      "game": "Sun 1:00 pm vs Car"
-    },
-    {
-     "player": "M. Wilson",
-     "pos": "WR",
-     "slot": "WR",
-     "rem": 4.25,
-     "state": "pending",
-     "pts": 0.0,
-     "proj": 4.25,
-     "live": 4.25,
-     "game": "Sun 4:05 pm vs LAR"
     }
    ],
    "rightActive": [
@@ -447,9 +425,9 @@
   {
    "id": "3v5",
    "left": "Robotripping Gardener",
-   "leftRec": "5-3",
+   "leftRec": "5-4",
    "right": "Tuten Brown",
-   "rightRec": "5-3",
+   "rightRec": "5-4",
    "leftScore": 0.0,
    "leftProj": 122.12,
    "rightScore": 0.0,
@@ -671,9 +649,9 @@
   {
    "id": "4v7",
    "left": "Matt #chubb69",
-   "leftRec": "3-5",
+   "leftRec": "4-5",
    "right": "James Ray Ervin Yonts",
-   "rightRec": "5-3",
+   "rightRec": "6-3",
    "leftScore": 0.0,
    "leftProj": 116.22,
    "rightScore": 0.0,
@@ -888,14 +866,14 @@
   {
    "id": "6v8",
    "left": "MELONHEADS (daniel)",
-   "leftRec": "5-3",
+   "leftRec": "5-4",
    "right": "Alex Michael Pagels",
-   "rightRec": "3-5",
+   "rightRec": "4-5",
    "leftScore": 0.0,
    "leftProj": 102.04,
    "rightScore": 0.0,
-   "rightProj": 86.8,
-   "leftPct": 64,
+   "rightProj": 81.38,
+   "leftPct": 68,
    "leftRem": 8,
    "rightRem": 6,
    "shotgun": [
@@ -1101,26 +1079,15 @@
      "proj": 8.42,
      "live": 8.42,
      "game": "Sun 1:00 pm @ Ten"
-    },
-    {
-     "player": "J. Jacobs",
-     "pos": "RB",
-     "slot": "RB",
-     "rem": 5.42,
-     "state": "pending",
-     "pts": 0.0,
-     "proj": 5.42,
-     "live": 5.42,
-     "game": "Sun 1:00 pm vs Min"
     }
    ]
   },
   {
    "id": "11v12",
    "left": "Zen Buddha Boys 🪷💨",
-   "leftRec": "4-4",
+   "leftRec": "4-5",
    "right": "Kiwis are better than mid",
-   "rightRec": "5-3",
+   "rightRec": "6-3",
    "leftScore": 0.0,
    "leftProj": 101.16,
    "rightScore": 0.0,
