@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 10,
- "ts": "2026-11-10T04:18:22+00:00",
+ "ts": "2026-11-10T04:48:28+00:00",
  "matchups": [
   {
    "id": "1v9",
@@ -10,9 +10,9 @@
    "right": "Sir this is a FF league",
    "rightRec": "3-5",
    "leftScore": 0.0,
-   "leftProj": 120.13,
+   "leftProj": 120.14,
    "rightScore": 0.0,
-   "rightProj": 114.03,
+   "rightProj": 114.02,
    "leftPct": 55,
    "leftRem": 9,
    "rightRem": 9,
@@ -74,7 +74,7 @@
      "game": "Sun 9:30 am vs NE"
     },
     {
-     "player": "Houston",
+     "player": "Texans",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 9.96,
@@ -99,11 +99,11 @@
      "player": "W. Marks",
      "pos": "RB",
      "slot": "RB",
-     "rem": 9.45,
+     "rem": 9.46,
      "state": "pending",
      "pts": 0.0,
-     "proj": 9.45,
-     "live": 9.45,
+     "proj": 9.46,
+     "live": 9.46,
      "game": "Sun 1:00 pm @ Cle"
     },
     {
@@ -123,11 +123,11 @@
      "player": "J. Love",
      "pos": "QB",
      "slot": "QB",
-     "rem": 19.67,
+     "rem": 19.66,
      "state": "pending",
      "pts": 0.0,
-     "proj": 19.67,
-     "live": 19.67,
+     "proj": 19.66,
+     "live": 19.66,
      "game": "Sun 1:00 pm vs Min"
     },
     {
@@ -197,7 +197,7 @@
      "game": "Sun 8:20 pm vs Pit"
     },
     {
-     "player": "Indianapolis",
+     "player": "Colts",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 9.58,
@@ -227,7 +227,7 @@
    "right": "RosterMogged",
    "rightRec": "3-5",
    "leftScore": 0.0,
-   "leftProj": 98.43,
+   "leftProj": 98.42,
    "rightScore": 0.0,
    "rightProj": 112.12,
    "leftPct": 38,
@@ -312,11 +312,11 @@
      "player": "I. Likely",
      "pos": "TE",
      "slot": "TE",
-     "rem": 13.05,
+     "rem": 13.04,
      "state": "pending",
      "pts": 0.0,
-     "proj": 13.05,
-     "live": 13.05,
+     "proj": 13.04,
+     "live": 13.04,
      "game": "Thu 8:15 pm vs Was"
     },
     {
@@ -331,7 +331,7 @@
      "game": "Sun 4:05 pm vs LAR"
     },
     {
-     "player": "N. Orleans",
+     "player": "Saints",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 6.37,
@@ -432,7 +432,7 @@
      "game": "Sun 1:00 pm vs KC"
     },
     {
-     "player": "K. City",
+     "player": "Chiefs",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 6.25,
@@ -453,7 +453,7 @@
    "leftScore": 0.0,
    "leftProj": 122.46,
    "rightScore": 0.0,
-   "rightProj": 106.91,
+   "rightProj": 106.92,
    "leftPct": 63,
    "leftRem": 8,
    "rightRem": 8,
@@ -604,11 +604,11 @@
      "player": "B. Tuten",
      "pos": "RB",
      "slot": "RB",
-     "rem": 16.68,
+     "rem": 16.69,
      "state": "pending",
      "pts": 0.0,
-     "proj": 16.68,
-     "live": 16.68,
+     "proj": 16.69,
+     "live": 16.69,
      "game": "Sun 1:00 pm @ Ten"
     },
     {
@@ -772,7 +772,7 @@
      "game": "Sun 1:00 pm vs Buf"
     },
     {
-     "player": "Seahawks",
+     "player": "Seattle",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 7.36,
@@ -873,7 +873,7 @@
      "game": "Sun 1:00 pm @ Cle"
     },
     {
-     "player": "Chargers",
+     "player": "L. Angeles",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 6.83,
@@ -892,7 +892,7 @@
    "right": "Alex Michael Pagels",
    "rightRec": "3-5",
    "leftScore": 0.0,
-   "leftProj": 101.68,
+   "leftProj": 101.67,
    "rightScore": 0.0,
    "rightProj": 90.13,
    "leftPct": 60,
@@ -1027,11 +1027,11 @@
      "player": "J. Addison",
      "pos": "WR",
      "slot": "WR",
-     "rem": 8.86,
+     "rem": 8.85,
      "state": "pending",
      "pts": 0.0,
-     "proj": 8.86,
-     "live": 8.86,
+     "proj": 8.85,
+     "live": 8.85,
      "game": "Sun 1:00 pm @ GB"
     },
     {
@@ -1199,22 +1199,22 @@
      "player": "Z. Flowers",
      "pos": "WR",
      "slot": "W/R/T",
-     "rem": 14.57,
+     "rem": 14.58,
      "state": "pending",
      "pts": 0.0,
-     "proj": 14.57,
-     "live": 14.57,
+     "proj": 14.58,
+     "live": 14.58,
      "game": "Mon 8:15 pm vs LAC"
     },
     {
      "player": "N. Collins",
      "pos": "WR",
      "slot": "WR",
-     "rem": 13.88,
+     "rem": 13.87,
      "state": "pending",
      "pts": 0.0,
-     "proj": 13.88,
-     "live": 13.88,
+     "proj": 13.87,
+     "live": 13.87,
      "game": "Sun 1:00 pm @ Cle"
     },
     {
