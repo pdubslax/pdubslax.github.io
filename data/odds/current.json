@@ -886781,6 +886781,146 @@
      "rightRem": 2
     }
    ]
+  },
+  {
+   "ts": "2026-11-10T04:28:11+00:00",
+   "week": 9,
+   "matchups": [
+    {
+     "id": "1v7",
+     "left": "Silly Shrek Squad",
+     "leftRec": "4-4",
+     "right": "James Ray Ervin Yonts",
+     "rightRec": "5-3",
+     "leftScore": 113.02,
+     "leftProj": 113.02,
+     "rightScore": 184.8,
+     "rightProj": 184.8,
+     "shotgun": [],
+     "leftActive": [],
+     "rightActive": [],
+     "stale": true,
+     "leftPct": 0,
+     "leftRem": 0,
+     "rightRem": 0
+    },
+    {
+     "id": "2v8",
+     "left": "BDSM AI Stealth Founder",
+     "leftRec": "3-5",
+     "right": "Alex Michael Pagels",
+     "rightRec": "3-5",
+     "leftScore": 114.54,
+     "leftProj": 114.54,
+     "rightScore": 123.84,
+     "rightProj": 123.84,
+     "shotgun": [],
+     "leftActive": [],
+     "rightActive": [],
+     "stale": true,
+     "leftPct": 0,
+     "leftRem": 0,
+     "rightRem": 0
+    },
+    {
+     "id": "3v10",
+     "left": "Robotripping Gardener",
+     "leftRec": "5-3",
+     "right": "RosterMogged",
+     "rightRec": "3-5",
+     "leftScore": 100.83,
+     "leftProj": 101.14,
+     "rightScore": 125.68,
+     "rightProj": 125.68,
+     "shotgun": [
+      {
+       "player": "L. McConkey",
+       "pos": "WR",
+       "team": "LAC",
+       "pts": 0.0,
+       "game": "Final L 22-44 vs Hou",
+       "tag": null,
+       "state": "final",
+       "slot": "WR",
+       "manager": "RosterMogged",
+       "locked": true,
+       "live": 11.87,
+       "reason": "pts"
+      }
+     ],
+     "leftActive": [],
+     "rightActive": [],
+     "leftPct": 0,
+     "leftRem": 0,
+     "rightRem": 0
+    },
+    {
+     "id": "4v11",
+     "left": "Matt #chubb69",
+     "leftRec": "3-5",
+     "right": "Zen Buddha Boys 🪷💨",
+     "rightRec": "4-4",
+     "leftScore": 120.72,
+     "leftProj": 120.72,
+     "rightScore": 108.51,
+     "rightProj": 108.83,
+     "shotgun": [
+      {
+       "player": "A. Mitchell",
+       "pos": "WR",
+       "team": "NYJ",
+       "pts": 0.0,
+       "game": "Final L 12-35 @ KC",
+       "tag": null,
+       "state": "final",
+       "slot": "W/R/T",
+       "manager": "Matt #chubb69",
+       "locked": true,
+       "live": 10.47,
+       "reason": "pts"
+      }
+     ],
+     "leftActive": [],
+     "rightActive": [],
+     "leftPct": 100,
+     "leftRem": 0,
+     "rightRem": 0
+    },
+    {
+     "id": "5v12",
+     "left": "Tuten Brown",
+     "leftRec": "5-3",
+     "right": "Kiwis are better than mid",
+     "rightRec": "5-3",
+     "leftScore": 95.58,
+     "leftProj": 95.95,
+     "rightScore": 110.96,
+     "rightProj": 111.75,
+     "shotgun": [],
+     "leftActive": [],
+     "rightActive": [],
+     "leftPct": 0,
+     "leftRem": 0,
+     "rightRem": 0
+    },
+    {
+     "id": "6v9",
+     "left": "MELONHEADS (daniel)",
+     "leftRec": "5-3",
+     "right": "Sir this is a FF league",
+     "rightRec": "3-5",
+     "leftScore": 120.86,
+     "leftProj": 121.56,
+     "rightScore": 121.78,
+     "rightProj": 122.84,
+     "shotgun": [],
+     "leftActive": [],
+     "rightActive": [],
+     "leftPct": 0,
+     "leftRem": 0,
+     "rightRem": 0
+    }
+   ]
   }
  ],
  "segments": [
