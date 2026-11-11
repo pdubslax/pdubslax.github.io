@@ -68,7 +68,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-11T20:36:10+00:00",
+  "ts": "2026-11-11T20:56:03+00:00",
   "week": 10,
   "matchups": [
    {
@@ -1165,37 +1165,8 @@
     "leftScore": 0.0,
     "leftProj": 125.69,
     "rightScore": 0.0,
-    "rightProj": 105.25,
-    "shotgun": [
-     {
-      "player": "(Empty)",
-      "pos": "",
-      "team": "",
-      "pts": 0.0,
-      "game": "",
-      "tag": null,
-      "state": "empty",
-      "slot": "K",
-      "manager": "Kiwis are better than mid",
-      "locked": false,
-      "live": 0.0,
-      "reason": "pts"
-     },
-     {
-      "player": "Bears",
-      "pos": "DEF",
-      "team": "Chi",
-      "pts": 0.0,
-      "game": "Bye",
-      "tag": null,
-      "state": "bye",
-      "slot": "DEF",
-      "manager": "Kiwis are better than mid",
-      "locked": false,
-      "live": 0.0,
-      "reason": "pts"
-     }
-    ],
+    "rightProj": 124.13,
+    "shotgun": [],
     "leftActive": [
      {
       "player": "T. Shough",
@@ -1365,20 +1336,42 @@
       "game": "Thu 8:15 pm @ NYG"
      },
      {
-      "player": "A. Kamara",
-      "pos": "RB",
-      "slot": "W/R/T",
-      "rem": 6.87,
+      "player": "E. Pineiro",
+      "pos": "K",
+      "slot": "K",
+      "rem": 9.72,
       "state": "pending",
       "pts": 0.0,
-      "proj": 6.87,
-      "live": 6.87,
-      "game": "Sun 1:00 pm vs Car"
+      "proj": 9.72,
+      "live": 9.72,
+      "game": "Sun 4:25 pm @ Dal"
+     },
+     {
+      "player": "A. Jones Sr.",
+      "pos": "RB",
+      "slot": "W/R/T",
+      "rem": 9.57,
+      "state": "pending",
+      "pts": 0.0,
+      "proj": 9.57,
+      "live": 9.57,
+      "game": "Sun 1:00 pm @ GB"
+     },
+     {
+      "player": "Browns",
+      "pos": "DEF",
+      "slot": "DEF",
+      "rem": 6.46,
+      "state": "pending",
+      "pts": 0.0,
+      "proj": 6.46,
+      "live": 6.46,
+      "game": "Sun 1:00 pm vs Hou"
      }
     ],
-    "leftPct": 66,
+    "leftPct": 51,
     "leftRem": 9,
-    "rightRem": 7
+    "rightRem": 9
    }
   ]
  }
