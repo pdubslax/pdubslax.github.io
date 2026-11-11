@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 10,
- "ts": "2026-11-11T01:47:33+00:00",
+ "ts": "2026-11-11T02:27:34+00:00",
  "matchups": [
   {
    "id": "1v9",
@@ -884,7 +884,7 @@
    "leftScore": 0.0,
    "leftProj": 120.85,
    "rightScore": 0.0,
-   "rightProj": 99.05,
+   "rightProj": 98.99,
    "leftPct": 68,
    "leftRem": 9,
    "rightRem": 7,
@@ -1046,11 +1046,11 @@
      "player": "C. Olave",
      "pos": "WR",
      "slot": "WR",
-     "rem": 15.46,
+     "rem": 15.4,
      "state": "pending",
      "pts": 0.0,
-     "proj": 15.46,
-     "live": 15.46,
+     "proj": 15.4,
+     "live": 15.4,
      "game": "Sun 1:00 pm vs Car"
     },
     {
@@ -1106,9 +1106,9 @@
    "right": "Kiwis are better than mid",
    "rightRec": "6-3",
    "leftScore": 0.0,
-   "leftProj": 124.38,
+   "leftProj": 124.25,
    "rightScore": 0.0,
-   "rightProj": 106.24,
+   "rightProj": 106.12,
    "leftPct": 65,
    "leftRem": 9,
    "rightRem": 7,
@@ -1147,11 +1147,11 @@
      "player": "T. Shough",
      "pos": "QB",
      "slot": "QB",
-     "rem": 22.18,
+     "rem": 22.05,
      "state": "pending",
      "pts": 0.0,
-     "proj": 22.18,
-     "live": 22.18,
+     "proj": 22.05,
+     "live": 22.05,
      "game": "Sun 1:00 pm vs Car"
     },
     {
@@ -1314,11 +1314,11 @@
      "player": "A. Kamara",
      "pos": "RB",
      "slot": "W/R/T",
-     "rem": 7.91,
+     "rem": 7.79,
      "state": "pending",
      "pts": 0.0,
-     "proj": 7.91,
-     "live": 7.91,
+     "proj": 7.79,
+     "live": 7.79,
      "game": "Sun 1:00 pm vs Car"
     }
    ]
