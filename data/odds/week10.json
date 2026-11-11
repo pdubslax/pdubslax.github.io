@@ -68,7 +68,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-11T08:14:21+00:00",
+  "ts": "2026-11-11T08:34:31+00:00",
   "week": 10,
   "matchups": [
    {
@@ -78,7 +78,7 @@
     "right": "Sir this is a FF league",
     "rightRec": "4-5",
     "leftScore": 0.0,
-    "leftProj": 121.14,
+    "leftProj": 121.15,
     "rightScore": 0.0,
     "rightProj": 118.22,
     "shotgun": [],
@@ -175,11 +175,11 @@
       "player": "D. Singletary",
       "pos": "RB",
       "slot": "RB",
-      "rem": 7.95,
+      "rem": 7.96,
       "state": "pending",
       "pts": 0.0,
-      "proj": 7.95,
-      "live": 7.95,
+      "proj": 7.96,
+      "live": 7.96,
       "game": "Thu 8:15 pm vs Was"
      }
     ],
@@ -295,7 +295,7 @@
     "right": "RosterMogged",
     "rightRec": "4-5",
     "leftScore": 0.0,
-    "leftProj": 108.34,
+    "leftProj": 108.33,
     "rightScore": 0.0,
     "rightProj": 115.66,
     "shotgun": [
@@ -363,11 +363,11 @@
       "player": "I. Likely",
       "pos": "TE",
       "slot": "TE",
-      "rem": 10.77,
+      "rem": 10.76,
       "state": "pending",
       "pts": 0.0,
-      "proj": 10.77,
-      "live": 10.77,
+      "proj": 10.76,
+      "live": 10.76,
       "game": "Thu 8:15 pm vs Was"
      },
      {
@@ -516,7 +516,7 @@
     "right": "Tuten Brown",
     "rightRec": "5-4",
     "leftScore": 0.0,
-    "leftProj": 131.55,
+    "leftProj": 131.53,
     "rightScore": 0.0,
     "rightProj": 117.53,
     "shotgun": [],
@@ -580,11 +580,11 @@
       "player": "S. Diggs",
       "pos": "WR",
       "slot": "WR",
-      "rem": 10.71,
+      "rem": 10.69,
       "state": "pending",
       "pts": 0.0,
-      "proj": 10.71,
-      "live": 10.71,
+      "proj": 10.69,
+      "live": 10.69,
       "game": "Thu 8:15 pm @ NYG"
      },
      {
@@ -952,7 +952,7 @@
     "leftScore": 0.0,
     "leftProj": 120.37,
     "rightScore": 0.0,
-    "rightProj": 99.02,
+    "rightProj": 99.01,
     "shotgun": [
      {
       "player": "J. Coleman",
@@ -999,11 +999,11 @@
       "player": "J. Daniels",
       "pos": "QB",
       "slot": "QB",
-      "rem": 21.08,
+      "rem": 21.07,
       "state": "pending",
       "pts": 0.0,
-      "proj": 21.08,
-      "live": 21.08,
+      "proj": 21.07,
+      "live": 21.07,
       "game": "Thu 8:15 pm @ NYG"
      },
      {
@@ -1021,11 +1021,11 @@
       "player": "C. Skattebo",
       "pos": "RB",
       "slot": "RB",
-      "rem": 12.86,
+      "rem": 12.87,
       "state": "pending",
       "pts": 0.0,
-      "proj": 12.86,
-      "live": 12.86,
+      "proj": 12.87,
+      "live": 12.87,
       "game": "Thu 8:15 pm vs Was"
      },
      {
@@ -1122,22 +1122,22 @@
       "player": "M. Nabers",
       "pos": "WR",
       "slot": "WR",
-      "rem": 14.56,
+      "rem": 14.54,
       "state": "pending",
       "pts": 0.0,
-      "proj": 14.56,
-      "live": 14.56,
+      "proj": 14.54,
+      "live": 14.54,
       "game": "Thu 8:15 pm vs Was"
      },
      {
       "player": "D. Montgomery",
       "pos": "RB",
       "slot": "RB",
-      "rem": 9.49,
+      "rem": 9.5,
       "state": "pending",
       "pts": 0.0,
-      "proj": 9.49,
-      "live": 9.49,
+      "proj": 9.5,
+      "live": 9.5,
       "game": "Sun 1:00 pm @ Cle"
      },
      {
@@ -1174,7 +1174,7 @@
     "right": "Kiwis are better than mid",
     "rightRec": "6-3",
     "leftScore": 0.0,
-    "leftProj": 124.04,
+    "leftProj": 124.03,
     "rightScore": 0.0,
     "rightProj": 105.55,
     "shotgun": [
@@ -1256,11 +1256,11 @@
       "player": "N. Collins",
       "pos": "WR",
       "slot": "WR",
-      "rem": 12.91,
+      "rem": 12.9,
       "state": "pending",
       "pts": 0.0,
-      "proj": 12.91,
-      "live": 12.91,
+      "proj": 12.9,
+      "live": 12.9,
       "game": "Sun 1:00 pm @ Cle"
      },
      {
