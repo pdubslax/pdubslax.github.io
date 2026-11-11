@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 11,
- "ts": "2026-11-11T09:54:20+00:00",
+ "ts": "2026-11-11T10:34:21+00:00",
  "matchups": [
   {
    "id": "1v4",
@@ -79,11 +79,11 @@
      "player": "J. Coker",
      "pos": "WR",
      "slot": "WR",
-     "rem": 12.72,
+     "rem": 12.67,
      "state": "pending",
      "pts": 0.0,
-     "proj": 12.72,
-     "live": 12.72,
+     "proj": 12.67,
+     "live": 12.67,
      "game": "Sun 1:00 pm vs Bal"
     },
     {
@@ -240,11 +240,11 @@
    "right": "Tuten Brown",
    "rightRec": "5-4",
    "leftScore": 0.0,
-   "leftProj": 68.25,
+   "leftProj": 58.39,
    "rightScore": 0.0,
    "rightProj": 85.9,
-   "leftPct": 32,
-   "leftRem": 6,
+   "leftPct": 23,
+   "leftRem": 5,
    "rightRem": 6,
    "shotgun": [
     {
@@ -318,6 +318,20 @@
      "reason": "pts"
     },
     {
+     "player": "(Empty)",
+     "pos": "",
+     "team": "",
+     "pts": 0.0,
+     "game": "",
+     "tag": null,
+     "state": "empty",
+     "slot": "K",
+     "manager": "BDSM AI Stealth Founder",
+     "locked": false,
+     "live": 0.0,
+     "reason": "pts"
+    },
+    {
      "player": "Rams",
      "pos": "DEF",
      "team": "LAR",
@@ -337,11 +351,11 @@
      "player": "D. Henry",
      "pos": "RB",
      "slot": "RB",
-     "rem": 18.03,
+     "rem": 18.1,
      "state": "pending",
      "pts": 0.0,
-     "proj": 18.03,
-     "live": 18.03,
+     "proj": 18.1,
+     "live": 18.1,
      "game": "Sun 1:00 pm @ Car"
     },
     {
@@ -367,25 +381,14 @@
      "game": "Sun 4:25 pm vs Jax"
     },
     {
-     "player": "C. Santos",
-     "pos": "K",
-     "slot": "K",
-     "rem": 9.86,
-     "state": "pending",
-     "pts": 0.0,
-     "proj": 9.86,
-     "live": 9.86,
-     "game": "Sun 1:00 pm vs NO"
-    },
-    {
      "player": "D. Samuel Sr.",
      "pos": "WR",
      "slot": "WR",
-     "rem": 8.24,
+     "rem": 8.21,
      "state": "pending",
      "pts": 0.0,
-     "proj": 8.24,
-     "live": 8.24,
+     "proj": 8.21,
+     "live": 8.21,
      "game": "Sun 8:20 pm vs Min"
     },
     {
@@ -526,7 +529,7 @@
      "reason": "pts"
     },
     {
-     "player": "Packers",
+     "player": "G. Bay",
      "pos": "DEF",
      "team": "GB",
      "pts": 0.0,
@@ -556,33 +559,33 @@
      "player": "P. Mahomes",
      "pos": "QB",
      "slot": "QB",
-     "rem": 23.91,
+     "rem": 23.87,
      "state": "pending",
      "pts": 0.0,
-     "proj": 23.91,
-     "live": 23.91,
+     "proj": 23.87,
+     "live": 23.87,
      "game": "Sun 1:00 pm vs Ari"
     },
     {
      "player": "T. McMillan",
      "pos": "WR",
      "slot": "WR",
-     "rem": 13.99,
+     "rem": 13.93,
      "state": "pending",
      "pts": 0.0,
-     "proj": 13.99,
-     "live": 13.99,
+     "proj": 13.93,
+     "live": 13.93,
      "game": "Sun 1:00 pm vs Bal"
     },
     {
      "player": "T. McBride",
      "pos": "TE",
      "slot": "TE",
-     "rem": 12.69,
+     "rem": 12.66,
      "state": "pending",
      "pts": 0.0,
-     "proj": 12.69,
-     "live": 12.69,
+     "proj": 12.66,
+     "live": 12.66,
      "game": "Sun 1:00 pm @ KC"
     },
     {
@@ -635,11 +638,11 @@
      "player": "C. Hubbard",
      "pos": "RB",
      "slot": "RB",
-     "rem": 15.51,
+     "rem": 15.57,
      "state": "pending",
      "pts": 0.0,
-     "proj": 15.51,
-     "live": 15.51,
+     "proj": 15.57,
+     "live": 15.57,
      "game": "Sun 1:00 pm vs Bal"
     },
     {
@@ -679,15 +682,15 @@
      "player": "T.J. Hockenson",
      "pos": "TE",
      "slot": "TE",
-     "rem": 10.17,
+     "rem": 10.13,
      "state": "pending",
      "pts": 0.0,
-     "proj": 10.17,
-     "live": 10.17,
+     "proj": 10.13,
+     "live": 10.13,
      "game": "Sun 8:20 pm @ SF"
     },
     {
-     "player": "49ers",
+     "player": "S. Francisco",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 7.03,
@@ -794,11 +797,11 @@
      "player": "G. Kittle",
      "pos": "TE",
      "slot": "W/R/T",
-     "rem": 11.64,
+     "rem": 11.59,
      "state": "pending",
      "pts": 0.0,
-     "proj": 11.64,
-     "live": 11.64,
+     "proj": 11.59,
+     "live": 11.59,
      "game": "Sun 8:20 pm vs Min"
     },
     {
@@ -851,33 +854,33 @@
      "player": "K. Walker III",
      "pos": "RB",
      "slot": "RB",
-     "rem": 23.57,
+     "rem": 23.61,
      "state": "pending",
      "pts": 0.0,
-     "proj": 23.57,
-     "live": 23.57,
+     "proj": 23.61,
+     "live": 23.61,
      "game": "Sun 1:00 pm vs Ari"
     },
     {
      "player": "B. Purdy",
      "pos": "QB",
      "slot": "QB",
-     "rem": 20.97,
+     "rem": 20.9,
      "state": "pending",
      "pts": 0.0,
-     "proj": 20.97,
-     "live": 20.97,
+     "proj": 20.9,
+     "live": 20.9,
      "game": "Sun 8:20 pm vs Min"
     },
     {
      "player": "R. Rice",
      "pos": "WR",
      "slot": "WR",
-     "rem": 12.82,
+     "rem": 12.78,
      "state": "pending",
      "pts": 0.0,
-     "proj": 12.82,
-     "live": 12.82,
+     "proj": 12.78,
+     "live": 12.78,
      "game": "Sun 1:00 pm vs Ari"
     },
     {
@@ -935,11 +938,26 @@
    "leftScore": 0.0,
    "leftProj": 130.7,
    "rightScore": 0.0,
-   "rightProj": 117.63,
-   "leftPct": 61,
+   "rightProj": 108.4,
+   "leftPct": 68,
    "leftRem": 9,
-   "rightRem": 9,
-   "shotgun": [],
+   "rightRem": 8,
+   "shotgun": [
+    {
+     "player": "(Empty)",
+     "pos": "",
+     "team": "",
+     "pts": 0.0,
+     "game": "",
+     "tag": null,
+     "state": "empty",
+     "slot": "K",
+     "manager": "Kiwis are better than mid",
+     "locked": false,
+     "live": 0.0,
+     "reason": "pts"
+    }
+   ],
    "leftActive": [
     {
      "player": "D. Prescott",
@@ -989,11 +1007,11 @@
      "player": "T. Kelce",
      "pos": "TE",
      "slot": "TE",
-     "rem": 11.44,
+     "rem": 11.41,
      "state": "pending",
      "pts": 0.0,
-     "proj": 11.44,
-     "live": 11.44,
+     "proj": 11.41,
+     "live": 11.41,
      "game": "Sun 1:00 pm vs Ari"
     },
     {
@@ -1022,11 +1040,11 @@
      "player": "T. Allgeier",
      "pos": "RB",
      "slot": "RB",
-     "rem": 9.82,
+     "rem": 9.84,
      "state": "pending",
      "pts": 0.0,
-     "proj": 9.82,
-     "live": 9.82,
+     "proj": 9.84,
+     "live": 9.84,
      "game": "Sun 1:00 pm @ KC"
     },
     {
@@ -1057,11 +1075,11 @@
      "player": "C. McCaffrey",
      "pos": "RB",
      "slot": "RB",
-     "rem": 18.2,
+     "rem": 18.26,
      "state": "pending",
      "pts": 0.0,
-     "proj": 18.2,
-     "live": 18.2,
+     "proj": 18.26,
+     "live": 18.26,
      "game": "Sun 8:20 pm vs Min"
     },
     {
@@ -1107,17 +1125,6 @@
      "proj": 9.64,
      "live": 9.64,
      "game": "Sun 1:00 pm @ Phi"
-    },
-    {
-     "player": "W. Lutz",
-     "pos": "K",
-     "slot": "K",
-     "rem": 9.23,
-     "state": "pending",
-     "pts": 0.0,
-     "proj": 9.23,
-     "live": 9.23,
-     "game": "Sun 4:25 pm vs LV"
     },
     {
      "player": "Bears",
@@ -1303,11 +1310,11 @@
      "player": "J. Jefferson",
      "pos": "WR",
      "slot": "WR",
-     "rem": 16.57,
+     "rem": 16.49,
      "state": "pending",
      "pts": 0.0,
-     "proj": 16.57,
-     "live": 16.57,
+     "proj": 16.49,
+     "live": 16.49,
      "game": "Sun 8:20 pm @ SF"
     },
     {

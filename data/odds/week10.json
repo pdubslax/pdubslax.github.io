@@ -68,7 +68,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-11T10:14:21+00:00",
+  "ts": "2026-11-11T10:34:31+00:00",
   "week": 10,
   "matchups": [
    {
@@ -78,9 +78,9 @@
     "right": "Sir this is a FF league",
     "rightRec": "4-5",
     "leftScore": 0.0,
-    "leftProj": 121.15,
+    "leftProj": 121.22,
     "rightScore": 0.0,
-    "rightProj": 118.22,
+    "rightProj": 118.35,
     "shotgun": [],
     "leftActive": [
      {
@@ -109,11 +109,11 @@
       "player": "M. Golden",
       "pos": "WR",
       "slot": "WR",
-      "rem": 14.96,
+      "rem": 15.03,
       "state": "pending",
       "pts": 0.0,
-      "proj": 14.96,
-      "live": 14.96,
+      "proj": 15.03,
+      "live": 15.03,
       "game": "Sun 1:00 pm vs Min"
      },
      {
@@ -188,11 +188,11 @@
       "player": "J. Love",
       "pos": "QB",
       "slot": "QB",
-      "rem": 20.13,
+      "rem": 20.19,
       "state": "pending",
       "pts": 0.0,
-      "proj": 20.13,
-      "live": 20.13,
+      "proj": 20.19,
+      "live": 20.19,
       "game": "Sun 1:00 pm vs Min"
      },
      {
@@ -210,11 +210,11 @@
       "player": "J. Jefferson",
       "pos": "WR",
       "slot": "WR",
-      "rem": 16.31,
+      "rem": 16.38,
       "state": "pending",
       "pts": 0.0,
-      "proj": 16.31,
-      "live": 16.31,
+      "proj": 16.38,
+      "live": 16.38,
       "game": "Sun 1:00 pm @ GB"
      },
      {
@@ -295,7 +295,7 @@
     "right": "RosterMogged",
     "rightRec": "4-5",
     "leftScore": 0.0,
-    "leftProj": 108.31,
+    "leftProj": 108.37,
     "rightScore": 0.0,
     "rightProj": 115.54,
     "shotgun": [
@@ -341,11 +341,11 @@
       "player": "C. Watson",
       "pos": "WR",
       "slot": "WR",
-      "rem": 15.66,
+      "rem": 15.73,
       "state": "pending",
       "pts": 0.0,
-      "proj": 15.66,
-      "live": 15.66,
+      "proj": 15.73,
+      "live": 15.73,
       "game": "Sun 1:00 pm vs Min"
      },
      {
@@ -363,11 +363,11 @@
       "player": "I. Likely",
       "pos": "TE",
       "slot": "TE",
-      "rem": 10.76,
+      "rem": 10.75,
       "state": "pending",
       "pts": 0.0,
-      "proj": 10.76,
-      "live": 10.76,
+      "proj": 10.75,
+      "live": 10.75,
       "game": "Thu 8:15 pm vs Was"
      },
      {
@@ -518,7 +518,7 @@
     "leftScore": 0.0,
     "leftProj": 131.52,
     "rightScore": 0.0,
-    "rightProj": 117.53,
+    "rightProj": 117.57,
     "shotgun": [],
     "leftActive": [
      {
@@ -681,11 +681,11 @@
       "player": "T. Kraft",
       "pos": "TE",
       "slot": "TE",
-      "rem": 9.83,
+      "rem": 9.87,
       "state": "pending",
       "pts": 0.0,
-      "proj": 9.83,
-      "live": 9.83,
+      "proj": 9.87,
+      "live": 9.87,
       "game": "Sun 1:00 pm vs Min"
      },
      {
@@ -733,7 +733,7 @@
     "right": "James Ray Ervin Yonts",
     "rightRec": "6-3",
     "leftScore": 0.0,
-    "leftProj": 121.8,
+    "leftProj": 121.81,
     "rightScore": 0.0,
     "rightProj": 123.48,
     "shotgun": [],
@@ -753,11 +753,11 @@
       "player": "J. Chase",
       "pos": "WR",
       "slot": "WR",
-      "rem": 18.74,
+      "rem": 18.75,
       "state": "pending",
       "pts": 0.0,
-      "proj": 18.74,
-      "live": 18.74,
+      "proj": 18.75,
+      "live": 18.75,
       "game": "Sun 8:20 pm vs Pit"
      },
      {
@@ -950,7 +950,7 @@
     "right": "Alex Michael Pagels",
     "rightRec": "4-5",
     "leftScore": 0.0,
-    "leftProj": 120.19,
+    "leftProj": 120.21,
     "rightScore": 0.0,
     "rightProj": 99.01,
     "shotgun": [
@@ -1021,11 +1021,11 @@
       "player": "C. Skattebo",
       "pos": "RB",
       "slot": "RB",
-      "rem": 12.87,
+      "rem": 12.88,
       "state": "pending",
       "pts": 0.0,
-      "proj": 12.87,
-      "live": 12.87,
+      "proj": 12.88,
+      "live": 12.88,
       "game": "Thu 8:15 pm vs Was"
      },
      {
@@ -1065,11 +1065,11 @@
       "player": "K. Shakir",
       "pos": "WR",
       "slot": "WR",
-      "rem": 9.59,
+      "rem": 9.6,
       "state": "pending",
       "pts": 0.0,
-      "proj": 9.59,
-      "live": 9.59,
+      "proj": 9.6,
+      "live": 9.6,
       "game": "Sun 1:00 pm @ NYJ"
      },
      {
@@ -1100,11 +1100,11 @@
       "player": "T. Higgins",
       "pos": "WR",
       "slot": "W/R/T",
-      "rem": 16.51,
+      "rem": 16.52,
       "state": "pending",
       "pts": 0.0,
-      "proj": 16.51,
-      "live": 16.51,
+      "proj": 16.52,
+      "live": 16.52,
       "game": "Sun 8:20 pm vs Pit"
      },
      {
@@ -1122,11 +1122,11 @@
       "player": "M. Nabers",
       "pos": "WR",
       "slot": "WR",
-      "rem": 14.54,
+      "rem": 14.53,
       "state": "pending",
       "pts": 0.0,
-      "proj": 14.54,
-      "live": 14.54,
+      "proj": 14.53,
+      "live": 14.53,
       "game": "Thu 8:15 pm vs Was"
      },
      {
@@ -1174,9 +1174,9 @@
     "right": "Kiwis are better than mid",
     "rightRec": "6-3",
     "leftScore": 0.0,
-    "leftProj": 124.04,
+    "leftProj": 124.09,
     "rightScore": 0.0,
-    "rightProj": 105.55,
+    "rightProj": 105.56,
     "shotgun": [
      {
       "player": "(Empty)",
@@ -1193,7 +1193,7 @@
       "reason": "pts"
      },
      {
-      "player": "Bears",
+      "player": "Chicago",
       "pos": "DEF",
       "team": "Chi",
       "pts": 0.0,
@@ -1289,15 +1289,15 @@
       "player": "T.J. Hockenson",
       "pos": "TE",
       "slot": "TE",
-      "rem": 10.05,
+      "rem": 10.1,
       "state": "pending",
       "pts": 0.0,
-      "proj": 10.05,
-      "live": 10.05,
+      "proj": 10.1,
+      "live": 10.1,
       "game": "Sun 1:00 pm @ GB"
      },
      {
-      "player": "49ers",
+      "player": "S. Francisco",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 4.35,
@@ -1368,11 +1368,11 @@
       "player": "R. White",
       "pos": "RB",
       "slot": "RB",
-      "rem": 10.88,
+      "rem": 10.89,
       "state": "pending",
       "pts": 0.0,
-      "proj": 10.88,
-      "live": 10.88,
+      "proj": 10.89,
+      "live": 10.89,
       "game": "Thu 8:15 pm @ NYG"
      },
      {
