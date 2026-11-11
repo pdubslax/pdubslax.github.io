@@ -68,7 +68,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-11T14:35:10+00:00",
+  "ts": "2026-11-11T14:55:18+00:00",
   "week": 10,
   "matchups": [
    {
@@ -297,7 +297,7 @@
     "leftScore": 0.0,
     "leftProj": 117.5,
     "rightScore": 0.0,
-    "rightProj": 115.67,
+    "rightProj": 114.21,
     "shotgun": [],
     "leftActive": [
      {
@@ -389,7 +389,7 @@
       "game": "Sun 1:00 pm vs Min"
      },
      {
-      "player": "Saints",
+      "player": "N. Orleans",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 6.39,
@@ -457,15 +457,15 @@
       "game": "Sun 8:20 pm @ Cin"
      },
      {
-      "player": "L. McConkey",
+      "player": "K. Mumpfield",
       "pos": "WR",
       "slot": "WR",
-      "rem": 9.44,
+      "rem": 7.98,
       "state": "pending",
       "pts": 0.0,
-      "proj": 9.44,
-      "live": 9.44,
-      "game": "Mon 8:15 pm @ Bal"
+      "proj": 7.98,
+      "live": 7.98,
+      "game": "Sun 4:05 pm @ Ari"
      },
      {
       "player": "M. Gay",
@@ -490,7 +490,7 @@
       "game": "Sun 1:00 pm vs KC"
      },
      {
-      "player": "Chiefs",
+      "player": "K. City",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 6.13,
@@ -501,7 +501,7 @@
       "game": "Sun 1:00 pm @ Atl"
      }
     ],
-    "leftPct": 52,
+    "leftPct": 53,
     "leftRem": 9,
     "rightRem": 9
    },
@@ -606,7 +606,7 @@
       "game": "Sun 1:00 pm @ GB"
      },
      {
-      "player": "G. Bay",
+      "player": "Packers",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 8.96,
@@ -707,7 +707,7 @@
       "game": "Sun 1:00 pm vs Jax"
      },
      {
-      "player": "L. Angeles",
+      "player": "Rams",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 8.9,
@@ -812,7 +812,7 @@
       "game": "Sun 1:00 pm @ Ten"
      },
      {
-      "player": "Seattle",
+      "player": "Seahawks",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 8.65,
@@ -924,7 +924,7 @@
       "game": "Sun 1:00 pm @ Cle"
      },
      {
-      "player": "L. Angeles",
+      "player": "Chargers",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 6.91,
