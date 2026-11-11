@@ -68,7 +68,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-11T21:36:03+00:00",
+  "ts": "2026-11-11T21:56:10+00:00",
   "week": 10,
   "matchups": [
    {
@@ -78,9 +78,9 @@
     "right": "Sir this is a FF league",
     "rightRec": "4-5",
     "leftScore": 0.0,
-    "leftProj": 122.9,
+    "leftProj": 122.89,
     "rightScore": 0.0,
-    "rightProj": 119.09,
+    "rightProj": 119.07,
     "shotgun": [],
     "leftActive": [
      {
@@ -109,11 +109,11 @@
       "player": "M. Golden",
       "pos": "WR",
       "slot": "WR",
-      "rem": 15.51,
+      "rem": 15.5,
       "state": "pending",
       "pts": 0.0,
-      "proj": 15.51,
-      "live": 15.51,
+      "proj": 15.5,
+      "live": 15.5,
       "game": "Sun 1:00 pm vs Min"
      },
      {
@@ -188,11 +188,11 @@
       "player": "J. Love",
       "pos": "QB",
       "slot": "QB",
-      "rem": 20.25,
+      "rem": 20.23,
       "state": "pending",
       "pts": 0.0,
-      "proj": 20.25,
-      "live": 20.25,
+      "proj": 20.23,
+      "live": 20.23,
       "game": "Sun 1:00 pm vs Min"
      },
      {
@@ -295,7 +295,7 @@
     "right": "RosterMogged",
     "rightRec": "4-5",
     "leftScore": 0.0,
-    "leftProj": 118.4,
+    "leftProj": 119.28,
     "rightScore": 0.0,
     "rightProj": 115.14,
     "shotgun": [],
@@ -304,11 +304,11 @@
       "player": "D. Maye",
       "pos": "QB",
       "slot": "QB",
-      "rem": 25.63,
+      "rem": 25.61,
       "state": "pending",
       "pts": 0.0,
-      "proj": 25.63,
-      "live": 25.63,
+      "proj": 25.61,
+      "live": 25.61,
       "game": "Sun 9:30 am @ Det"
      },
      {
@@ -326,11 +326,11 @@
       "player": "C. Watson",
       "pos": "WR",
       "slot": "WR",
-      "rem": 15.9,
+      "rem": 15.88,
       "state": "pending",
       "pts": 0.0,
-      "proj": 15.9,
-      "live": 15.9,
+      "proj": 15.88,
+      "live": 15.88,
       "game": "Sun 1:00 pm vs Min"
      },
      {
@@ -370,11 +370,11 @@
       "player": "C. Kiner",
       "pos": "RB",
       "slot": "W/R/T",
-      "rem": 8.98,
+      "rem": 9.9,
       "state": "pending",
       "pts": 0.0,
-      "proj": 8.98,
-      "live": 8.98,
+      "proj": 9.9,
+      "live": 9.9,
       "game": "Sun 9:30 am @ Det"
      },
      {
@@ -501,7 +501,7 @@
       "game": "Sun 1:00 pm @ Atl"
      }
     ],
-    "leftPct": 53,
+    "leftPct": 54,
     "leftRem": 9,
     "rightRem": 9
    },
@@ -514,7 +514,7 @@
     "leftScore": 0.0,
     "leftProj": 131.91,
     "rightScore": 0.0,
-    "rightProj": 117.77,
+    "rightProj": 117.73,
     "shotgun": [],
     "leftActive": [
      {
@@ -677,22 +677,22 @@
       "player": "T. Kraft",
       "pos": "TE",
       "slot": "TE",
-      "rem": 9.96,
+      "rem": 9.95,
       "state": "pending",
       "pts": 0.0,
-      "proj": 9.96,
-      "live": 9.96,
+      "proj": 9.95,
+      "live": 9.95,
       "game": "Sun 1:00 pm vs Min"
      },
      {
       "player": "D. Douglas",
       "pos": "WR",
       "slot": "W/R/T",
-      "rem": 9.61,
+      "rem": 9.58,
       "state": "pending",
       "pts": 0.0,
-      "proj": 9.61,
-      "live": 9.61,
+      "proj": 9.58,
+      "live": 9.58,
       "game": "Sun 9:30 am @ Det"
      },
      {
@@ -948,7 +948,7 @@
     "leftScore": 0.0,
     "leftProj": 120.56,
     "rightScore": 0.0,
-    "rightProj": 112.35,
+    "rightProj": 112.67,
     "shotgun": [],
     "leftActive": [
      {
@@ -1144,11 +1144,11 @@
       "player": "K. Johnson",
       "pos": "RB",
       "slot": "RB",
-      "rem": 5.54,
+      "rem": 5.86,
       "state": "pending",
       "pts": 0.0,
-      "proj": 5.54,
-      "live": 5.54,
+      "proj": 5.86,
+      "live": 5.86,
       "game": "Sun 1:00 pm vs Min"
      }
     ],

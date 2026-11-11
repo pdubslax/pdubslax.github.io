@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 11,
- "ts": "2026-11-11T21:16:02+00:00",
+ "ts": "2026-11-11T21:56:03+00:00",
  "matchups": [
   {
    "id": "1v4",
@@ -532,7 +532,7 @@
      "reason": "pts"
     },
     {
-     "player": "Packers",
+     "player": "G. Bay",
      "pos": "DEF",
      "team": "GB",
      "pts": 0.0,
@@ -693,7 +693,7 @@
      "game": "Sun 8:20 pm @ SF"
     },
     {
-     "player": "49ers",
+     "player": "S. Francisco",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 7.32,
