@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 11,
- "ts": "2026-11-11T14:55:11+00:00",
+ "ts": "2026-11-11T15:35:11+00:00",
  "matchups": [
   {
    "id": "1v4",
@@ -1163,11 +1163,11 @@
    "right": "Sir this is a FF league",
    "rightRec": "4-5",
    "leftScore": 0.0,
-   "leftProj": 124.78,
+   "leftProj": 100.31,
    "rightScore": 0.0,
    "rightProj": 82.68,
-   "leftPct": 82,
-   "leftRem": 9,
+   "leftPct": 66,
+   "leftRem": 7,
    "rightRem": 7,
    "shotgun": [
     {
@@ -1180,6 +1180,34 @@
      "state": "bye",
      "slot": "QB",
      "manager": "Sir this is a FF league",
+     "locked": false,
+     "live": 0.0,
+     "reason": "pts"
+    },
+    {
+     "player": "K. Johnson",
+     "pos": "RB",
+     "team": "GB",
+     "pts": 0.0,
+     "game": "Bye",
+     "tag": null,
+     "state": "bye",
+     "slot": "RB",
+     "manager": "Alex Michael Pagels",
+     "locked": false,
+     "live": 0.0,
+     "reason": "pts"
+    },
+    {
+     "player": "T. Higbee",
+     "pos": "TE",
+     "team": "LAR",
+     "pts": 0.0,
+     "game": "Bye",
+     "tag": null,
+     "state": "bye",
+     "slot": "TE",
+     "manager": "Alex Michael Pagels",
      "locked": false,
      "live": 0.0,
      "reason": "pts"
@@ -1234,17 +1262,6 @@
      "game": "Mon 8:15 pm @ Was"
     },
     {
-     "player": "J. Coleman",
-     "pos": "RB",
-     "slot": "RB",
-     "rem": 15.96,
-     "state": "pending",
-     "pts": 0.0,
-     "proj": 15.96,
-     "live": 15.96,
-     "game": "Sun 4:25 pm vs LV"
-    },
-    {
      "player": "C. Olave",
      "pos": "WR",
      "slot": "WR",
@@ -1276,17 +1293,6 @@
      "proj": 8.62,
      "live": 8.62,
      "game": "Sun 1:00 pm @ Phi"
-    },
-    {
-     "player": "D. Goedert",
-     "pos": "TE",
-     "slot": "TE",
-     "rem": 8.51,
-     "state": "pending",
-     "pts": 0.0,
-     "proj": 8.51,
-     "live": 8.51,
-     "game": "Sun 1:00 pm vs Pit"
     },
     {
      "player": "Jaguars",

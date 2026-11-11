@@ -68,7 +68,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-11T15:15:11+00:00",
+  "ts": "2026-11-11T15:35:18+00:00",
   "week": 10,
   "matchups": [
    {
@@ -78,7 +78,7 @@
     "right": "Sir this is a FF league",
     "rightRec": "4-5",
     "leftScore": 0.0,
-    "leftProj": 122.16,
+    "leftProj": 122.23,
     "rightScore": 0.0,
     "rightProj": 118.04,
     "shotgun": [],
@@ -131,11 +131,11 @@
       "player": "W. Marks",
       "pos": "RB",
       "slot": "RB",
-      "rem": 11.69,
+      "rem": 11.72,
       "state": "pending",
       "pts": 0.0,
-      "proj": 11.69,
-      "live": 11.69,
+      "proj": 11.72,
+      "live": 11.72,
       "game": "Sun 1:00 pm @ Cle"
      },
      {
@@ -153,11 +153,11 @@
       "player": "Texans",
       "pos": "DEF",
       "slot": "DEF",
-      "rem": 10.3,
+      "rem": 10.34,
       "state": "pending",
       "pts": 0.0,
-      "proj": 10.3,
-      "live": 10.3,
+      "proj": 10.34,
+      "live": 10.34,
       "game": "Sun 1:00 pm @ Cle"
      },
      {
@@ -729,20 +729,20 @@
     "right": "James Ray Ervin Yonts",
     "rightRec": "6-3",
     "leftScore": 0.0,
-    "leftProj": 121.3,
+    "leftProj": 121.38,
     "rightScore": 0.0,
-    "rightProj": 123.41,
+    "rightProj": 123.46,
     "shotgun": [],
     "leftActive": [
      {
       "player": "C.J. Stroud",
       "pos": "QB",
       "slot": "QB",
-      "rem": 19.69,
+      "rem": 19.77,
       "state": "pending",
       "pts": 0.0,
-      "proj": 19.69,
-      "live": 19.69,
+      "proj": 19.77,
+      "live": 19.77,
       "game": "Sun 1:00 pm @ Cle"
      },
      {
@@ -916,11 +916,11 @@
       "player": "K. Fairbairn",
       "pos": "K",
       "slot": "K",
-      "rem": 9.33,
+      "rem": 9.38,
       "state": "pending",
       "pts": 0.0,
-      "proj": 9.33,
-      "live": 9.33,
+      "proj": 9.38,
+      "live": 9.38,
       "game": "Sun 1:00 pm @ Cle"
      },
      {
@@ -948,7 +948,7 @@
     "leftScore": 0.0,
     "leftProj": 119.5,
     "rightScore": 0.0,
-    "rightProj": 112.8,
+    "rightProj": 112.86,
     "shotgun": [],
     "leftActive": [
      {
@@ -1100,11 +1100,11 @@
       "player": "D. Montgomery",
       "pos": "RB",
       "slot": "RB",
-      "rem": 9.5,
+      "rem": 9.56,
       "state": "pending",
       "pts": 0.0,
-      "proj": 9.5,
-      "live": 9.5,
+      "proj": 9.56,
+      "live": 9.56,
       "game": "Sun 1:00 pm @ Cle"
      },
      {
@@ -1163,7 +1163,7 @@
     "right": "Kiwis are better than mid",
     "rightRec": "6-3",
     "leftScore": 0.0,
-    "leftProj": 124.04,
+    "leftProj": 124.09,
     "rightScore": 0.0,
     "rightProj": 104.48,
     "shotgun": [
@@ -1245,11 +1245,11 @@
       "player": "N. Collins",
       "pos": "WR",
       "slot": "WR",
-      "rem": 12.9,
+      "rem": 12.95,
       "state": "pending",
       "pts": 0.0,
-      "proj": 12.9,
-      "live": 12.9,
+      "proj": 12.95,
+      "live": 12.95,
       "game": "Sun 1:00 pm @ Cle"
      },
      {
