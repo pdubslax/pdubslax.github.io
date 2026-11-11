@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 11,
- "ts": "2026-11-11T18:15:12+00:00",
+ "ts": "2026-11-11T18:36:04+00:00",
  "matchups": [
   {
    "id": "1v4",
@@ -10,7 +10,7 @@
    "right": "Matt #chubb69",
    "rightRec": "4-5",
    "leftScore": 0.0,
-   "leftProj": 57.27,
+   "leftProj": 57.33,
    "rightScore": 0.0,
    "rightProj": 110.7,
    "leftPct": 9,
@@ -104,11 +104,11 @@
      "player": "J. Coker",
      "pos": "WR",
      "slot": "WR",
-     "rem": 12.44,
+     "rem": 12.5,
      "state": "pending",
      "pts": 0.0,
-     "proj": 12.44,
-     "live": 12.44,
+     "proj": 12.5,
+     "live": 12.5,
      "game": "Sun 1:00 pm vs Bal"
     },
     {
@@ -243,7 +243,7 @@
    "right": "Tuten Brown",
    "rightRec": "5-4",
    "leftScore": 0.0,
-   "leftProj": 55.17,
+   "leftProj": 55.11,
    "rightScore": 0.0,
    "rightProj": 86.64,
    "leftPct": 19,
@@ -354,11 +354,11 @@
      "player": "D. Henry",
      "pos": "RB",
      "slot": "RB",
-     "rem": 17.55,
+     "rem": 17.49,
      "state": "pending",
      "pts": 0.0,
-     "proj": 17.55,
-     "live": 17.55,
+     "proj": 17.49,
+     "live": 17.49,
      "game": "Sun 1:00 pm @ Car"
     },
     {
@@ -482,10 +482,10 @@
    "right": "Zen Buddha Boys 🪷💨",
    "rightRec": "4-5",
    "leftScore": 0.0,
-   "leftProj": 96.16,
+   "leftProj": 96.22,
    "rightScore": 0.0,
-   "rightProj": 112.53,
-   "leftPct": 36,
+   "rightProj": 112.48,
+   "leftPct": 37,
    "leftRem": 6,
    "rightRem": 8,
    "shotgun": [
@@ -573,11 +573,11 @@
      "player": "T. McMillan",
      "pos": "WR",
      "slot": "WR",
-     "rem": 14.07,
+     "rem": 14.13,
      "state": "pending",
      "pts": 0.0,
-     "proj": 14.07,
-     "live": 14.07,
+     "proj": 14.13,
+     "live": 14.13,
      "game": "Sun 1:00 pm vs Bal"
     },
     {
@@ -641,11 +641,11 @@
      "player": "C. Hubbard",
      "pos": "RB",
      "slot": "RB",
-     "rem": 16.03,
+     "rem": 15.98,
      "state": "pending",
      "pts": 0.0,
-     "proj": 16.03,
-     "live": 16.03,
+     "proj": 15.98,
+     "live": 15.98,
      "game": "Sun 1:00 pm vs Bal"
     },
     {
@@ -714,7 +714,7 @@
    "leftScore": 0.0,
    "leftProj": 103.77,
    "rightScore": 0.0,
-   "rightProj": 83.96,
+   "rightProj": 83.94,
    "leftPct": 69,
    "leftRem": 8,
    "rightRem": 6,
@@ -915,11 +915,11 @@
      "player": "G. Bernard",
      "pos": "WR",
      "slot": "W/R/T",
-     "rem": 8.44,
+     "rem": 8.42,
      "state": "pending",
      "pts": 0.0,
-     "proj": 8.44,
-     "live": 8.44,
+     "proj": 8.42,
+     "live": 8.42,
      "game": "Sun 1:00 pm @ Phi"
     },
     {
@@ -942,9 +942,9 @@
    "right": "Kiwis are better than mid",
    "rightRec": "6-3",
    "leftScore": 0.0,
-   "leftProj": 129.22,
+   "leftProj": 129.24,
    "rightScore": 0.0,
-   "rightProj": 106.27,
+   "rightProj": 106.24,
    "leftPct": 68,
    "leftRem": 9,
    "rightRem": 8,
@@ -1002,11 +1002,11 @@
      "player": "J. Warren",
      "pos": "RB",
      "slot": "W/R/T",
-     "rem": 16.08,
+     "rem": 16.1,
      "state": "pending",
      "pts": 0.0,
-     "proj": 16.08,
-     "live": 16.08,
+     "proj": 16.1,
+     "live": 16.1,
      "game": "Sun 1:00 pm @ Phi"
     },
     {
@@ -1114,11 +1114,11 @@
      "player": "DK Metcalf",
      "pos": "WR",
      "slot": "WR",
-     "rem": 9.47,
+     "rem": 9.44,
      "state": "pending",
      "pts": 0.0,
-     "proj": 9.47,
-     "live": 9.47,
+     "proj": 9.44,
+     "live": 9.44,
      "game": "Sun 1:00 pm @ Phi"
     },
     {
@@ -1284,7 +1284,7 @@
      "game": "Thu 8:15 pm vs Ind"
     },
     {
-     "player": "Jaguars",
+     "player": "Jacksonville",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 9.47,
@@ -1374,7 +1374,7 @@
      "game": "Mon 8:15 pm @ Was"
     },
     {
-     "player": "Colts",
+     "player": "Indianapolis",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 4.92,
