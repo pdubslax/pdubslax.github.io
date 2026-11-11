@@ -68,7 +68,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-11T10:34:31+00:00",
+  "ts": "2026-11-11T10:54:21+00:00",
   "week": 10,
   "matchups": [
    {
@@ -1193,7 +1193,7 @@
       "reason": "pts"
      },
      {
-      "player": "Chicago",
+      "player": "Bears",
       "pos": "DEF",
       "team": "Chi",
       "pts": 0.0,
@@ -1297,7 +1297,7 @@
       "game": "Sun 1:00 pm @ GB"
      },
      {
-      "player": "S. Francisco",
+      "player": "49ers",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 4.35,
