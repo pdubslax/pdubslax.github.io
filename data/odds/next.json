@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 11,
- "ts": "2026-11-11T22:36:04+00:00",
+ "ts": "2026-11-11T23:16:03+00:00",
  "matchups": [
   {
    "id": "1v4",
@@ -243,11 +243,11 @@
    "right": "Tuten Brown",
    "rightRec": "5-4",
    "leftScore": 0.0,
-   "leftProj": 55.19,
+   "leftProj": 63.08,
    "rightScore": 0.0,
    "rightProj": 86.68,
-   "leftPct": 19,
-   "leftRem": 5,
+   "leftPct": 26,
+   "leftRem": 6,
    "rightRem": 6,
    "shotgun": [
     {
@@ -321,20 +321,6 @@
      "reason": "pts"
     },
     {
-     "player": "T. Smack",
-     "pos": "K",
-     "team": "GB",
-     "pts": 0.0,
-     "game": "Bye",
-     "tag": null,
-     "state": "bye",
-     "slot": "K",
-     "manager": "BDSM AI Stealth Founder",
-     "locked": false,
-     "live": 0.0,
-     "reason": "pts"
-    },
-    {
      "player": "Rams",
      "pos": "DEF",
      "team": "LAR",
@@ -393,6 +379,17 @@
      "proj": 8.12,
      "live": 8.12,
      "game": "Sun 8:20 pm vs Min"
+    },
+    {
+     "player": "D. Zvada",
+     "pos": "K",
+     "slot": "K",
+     "rem": 7.89,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 7.89,
+     "live": 7.89,
+     "game": "Sun 4:25 pm vs Jax"
     },
     {
      "player": "Saints",
