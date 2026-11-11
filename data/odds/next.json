@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 10,
- "ts": "2026-11-11T06:13:30+00:00",
+ "ts": "2026-11-11T06:53:31+00:00",
  "matchups": [
   {
    "id": "1v9",
@@ -328,7 +328,7 @@
      "game": "Sun 9:30 am @ Det"
     },
     {
-     "player": "N. Orleans",
+     "player": "Saints",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 6.33,
@@ -429,7 +429,7 @@
      "game": "Sun 1:00 pm vs KC"
     },
     {
-     "player": "K. City",
+     "player": "Chiefs",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 6.07,
