@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 10,
- "ts": "2026-11-11T05:33:32+00:00",
+ "ts": "2026-11-11T06:13:30+00:00",
  "matchups": [
   {
    "id": "1v9",
@@ -328,7 +328,7 @@
      "game": "Sun 9:30 am @ Det"
     },
     {
-     "player": "Saints",
+     "player": "N. Orleans",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 6.33,
@@ -429,7 +429,7 @@
      "game": "Sun 1:00 pm vs KC"
     },
     {
-     "player": "Chiefs",
+     "player": "K. City",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 6.07,
@@ -1008,7 +1008,7 @@
      "game": "Sun 1:00 pm @ NYJ"
     },
     {
-     "player": "Buffalo",
+     "player": "Bills",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 8.02,
@@ -1087,7 +1087,7 @@
      "game": "Sun 8:20 pm @ Cin"
     },
     {
-     "player": "Jacksonville",
+     "player": "Jaguars",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 9.18,
