@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 10,
- "ts": "2026-11-11T02:27:34+00:00",
+ "ts": "2026-11-11T03:07:33+00:00",
  "matchups": [
   {
    "id": "1v9",
@@ -10,9 +10,9 @@
    "right": "Sir this is a FF league",
    "rightRec": "4-5",
    "leftScore": 0.0,
-   "leftProj": 121.55,
+   "leftProj": 121.57,
    "rightScore": 0.0,
-   "rightProj": 116.68,
+   "rightProj": 116.7,
    "leftPct": 54,
    "leftRem": 9,
    "rightRem": 9,
@@ -66,11 +66,11 @@
      "player": "W. Marks",
      "pos": "RB",
      "slot": "RB",
-     "rem": 11.87,
+     "rem": 11.89,
      "state": "pending",
      "pts": 0.0,
-     "proj": 11.87,
-     "live": 11.87,
+     "proj": 11.89,
+     "live": 11.89,
      "game": "Sun 1:00 pm @ Cle"
     },
     {
@@ -200,11 +200,11 @@
      "player": "Colts",
      "pos": "DEF",
      "slot": "DEF",
-     "rem": 9.43,
+     "rem": 9.45,
      "state": "pending",
      "pts": 0.0,
-     "proj": 9.43,
-     "live": 9.43,
+     "proj": 9.45,
+     "live": 9.45,
      "game": "Sun 1:00 pm vs Mia"
     },
     {
@@ -448,9 +448,9 @@
    "right": "Tuten Brown",
    "rightRec": "5-4",
    "leftScore": 0.0,
-   "leftProj": 131.68,
+   "leftProj": 131.69,
    "rightScore": 0.0,
-   "rightProj": 117.21,
+   "rightProj": 117.2,
    "leftPct": 62,
    "leftRem": 9,
    "rightRem": 9,
@@ -526,11 +526,11 @@
      "player": "D. Boston",
      "pos": "WR",
      "slot": "W/R/T",
-     "rem": 9.98,
+     "rem": 9.99,
      "state": "pending",
      "pts": 0.0,
-     "proj": 9.98,
-     "live": 9.98,
+     "proj": 9.99,
+     "live": 9.99,
      "game": "Sun 1:00 pm vs Hou"
     },
     {
@@ -545,7 +545,7 @@
      "game": "Sun 1:00 pm @ GB"
     },
     {
-     "player": "Packers",
+     "player": "G. Bay",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 8.88,
@@ -572,11 +572,11 @@
      "player": "J. Taylor",
      "pos": "RB",
      "slot": "RB",
-     "rem": 17.57,
+     "rem": 17.56,
      "state": "pending",
      "pts": 0.0,
-     "proj": 17.57,
-     "live": 17.57,
+     "proj": 17.56,
+     "live": 17.56,
      "game": "Sun 1:00 pm vs Mia"
     },
     {
@@ -646,7 +646,7 @@
      "game": "Sun 1:00 pm vs Jax"
     },
     {
-     "player": "Rams",
+     "player": "L. Angeles",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 8.78,
@@ -665,7 +665,7 @@
    "right": "James Ray Ervin Yonts",
    "rightRec": "6-3",
    "leftScore": 0.0,
-   "leftProj": 121.29,
+   "leftProj": 121.33,
    "rightScore": 0.0,
    "rightProj": 123.26,
    "leftPct": 48,
@@ -677,11 +677,11 @@
      "player": "C.J. Stroud",
      "pos": "QB",
      "slot": "QB",
-     "rem": 19.27,
+     "rem": 19.32,
      "state": "pending",
      "pts": 0.0,
-     "proj": 19.27,
-     "live": 19.27,
+     "proj": 19.32,
+     "live": 19.32,
      "game": "Sun 1:00 pm @ Cle"
     },
     {
@@ -721,11 +721,11 @@
      "player": "T. Warren",
      "pos": "TE",
      "slot": "TE",
-     "rem": 12.32,
+     "rem": 12.31,
      "state": "pending",
      "pts": 0.0,
-     "proj": 12.32,
-     "live": 12.32,
+     "proj": 12.31,
+     "live": 12.31,
      "game": "Sun 1:00 pm vs Mia"
     },
     {
@@ -884,7 +884,7 @@
    "leftScore": 0.0,
    "leftProj": 120.85,
    "rightScore": 0.0,
-   "rightProj": 98.99,
+   "rightProj": 98.98,
    "leftPct": 68,
    "leftRem": 9,
    "rightRem": 7,
@@ -1068,11 +1068,11 @@
      "player": "D. Montgomery",
      "pos": "RB",
      "slot": "RB",
-     "rem": 9.49,
+     "rem": 9.48,
      "state": "pending",
      "pts": 0.0,
-     "proj": 9.49,
-     "live": 9.49,
+     "proj": 9.48,
+     "live": 9.48,
      "game": "Sun 1:00 pm @ Cle"
     },
     {
@@ -1106,7 +1106,7 @@
    "right": "Kiwis are better than mid",
    "rightRec": "6-3",
    "leftScore": 0.0,
-   "leftProj": 124.25,
+   "leftProj": 124.3,
    "rightScore": 0.0,
    "rightProj": 106.12,
    "leftPct": 65,
@@ -1188,6 +1188,17 @@
      "game": "Sun 1:00 pm @ Ind"
     },
     {
+     "player": "N. Collins",
+     "pos": "WR",
+     "slot": "WR",
+     "rem": 12.9,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 12.9,
+     "live": 12.9,
+     "game": "Sun 1:00 pm @ Cle"
+    },
+    {
      "player": "T. Pollard",
      "pos": "RB",
      "slot": "W/R/T",
@@ -1197,17 +1208,6 @@
      "proj": 12.87,
      "live": 12.87,
      "game": "Sun 1:00 pm vs Jax"
-    },
-    {
-     "player": "N. Collins",
-     "pos": "WR",
-     "slot": "WR",
-     "rem": 12.85,
-     "state": "pending",
-     "pts": 0.0,
-     "proj": 12.85,
-     "live": 12.85,
-     "game": "Sun 1:00 pm @ Cle"
     },
     {
      "player": "J. Myers",
