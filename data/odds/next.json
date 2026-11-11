@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 10,
- "ts": "2026-11-11T04:13:31+00:00",
+ "ts": "2026-11-11T04:53:31+00:00",
  "matchups": [
   {
    "id": "1v9",
@@ -85,7 +85,7 @@
      "game": "Sun 9:30 am vs NE"
     },
     {
-     "player": "Texans",
+     "player": "Houston",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 10.4,
@@ -197,7 +197,7 @@
      "game": "Sun 8:20 pm vs Pit"
     },
     {
-     "player": "Colts",
+     "player": "Indianapolis",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 9.45,
@@ -227,7 +227,7 @@
    "right": "RosterMogged",
    "rightRec": "4-5",
    "leftScore": 0.0,
-   "leftProj": 108.29,
+   "leftProj": 108.28,
    "rightScore": 0.0,
    "rightProj": 115.46,
    "leftPct": 44,
@@ -265,11 +265,11 @@
      "player": "D. Henry",
      "pos": "RB",
      "slot": "RB",
-     "rem": 17.61,
+     "rem": 17.6,
      "state": "pending",
      "pts": 0.0,
-     "proj": 17.61,
-     "live": 17.61,
+     "proj": 17.6,
+     "live": 17.6,
      "game": "Mon 8:15 pm vs LAC"
     },
     {
@@ -665,7 +665,7 @@
    "right": "James Ray Ervin Yonts",
    "rightRec": "6-3",
    "leftScore": 0.0,
-   "leftProj": 121.72,
+   "leftProj": 121.71,
    "rightScore": 0.0,
    "rightProj": 123.4,
    "leftPct": 49,
@@ -688,11 +688,11 @@
      "player": "J. Chase",
      "pos": "WR",
      "slot": "WR",
-     "rem": 18.75,
+     "rem": 18.74,
      "state": "pending",
      "pts": 0.0,
-     "proj": 18.75,
-     "live": 18.75,
+     "proj": 18.74,
+     "live": 18.74,
      "game": "Sun 8:20 pm vs Pit"
     },
     {
@@ -884,7 +884,7 @@
    "leftScore": 0.0,
    "leftProj": 120.26,
    "rightScore": 0.0,
-   "rightProj": 99.03,
+   "rightProj": 99.02,
    "leftPct": 68,
    "leftRem": 9,
    "rightRem": 7,
@@ -1035,11 +1035,11 @@
      "player": "T. Higgins",
      "pos": "WR",
      "slot": "W/R/T",
-     "rem": 16.52,
+     "rem": 16.51,
      "state": "pending",
      "pts": 0.0,
-     "proj": 16.52,
-     "live": 16.52,
+     "proj": 16.51,
+     "live": 16.51,
      "game": "Sun 8:20 pm vs Pit"
     },
     {
