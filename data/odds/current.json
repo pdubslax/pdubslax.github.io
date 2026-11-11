@@ -68,7 +68,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-11T13:35:19+00:00",
+  "ts": "2026-11-11T13:55:10+00:00",
   "week": 10,
   "matchups": [
    {
@@ -389,7 +389,7 @@
       "game": "Sun 1:00 pm vs Min"
      },
      {
-      "player": "N. Orleans",
+      "player": "Saints",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 6.33,
@@ -490,7 +490,7 @@
       "game": "Sun 1:00 pm vs KC"
      },
      {
-      "player": "K. City",
+      "player": "Chiefs",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 6.08,
