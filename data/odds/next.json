@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 10,
- "ts": "2026-11-11T04:53:31+00:00",
+ "ts": "2026-11-11T05:33:32+00:00",
  "matchups": [
   {
    "id": "1v9",
@@ -85,7 +85,7 @@
      "game": "Sun 9:30 am vs NE"
     },
     {
-     "player": "Houston",
+     "player": "Texans",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 10.4,
@@ -115,7 +115,7 @@
      "pts": 0.0,
      "proj": 7.95,
      "live": 7.95,
-     "game": "Thu 8:15 pm vs Was"
+     "game": "Thu 8:15 pm vs Was"
     }
    ],
    "rightActive": [
@@ -197,7 +197,7 @@
      "game": "Sun 8:20 pm vs Pit"
     },
     {
-     "player": "Indianapolis",
+     "player": "Colts",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 9.45,
@@ -303,7 +303,7 @@
      "pts": 0.0,
      "proj": 10.77,
      "live": 10.77,
-     "game": "Thu 8:15 pm vs Was"
+     "game": "Thu 8:15 pm vs Was"
     },
     {
      "player": "D. Samuel Sr.",
@@ -520,7 +520,7 @@
      "pts": 0.0,
      "proj": 10.71,
      "live": 10.71,
-     "game": "Thu 8:15 pm @ NYG"
+     "game": "Thu 8:15 pm @ NYG"
     },
     {
      "player": "D. Boston",
@@ -939,7 +939,7 @@
      "pts": 0.0,
      "proj": 21.08,
      "live": 21.08,
-     "game": "Thu 8:15 pm @ NYG"
+     "game": "Thu 8:15 pm @ NYG"
     },
     {
      "player": "G. Kittle",
@@ -961,7 +961,7 @@
      "pts": 0.0,
      "proj": 12.86,
      "live": 12.86,
-     "game": "Thu 8:15 pm vs Was"
+     "game": "Thu 8:15 pm vs Was"
     },
     {
      "player": "G. Pickens",
@@ -1008,7 +1008,7 @@
      "game": "Sun 1:00 pm @ NYJ"
     },
     {
-     "player": "Bills",
+     "player": "Buffalo",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 8.02,
@@ -1062,7 +1062,7 @@
      "pts": 0.0,
      "proj": 14.56,
      "live": 14.56,
-     "game": "Thu 8:15 pm vs Was"
+     "game": "Thu 8:15 pm vs Was"
     },
     {
      "player": "D. Montgomery",
@@ -1087,7 +1087,7 @@
      "game": "Sun 8:20 pm @ Cin"
     },
     {
-     "player": "Jaguars",
+     "player": "Jacksonville",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 9.18,
@@ -1308,7 +1308,7 @@
      "pts": 0.0,
      "proj": 10.88,
      "live": 10.88,
-     "game": "Thu 8:15 pm @ NYG"
+     "game": "Thu 8:15 pm @ NYG"
     },
     {
      "player": "A. Kamara",
