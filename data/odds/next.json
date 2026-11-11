@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 11,
- "ts": "2026-11-11T11:54:22+00:00",
+ "ts": "2026-11-11T12:34:20+00:00",
  "matchups": [
   {
    "id": "1v4",
@@ -10,12 +10,12 @@
    "right": "Matt #chubb69",
    "rightRec": "4-5",
    "leftScore": 0.0,
-   "leftProj": 59.31,
+   "leftProj": 59.25,
    "rightScore": 0.0,
-   "rightProj": 116.63,
-   "leftPct": 8,
+   "rightProj": 108.0,
+   "leftPct": 11,
    "leftRem": 6,
-   "rightRem": 8,
+   "rightRem": 7,
    "shotgun": [
     {
      "player": "M. Stafford",
@@ -60,6 +60,20 @@
      "reason": "pts"
     },
     {
+     "player": "T. Atwell",
+     "pos": "WR",
+     "team": "LAR",
+     "pts": 0.0,
+     "game": "Bye",
+     "tag": null,
+     "state": "bye",
+     "slot": "W/R/T",
+     "manager": "Matt #chubb69",
+     "locked": false,
+     "live": 0.0,
+     "reason": "pts"
+    },
+    {
      "player": "Seahawks",
      "pos": "DEF",
      "team": "Sea",
@@ -79,11 +93,11 @@
      "player": "J. Coker",
      "pos": "WR",
      "slot": "WR",
-     "rem": 12.67,
+     "rem": 12.61,
      "state": "pending",
      "pts": 0.0,
-     "proj": 12.67,
-     "live": 12.67,
+     "proj": 12.61,
+     "live": 12.61,
      "game": "Sun 1:00 pm vs Bal"
     },
     {
@@ -169,11 +183,11 @@
      "player": "J. Williams",
      "pos": "RB",
      "slot": "RB",
-     "rem": 18.48,
+     "rem": 18.37,
      "state": "pending",
      "pts": 0.0,
-     "proj": 18.48,
-     "live": 18.48,
+     "proj": 18.37,
+     "live": 18.37,
      "game": "Sun 1:00 pm vs Ten"
     },
     {
@@ -219,17 +233,6 @@
      "proj": 9.85,
      "live": 9.85,
      "game": "Sun 4:25 pm @ NYG"
-    },
-    {
-     "player": "A. Mitchell",
-     "pos": "WR",
-     "slot": "W/R/T",
-     "rem": 8.52,
-     "state": "pending",
-     "pts": 0.0,
-     "proj": 8.52,
-     "live": 8.52,
-     "game": "Sun 4:05 pm @ LAC"
     }
    ]
   },
@@ -240,9 +243,9 @@
    "right": "Tuten Brown",
    "rightRec": "5-4",
    "leftScore": 0.0,
-   "leftProj": 58.43,
+   "leftProj": 58.39,
    "rightScore": 0.0,
-   "rightProj": 85.9,
+   "rightProj": 85.8,
    "leftPct": 23,
    "leftRem": 5,
    "rightRem": 6,
@@ -318,13 +321,13 @@
      "reason": "pts"
     },
     {
-     "player": "(Empty)",
-     "pos": "",
-     "team": "",
+     "player": "T. Smack",
+     "pos": "K",
+     "team": "GB",
      "pts": 0.0,
-     "game": "",
+     "game": "Bye",
      "tag": null,
-     "state": "empty",
+     "state": "bye",
      "slot": "K",
      "manager": "BDSM AI Stealth Founder",
      "locked": false,
@@ -332,7 +335,7 @@
      "reason": "pts"
     },
     {
-     "player": "L. Angeles",
+     "player": "Rams",
      "pos": "DEF",
      "team": "LAR",
      "pts": 0.0,
@@ -351,11 +354,11 @@
      "player": "D. Henry",
      "pos": "RB",
      "slot": "RB",
-     "rem": 18.1,
+     "rem": 18.05,
      "state": "pending",
      "pts": 0.0,
-     "proj": 18.1,
-     "live": 18.1,
+     "proj": 18.05,
+     "live": 18.05,
      "game": "Sun 1:00 pm @ Car"
     },
     {
@@ -392,14 +395,14 @@
      "game": "Sun 8:20 pm vs Min"
     },
     {
-     "player": "N. Orleans",
+     "player": "Saints",
      "pos": "DEF",
      "slot": "DEF",
-     "rem": 4.38,
+     "rem": 4.39,
      "state": "pending",
      "pts": 0.0,
-     "proj": 4.38,
-     "live": 4.38,
+     "proj": 4.39,
+     "live": 4.39,
      "game": "Sun 1:00 pm @ Chi"
     }
    ],
@@ -452,22 +455,22 @@
      "player": "B. Aubrey",
      "pos": "K",
      "slot": "K",
-     "rem": 10.89,
+     "rem": 10.84,
      "state": "pending",
      "pts": 0.0,
-     "proj": 10.89,
-     "live": 10.89,
+     "proj": 10.84,
+     "live": 10.84,
      "game": "Sun 1:00 pm vs Ten"
     },
     {
      "player": "W. Robinson",
      "pos": "WR",
      "slot": "WR",
-     "rem": 10.01,
+     "rem": 9.96,
      "state": "pending",
      "pts": 0.0,
-     "proj": 10.01,
-     "live": 10.01,
+     "proj": 9.96,
+     "live": 9.96,
      "game": "Sun 1:00 pm @ Dal"
     }
    ]
@@ -479,9 +482,9 @@
    "right": "Zen Buddha Boys 🪷💨",
    "rightRec": "4-5",
    "leftScore": 0.0,
-   "leftProj": 95.92,
+   "leftProj": 95.87,
    "rightScore": 0.0,
-   "rightProj": 111.58,
+   "rightProj": 111.59,
    "leftPct": 37,
    "leftRem": 6,
    "rightRem": 8,
@@ -570,11 +573,11 @@
      "player": "T. McMillan",
      "pos": "WR",
      "slot": "WR",
-     "rem": 13.93,
+     "rem": 13.88,
      "state": "pending",
      "pts": 0.0,
-     "proj": 13.93,
-     "live": 13.93,
+     "proj": 13.88,
+     "live": 13.88,
      "game": "Sun 1:00 pm vs Bal"
     },
     {
@@ -616,11 +619,11 @@
      "player": "T. Shough",
      "pos": "QB",
      "slot": "QB",
-     "rem": 19.4,
+     "rem": 19.48,
      "state": "pending",
      "pts": 0.0,
-     "proj": 19.4,
-     "live": 19.4,
+     "proj": 19.48,
+     "live": 19.48,
      "game": "Sun 1:00 pm @ Chi"
     },
     {
@@ -638,11 +641,11 @@
      "player": "C. Hubbard",
      "pos": "RB",
      "slot": "RB",
-     "rem": 15.57,
+     "rem": 15.52,
      "state": "pending",
      "pts": 0.0,
-     "proj": 15.57,
-     "live": 15.57,
+     "proj": 15.52,
+     "live": 15.52,
      "game": "Sun 1:00 pm vs Bal"
     },
     {
@@ -660,11 +663,11 @@
      "player": "T. Pollard",
      "pos": "RB",
      "slot": "W/R/T",
-     "rem": 14.35,
+     "rem": 14.33,
      "state": "pending",
      "pts": 0.0,
-     "proj": 14.35,
-     "live": 14.35,
+     "proj": 14.33,
+     "live": 14.33,
      "game": "Sun 1:00 pm @ Dal"
     },
     {
@@ -709,9 +712,9 @@
    "right": "RosterMogged",
    "rightRec": "4-5",
    "leftScore": 0.0,
-   "leftProj": 103.84,
+   "leftProj": 103.72,
    "rightScore": 0.0,
-   "rightProj": 93.99,
+   "rightProj": 94.02,
    "leftPct": 59,
    "leftRem": 8,
    "rightRem": 7,
@@ -775,11 +778,11 @@
      "player": "G. Pickens",
      "pos": "WR",
      "slot": "WR",
-     "rem": 14.88,
+     "rem": 14.76,
      "state": "pending",
      "pts": 0.0,
-     "proj": 14.88,
-     "live": 14.88,
+     "proj": 14.76,
+     "live": 14.76,
      "game": "Sun 1:00 pm vs Ten"
     },
     {
@@ -887,11 +890,11 @@
      "player": "L. McConkey",
      "pos": "WR",
      "slot": "WR",
-     "rem": 10.88,
+     "rem": 10.91,
      "state": "pending",
      "pts": 0.0,
-     "proj": 10.88,
-     "live": 10.88,
+     "proj": 10.91,
+     "live": 10.91,
      "game": "Sun 4:05 pm vs NYJ"
     },
     {
@@ -936,10 +939,10 @@
    "right": "Kiwis are better than mid",
    "rightRec": "6-3",
    "leftScore": 0.0,
-   "leftProj": 130.69,
+   "leftProj": 130.33,
    "rightScore": 0.0,
-   "rightProj": 108.46,
-   "leftPct": 68,
+   "rightProj": 108.53,
+   "leftPct": 67,
    "leftRem": 9,
    "rightRem": 8,
    "shotgun": [
@@ -963,22 +966,22 @@
      "player": "D. Prescott",
      "pos": "QB",
      "slot": "QB",
-     "rem": 25.26,
+     "rem": 25.03,
      "state": "pending",
      "pts": 0.0,
-     "proj": 25.26,
-     "live": 25.26,
+     "proj": 25.03,
+     "live": 25.03,
      "game": "Sun 1:00 pm vs Ten"
     },
     {
      "player": "C. Lamb",
      "pos": "WR",
      "slot": "WR",
-     "rem": 20.76,
+     "rem": 20.59,
      "state": "pending",
      "pts": 0.0,
-     "proj": 20.76,
-     "live": 20.76,
+     "proj": 20.59,
+     "live": 20.59,
      "game": "Sun 1:00 pm vs Ten"
     },
     {
@@ -1018,11 +1021,11 @@
      "player": "R. Odunze",
      "pos": "WR",
      "slot": "WR",
-     "rem": 11.0,
+     "rem": 11.02,
      "state": "pending",
      "pts": 0.0,
-     "proj": 11.0,
-     "live": 11.0,
+     "proj": 11.02,
+     "live": 11.02,
      "game": "Sun 1:00 pm vs NO"
     },
     {
@@ -1051,11 +1054,11 @@
      "player": "Chargers",
      "pos": "DEF",
      "slot": "DEF",
-     "rem": 8.6,
+     "rem": 8.62,
      "state": "pending",
      "pts": 0.0,
-     "proj": 8.6,
-     "live": 8.6,
+     "proj": 8.62,
+     "live": 8.62,
      "game": "Sun 4:05 pm vs NYJ"
     }
    ],
@@ -1097,11 +1100,11 @@
      "player": "G. Wilson",
      "pos": "WR",
      "slot": "WR",
-     "rem": 13.37,
+     "rem": 13.4,
      "state": "pending",
      "pts": 0.0,
-     "proj": 13.37,
-     "live": 13.37,
+     "proj": 13.4,
+     "live": 13.4,
      "game": "Sun 4:05 pm @ LAC"
     },
     {
@@ -1130,22 +1133,22 @@
      "player": "Bears",
      "pos": "DEF",
      "slot": "DEF",
-     "rem": 8.06,
+     "rem": 8.09,
      "state": "pending",
      "pts": 0.0,
-     "proj": 8.06,
-     "live": 8.06,
+     "proj": 8.09,
+     "live": 8.09,
      "game": "Sun 1:00 pm vs NO"
     },
     {
      "player": "A. Kamara",
      "pos": "RB",
      "slot": "W/R/T",
-     "rem": 6.03,
+     "rem": 6.04,
      "state": "pending",
      "pts": 0.0,
-     "proj": 6.03,
-     "live": 6.03,
+     "proj": 6.04,
+     "live": 6.04,
      "game": "Sun 1:00 pm @ Chi"
     }
    ]
@@ -1157,9 +1160,9 @@
    "right": "Sir this is a FF league",
    "rightRec": "4-5",
    "leftScore": 0.0,
-   "leftProj": 125.11,
+   "leftProj": 125.16,
    "rightScore": 0.0,
-   "rightProj": 82.37,
+   "rightProj": 82.39,
    "leftPct": 82,
    "leftRem": 9,
    "rightRem": 7,
@@ -1242,11 +1245,11 @@
      "player": "C. Olave",
      "pos": "WR",
      "slot": "WR",
-     "rem": 14.58,
+     "rem": 14.63,
      "state": "pending",
      "pts": 0.0,
-     "proj": 14.58,
-     "live": 14.58,
+     "proj": 14.63,
+     "live": 14.63,
      "game": "Sun 1:00 pm @ Chi"
     },
     {
@@ -1321,11 +1324,11 @@
      "player": "B. Hall",
      "pos": "RB",
      "slot": "RB",
-     "rem": 12.56,
+     "rem": 12.58,
      "state": "pending",
      "pts": 0.0,
-     "proj": 12.56,
-     "live": 12.56,
+     "proj": 12.58,
+     "live": 12.58,
      "game": "Sun 4:05 pm @ LAC"
     },
     {

@@ -68,7 +68,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-11T12:14:21+00:00",
+  "ts": "2026-11-11T12:34:30+00:00",
   "week": 10,
   "matchups": [
    {
@@ -80,7 +80,7 @@
     "leftScore": 0.0,
     "leftProj": 121.22,
     "rightScore": 0.0,
-    "rightProj": 118.35,
+    "rightProj": 118.33,
     "shotgun": [],
     "leftActive": [
      {
@@ -199,11 +199,11 @@
       "player": "J. Cook III",
       "pos": "RB",
       "slot": "RB",
-      "rem": 17.45,
+      "rem": 17.4,
       "state": "pending",
       "pts": 0.0,
-      "proj": 17.45,
-      "live": 17.45,
+      "proj": 17.4,
+      "live": 17.4,
       "game": "Sun 1:00 pm @ NYJ"
      },
      {
@@ -221,11 +221,11 @@
       "player": "B. Hall",
       "pos": "RB",
       "slot": "RB",
-      "rem": 12.96,
+      "rem": 12.99,
       "state": "pending",
       "pts": 0.0,
-      "proj": 12.96,
-      "live": 12.96,
+      "proj": 12.99,
+      "live": 12.99,
       "game": "Sun 1:00 pm vs Buf"
      },
      {
@@ -295,25 +295,10 @@
     "right": "RosterMogged",
     "rightRec": "4-5",
     "leftScore": 0.0,
-    "leftProj": 108.37,
+    "leftProj": 116.96,
     "rightScore": 0.0,
     "rightProj": 115.54,
-    "shotgun": [
-     {
-      "player": "(Empty)",
-      "pos": "",
-      "team": "",
-      "pts": 0.0,
-      "game": "",
-      "tag": null,
-      "state": "empty",
-      "slot": "K",
-      "manager": "BDSM AI Stealth Founder",
-      "locked": false,
-      "live": 0.0,
-      "reason": "pts"
-     }
-    ],
+    "shotgun": [],
     "leftActive": [
      {
       "player": "D. Maye",
@@ -391,6 +376,17 @@
       "proj": 8.97,
       "live": 8.97,
       "game": "Sun 9:30 am @ Det"
+     },
+     {
+      "player": "T. Smack",
+      "pos": "K",
+      "slot": "K",
+      "rem": 8.59,
+      "state": "pending",
+      "pts": 0.0,
+      "proj": 8.59,
+      "live": 8.59,
+      "game": "Sun 1:00 pm vs Min"
      },
      {
       "player": "Saints",
@@ -505,8 +501,8 @@
       "game": "Sun 1:00 pm @ Atl"
      }
     ],
-    "leftPct": 44,
-    "leftRem": 8,
+    "leftPct": 51,
+    "leftRem": 9,
     "rightRem": 9
    },
    {
@@ -518,7 +514,7 @@
     "leftScore": 0.0,
     "leftProj": 131.52,
     "rightScore": 0.0,
-    "rightProj": 117.57,
+    "rightProj": 117.55,
     "shotgun": [],
     "leftActive": [
      {
@@ -659,11 +655,11 @@
       "player": "DJ Moore",
       "pos": "WR",
       "slot": "WR",
-      "rem": 12.28,
+      "rem": 12.26,
       "state": "pending",
       "pts": 0.0,
-      "proj": 12.28,
-      "live": 12.28,
+      "proj": 12.26,
+      "live": 12.26,
       "game": "Sun 1:00 pm @ NYJ"
      },
      {
@@ -733,7 +729,7 @@
     "right": "James Ray Ervin Yonts",
     "rightRec": "6-3",
     "leftScore": 0.0,
-    "leftProj": 121.81,
+    "leftProj": 121.32,
     "rightScore": 0.0,
     "rightProj": 123.48,
     "shotgun": [],
@@ -816,17 +812,6 @@
       "game": "Sun 1:00 pm @ Ten"
      },
      {
-      "player": "A. Mitchell",
-      "pos": "WR",
-      "slot": "W/R/T",
-      "rem": 8.84,
-      "state": "pending",
-      "pts": 0.0,
-      "proj": 8.84,
-      "live": 8.84,
-      "game": "Sun 1:00 pm vs Buf"
-     },
-     {
       "player": "Seahawks",
       "pos": "DEF",
       "slot": "DEF",
@@ -836,6 +821,17 @@
       "proj": 8.64,
       "live": 8.64,
       "game": "Sun 4:05 pm @ LV"
+     },
+     {
+      "player": "T. Atwell",
+      "pos": "WR",
+      "slot": "W/R/T",
+      "rem": 8.35,
+      "state": "pending",
+      "pts": 0.0,
+      "proj": 8.35,
+      "live": 8.35,
+      "game": "Sun 4:05 pm @ Ari"
      }
     ],
     "rightActive": [
@@ -939,7 +935,7 @@
       "game": "Mon 8:15 pm @ Bal"
      }
     ],
-    "leftPct": 49,
+    "leftPct": 48,
     "leftRem": 9,
     "rightRem": 9
    },
@@ -950,7 +946,7 @@
     "right": "Alex Michael Pagels",
     "rightRec": "4-5",
     "leftScore": 0.0,
-    "leftProj": 120.21,
+    "leftProj": 120.13,
     "rightScore": 0.0,
     "rightProj": 99.01,
     "shotgun": [
@@ -1043,44 +1039,44 @@
       "player": "T. Bass",
       "pos": "K",
       "slot": "K",
-      "rem": 10.18,
+      "rem": 10.16,
       "state": "pending",
       "pts": 0.0,
-      "proj": 10.18,
-      "live": 10.18,
+      "proj": 10.16,
+      "live": 10.16,
       "game": "Sun 1:00 pm @ NYJ"
      },
      {
       "player": "D. Kincaid",
       "pos": "TE",
       "slot": "TE",
-      "rem": 9.77,
+      "rem": 9.75,
       "state": "pending",
       "pts": 0.0,
-      "proj": 9.77,
-      "live": 9.77,
+      "proj": 9.75,
+      "live": 9.75,
       "game": "Sun 1:00 pm @ NYJ"
      },
      {
       "player": "K. Shakir",
       "pos": "WR",
       "slot": "WR",
-      "rem": 9.6,
+      "rem": 9.58,
       "state": "pending",
       "pts": 0.0,
-      "proj": 9.6,
-      "live": 9.6,
+      "proj": 9.58,
+      "live": 9.58,
       "game": "Sun 1:00 pm @ NYJ"
      },
      {
       "player": "Bills",
       "pos": "DEF",
       "slot": "DEF",
-      "rem": 8.02,
+      "rem": 8.0,
       "state": "pending",
       "pts": 0.0,
-      "proj": 8.02,
-      "live": 8.02,
+      "proj": 8.0,
+      "live": 8.0,
       "game": "Sun 1:00 pm @ NYJ"
      }
     ],
@@ -1176,7 +1172,7 @@
     "leftScore": 0.0,
     "leftProj": 124.09,
     "rightScore": 0.0,
-    "rightProj": 105.56,
+    "rightProj": 105.5,
     "shotgun": [
      {
       "player": "(Empty)",
@@ -1313,11 +1309,11 @@
       "player": "J. Allen",
       "pos": "QB",
       "slot": "QB",
-      "rem": 28.06,
+      "rem": 27.98,
       "state": "pending",
       "pts": 0.0,
-      "proj": 28.06,
-      "live": 28.06,
+      "proj": 27.98,
+      "live": 27.98,
       "game": "Sun 1:00 pm @ NYJ"
      },
      {
@@ -1346,11 +1342,11 @@
       "player": "G. Wilson",
       "pos": "WR",
       "slot": "WR",
-      "rem": 13.09,
+      "rem": 13.11,
       "state": "pending",
       "pts": 0.0,
-      "proj": 13.09,
-      "live": 13.09,
+      "proj": 13.11,
+      "live": 13.11,
       "game": "Sun 1:00 pm vs Buf"
      },
      {
