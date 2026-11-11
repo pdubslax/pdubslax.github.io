@@ -68,7 +68,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-11T19:16:10+00:00",
+  "ts": "2026-11-11T19:36:04+00:00",
   "week": 10,
   "matchups": [
    {
@@ -514,7 +514,7 @@
     "leftScore": 0.0,
     "leftProj": 131.48,
     "rightScore": 0.0,
-    "rightProj": 117.74,
+    "rightProj": 117.73,
     "shotgun": [],
     "leftActive": [
      {
@@ -633,11 +633,11 @@
       "player": "J. Taylor",
       "pos": "RB",
       "slot": "RB",
-      "rem": 17.61,
+      "rem": 17.6,
       "state": "pending",
       "pts": 0.0,
-      "proj": 17.61,
-      "live": 17.61,
+      "proj": 17.6,
+      "live": 17.6,
       "game": "Sun 1:00 pm vs Mia"
      },
      {
