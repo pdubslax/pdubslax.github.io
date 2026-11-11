@@ -68,7 +68,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-11T20:56:03+00:00",
+  "ts": "2026-11-11T21:16:09+00:00",
   "week": 10,
   "matchups": [
    {
@@ -353,7 +353,7 @@
       "pts": 0.0,
       "proj": 10.67,
       "live": 10.67,
-      "game": "Thu 8:15 pm vs Was"
+      "game": "Thu 8:15 pm vs Was"
      },
      {
       "player": "D. Samuel Sr.",
@@ -581,7 +581,7 @@
       "pts": 0.0,
       "proj": 10.39,
       "live": 10.39,
-      "game": "Thu 8:15 pm @ NYG"
+      "game": "Thu 8:15 pm @ NYG"
      },
      {
       "player": "D. Boston",
@@ -948,7 +948,7 @@
     "leftScore": 0.0,
     "leftProj": 120.56,
     "rightScore": 0.0,
-    "rightProj": 113.33,
+    "rightProj": 112.35,
     "shotgun": [],
     "leftActive": [
      {
@@ -971,7 +971,7 @@
       "pts": 0.0,
       "proj": 20.99,
       "live": 20.99,
-      "game": "Thu 8:15 pm @ NYG"
+      "game": "Thu 8:15 pm @ NYG"
      },
      {
       "player": "G. Kittle",
@@ -993,7 +993,7 @@
       "pts": 0.0,
       "proj": 13.35,
       "live": 13.35,
-      "game": "Thu 8:15 pm vs Was"
+      "game": "Thu 8:15 pm vs Was"
      },
      {
       "player": "G. Pickens",
@@ -1094,7 +1094,7 @@
       "pts": 0.0,
       "proj": 14.42,
       "live": 14.42,
-      "game": "Thu 8:15 pm vs Was"
+      "game": "Thu 8:15 pm vs Was"
      },
      {
       "player": "D. Montgomery",
@@ -1130,15 +1130,15 @@
       "game": "Sun 1:00 pm @ Ten"
      },
      {
-      "player": "T. Higbee",
+      "player": "C. Okonkwo",
       "pos": "TE",
       "slot": "TE",
-      "rem": 8.33,
+      "rem": 7.35,
       "state": "pending",
       "pts": 0.0,
-      "proj": 8.33,
-      "live": 8.33,
-      "game": "Sun 4:05 pm @ Ari"
+      "proj": 7.35,
+      "live": 7.35,
+      "game": "Thu 8:15 pm @ NYG"
      },
      {
       "player": "K. Johnson",
@@ -1152,7 +1152,7 @@
       "game": "Sun 1:00 pm vs Min"
      }
     ],
-    "leftPct": 56,
+    "leftPct": 57,
     "leftRem": 9,
     "rightRem": 9
    },
@@ -1333,7 +1333,7 @@
       "pts": 0.0,
       "proj": 11.01,
       "live": 11.01,
-      "game": "Thu 8:15 pm @ NYG"
+      "game": "Thu 8:15 pm @ NYG"
      },
      {
       "player": "E. Pineiro",

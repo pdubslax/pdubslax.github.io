@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 11,
- "ts": "2026-11-11T20:36:03+00:00",
+ "ts": "2026-11-11T21:16:02+00:00",
  "matchups": [
   {
    "id": "1v4",
@@ -944,20 +944,20 @@
    "leftScore": 0.0,
    "leftProj": 129.74,
    "rightScore": 0.0,
-   "rightProj": 106.32,
-   "leftPct": 69,
+   "rightProj": 110.61,
+   "leftPct": 65,
    "leftRem": 9,
    "rightRem": 8,
    "shotgun": [
     {
-     "player": "(Empty)",
-     "pos": "",
-     "team": "",
+     "player": "Browns",
+     "pos": "DEF",
+     "team": "Cle",
      "pts": 0.0,
-     "game": "",
+     "game": "Bye",
      "tag": null,
-     "state": "empty",
-     "slot": "K",
+     "state": "bye",
+     "slot": "DEF",
      "manager": "Kiwis are better than mid",
      "locked": false,
      "live": 0.0,
@@ -1111,6 +1111,17 @@
      "game": "Sun 4:05 pm @ LAC"
     },
     {
+     "player": "E. Pineiro",
+     "pos": "K",
+     "slot": "K",
+     "rem": 9.49,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 9.49,
+     "live": 9.49,
+     "game": "Sun 8:20 pm vs Min"
+    },
+    {
      "player": "DK Metcalf",
      "pos": "WR",
      "slot": "WR",
@@ -1122,15 +1133,15 @@
      "game": "Sun 1:00 pm @ Phi"
     },
     {
-     "player": "Bears",
-     "pos": "DEF",
-     "slot": "DEF",
-     "rem": 8.29,
+     "player": "A. Jones Sr.",
+     "pos": "RB",
+     "slot": "W/R/T",
+     "rem": 9.1,
      "state": "pending",
      "pts": 0.0,
-     "proj": 8.29,
-     "live": 8.29,
-     "game": "Sun 1:00 pm vs NO"
+     "proj": 9.1,
+     "live": 9.1,
+     "game": "Sun 8:20 pm @ SF"
     },
     {
      "player": "R. White",
@@ -1142,17 +1153,6 @@
      "proj": 7.75,
      "live": 7.75,
      "game": "Mon 8:15 pm vs Cin"
-    },
-    {
-     "player": "A. Kamara",
-     "pos": "RB",
-     "slot": "W/R/T",
-     "rem": 6.01,
-     "state": "pending",
-     "pts": 0.0,
-     "proj": 6.01,
-     "live": 6.01,
-     "game": "Sun 1:00 pm @ Chi"
     }
    ]
   },
@@ -1163,11 +1163,11 @@
    "right": "Sir this is a FF league",
    "rightRec": "4-5",
    "leftScore": 0.0,
-   "leftProj": 100.37,
+   "leftProj": 108.95,
    "rightScore": 0.0,
    "rightProj": 82.64,
-   "leftPct": 66,
-   "leftRem": 7,
+   "leftPct": 73,
+   "leftRem": 8,
    "rightRem": 7,
    "shotgun": [
     {
@@ -1193,20 +1193,6 @@
      "tag": null,
      "state": "bye",
      "slot": "RB",
-     "manager": "Alex Michael Pagels",
-     "locked": false,
-     "live": 0.0,
-     "reason": "pts"
-    },
-    {
-     "player": "T. Higbee",
-     "pos": "TE",
-     "team": "LAR",
-     "pts": 0.0,
-     "game": "Bye",
-     "tag": null,
-     "state": "bye",
-     "slot": "TE",
      "manager": "Alex Michael Pagels",
      "locked": false,
      "live": 0.0,
@@ -1304,6 +1290,17 @@
      "proj": 9.14,
      "live": 9.14,
      "game": "Sun 1:00 pm @ Phi"
+    },
+    {
+     "player": "C. Okonkwo",
+     "pos": "TE",
+     "slot": "TE",
+     "rem": 8.58,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 8.58,
+     "live": 8.58,
+     "game": "Mon 8:15 pm vs Cin"
     }
    ],
    "rightActive": [
