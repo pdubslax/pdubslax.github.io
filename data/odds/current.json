@@ -68,7 +68,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-12T19:40:41+00:00",
+  "ts": "2026-11-12T20:00:34+00:00",
   "week": 10,
   "matchups": [
    {
@@ -78,9 +78,9 @@
     "right": "Sir this is a FF league",
     "rightRec": "4-5",
     "leftScore": 0.0,
-    "leftProj": 124.48,
+    "leftProj": 124.46,
     "rightScore": 0.0,
-    "rightProj": 119.45,
+    "rightProj": 119.43,
     "shotgun": [],
     "leftActive": [
      {
@@ -164,11 +164,11 @@
       "player": "S. Shrader",
       "pos": "K",
       "slot": "K",
-      "rem": 9.78,
+      "rem": 9.76,
       "state": "pending",
       "pts": 0.0,
-      "proj": 9.78,
-      "live": 9.78,
+      "proj": 9.76,
+      "live": 9.76,
       "game": "Sun 1:00 pm vs Mia"
      },
      {
@@ -265,11 +265,11 @@
       "player": "Colts",
       "pos": "DEF",
       "slot": "DEF",
-      "rem": 9.53,
+      "rem": 9.51,
       "state": "pending",
       "pts": 0.0,
-      "proj": 9.53,
-      "live": 9.53,
+      "proj": 9.51,
+      "live": 9.51,
       "game": "Sun 1:00 pm vs Mia"
      },
      {
@@ -514,7 +514,7 @@
     "leftScore": 0.0,
     "leftProj": 132.25,
     "rightScore": 0.0,
-    "rightProj": 115.93,
+    "rightProj": 115.9,
     "shotgun": [],
     "leftActive": [
      {
@@ -633,11 +633,11 @@
       "player": "J. Taylor",
       "pos": "RB",
       "slot": "RB",
-      "rem": 17.67,
+      "rem": 17.64,
       "state": "pending",
       "pts": 0.0,
-      "proj": 17.67,
-      "live": 17.67,
+      "proj": 17.64,
+      "live": 17.64,
       "game": "Sun 1:00 pm vs Mia"
      },
      {
@@ -729,7 +729,7 @@
     "right": "James Ray Ervin Yonts",
     "rightRec": "6-3",
     "leftScore": 0.0,
-    "leftProj": 122.07,
+    "leftProj": 122.04,
     "rightScore": 0.0,
     "rightProj": 124.72,
     "shotgun": [],
@@ -782,11 +782,11 @@
       "player": "T. Warren",
       "pos": "TE",
       "slot": "TE",
-      "rem": 12.25,
+      "rem": 12.22,
       "state": "pending",
       "pts": 0.0,
-      "proj": 12.25,
-      "live": 12.25,
+      "proj": 12.22,
+      "live": 12.22,
       "game": "Sun 1:00 pm vs Mia"
      },
      {
@@ -1163,7 +1163,7 @@
     "right": "Kiwis are better than mid",
     "rightRec": "6-3",
     "leftScore": 0.0,
-    "leftProj": 125.03,
+    "leftProj": 124.99,
     "rightScore": 0.0,
     "rightProj": 124.25,
     "shotgun": [],
@@ -1205,11 +1205,11 @@
       "player": "O. Gordon II",
       "pos": "RB",
       "slot": "RB",
-      "rem": 14.69,
+      "rem": 14.65,
       "state": "pending",
       "pts": 0.0,
-      "proj": 14.69,
-      "live": 14.69,
+      "proj": 14.65,
+      "live": 14.65,
       "game": "Sun 1:00 pm @ Ind"
      },
      {
