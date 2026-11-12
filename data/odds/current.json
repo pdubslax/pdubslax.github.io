@@ -68,7 +68,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-12T14:59:38+00:00",
+  "ts": "2026-11-12T15:19:48+00:00",
   "week": 10,
   "matchups": [
    {
@@ -514,7 +514,7 @@
     "leftScore": 0.0,
     "leftProj": 132.28,
     "rightScore": 0.0,
-    "rightProj": 116.49,
+    "rightProj": 116.5,
     "shotgun": [],
     "leftActive": [
      {
@@ -710,11 +710,11 @@
       "player": "W. Robinson",
       "pos": "WR",
       "slot": "WR",
-      "rem": 8.66,
+      "rem": 8.67,
       "state": "pending",
       "pts": 0.0,
-      "proj": 8.66,
-      "live": 8.66,
+      "proj": 8.67,
+      "live": 8.67,
       "game": "Sun 1:00 pm vs Jax"
      }
     ],
@@ -1163,7 +1163,7 @@
     "right": "Kiwis are better than mid",
     "rightRec": "6-3",
     "leftScore": 0.0,
-    "leftProj": 124.92,
+    "leftProj": 125.08,
     "rightScore": 0.0,
     "rightProj": 124.17,
     "shotgun": [],
@@ -1227,11 +1227,11 @@
       "player": "T. Pollard",
       "pos": "RB",
       "slot": "W/R/T",
-      "rem": 12.96,
+      "rem": 13.12,
       "state": "pending",
       "pts": 0.0,
-      "proj": 12.96,
-      "live": 12.96,
+      "proj": 13.12,
+      "live": 13.12,
       "game": "Sun 1:00 pm vs Jax"
      },
      {

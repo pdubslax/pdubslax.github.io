@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 11,
- "ts": "2026-11-12T14:39:38+00:00",
+ "ts": "2026-11-12T15:19:38+00:00",
  "matchups": [
   {
    "id": "1v4",
@@ -975,7 +975,7 @@
      "reason": "pts"
     },
     {
-     "player": "Cleveland",
+     "player": "Browns",
      "pos": "DEF",
      "team": "Cle",
      "pts": 0.0,
@@ -1057,7 +1057,7 @@
      "game": "Sun 1:00 pm @ KC"
     },
     {
-     "player": "N. York",
+     "player": "Giants",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 5.06,
