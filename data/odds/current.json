@@ -68,7 +68,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-12T02:17:05+00:00",
+  "ts": "2026-11-12T02:36:58+00:00",
   "week": 10,
   "matchups": [
    {
@@ -1163,7 +1163,7 @@
     "right": "Kiwis are better than mid",
     "rightRec": "6-3",
     "leftScore": 0.0,
-    "leftProj": 124.82,
+    "leftProj": 124.81,
     "rightScore": 0.0,
     "rightProj": 124.73,
     "shotgun": [],
@@ -1216,11 +1216,11 @@
       "player": "N. Collins",
       "pos": "WR",
       "slot": "WR",
-      "rem": 13.09,
+      "rem": 13.08,
       "state": "pending",
       "pts": 0.0,
-      "proj": 13.09,
-      "live": 13.09,
+      "proj": 13.08,
+      "live": 13.08,
       "game": "Sun 1:00 pm @ Cle"
      },
      {
