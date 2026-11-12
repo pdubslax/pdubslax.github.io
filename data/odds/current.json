@@ -68,7 +68,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-12T01:16:57+00:00",
+  "ts": "2026-11-12T01:37:06+00:00",
   "week": 10,
   "matchups": [
    {
@@ -320,7 +320,7 @@
       "pts": 0.0,
       "proj": 17.78,
       "live": 17.78,
-      "game": "Mon 8:15 pm vs LAC"
+      "game": "Mon 8:15 pm vs LAC"
      },
      {
       "player": "C. Watson",
@@ -932,7 +932,7 @@
       "pts": 0.0,
       "proj": 7.0,
       "live": 7.0,
-      "game": "Mon 8:15 pm @ Bal"
+      "game": "Mon 8:15 pm @ Bal"
      }
     ],
     "leftPct": 49,

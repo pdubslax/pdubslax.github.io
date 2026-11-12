@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 11,
- "ts": "2026-11-12T00:56:58+00:00",
+ "ts": "2026-11-12T01:36:58+00:00",
  "matchups": [
   {
    "id": "1v4",
@@ -479,7 +479,7 @@
    "right": "Zen Buddha Boys 🪷💨",
    "rightRec": "4-5",
    "leftScore": 0.0,
-   "leftProj": 95.86,
+   "leftProj": 95.87,
    "rightScore": 0.0,
    "rightProj": 112.77,
    "leftPct": 36,
@@ -592,11 +592,11 @@
      "player": "S. Diggs",
      "pos": "WR",
      "slot": "WR",
-     "rem": 12.13,
+     "rem": 12.14,
      "state": "pending",
      "pts": 0.0,
-     "proj": 12.13,
-     "live": 12.13,
+     "proj": 12.14,
+     "live": 12.14,
      "game": "Mon 8:15 pm vs Cin"
     },
     {
@@ -709,7 +709,7 @@
    "right": "RosterMogged",
    "rightRec": "4-5",
    "leftScore": 0.0,
-   "leftProj": 103.84,
+   "leftProj": 103.86,
    "rightScore": 0.0,
    "rightProj": 83.48,
    "leftPct": 69,
@@ -778,11 +778,11 @@
      "player": "J. Daniels",
      "pos": "QB",
      "slot": "QB",
-     "rem": 23.76,
+     "rem": 23.78,
      "state": "pending",
      "pts": 0.0,
-     "proj": 23.76,
-     "live": 23.76,
+     "proj": 23.78,
+     "live": 23.78,
      "game": "Mon 8:15 pm vs Cin"
     },
     {
@@ -941,7 +941,7 @@
    "leftScore": 0.0,
    "leftProj": 129.51,
    "rightScore": 0.0,
-   "rightProj": 110.57,
+   "rightProj": 110.59,
    "leftPct": 65,
    "leftRem": 9,
    "rightRem": 8,
@@ -1108,6 +1108,17 @@
      "game": "Sun 4:05 pm @ LAC"
     },
     {
+     "player": "DK Metcalf",
+     "pos": "WR",
+     "slot": "WR",
+     "rem": 9.49,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 9.49,
+     "live": 9.49,
+     "game": "Sun 1:00 pm @ Phi"
+    },
+    {
      "player": "E. Pineiro",
      "pos": "K",
      "slot": "K",
@@ -1117,17 +1128,6 @@
      "proj": 9.49,
      "live": 9.49,
      "game": "Sun 8:20 pm vs Min"
-    },
-    {
-     "player": "DK Metcalf",
-     "pos": "WR",
-     "slot": "WR",
-     "rem": 9.48,
-     "state": "pending",
-     "pts": 0.0,
-     "proj": 9.48,
-     "live": 9.48,
-     "game": "Sun 1:00 pm @ Phi"
     },
     {
      "player": "A. Jones Sr.",
@@ -1144,11 +1144,11 @@
      "player": "R. White",
      "pos": "RB",
      "slot": "RB",
-     "rem": 7.75,
+     "rem": 7.76,
      "state": "pending",
      "pts": 0.0,
-     "proj": 7.75,
-     "live": 7.75,
+     "proj": 7.76,
+     "live": 7.76,
      "game": "Mon 8:15 pm vs Cin"
     }
    ]
