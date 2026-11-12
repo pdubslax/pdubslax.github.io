@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 11,
- "ts": "2026-11-12T15:59:37+00:00",
+ "ts": "2026-11-12T16:39:39+00:00",
  "matchups": [
   {
    "id": "1v4",
@@ -321,7 +321,7 @@
      "reason": "pts"
     },
     {
-     "player": "Rams",
+     "player": "L. Angeles",
      "pos": "DEF",
      "team": "LAR",
      "pts": 0.0,
@@ -392,7 +392,7 @@
      "game": "Sun 4:25 pm vs Jax"
     },
     {
-     "player": "Saints",
+     "player": "N. Orleans",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 4.13,
@@ -830,7 +830,7 @@
      "game": "Sun 1:00 pm vs Mia"
     },
     {
-     "player": "Bills",
+     "player": "Buffalo",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 10.78,
@@ -898,7 +898,7 @@
      "game": "Sun 1:00 pm vs Ari"
     },
     {
-     "player": "Chiefs",
+     "player": "K. City",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 9.99,
