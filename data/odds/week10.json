@@ -68,7 +68,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-12T03:37:06+00:00",
+  "ts": "2026-11-12T03:56:57+00:00",
   "week": 10,
   "matchups": [
    {
@@ -1257,7 +1257,7 @@
       "game": "Sun 1:00 pm @ GB"
      },
      {
-      "player": "49ers",
+      "player": "S. Francisco",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 5.0,
@@ -1358,7 +1358,7 @@
       "game": "Sun 1:00 pm @ GB"
      },
      {
-      "player": "Browns",
+      "player": "Cleveland",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 6.82,
