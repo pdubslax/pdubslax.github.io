@@ -68,7 +68,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-12T14:39:47+00:00",
+  "ts": "2026-11-12T14:59:38+00:00",
   "week": 10,
   "matchups": [
    {
@@ -297,7 +297,7 @@
     "leftScore": 0.0,
     "leftProj": 119.5,
     "rightScore": 0.0,
-    "rightProj": 114.59,
+    "rightProj": 114.56,
     "shotgun": [],
     "leftActive": [
      {
@@ -449,11 +449,11 @@
       "player": "G. Bernard",
       "pos": "WR",
       "slot": "W/R/T",
-      "rem": 9.82,
+      "rem": 9.79,
       "state": "pending",
       "pts": 0.0,
-      "proj": 9.82,
-      "live": 9.82,
+      "proj": 9.79,
+      "live": 9.79,
       "game": "Sun 8:20 pm @ Cin"
      },
      {
@@ -731,7 +731,7 @@
     "leftScore": 0.0,
     "leftProj": 122.24,
     "rightScore": 0.0,
-    "rightProj": 124.85,
+    "rightProj": 124.78,
     "shotgun": [],
     "leftActive": [
      {
@@ -861,11 +861,11 @@
       "player": "J. Warren",
       "pos": "RB",
       "slot": "RB",
-      "rem": 17.33,
+      "rem": 17.26,
       "state": "pending",
       "pts": 0.0,
-      "proj": 17.33,
-      "live": 17.33,
+      "proj": 17.26,
+      "live": 17.26,
       "game": "Sun 8:20 pm @ Cin"
      },
      {
@@ -1165,7 +1165,7 @@
     "leftScore": 0.0,
     "leftProj": 124.92,
     "rightScore": 0.0,
-    "rightProj": 124.21,
+    "rightProj": 124.17,
     "shotgun": [],
     "leftActive": [
      {
@@ -1317,11 +1317,11 @@
       "player": "DK Metcalf",
       "pos": "WR",
       "slot": "WR",
-      "rem": 11.66,
+      "rem": 11.62,
       "state": "pending",
       "pts": 0.0,
-      "proj": 11.66,
-      "live": 11.66,
+      "proj": 11.62,
+      "live": 11.62,
       "game": "Sun 8:20 pm @ Cin"
      },
      {
