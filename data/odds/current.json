@@ -68,7 +68,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-12T00:17:06+00:00",
+  "ts": "2026-11-12T00:36:58+00:00",
   "week": 10,
   "matchups": [
    {
@@ -78,9 +78,9 @@
     "right": "Sir this is a FF league",
     "rightRec": "4-5",
     "leftScore": 0.0,
-    "leftProj": 123.52,
+    "leftProj": 123.55,
     "rightScore": 0.0,
-    "rightProj": 118.9,
+    "rightProj": 118.87,
     "shotgun": [],
     "leftActive": [
      {
@@ -98,11 +98,11 @@
       "player": "M. Stafford",
       "pos": "QB",
       "slot": "QB",
-      "rem": 19.83,
+      "rem": 19.81,
       "state": "pending",
       "pts": 0.0,
-      "proj": 19.83,
-      "live": 19.83,
+      "proj": 19.81,
+      "live": 19.81,
       "game": "Sun 4:05 pm @ Ari"
      },
      {
@@ -131,11 +131,11 @@
       "player": "W. Marks",
       "pos": "RB",
       "slot": "RB",
-      "rem": 12.57,
+      "rem": 12.59,
       "state": "pending",
       "pts": 0.0,
-      "proj": 12.57,
-      "live": 12.57,
+      "proj": 12.59,
+      "live": 12.59,
       "game": "Sun 1:00 pm @ Cle"
      },
      {
@@ -153,11 +153,11 @@
       "player": "Texans",
       "pos": "DEF",
       "slot": "DEF",
-      "rem": 10.51,
+      "rem": 10.54,
       "state": "pending",
       "pts": 0.0,
-      "proj": 10.51,
-      "live": 10.51,
+      "proj": 10.54,
+      "live": 10.54,
       "game": "Sun 1:00 pm @ Cle"
      },
      {
@@ -210,11 +210,11 @@
       "player": "J. Jefferson",
       "pos": "WR",
       "slot": "WR",
-      "rem": 16.37,
+      "rem": 16.36,
       "state": "pending",
       "pts": 0.0,
-      "proj": 16.37,
-      "live": 16.37,
+      "proj": 16.36,
+      "live": 16.36,
       "game": "Sun 1:00 pm @ GB"
      },
      {
@@ -243,11 +243,11 @@
       "player": "B. Corum",
       "pos": "RB",
       "slot": "W/R/T",
-      "rem": 11.44,
+      "rem": 11.43,
       "state": "pending",
       "pts": 0.0,
-      "proj": 11.44,
-      "live": 11.44,
+      "proj": 11.43,
+      "live": 11.43,
       "game": "Sun 4:05 pm @ Ari"
      },
      {
@@ -276,11 +276,11 @@
       "player": "M. Gesicki",
       "pos": "TE",
       "slot": "TE",
-      "rem": 8.26,
+      "rem": 8.25,
       "state": "pending",
       "pts": 0.0,
-      "proj": 8.26,
-      "live": 8.26,
+      "proj": 8.25,
+      "live": 8.25,
       "game": "Sun 8:20 pm vs Pit"
      }
     ],
@@ -295,20 +295,20 @@
     "right": "RosterMogged",
     "rightRec": "4-5",
     "leftScore": 0.0,
-    "leftProj": 119.77,
+    "leftProj": 119.65,
     "rightScore": 0.0,
-    "rightProj": 114.79,
+    "rightProj": 114.77,
     "shotgun": [],
     "leftActive": [
      {
       "player": "D. Maye",
       "pos": "QB",
       "slot": "QB",
-      "rem": 25.61,
+      "rem": 25.62,
       "state": "pending",
       "pts": 0.0,
-      "proj": 25.61,
-      "live": 25.61,
+      "proj": 25.62,
+      "live": 25.62,
       "game": "Sun 9:30 am @ Det"
      },
      {
@@ -337,11 +337,11 @@
       "player": "C. Brown",
       "pos": "RB",
       "slot": "RB",
-      "rem": 14.44,
+      "rem": 14.53,
       "state": "pending",
       "pts": 0.0,
-      "proj": 14.44,
-      "live": 14.44,
+      "proj": 14.53,
+      "live": 14.53,
       "game": "Sun 8:20 pm vs Pit"
      },
      {
@@ -359,22 +359,22 @@
       "player": "D. Samuel Sr.",
       "pos": "WR",
       "slot": "WR",
-      "rem": 10.09,
+      "rem": 9.96,
       "state": "pending",
       "pts": 0.0,
-      "proj": 10.09,
-      "live": 10.09,
+      "proj": 9.96,
+      "live": 9.96,
       "game": "Sun 4:25 pm @ Dal"
      },
      {
       "player": "C. Kiner",
       "pos": "RB",
       "slot": "W/R/T",
-      "rem": 9.9,
+      "rem": 9.81,
       "state": "pending",
       "pts": 0.0,
-      "proj": 9.9,
-      "live": 9.9,
+      "proj": 9.81,
+      "live": 9.81,
       "game": "Sun 9:30 am @ Det"
      },
      {
@@ -416,11 +416,11 @@
       "player": "K. Walker III",
       "pos": "RB",
       "slot": "RB",
-      "rem": 22.64,
+      "rem": 22.62,
       "state": "pending",
       "pts": 0.0,
-      "proj": 22.64,
-      "live": 22.64,
+      "proj": 22.62,
+      "live": 22.62,
       "game": "Sun 1:00 pm @ Atl"
      },
      {
@@ -512,9 +512,9 @@
     "right": "Tuten Brown",
     "rightRec": "5-4",
     "leftScore": 0.0,
-    "leftProj": 131.91,
+    "leftProj": 131.72,
     "rightScore": 0.0,
-    "rightProj": 117.74,
+    "rightProj": 117.31,
     "shotgun": [],
     "leftActive": [
      {
@@ -532,22 +532,22 @@
       "player": "P. Mahomes",
       "pos": "QB",
       "slot": "QB",
-      "rem": 21.8,
+      "rem": 21.78,
       "state": "pending",
       "pts": 0.0,
-      "proj": 21.8,
-      "live": 21.8,
+      "proj": 21.78,
+      "live": 21.78,
       "game": "Sun 1:00 pm @ Atl"
      },
      {
       "player": "K. Williams",
       "pos": "RB",
       "slot": "RB",
-      "rem": 18.17,
+      "rem": 18.15,
       "state": "pending",
       "pts": 0.0,
-      "proj": 18.17,
-      "live": 18.17,
+      "proj": 18.15,
+      "live": 18.15,
       "game": "Sun 4:05 pm @ Ari"
      },
      {
@@ -573,26 +573,26 @@
       "game": "Sun 4:05 pm vs LAR"
      },
      {
-      "player": "S. Diggs",
-      "pos": "WR",
-      "slot": "WR",
-      "rem": 10.39,
-      "state": "pending",
-      "pts": 0.0,
-      "proj": 10.39,
-      "live": 10.39,
-      "game": "Thu 8:15 pm @ NYG"
-     },
-     {
       "player": "D. Boston",
       "pos": "WR",
       "slot": "W/R/T",
-      "rem": 10.33,
+      "rem": 10.31,
       "state": "pending",
       "pts": 0.0,
-      "proj": 10.33,
-      "live": 10.33,
+      "proj": 10.31,
+      "live": 10.31,
       "game": "Sun 1:00 pm vs Hou"
+     },
+     {
+      "player": "S. Diggs",
+      "pos": "WR",
+      "slot": "WR",
+      "rem": 10.26,
+      "state": "pending",
+      "pts": 0.0,
+      "proj": 10.26,
+      "live": 10.26,
+      "game": "Thu 8:15 pm @ NYG"
      },
      {
       "player": "W. Reichard",
@@ -696,17 +696,6 @@
       "game": "Sun 9:30 am @ Det"
      },
      {
-      "player": "W. Robinson",
-      "pos": "WR",
-      "slot": "WR",
-      "rem": 9.19,
-      "state": "pending",
-      "pts": 0.0,
-      "proj": 9.19,
-      "live": 9.19,
-      "game": "Sun 1:00 pm vs Jax"
-     },
-     {
       "player": "Rams",
       "pos": "DEF",
       "slot": "DEF",
@@ -716,6 +705,17 @@
       "proj": 8.96,
       "live": 8.96,
       "game": "Sun 4:05 pm @ Ari"
+     },
+     {
+      "player": "W. Robinson",
+      "pos": "WR",
+      "slot": "WR",
+      "rem": 8.76,
+      "state": "pending",
+      "pts": 0.0,
+      "proj": 8.76,
+      "live": 8.76,
+      "game": "Sun 1:00 pm vs Jax"
      }
     ],
     "leftPct": 61,
@@ -729,20 +729,20 @@
     "right": "James Ray Ervin Yonts",
     "rightRec": "6-3",
     "leftScore": 0.0,
-    "leftProj": 122.1,
+    "leftProj": 122.12,
     "rightScore": 0.0,
-    "rightProj": 123.92,
+    "rightProj": 123.95,
     "shotgun": [],
     "leftActive": [
      {
       "player": "C.J. Stroud",
       "pos": "QB",
       "slot": "QB",
-      "rem": 20.08,
+      "rem": 20.11,
       "state": "pending",
       "pts": 0.0,
-      "proj": 20.08,
-      "live": 20.08,
+      "proj": 20.11,
+      "live": 20.11,
       "game": "Sun 1:00 pm @ Cle"
      },
      {
@@ -826,11 +826,11 @@
       "player": "T. Atwell",
       "pos": "WR",
       "slot": "W/R/T",
-      "rem": 8.29,
+      "rem": 8.28,
       "state": "pending",
       "pts": 0.0,
-      "proj": 8.29,
-      "live": 8.29,
+      "proj": 8.28,
+      "live": 8.28,
       "game": "Sun 4:05 pm @ Ari"
      }
     ],
@@ -916,11 +916,11 @@
       "player": "K. Fairbairn",
       "pos": "K",
       "slot": "K",
-      "rem": 9.42,
+      "rem": 9.45,
       "state": "pending",
       "pts": 0.0,
-      "proj": 9.42,
-      "live": 9.42,
+      "proj": 9.45,
+      "live": 9.45,
       "game": "Sun 1:00 pm @ Cle"
      },
      {
@@ -946,7 +946,7 @@
     "right": "Alex Michael Pagels",
     "rightRec": "4-5",
     "leftScore": 0.0,
-    "leftProj": 120.67,
+    "leftProj": 120.69,
     "rightScore": 0.0,
     "rightProj": 111.47,
     "shotgun": [],
@@ -966,11 +966,11 @@
       "player": "J. Daniels",
       "pos": "QB",
       "slot": "QB",
-      "rem": 20.98,
+      "rem": 21.0,
       "state": "pending",
       "pts": 0.0,
-      "proj": 20.98,
-      "live": 20.98,
+      "proj": 21.0,
+      "live": 21.0,
       "game": "Thu 8:15 pm @ NYG"
      },
      {
@@ -1056,22 +1056,22 @@
       "player": "J. Burrow",
       "pos": "QB",
       "slot": "QB",
-      "rem": 24.63,
+      "rem": 24.61,
       "state": "pending",
       "pts": 0.0,
-      "proj": 24.63,
-      "live": 24.63,
+      "proj": 24.61,
+      "live": 24.61,
       "game": "Sun 8:20 pm vs Pit"
      },
      {
       "player": "T. Higgins",
       "pos": "WR",
       "slot": "W/R/T",
-      "rem": 16.6,
+      "rem": 16.59,
       "state": "pending",
       "pts": 0.0,
-      "proj": 16.6,
-      "live": 16.6,
+      "proj": 16.59,
+      "live": 16.59,
       "game": "Sun 8:20 pm vs Pit"
      },
      {
@@ -1122,11 +1122,11 @@
       "player": "D. Montgomery",
       "pos": "RB",
       "slot": "RB",
-      "rem": 8.29,
+      "rem": 8.32,
       "state": "pending",
       "pts": 0.0,
-      "proj": 8.29,
-      "live": 8.29,
+      "proj": 8.32,
+      "live": 8.32,
       "game": "Sun 1:00 pm @ Cle"
      },
      {
@@ -1163,9 +1163,9 @@
     "right": "Kiwis are better than mid",
     "rightRec": "6-3",
     "leftScore": 0.0,
-    "leftProj": 125.75,
+    "leftProj": 125.74,
     "rightScore": 0.0,
-    "rightProj": 124.27,
+    "rightProj": 124.26,
     "shotgun": [],
     "leftActive": [
      {
@@ -1194,11 +1194,11 @@
       "player": "C. Hubbard",
       "pos": "RB",
       "slot": "RB",
-      "rem": 18.19,
+      "rem": 18.18,
       "state": "pending",
       "pts": 0.0,
-      "proj": 18.19,
-      "live": 18.19,
+      "proj": 18.18,
+      "live": 18.18,
       "game": "Sun 1:00 pm @ NO"
      },
      {
@@ -1216,22 +1216,22 @@
       "player": "N. Collins",
       "pos": "WR",
       "slot": "WR",
-      "rem": 13.19,
+      "rem": 13.21,
       "state": "pending",
       "pts": 0.0,
-      "proj": 13.19,
-      "live": 13.19,
+      "proj": 13.21,
+      "live": 13.21,
       "game": "Sun 1:00 pm @ Cle"
      },
      {
       "player": "T. Pollard",
       "pos": "RB",
       "slot": "W/R/T",
-      "rem": 12.97,
+      "rem": 12.95,
       "state": "pending",
       "pts": 0.0,
-      "proj": 12.97,
-      "live": 12.97,
+      "proj": 12.95,
+      "live": 12.95,
       "game": "Sun 1:00 pm vs Jax"
      },
      {
@@ -1361,11 +1361,11 @@
       "player": "Browns",
       "pos": "DEF",
       "slot": "DEF",
-      "rem": 6.5,
+      "rem": 6.49,
       "state": "pending",
       "pts": 0.0,
-      "proj": 6.5,
-      "live": 6.5,
+      "proj": 6.49,
+      "live": 6.49,
       "game": "Sun 1:00 pm vs Hou"
      }
     ],
