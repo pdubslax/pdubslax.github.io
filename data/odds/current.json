@@ -68,7 +68,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-12T12:18:49+00:00",
+  "ts": "2026-11-12T12:38:40+00:00",
   "week": 10,
   "matchups": [
    {
@@ -731,7 +731,7 @@
     "leftScore": 0.0,
     "leftProj": 122.12,
     "rightScore": 0.0,
-    "rightProj": 123.54,
+    "rightProj": 124.79,
     "shotgun": [],
     "leftActive": [
      {
@@ -823,7 +823,7 @@
       "game": "Sun 4:05 pm @ Ari"
      },
      {
-      "player": "Seattle",
+      "player": "Seahawks",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 8.64,
@@ -924,18 +924,18 @@
       "game": "Sun 1:00 pm @ Cle"
      },
      {
-      "player": "L. Angeles",
+      "player": "Giants",
       "pos": "DEF",
       "slot": "DEF",
-      "rem": 6.98,
+      "rem": 8.23,
       "state": "pending",
       "pts": 0.0,
-      "proj": 6.98,
-      "live": 6.98,
-      "game": "Mon 8:15 pm @ Bal"
+      "proj": 8.23,
+      "live": 8.23,
+      "game": "Thu 8:15 pm vs Was"
      }
     ],
-    "leftPct": 49,
+    "leftPct": 48,
     "leftRem": 9,
     "rightRem": 9
    },
@@ -1257,7 +1257,7 @@
       "game": "Sun 1:00 pm @ GB"
      },
      {
-      "player": "49ers",
+      "player": "S. Francisco",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 5.01,
@@ -1358,7 +1358,7 @@
       "game": "Sun 1:00 pm @ GB"
      },
      {
-      "player": "Browns",
+      "player": "Cleveland",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 6.81,
