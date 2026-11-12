@@ -68,7 +68,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-12T23:20:34+00:00",
+  "ts": "2026-11-12T23:40:41+00:00",
   "week": 10,
   "matchups": [
    {
@@ -78,9 +78,9 @@
     "right": "Sir this is a FF league",
     "rightRec": "4-5",
     "leftScore": 0.0,
-    "leftProj": 120.53,
+    "leftProj": 120.55,
     "rightScore": 0.0,
-    "rightProj": 119.54,
+    "rightProj": 119.46,
     "shotgun": [],
     "leftActive": [
      {
@@ -109,22 +109,22 @@
       "player": "M. Golden",
       "pos": "WR",
       "slot": "WR",
-      "rem": 15.36,
+      "rem": 15.37,
       "state": "pending",
       "pts": 0.0,
-      "proj": 15.36,
-      "live": 15.36,
+      "proj": 15.37,
+      "live": 15.37,
       "game": "Sun 1:00 pm vs Min"
      },
      {
       "player": "J. Coker",
       "pos": "WR",
       "slot": "WR",
-      "rem": 12.13,
+      "rem": 12.14,
       "state": "pending",
       "pts": 0.0,
-      "proj": 12.13,
-      "live": 12.13,
+      "proj": 12.14,
+      "live": 12.14,
       "game": "Sun 1:00 pm @ NO"
      },
      {
@@ -188,11 +188,11 @@
       "player": "J. Love",
       "pos": "QB",
       "slot": "QB",
-      "rem": 20.24,
+      "rem": 20.16,
       "state": "pending",
       "pts": 0.0,
-      "proj": 20.24,
-      "live": 20.24,
+      "proj": 20.16,
+      "live": 20.16,
       "game": "Sun 1:00 pm vs Min"
      },
      {
@@ -295,9 +295,9 @@
     "right": "RosterMogged",
     "rightRec": "4-5",
     "leftScore": 0.0,
-    "leftProj": 118.99,
+    "leftProj": 119.0,
     "rightScore": 0.0,
-    "rightProj": 113.18,
+    "rightProj": 113.19,
     "shotgun": [],
     "leftActive": [
      {
@@ -326,11 +326,11 @@
       "player": "C. Watson",
       "pos": "WR",
       "slot": "WR",
-      "rem": 15.29,
+      "rem": 15.3,
       "state": "pending",
       "pts": 0.0,
-      "proj": 15.29,
-      "live": 15.29,
+      "proj": 15.3,
+      "live": 15.3,
       "game": "Sun 1:00 pm vs Min"
      },
      {
@@ -438,11 +438,11 @@
       "player": "R. Rice",
       "pos": "WR",
       "slot": "WR",
-      "rem": 12.66,
+      "rem": 12.67,
       "state": "pending",
       "pts": 0.0,
-      "proj": 12.66,
-      "live": 12.66,
+      "proj": 12.67,
+      "live": 12.67,
       "game": "Sun 1:00 pm @ Atl"
      },
      {
@@ -512,7 +512,7 @@
     "right": "Tuten Brown",
     "rightRec": "5-4",
     "leftScore": 0.0,
-    "leftProj": 131.7,
+    "leftProj": 131.61,
     "rightScore": 0.0,
     "rightProj": 114.77,
     "shotgun": [],
@@ -532,11 +532,11 @@
       "player": "P. Mahomes",
       "pos": "QB",
       "slot": "QB",
-      "rem": 21.84,
+      "rem": 21.74,
       "state": "pending",
       "pts": 0.0,
-      "proj": 21.84,
-      "live": 21.84,
+      "proj": 21.74,
+      "live": 21.74,
       "game": "Sun 1:00 pm @ Atl"
      },
      {
@@ -554,11 +554,11 @@
       "player": "T. McMillan",
       "pos": "WR",
       "slot": "WR",
-      "rem": 14.52,
+      "rem": 14.53,
       "state": "pending",
       "pts": 0.0,
-      "proj": 14.52,
-      "live": 14.52,
+      "proj": 14.53,
+      "live": 14.53,
       "game": "Sun 1:00 pm @ NO"
      },
      {
@@ -718,7 +718,7 @@
       "game": "Sun 1:00 pm vs Jax"
      }
     ],
-    "leftPct": 64,
+    "leftPct": 63,
     "leftRem": 9,
     "rightRem": 9
    },
@@ -731,7 +731,7 @@
     "leftScore": 0.0,
     "leftProj": 121.81,
     "rightScore": 0.0,
-    "rightProj": 124.84,
+    "rightProj": 124.85,
     "shotgun": [],
     "leftActive": [
      {
@@ -883,11 +883,11 @@
       "player": "T. Kelce",
       "pos": "TE",
       "slot": "TE",
-      "rem": 11.09,
+      "rem": 11.1,
       "state": "pending",
       "pts": 0.0,
-      "proj": 11.09,
-      "live": 11.09,
+      "proj": 11.1,
+      "live": 11.1,
       "game": "Sun 1:00 pm @ Atl"
      },
      {
@@ -1163,7 +1163,7 @@
     "right": "Kiwis are better than mid",
     "rightRec": "6-3",
     "leftScore": 0.0,
-    "leftProj": 124.48,
+    "leftProj": 124.49,
     "rightScore": 0.0,
     "rightProj": 122.92,
     "shotgun": [],
@@ -1194,11 +1194,11 @@
       "player": "C. Hubbard",
       "pos": "RB",
       "slot": "RB",
-      "rem": 17.42,
+      "rem": 17.43,
       "state": "pending",
       "pts": 0.0,
-      "proj": 17.42,
-      "live": 17.42,
+      "proj": 17.43,
+      "live": 17.43,
       "game": "Sun 1:00 pm @ NO"
      },
      {
