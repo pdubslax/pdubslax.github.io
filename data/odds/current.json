@@ -68,7 +68,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-12T20:20:40+00:00",
+  "ts": "2026-11-12T20:40:34+00:00",
   "week": 10,
   "matchups": [
    {
@@ -78,7 +78,7 @@
     "right": "Sir this is a FF league",
     "rightRec": "4-5",
     "leftScore": 0.0,
-    "leftProj": 124.46,
+    "leftProj": 121.74,
     "rightScore": 0.0,
     "rightProj": 119.43,
     "shotgun": [],
@@ -117,17 +117,6 @@
       "game": "Sun 1:00 pm vs Min"
      },
      {
-      "player": "W. Marks",
-      "pos": "RB",
-      "slot": "RB",
-      "rem": 14.07,
-      "state": "pending",
-      "pts": 0.0,
-      "proj": 14.07,
-      "live": 14.07,
-      "game": "Sun 1:00 pm @ Cle"
-     },
-     {
       "player": "J. Coker",
       "pos": "WR",
       "slot": "WR",
@@ -148,6 +137,17 @@
       "proj": 11.4,
       "live": 11.4,
       "game": "Sun 9:30 am vs NE"
+     },
+     {
+      "player": "W. Marks",
+      "pos": "RB",
+      "slot": "RB",
+      "rem": 11.35,
+      "state": "pending",
+      "pts": 0.0,
+      "proj": 11.35,
+      "live": 11.35,
+      "game": "Sun 1:00 pm @ Cle"
      },
      {
       "player": "Texans",
@@ -284,7 +284,7 @@
       "game": "Sun 8:20 pm vs Pit"
      }
     ],
-    "leftPct": 54,
+    "leftPct": 52,
     "leftRem": 9,
     "rightRem": 9
    },
@@ -297,7 +297,7 @@
     "leftScore": 0.0,
     "leftProj": 119.39,
     "rightScore": 0.0,
-    "rightProj": 114.48,
+    "rightProj": 114.59,
     "shotgun": [],
     "leftActive": [
      {
@@ -416,11 +416,11 @@
       "player": "K. Walker III",
       "pos": "RB",
       "slot": "RB",
-      "rem": 22.71,
+      "rem": 22.82,
       "state": "pending",
       "pts": 0.0,
-      "proj": 22.71,
-      "live": 22.71,
+      "proj": 22.82,
+      "live": 22.82,
       "game": "Sun 1:00 pm @ Atl"
      },
      {
@@ -512,31 +512,31 @@
     "right": "Tuten Brown",
     "rightRec": "5-4",
     "leftScore": 0.0,
-    "leftProj": 132.25,
+    "leftProj": 132.14,
     "rightScore": 0.0,
-    "rightProj": 115.9,
+    "rightProj": 115.73,
     "shotgun": [],
     "leftActive": [
      {
       "player": "J. Gibbs",
       "pos": "RB",
       "slot": "RB",
-      "rem": 24.92,
+      "rem": 24.93,
       "state": "pending",
       "pts": 0.0,
-      "proj": 24.92,
-      "live": 24.92,
+      "proj": 24.93,
+      "live": 24.93,
       "game": "Sun 9:30 am vs NE"
      },
      {
       "player": "P. Mahomes",
       "pos": "QB",
       "slot": "QB",
-      "rem": 22.05,
+      "rem": 21.93,
       "state": "pending",
       "pts": 0.0,
-      "proj": 22.05,
-      "live": 22.05,
+      "proj": 21.93,
+      "live": 21.93,
       "game": "Sun 1:00 pm @ Atl"
      },
      {
@@ -622,11 +622,11 @@
       "player": "T. Lawrence",
       "pos": "QB",
       "slot": "QB",
-      "rem": 22.96,
+      "rem": 22.92,
       "state": "pending",
       "pts": 0.0,
-      "proj": 22.96,
-      "live": 22.96,
+      "proj": 22.92,
+      "live": 22.92,
       "game": "Sun 1:00 pm @ Ten"
      },
      {
@@ -644,11 +644,11 @@
       "player": "B. Tuten",
       "pos": "RB",
       "slot": "RB",
-      "rem": 15.94,
+      "rem": 15.81,
       "state": "pending",
       "pts": 0.0,
-      "proj": 15.94,
-      "live": 15.94,
+      "proj": 15.81,
+      "live": 15.81,
       "game": "Sun 1:00 pm @ Ten"
      },
      {
@@ -687,7 +687,7 @@
      {
       "player": "D. Douglas",
       "pos": "WR",
-      "slot": "W/R/T",
+      "slot": "WR",
       "rem": 9.54,
       "state": "pending",
       "pts": 0.0,
@@ -709,7 +709,7 @@
      {
       "player": "W. Robinson",
       "pos": "WR",
-      "slot": "WR",
+      "slot": "W/R/T",
       "rem": 8.63,
       "state": "pending",
       "pts": 0.0,
@@ -729,7 +729,7 @@
     "right": "James Ray Ervin Yonts",
     "rightRec": "6-3",
     "leftScore": 0.0,
-    "leftProj": 122.04,
+    "leftProj": 121.84,
     "rightScore": 0.0,
     "rightProj": 124.72,
     "shotgun": [],
@@ -738,11 +738,11 @@
       "player": "C.J. Stroud",
       "pos": "QB",
       "slot": "QB",
-      "rem": 20.1,
+      "rem": 19.92,
       "state": "pending",
       "pts": 0.0,
-      "proj": 20.1,
-      "live": 20.1,
+      "proj": 19.92,
+      "live": 19.92,
       "game": "Sun 1:00 pm @ Cle"
      },
      {
@@ -771,11 +771,11 @@
       "player": "P. Washington",
       "pos": "WR",
       "slot": "WR",
-      "rem": 14.71,
+      "rem": 14.69,
       "state": "pending",
       "pts": 0.0,
-      "proj": 14.71,
-      "live": 14.71,
+      "proj": 14.69,
+      "live": 14.69,
       "game": "Sun 1:00 pm @ Ten"
      },
      {
@@ -948,7 +948,7 @@
     "leftScore": 0.0,
     "leftProj": 120.96,
     "rightScore": 0.0,
-    "rightProj": 105.26,
+    "rightProj": 109.85,
     "shotgun": [],
     "leftActive": [
      {
@@ -1130,6 +1130,17 @@
       "game": "Thu 8:15 pm @ NYG"
      },
      {
+      "player": "D. Montgomery",
+      "pos": "RB",
+      "slot": "RB",
+      "rem": 6.44,
+      "state": "pending",
+      "pts": 0.0,
+      "proj": 6.44,
+      "live": 6.44,
+      "game": "Sun 1:00 pm @ Cle"
+     },
+     {
       "player": "K. Johnson",
       "pos": "RB",
       "slot": "RB",
@@ -1139,20 +1150,9 @@
       "proj": 5.81,
       "live": 5.81,
       "game": "Sun 1:00 pm vs Min"
-     },
-     {
-      "player": "D. Montgomery",
-      "pos": "RB",
-      "slot": "RB",
-      "rem": 1.85,
-      "state": "pending",
-      "pts": 0.0,
-      "proj": 1.85,
-      "live": 1.85,
-      "game": "Sun 1:00 pm @ Cle"
      }
     ],
-    "leftPct": 63,
+    "leftPct": 59,
     "leftRem": 9,
     "rightRem": 9
    },
@@ -1163,7 +1163,7 @@
     "right": "Kiwis are better than mid",
     "rightRec": "6-3",
     "leftScore": 0.0,
-    "leftProj": 124.99,
+    "leftProj": 124.9,
     "rightScore": 0.0,
     "rightProj": 124.25,
     "shotgun": [],
@@ -1227,11 +1227,11 @@
       "player": "N. Collins",
       "pos": "WR",
       "slot": "WR",
-      "rem": 13.13,
+      "rem": 13.04,
       "state": "pending",
       "pts": 0.0,
-      "proj": 13.13,
-      "live": 13.13,
+      "proj": 13.04,
+      "live": 13.04,
       "game": "Sun 1:00 pm @ Cle"
      },
      {
