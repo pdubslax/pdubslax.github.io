@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 11,
- "ts": "2026-11-12T04:16:58+00:00",
+ "ts": "2026-11-12T04:37:48+00:00",
  "matchups": [
   {
    "id": "1v4",
@@ -74,7 +74,7 @@
      "reason": "pts"
     },
     {
-     "player": "Seahawks",
+     "player": "Seattle",
      "pos": "DEF",
      "team": "Sea",
      "pts": 0.0,
@@ -123,7 +123,7 @@
      "game": "Sun 1:00 pm vs TB"
     },
     {
-     "player": "Texans",
+     "player": "Houston",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 9.23,
@@ -830,7 +830,7 @@
      "game": "Sun 1:00 pm vs Mia"
     },
     {
-     "player": "Bills",
+     "player": "Buffalo",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 10.78,
@@ -898,7 +898,7 @@
      "game": "Sun 1:00 pm vs Ari"
     },
     {
-     "player": "Chiefs",
+     "player": "K. City",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 9.99,
