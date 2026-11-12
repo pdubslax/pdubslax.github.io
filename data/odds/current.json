@@ -68,7 +68,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-12T16:59:39+00:00",
+  "ts": "2026-11-12T17:19:48+00:00",
   "week": 10,
   "matchups": [
    {
@@ -295,7 +295,7 @@
     "right": "RosterMogged",
     "rightRec": "4-5",
     "leftScore": 0.0,
-    "leftProj": 119.38,
+    "leftProj": 119.39,
     "rightScore": 0.0,
     "rightProj": 114.5,
     "shotgun": [],
@@ -315,11 +315,11 @@
       "player": "D. Henry",
       "pos": "RB",
       "slot": "RB",
-      "rem": 17.76,
+      "rem": 17.77,
       "state": "pending",
       "pts": 0.0,
-      "proj": 17.76,
-      "live": 17.76,
+      "proj": 17.77,
+      "live": 17.77,
       "game": "Mon 8:15 pm vs LAC"
      },
      {
