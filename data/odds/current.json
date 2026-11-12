@@ -68,7 +68,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-12T01:56:58+00:00",
+  "ts": "2026-11-12T02:17:05+00:00",
   "week": 10,
   "matchups": [
    {
@@ -78,9 +78,9 @@
     "right": "Sir this is a FF league",
     "rightRec": "4-5",
     "leftScore": 0.0,
-    "leftProj": 123.63,
+    "leftProj": 123.46,
     "rightScore": 0.0,
-    "rightProj": 118.8,
+    "rightProj": 118.89,
     "shotgun": [],
     "leftActive": [
      {
@@ -153,11 +153,11 @@
       "player": "Texans",
       "pos": "DEF",
       "slot": "DEF",
-      "rem": 10.55,
+      "rem": 10.38,
       "state": "pending",
       "pts": 0.0,
-      "proj": 10.55,
-      "live": 10.55,
+      "proj": 10.38,
+      "live": 10.38,
       "game": "Sun 1:00 pm @ Cle"
      },
      {
@@ -265,11 +265,11 @@
       "player": "Colts",
       "pos": "DEF",
       "slot": "DEF",
-      "rem": 9.45,
+      "rem": 9.54,
       "state": "pending",
       "pts": 0.0,
-      "proj": 9.45,
-      "live": 9.45,
+      "proj": 9.54,
+      "live": 9.54,
       "game": "Sun 1:00 pm vs Mia"
      },
      {
@@ -295,9 +295,9 @@
     "right": "RosterMogged",
     "rightRec": "4-5",
     "leftScore": 0.0,
-    "leftProj": 119.42,
+    "leftProj": 119.5,
     "rightScore": 0.0,
-    "rightProj": 114.51,
+    "rightProj": 114.26,
     "shotgun": [],
     "leftActive": [
      {
@@ -392,11 +392,11 @@
       "player": "Saints",
       "pos": "DEF",
       "slot": "DEF",
-      "rem": 6.38,
+      "rem": 6.46,
       "state": "pending",
       "pts": 0.0,
-      "proj": 6.38,
-      "live": 6.38,
+      "proj": 6.46,
+      "live": 6.46,
       "game": "Sun 1:00 pm vs Car"
      }
     ],
@@ -493,15 +493,15 @@
       "player": "Chiefs",
       "pos": "DEF",
       "slot": "DEF",
-      "rem": 6.37,
+      "rem": 6.12,
       "state": "pending",
       "pts": 0.0,
-      "proj": 6.37,
-      "live": 6.37,
+      "proj": 6.12,
+      "live": 6.12,
       "game": "Sun 1:00 pm @ Atl"
      }
     ],
-    "leftPct": 54,
+    "leftPct": 55,
     "leftRem": 9,
     "rightRem": 9
    },
@@ -512,9 +512,9 @@
     "right": "Tuten Brown",
     "rightRec": "5-4",
     "leftScore": 0.0,
-    "leftProj": 132.29,
+    "leftProj": 132.4,
     "rightScore": 0.0,
-    "rightProj": 117.69,
+    "rightProj": 117.65,
     "shotgun": [],
     "leftActive": [
      {
@@ -606,14 +606,14 @@
       "game": "Sun 1:00 pm @ GB"
      },
      {
-      "player": "G. Bay",
+      "player": "Packers",
       "pos": "DEF",
       "slot": "DEF",
-      "rem": 8.82,
+      "rem": 8.93,
       "state": "pending",
       "pts": 0.0,
-      "proj": 8.82,
-      "live": 8.82,
+      "proj": 8.93,
+      "live": 8.93,
       "game": "Sun 1:00 pm vs Min"
      }
     ],
@@ -677,11 +677,11 @@
       "player": "T. Kraft",
       "pos": "TE",
       "slot": "TE",
-      "rem": 9.92,
+      "rem": 9.93,
       "state": "pending",
       "pts": 0.0,
-      "proj": 9.92,
-      "live": 9.92,
+      "proj": 9.93,
+      "live": 9.93,
       "game": "Sun 1:00 pm vs Min"
      },
      {
@@ -696,14 +696,14 @@
       "game": "Sun 9:30 am @ Det"
      },
      {
-      "player": "L. Angeles",
+      "player": "Rams",
       "pos": "DEF",
       "slot": "DEF",
-      "rem": 9.36,
+      "rem": 9.31,
       "state": "pending",
       "pts": 0.0,
-      "proj": 9.36,
-      "live": 9.36,
+      "proj": 9.31,
+      "live": 9.31,
       "game": "Sun 4:05 pm @ Ari"
      },
      {
@@ -729,9 +729,9 @@
     "right": "James Ray Ervin Yonts",
     "rightRec": "6-3",
     "leftScore": 0.0,
-    "leftProj": 122.17,
+    "leftProj": 122.0,
     "rightScore": 0.0,
-    "rightProj": 123.35,
+    "rightProj": 123.62,
     "shotgun": [],
     "leftActive": [
      {
@@ -812,14 +812,14 @@
       "game": "Sun 1:00 pm @ Ten"
      },
      {
-      "player": "Seattle",
+      "player": "Seahawks",
       "pos": "DEF",
       "slot": "DEF",
-      "rem": 8.81,
+      "rem": 8.64,
       "state": "pending",
       "pts": 0.0,
-      "proj": 8.81,
-      "live": 8.81,
+      "proj": 8.64,
+      "live": 8.64,
       "game": "Sun 4:05 pm @ LV"
      },
      {
@@ -894,11 +894,11 @@
       "player": "T. Allgeier",
       "pos": "RB",
       "slot": "RB",
-      "rem": 10.68,
+      "rem": 10.98,
       "state": "pending",
       "pts": 0.0,
-      "proj": 10.68,
-      "live": 10.68,
+      "proj": 10.98,
+      "live": 10.98,
       "game": "Sun 4:05 pm vs LAR"
      },
      {
@@ -924,14 +924,14 @@
       "game": "Sun 1:00 pm @ Cle"
      },
      {
-      "player": "L. Angeles",
+      "player": "Chargers",
       "pos": "DEF",
       "slot": "DEF",
-      "rem": 7.0,
+      "rem": 6.97,
       "state": "pending",
       "pts": 0.0,
-      "proj": 7.0,
-      "live": 7.0,
+      "proj": 6.97,
+      "live": 6.97,
       "game": "Mon 8:15 pm @ Bal"
      }
     ],
@@ -946,9 +946,9 @@
     "right": "Alex Michael Pagels",
     "rightRec": "4-5",
     "leftScore": 0.0,
-    "leftProj": 121.39,
+    "leftProj": 121.36,
     "rightScore": 0.0,
-    "rightProj": 111.21,
+    "rightProj": 111.2,
     "shotgun": [],
     "leftActive": [
      {
@@ -1040,14 +1040,14 @@
       "game": "Sun 1:00 pm @ NYJ"
      },
      {
-      "player": "Buffalo",
+      "player": "Bills",
       "pos": "DEF",
       "slot": "DEF",
-      "rem": 7.97,
+      "rem": 7.94,
       "state": "pending",
       "pts": 0.0,
-      "proj": 7.97,
-      "live": 7.97,
+      "proj": 7.94,
+      "live": 7.94,
       "game": "Sun 1:00 pm @ NYJ"
      }
     ],
@@ -1108,14 +1108,14 @@
       "game": "Sun 8:20 pm @ Cin"
      },
      {
-      "player": "Jacksonville",
+      "player": "Jaguars",
       "pos": "DEF",
       "slot": "DEF",
-      "rem": 9.1,
+      "rem": 9.08,
       "state": "pending",
       "pts": 0.0,
-      "proj": 9.1,
-      "live": 9.1,
+      "proj": 9.08,
+      "live": 9.08,
       "game": "Sun 1:00 pm @ Ten"
      },
      {
@@ -1144,11 +1144,11 @@
       "player": "K. Johnson",
       "pos": "RB",
       "slot": "RB",
-      "rem": 5.87,
+      "rem": 5.88,
       "state": "pending",
       "pts": 0.0,
-      "proj": 5.87,
-      "live": 5.87,
+      "proj": 5.88,
+      "live": 5.88,
       "game": "Sun 1:00 pm vs Min"
      }
     ],
@@ -1163,9 +1163,9 @@
     "right": "Kiwis are better than mid",
     "rightRec": "6-3",
     "leftScore": 0.0,
-    "leftProj": 125.24,
+    "leftProj": 124.82,
     "rightScore": 0.0,
-    "rightProj": 124.53,
+    "rightProj": 124.73,
     "shotgun": [],
     "leftActive": [
      {
@@ -1257,14 +1257,14 @@
       "game": "Sun 1:00 pm @ GB"
      },
      {
-      "player": "S. Francisco",
+      "player": "49ers",
       "pos": "DEF",
       "slot": "DEF",
-      "rem": 5.42,
+      "rem": 5.0,
       "state": "pending",
       "pts": 0.0,
-      "proj": 5.42,
-      "live": 5.42,
+      "proj": 5.0,
+      "live": 5.0,
       "game": "Sun 4:25 pm @ Dal"
      }
     ],
@@ -1358,18 +1358,18 @@
       "game": "Sun 1:00 pm @ GB"
      },
      {
-      "player": "Cleveland",
+      "player": "Browns",
       "pos": "DEF",
       "slot": "DEF",
-      "rem": 6.62,
+      "rem": 6.82,
       "state": "pending",
       "pts": 0.0,
-      "proj": 6.62,
-      "live": 6.62,
+      "proj": 6.82,
+      "live": 6.82,
       "game": "Sun 1:00 pm vs Hou"
      }
     ],
-    "leftPct": 51,
+    "leftPct": 50,
     "leftRem": 9,
     "rightRem": 9
    }
