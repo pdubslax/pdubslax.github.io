@@ -68,7 +68,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-12T11:38:48+00:00",
+  "ts": "2026-11-12T11:58:41+00:00",
   "week": 10,
   "matchups": [
    {
@@ -150,7 +150,7 @@
       "game": "Sun 9:30 am vs NE"
      },
      {
-      "player": "Houston",
+      "player": "Texans",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 10.37,
@@ -262,7 +262,7 @@
       "game": "Sun 8:20 pm vs Pit"
      },
      {
-      "player": "Indianapolis",
+      "player": "Colts",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 9.54,
@@ -606,7 +606,7 @@
       "game": "Sun 1:00 pm @ GB"
      },
      {
-      "player": "G. Bay",
+      "player": "Packers",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 8.95,
@@ -696,7 +696,7 @@
       "game": "Sun 9:30 am @ Det"
      },
      {
-      "player": "L. Angeles",
+      "player": "Rams",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 9.29,
@@ -823,7 +823,7 @@
       "game": "Sun 4:05 pm @ Ari"
      },
      {
-      "player": "Seattle",
+      "player": "Seahawks",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 8.64,
@@ -924,7 +924,7 @@
       "game": "Sun 1:00 pm @ Cle"
      },
      {
-      "player": "L. Angeles",
+      "player": "Chargers",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 6.98,
@@ -1040,7 +1040,7 @@
       "game": "Sun 1:00 pm @ NYJ"
      },
      {
-      "player": "Bills",
+      "player": "Buffalo",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 7.94,
@@ -1108,7 +1108,7 @@
       "game": "Sun 8:20 pm @ Cin"
      },
      {
-      "player": "Jaguars",
+      "player": "Jacksonville",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 9.08,
