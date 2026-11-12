@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 11,
- "ts": "2026-11-12T10:18:40+00:00",
+ "ts": "2026-11-12T10:58:41+00:00",
  "matchups": [
   {
    "id": "1v4",
@@ -10,7 +10,7 @@
    "right": "Matt #chubb69",
    "rightRec": "4-5",
    "leftScore": 0.0,
-   "leftProj": 57.22,
+   "leftProj": 57.27,
    "rightScore": 0.0,
    "rightProj": 110.65,
    "leftPct": 9,
@@ -104,11 +104,11 @@
      "player": "J. Coker",
      "pos": "WR",
      "slot": "WR",
-     "rem": 12.52,
+     "rem": 12.57,
      "state": "pending",
      "pts": 0.0,
-     "proj": 12.52,
-     "live": 12.52,
+     "proj": 12.57,
+     "live": 12.57,
      "game": "Sun 1:00 pm vs Bal"
     },
     {
@@ -243,7 +243,7 @@
    "right": "Tuten Brown",
    "rightRec": "5-4",
    "leftScore": 0.0,
-   "leftProj": 63.19,
+   "leftProj": 63.11,
    "rightScore": 0.0,
    "rightProj": 86.22,
    "leftPct": 26,
@@ -340,11 +340,11 @@
      "player": "D. Henry",
      "pos": "RB",
      "slot": "RB",
-     "rem": 17.58,
+     "rem": 17.5,
      "state": "pending",
      "pts": 0.0,
-     "proj": 17.58,
-     "live": 17.58,
+     "proj": 17.5,
+     "live": 17.5,
      "game": "Sun 1:00 pm @ Car"
     },
     {
@@ -479,9 +479,9 @@
    "right": "Zen Buddha Boys 🪷💨",
    "rightRec": "4-5",
    "leftScore": 0.0,
-   "leftProj": 95.79,
+   "leftProj": 95.85,
    "rightScore": 0.0,
-   "rightProj": 112.96,
+   "rightProj": 112.9,
    "leftPct": 36,
    "leftRem": 6,
    "rightRem": 8,
@@ -570,11 +570,11 @@
      "player": "T. McMillan",
      "pos": "WR",
      "slot": "WR",
-     "rem": 14.15,
+     "rem": 14.21,
      "state": "pending",
      "pts": 0.0,
-     "proj": 14.15,
-     "live": 14.15,
+     "proj": 14.21,
+     "live": 14.21,
      "game": "Sun 1:00 pm vs Bal"
     },
     {
@@ -638,11 +638,11 @@
      "player": "C. Hubbard",
      "pos": "RB",
      "slot": "RB",
-     "rem": 16.06,
+     "rem": 16.0,
      "state": "pending",
      "pts": 0.0,
-     "proj": 16.06,
-     "live": 16.06,
+     "proj": 16.0,
+     "live": 16.0,
      "game": "Sun 1:00 pm vs Bal"
     },
     {

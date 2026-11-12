@@ -68,7 +68,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-12T10:38:40+00:00",
+  "ts": "2026-11-12T10:58:48+00:00",
   "week": 10,
   "matchups": [
    {
@@ -150,7 +150,7 @@
       "game": "Sun 9:30 am vs NE"
      },
      {
-      "player": "Houston",
+      "player": "Texans",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 10.37,
@@ -262,7 +262,7 @@
       "game": "Sun 8:20 pm vs Pit"
      },
      {
-      "player": "Indianapolis",
+      "player": "Colts",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 9.54,
