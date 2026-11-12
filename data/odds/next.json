@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 11,
- "ts": "2026-11-12T21:00:34+00:00",
+ "ts": "2026-11-12T21:40:33+00:00",
  "matchups": [
   {
    "id": "1v4",
@@ -12,7 +12,7 @@
    "leftScore": 0.0,
    "leftProj": 57.3,
    "rightScore": 0.0,
-   "rightProj": 110.72,
+   "rightProj": 110.73,
    "leftPct": 9,
    "leftRem": 6,
    "rightRem": 7,
@@ -194,11 +194,11 @@
      "player": "A. Jeanty",
      "pos": "RB",
      "slot": "RB",
-     "rem": 13.08,
+     "rem": 13.09,
      "state": "pending",
      "pts": 0.0,
-     "proj": 13.08,
-     "live": 13.08,
+     "proj": 13.09,
+     "live": 13.09,
      "game": "Sun 4:25 pm @ Den"
     },
     {
@@ -941,7 +941,7 @@
    "leftScore": 0.0,
    "leftProj": 97.79,
    "rightScore": 0.0,
-   "rightProj": 110.27,
+   "rightProj": 110.28,
    "leftPct": 39,
    "leftRem": 7,
    "rightRem": 8,
@@ -1095,11 +1095,11 @@
      "player": "B. Bowers",
      "pos": "TE",
      "slot": "TE",
-     "rem": 14.31,
+     "rem": 14.32,
      "state": "pending",
      "pts": 0.0,
-     "proj": 14.31,
-     "live": 14.31,
+     "proj": 14.32,
+     "live": 14.32,
      "game": "Sun 4:25 pm @ Den"
     },
     {
