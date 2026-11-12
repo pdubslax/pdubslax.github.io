@@ -68,7 +68,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-12T11:58:41+00:00",
+  "ts": "2026-11-12T12:18:49+00:00",
   "week": 10,
   "matchups": [
    {
@@ -823,7 +823,7 @@
       "game": "Sun 4:05 pm @ Ari"
      },
      {
-      "player": "Seahawks",
+      "player": "Seattle",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 8.64,
@@ -924,7 +924,7 @@
       "game": "Sun 1:00 pm @ Cle"
      },
      {
-      "player": "Chargers",
+      "player": "L. Angeles",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 6.98,
@@ -1040,7 +1040,7 @@
       "game": "Sun 1:00 pm @ NYJ"
      },
      {
-      "player": "Buffalo",
+      "player": "Bills",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 7.94,
@@ -1108,7 +1108,7 @@
       "game": "Sun 8:20 pm @ Cin"
      },
      {
-      "player": "Jacksonville",
+      "player": "Jaguars",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 9.08,
