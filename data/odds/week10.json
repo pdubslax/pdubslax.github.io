@@ -68,7 +68,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-12T22:20:41+00:00",
+  "ts": "2026-11-12T22:40:33+00:00",
   "week": 10,
   "matchups": [
    {
@@ -295,7 +295,7 @@
     "right": "RosterMogged",
     "rightRec": "4-5",
     "leftScore": 0.0,
-    "leftProj": 119.02,
+    "leftProj": 119.0,
     "rightScore": 0.0,
     "rightProj": 113.38,
     "shotgun": [],
@@ -348,11 +348,11 @@
       "player": "I. Likely",
       "pos": "TE",
       "slot": "TE",
-      "rem": 10.64,
+      "rem": 10.62,
       "state": "pending",
       "pts": 0.0,
-      "proj": 10.64,
-      "live": 10.64,
+      "proj": 10.62,
+      "live": 10.62,
       "game": "Thu 8:15 pm vs Was"
      },
      {
@@ -512,7 +512,7 @@
     "right": "Tuten Brown",
     "rightRec": "5-4",
     "leftScore": 0.0,
-    "leftProj": 131.7,
+    "leftProj": 131.69,
     "rightScore": 0.0,
     "rightProj": 114.73,
     "shotgun": [],
@@ -587,11 +587,11 @@
       "player": "S. Diggs",
       "pos": "WR",
       "slot": "WR",
-      "rem": 9.89,
+      "rem": 9.88,
       "state": "pending",
       "pts": 0.0,
-      "proj": 9.89,
-      "live": 9.89,
+      "proj": 9.88,
+      "live": 9.88,
       "game": "Thu 8:15 pm @ NYG"
      },
      {
@@ -946,9 +946,9 @@
     "right": "Alex Michael Pagels",
     "rightRec": "4-5",
     "leftScore": 0.0,
-    "leftProj": 120.92,
+    "leftProj": 120.91,
     "rightScore": 0.0,
-    "rightProj": 109.53,
+    "rightProj": 109.51,
     "shotgun": [],
     "leftActive": [
      {
@@ -966,11 +966,11 @@
       "player": "J. Daniels",
       "pos": "QB",
       "slot": "QB",
-      "rem": 20.99,
+      "rem": 20.98,
       "state": "pending",
       "pts": 0.0,
-      "proj": 20.99,
-      "live": 20.99,
+      "proj": 20.98,
+      "live": 20.98,
       "game": "Thu 8:15 pm @ NYG"
      },
      {
@@ -1089,11 +1089,11 @@
       "player": "M. Nabers",
       "pos": "WR",
       "slot": "WR",
-      "rem": 14.28,
+      "rem": 14.26,
       "state": "pending",
       "pts": 0.0,
-      "proj": 14.28,
-      "live": 14.28,
+      "proj": 14.26,
+      "live": 14.26,
       "game": "Thu 8:15 pm vs Was"
      },
      {
