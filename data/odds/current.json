@@ -68,7 +68,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-12T01:37:06+00:00",
+  "ts": "2026-11-12T01:56:58+00:00",
   "week": 10,
   "matchups": [
    {
@@ -606,7 +606,7 @@
       "game": "Sun 1:00 pm @ GB"
      },
      {
-      "player": "Packers",
+      "player": "G. Bay",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 8.82,
@@ -696,7 +696,7 @@
       "game": "Sun 9:30 am @ Det"
      },
      {
-      "player": "Rams",
+      "player": "L. Angeles",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 9.36,
@@ -812,7 +812,7 @@
       "game": "Sun 1:00 pm @ Ten"
      },
      {
-      "player": "Seahawks",
+      "player": "Seattle",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 8.81,
@@ -924,7 +924,7 @@
       "game": "Sun 1:00 pm @ Cle"
      },
      {
-      "player": "Chargers",
+      "player": "L. Angeles",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 7.0,
@@ -1040,7 +1040,7 @@
       "game": "Sun 1:00 pm @ NYJ"
      },
      {
-      "player": "Bills",
+      "player": "Buffalo",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 7.97,
@@ -1108,7 +1108,7 @@
       "game": "Sun 8:20 pm @ Cin"
      },
      {
-      "player": "Jaguars",
+      "player": "Jacksonville",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 9.1,
@@ -1257,7 +1257,7 @@
       "game": "Sun 1:00 pm @ GB"
      },
      {
-      "player": "49ers",
+      "player": "S. Francisco",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 5.42,
@@ -1358,7 +1358,7 @@
       "game": "Sun 1:00 pm @ GB"
      },
      {
-      "player": "Browns",
+      "player": "Cleveland",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 6.62,
