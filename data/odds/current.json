@@ -68,7 +68,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-12T12:38:40+00:00",
+  "ts": "2026-11-12T12:58:48+00:00",
   "week": 10,
   "matchups": [
    {
@@ -147,7 +147,7 @@
       "pts": 0.0,
       "proj": 11.53,
       "live": 11.53,
-      "game": "Sun 9:30 am vs NE"
+      "game": "Sun 9:30 am vs NE"
      },
      {
       "player": "Texans",
@@ -237,7 +237,7 @@
       "pts": 0.0,
       "proj": 12.42,
       "live": 12.42,
-      "game": "Sun 9:30 am vs NE"
+      "game": "Sun 9:30 am vs NE"
      },
      {
       "player": "B. Corum",
@@ -309,7 +309,7 @@
       "pts": 0.0,
       "proj": 25.52,
       "live": 25.52,
-      "game": "Sun 9:30 am @ Det"
+      "game": "Sun 9:30 am @ Det"
      },
      {
       "player": "D. Henry",
@@ -375,7 +375,7 @@
       "pts": 0.0,
       "proj": 9.81,
       "live": 9.81,
-      "game": "Sun 9:30 am @ Det"
+      "game": "Sun 9:30 am @ Det"
      },
      {
       "player": "D. Zvada",
@@ -526,7 +526,7 @@
       "pts": 0.0,
       "proj": 24.92,
       "live": 24.92,
-      "game": "Sun 9:30 am vs NE"
+      "game": "Sun 9:30 am vs NE"
      },
      {
       "player": "P. Mahomes",
@@ -693,7 +693,7 @@
       "pts": 0.0,
       "proj": 9.54,
       "live": 9.54,
-      "game": "Sun 9:30 am @ Det"
+      "game": "Sun 9:30 am @ Det"
      },
      {
       "player": "Rams",
@@ -1188,7 +1188,7 @@
       "pts": 0.0,
       "proj": 19.33,
       "live": 19.33,
-      "game": "Sun 9:30 am vs NE"
+      "game": "Sun 9:30 am vs NE"
      },
      {
       "player": "C. Hubbard",
@@ -1257,7 +1257,7 @@
       "game": "Sun 1:00 pm @ GB"
      },
      {
-      "player": "S. Francisco",
+      "player": "49ers",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 5.01,
@@ -1358,7 +1358,7 @@
       "game": "Sun 1:00 pm @ GB"
      },
      {
-      "player": "Cleveland",
+      "player": "Browns",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 6.81,
