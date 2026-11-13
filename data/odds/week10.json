@@ -236942,7 +236942,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-13T14:23:06+00:00",
+  "ts": "2026-11-13T14:43:11+00:00",
   "week": 10,
   "matchups": [
    {
@@ -237241,7 +237241,7 @@
       "game": "Sun 4:25 pm @ Dal"
      },
      {
-      "player": "Saints",
+      "player": "N. Orleans",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 6.35,
@@ -237342,7 +237342,7 @@
       "game": "Sun 4:05 pm @ Ari"
      },
      {
-      "player": "Chiefs",
+      "player": "K. City",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 6.1,
@@ -237559,7 +237559,7 @@
     "right": "James Ray Ervin Yonts",
     "rightRec": "6-3",
     "leftScore": 0.0,
-    "leftProj": 121.66,
+    "leftProj": 121.67,
     "rightScore": 6.5,
     "rightProj": 123.19,
     "shotgun": [],
@@ -237568,11 +237568,11 @@
       "player": "C.J. Stroud",
       "pos": "QB",
       "slot": "QB",
-      "rem": 19.71,
+      "rem": 19.72,
       "state": "pending",
       "pts": 0.0,
-      "proj": 19.71,
-      "live": 19.71,
+      "proj": 19.72,
+      "live": 19.72,
       "game": "Sun 1:00 pm @ Cle"
      },
      {
