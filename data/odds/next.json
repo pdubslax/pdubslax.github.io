@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 11,
- "ts": "2026-11-13T02:45:24+00:00",
+ "ts": "2026-11-13T03:06:25+00:00",
  "matchups": [
   {
    "id": "1v4",
@@ -597,7 +597,7 @@
      "game": "Sun 8:20 pm @ SF"
     },
     {
-     "player": "Commanders",
+     "player": "Washington",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 4.36,
@@ -687,7 +687,7 @@
      "game": "Sun 8:20 pm @ SF"
     },
     {
-     "player": "49ers",
+     "player": "S. Francisco",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 7.32,
