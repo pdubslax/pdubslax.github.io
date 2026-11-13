@@ -236942,7 +236942,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-13T23:25:11+00:00",
+  "ts": "2026-11-13T23:45:02+00:00",
   "week": 10,
   "matchups": [
    {
@@ -236954,7 +236954,7 @@
     "leftScore": 0.0,
     "leftProj": 120.92,
     "rightScore": 0.0,
-    "rightProj": 121.79,
+    "rightProj": 121.78,
     "shotgun": [],
     "leftActive": [
      {
@@ -237073,11 +237073,11 @@
       "player": "J. Cook III",
       "pos": "RB",
       "slot": "RB",
-      "rem": 18.72,
+      "rem": 18.71,
       "state": "pending",
       "pts": 0.0,
-      "proj": 18.72,
-      "live": 18.72,
+      "proj": 18.71,
+      "live": 18.71,
       "game": "Sun 1:00 pm @ NYJ"
      },
      {
@@ -237169,9 +237169,9 @@
     "right": "RosterMogged",
     "rightRec": "4-5",
     "leftScore": 27.2,
-    "leftProj": 127.16,
+    "leftProj": 127.2,
     "rightScore": 0.0,
-    "rightProj": 111.83,
+    "rightProj": 111.92,
     "shotgun": [],
     "leftActive": [
      {
@@ -237233,11 +237233,11 @@
       "player": "D. Samuel Sr.",
       "pos": "WR",
       "slot": "WR",
-      "rem": 10.16,
+      "rem": 10.2,
       "state": "pending",
       "pts": 0.0,
-      "proj": 10.16,
-      "live": 10.16,
+      "proj": 10.2,
+      "live": 10.2,
       "game": "Sun 4:25 pm @ Dal"
      },
      {
@@ -237257,11 +237257,11 @@
       "player": "B. Purdy",
       "pos": "QB",
       "slot": "QB",
-      "rem": 25.12,
+      "rem": 25.11,
       "state": "pending",
       "pts": 0.0,
-      "proj": 25.12,
-      "live": 25.12,
+      "proj": 25.11,
+      "live": 25.11,
       "game": "Sun 4:25 pm @ Dal"
      },
      {
@@ -237301,11 +237301,11 @@
       "player": "G. Bernard",
       "pos": "WR",
       "slot": "W/R/T",
-      "rem": 9.93,
+      "rem": 10.03,
       "state": "pending",
       "pts": 0.0,
-      "proj": 9.93,
-      "live": 9.93,
+      "proj": 10.03,
+      "live": 10.03,
       "game": "Sun 8:20 pm @ Cin"
      },
      {
@@ -237364,9 +237364,9 @@
     "right": "Tuten Brown",
     "rightRec": "5-4",
     "leftScore": 22.8,
-    "leftProj": 135.57,
+    "leftProj": 135.56,
     "rightScore": 0.0,
-    "rightProj": 115.9,
+    "rightProj": 115.87,
     "shotgun": [],
     "leftActive": [
      {
@@ -237428,11 +237428,11 @@
       "player": "D. Boston",
       "pos": "WR",
       "slot": "W/R/T",
-      "rem": 10.35,
+      "rem": 10.34,
       "state": "pending",
       "pts": 0.0,
-      "proj": 10.35,
-      "live": 10.35,
+      "proj": 10.34,
+      "live": 10.34,
       "game": "Sun 1:00 pm vs Hou"
      },
      {
@@ -237463,11 +237463,11 @@
       "player": "J. Taylor",
       "pos": "RB",
       "slot": "RB",
-      "rem": 17.35,
+      "rem": 17.33,
       "state": "pending",
       "pts": 0.0,
-      "proj": 17.35,
-      "live": 17.35,
+      "proj": 17.33,
+      "live": 17.33,
       "game": "Sun 1:00 pm vs Mia"
      },
      {
@@ -237485,11 +237485,11 @@
       "player": "DJ Moore",
       "pos": "WR",
       "slot": "WR",
-      "rem": 11.79,
+      "rem": 11.78,
       "state": "pending",
       "pts": 0.0,
-      "proj": 11.79,
-      "live": 11.79,
+      "proj": 11.78,
+      "live": 11.78,
       "game": "Sun 1:00 pm @ NYJ"
      },
      {
@@ -237559,9 +237559,9 @@
     "right": "James Ray Ervin Yonts",
     "rightRec": "6-3",
     "leftScore": 0.0,
-    "leftProj": 121.98,
+    "leftProj": 121.99,
     "rightScore": 6.5,
-    "rightProj": 122.7,
+    "rightProj": 122.71,
     "shotgun": [],
     "leftActive": [
      {
@@ -237590,11 +237590,11 @@
       "player": "J. Williams",
       "pos": "RB",
       "slot": "RB",
-      "rem": 16.19,
+      "rem": 16.2,
       "state": "pending",
       "pts": 0.0,
-      "proj": 16.19,
-      "live": 16.19,
+      "proj": 16.2,
+      "live": 16.2,
       "game": "Sun 4:25 pm vs SF"
      },
      {
@@ -237669,11 +237669,11 @@
       "player": "D. Prescott",
       "pos": "QB",
       "slot": "QB",
-      "rem": 22.3,
+      "rem": 22.31,
       "state": "pending",
       "pts": 0.0,
-      "proj": 22.3,
-      "live": 22.3,
+      "proj": 22.31,
+      "live": 22.31,
       "game": "Sun 4:25 pm vs SF"
      },
      {
@@ -237765,7 +237765,7 @@
     "right": "Alex Michael Pagels",
     "rightRec": "4-5",
     "leftScore": 53.66,
-    "leftProj": 140.35,
+    "leftProj": 140.34,
     "rightScore": 9.8,
     "rightProj": 99.3,
     "shotgun": [],
@@ -237774,11 +237774,11 @@
       "player": "B. Robinson",
       "pos": "RB",
       "slot": "RB",
-      "rem": 22.03,
+      "rem": 22.02,
       "state": "pending",
       "pts": 0.0,
-      "proj": 22.03,
-      "live": 22.03,
+      "proj": 22.02,
+      "live": 22.02,
       "game": "Sun 1:00 pm vs KC"
      },
      {
@@ -237940,7 +237940,7 @@
     "leftScore": 0.0,
     "leftProj": 116.33,
     "rightScore": 7.7,
-    "rightProj": 120.44,
+    "rightProj": 120.4,
     "shotgun": [],
     "leftActive": [
      {
@@ -238037,22 +238037,22 @@
       "player": "J. Allen",
       "pos": "QB",
       "slot": "QB",
-      "rem": 26.69,
+      "rem": 26.66,
       "state": "pending",
       "pts": 0.0,
-      "proj": 26.69,
-      "live": 26.69,
+      "proj": 26.66,
+      "live": 26.66,
       "game": "Sun 1:00 pm @ NYJ"
      },
      {
       "player": "C. McCaffrey",
       "pos": "RB",
       "slot": "RB",
-      "rem": 21.3,
+      "rem": 21.29,
       "state": "pending",
       "pts": 0.0,
-      "proj": 21.3,
-      "live": 21.3,
+      "proj": 21.29,
+      "live": 21.29,
       "game": "Sun 4:25 pm @ Dal"
      },
      {
