@@ -236942,7 +236942,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-13T15:03:06+00:00",
+  "ts": "2026-11-13T15:23:13+00:00",
   "week": 10,
   "matchups": [
    {
@@ -237169,7 +237169,7 @@
     "right": "RosterMogged",
     "rightRec": "4-5",
     "leftScore": 27.2,
-    "leftProj": 126.82,
+    "leftProj": 126.8,
     "rightScore": 0.0,
     "rightProj": 113.47,
     "shotgun": [],
@@ -237233,11 +237233,11 @@
       "player": "D. Samuel Sr.",
       "pos": "WR",
       "slot": "WR",
-      "rem": 9.94,
+      "rem": 9.92,
       "state": "pending",
       "pts": 0.0,
-      "proj": 9.94,
-      "live": 9.94,
+      "proj": 9.92,
+      "live": 9.92,
       "game": "Sun 4:25 pm @ Dal"
      },
      {
@@ -237515,7 +237515,7 @@
       "game": "Sun 4:25 pm vs SF"
      },
      {
-      "player": "L. Angeles",
+      "player": "Rams",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 9.31,
@@ -237785,22 +237785,22 @@
       "player": "G. Kittle",
       "pos": "TE",
       "slot": "W/R/T",
-      "rem": 14.13,
+      "rem": 14.12,
       "state": "pending",
       "pts": 0.0,
-      "proj": 14.13,
-      "live": 14.13,
+      "proj": 14.12,
+      "live": 14.12,
       "game": "Sun 4:25 pm @ Dal"
      },
      {
       "player": "G. Pickens",
       "pos": "WR",
       "slot": "WR",
-      "rem": 13.37,
+      "rem": 13.38,
       "state": "pending",
       "pts": 0.0,
-      "proj": 13.37,
-      "live": 13.37,
+      "proj": 13.38,
+      "live": 13.38,
       "game": "Sun 4:25 pm vs SF"
      },
      {
@@ -237837,7 +237837,7 @@
       "game": "Sun 1:00 pm @ NYJ"
      },
      {
-      "player": "Buffalo",
+      "player": "Bills",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 8.07,
@@ -237894,7 +237894,7 @@
       "game": "Sun 8:20 pm @ Cin"
      },
      {
-      "player": "Jacksonville",
+      "player": "Jaguars",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 9.05,
@@ -238133,7 +238133,7 @@
       "game": "Sun 1:00 pm vs Hou"
      }
     ],
-    "leftPct": 53,
+    "leftPct": 54,
     "leftRem": 9,
     "rightRem": 8
    }

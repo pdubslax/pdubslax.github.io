@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 11,
- "ts": "2026-11-13T14:43:05+00:00",
+ "ts": "2026-11-13T15:23:05+00:00",
  "matchups": [
   {
    "id": "1v4",
@@ -245,7 +245,7 @@
    "leftScore": 0.0,
    "leftProj": 63.18,
    "rightScore": 0.0,
-   "rightProj": 85.81,
+   "rightProj": 85.77,
    "leftPct": 27,
    "leftRem": 6,
    "rightRem": 6,
@@ -441,11 +441,11 @@
      "player": "DJ Moore",
      "pos": "WR",
      "slot": "WR",
-     "rem": 12.81,
+     "rem": 12.77,
      "state": "pending",
      "pts": 0.0,
-     "proj": 12.81,
-     "live": 12.81,
+     "proj": 12.77,
+     "live": 12.77,
      "game": "Sun 1:00 pm vs Mia"
     },
     {
@@ -706,7 +706,7 @@
    "right": "RosterMogged",
    "rightRec": "4-5",
    "leftScore": 0.0,
-   "leftProj": 103.94,
+   "leftProj": 103.88,
    "rightScore": 0.0,
    "rightProj": 83.73,
    "leftPct": 69,
@@ -841,22 +841,22 @@
      "player": "D. Kincaid",
      "pos": "TE",
      "slot": "TE",
-     "rem": 10.21,
+     "rem": 10.18,
      "state": "pending",
      "pts": 0.0,
-     "proj": 10.21,
-     "live": 10.21,
+     "proj": 10.18,
+     "live": 10.18,
      "game": "Sun 1:00 pm vs Mia"
     },
     {
      "player": "K. Shakir",
      "pos": "WR",
      "slot": "WR",
-     "rem": 9.94,
+     "rem": 9.91,
      "state": "pending",
      "pts": 0.0,
-     "proj": 9.94,
-     "live": 9.94,
+     "proj": 9.91,
+     "live": 9.91,
      "game": "Sun 1:00 pm vs Mia"
     }
    ],
@@ -938,7 +938,7 @@
    "leftScore": 0.0,
    "leftProj": 97.88,
    "rightScore": 0.0,
-   "rightProj": 109.41,
+   "rightProj": 109.32,
    "leftPct": 40,
    "leftRem": 7,
    "rightRem": 8,
@@ -972,7 +972,7 @@
      "reason": "pts"
     },
     {
-     "player": "Cleveland",
+     "player": "Browns",
      "pos": "DEF",
      "team": "Cle",
      "pts": 0.0,
@@ -1054,7 +1054,7 @@
      "game": "Sun 1:00 pm @ KC"
     },
     {
-     "player": "N. York",
+     "player": "Giants",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 5.08,
@@ -1070,11 +1070,11 @@
      "player": "J. Allen",
      "pos": "QB",
      "slot": "QB",
-     "rem": 27.95,
+     "rem": 27.86,
      "state": "pending",
      "pts": 0.0,
-     "proj": 27.95,
-     "live": 27.95,
+     "proj": 27.86,
+     "live": 27.86,
      "game": "Sun 1:00 pm vs Mia"
     },
     {
@@ -1165,7 +1165,7 @@
    "leftScore": 0.0,
    "leftProj": 109.23,
    "rightScore": 0.0,
-   "rightProj": 83.7,
+   "rightProj": 83.64,
    "leftPct": 72,
    "leftRem": 8,
    "rightRem": 7,
@@ -1270,7 +1270,7 @@
      "game": "Thu 8:15 pm vs Ind"
     },
     {
-     "player": "Jacksonville",
+     "player": "Jaguars",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 9.45,
@@ -1308,11 +1308,11 @@
      "player": "J. Cook III",
      "pos": "RB",
      "slot": "RB",
-     "rem": 19.31,
+     "rem": 19.25,
      "state": "pending",
      "pts": 0.0,
-     "proj": 19.31,
-     "live": 19.31,
+     "proj": 19.25,
+     "live": 19.25,
      "game": "Sun 1:00 pm vs Mia"
     },
     {
@@ -1371,7 +1371,7 @@
      "game": "Mon 8:15 pm @ Was"
     },
     {
-     "player": "Indianapolis",
+     "player": "Colts",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 4.92,
