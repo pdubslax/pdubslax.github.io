@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 11,
- "ts": "2026-11-13T18:24:10+00:00",
+ "ts": "2026-11-13T19:04:11+00:00",
  "matchups": [
   {
    "id": "1v4",
@@ -10,7 +10,7 @@
    "right": "Matt #chubb69",
    "rightRec": "4-5",
    "leftScore": 0.0,
-   "leftProj": 57.32,
+   "leftProj": 57.26,
    "rightScore": 0.0,
    "rightProj": 110.86,
    "leftPct": 9,
@@ -104,11 +104,11 @@
      "player": "J. Coker",
      "pos": "WR",
      "slot": "WR",
-     "rem": 12.59,
+     "rem": 12.53,
      "state": "pending",
      "pts": 0.0,
-     "proj": 12.59,
-     "live": 12.59,
+     "proj": 12.53,
+     "live": 12.53,
      "game": "Sun 1:00 pm vs Bal"
     },
     {
@@ -243,7 +243,7 @@
    "right": "Tuten Brown",
    "rightRec": "5-4",
    "leftScore": 0.0,
-   "leftProj": 63.16,
+   "leftProj": 63.23,
    "rightScore": 0.0,
    "rightProj": 85.84,
    "leftPct": 27,
@@ -340,11 +340,11 @@
      "player": "D. Henry",
      "pos": "RB",
      "slot": "RB",
-     "rem": 17.51,
+     "rem": 17.58,
      "state": "pending",
      "pts": 0.0,
-     "proj": 17.51,
-     "live": 17.51,
+     "proj": 17.58,
+     "live": 17.58,
      "game": "Sun 1:00 pm @ Car"
     },
     {
@@ -479,9 +479,9 @@
    "right": "Zen Buddha Boys 🪷💨",
    "rightRec": "4-5",
    "leftScore": 0.0,
-   "leftProj": 100.02,
+   "leftProj": 99.96,
    "rightScore": 0.0,
-   "rightProj": 112.73,
+   "rightProj": 112.78,
    "leftPct": 39,
    "leftRem": 7,
    "rightRem": 8,
@@ -556,11 +556,11 @@
      "player": "T. McMillan",
      "pos": "WR",
      "slot": "WR",
-     "rem": 14.22,
+     "rem": 14.16,
      "state": "pending",
      "pts": 0.0,
-     "proj": 14.22,
-     "live": 14.22,
+     "proj": 14.16,
+     "live": 14.16,
      "game": "Sun 1:00 pm vs Bal"
     },
     {
@@ -635,11 +635,11 @@
      "player": "C. Hubbard",
      "pos": "RB",
      "slot": "RB",
-     "rem": 16.02,
+     "rem": 16.07,
      "state": "pending",
      "pts": 0.0,
-     "proj": 16.02,
-     "live": 16.02,
+     "proj": 16.07,
+     "live": 16.07,
      "game": "Sun 1:00 pm vs Bal"
     },
     {
