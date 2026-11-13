@@ -68,7 +68,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-12T23:40:41+00:00",
+  "ts": "2026-11-13T00:00:32+00:00",
   "week": 10,
   "matchups": [
    {
@@ -731,7 +731,7 @@
     "leftScore": 0.0,
     "leftProj": 121.81,
     "rightScore": 0.0,
-    "rightProj": 124.85,
+    "rightProj": 124.84,
     "shotgun": [],
     "leftActive": [
      {
@@ -927,11 +927,11 @@
       "player": "Giants",
       "pos": "DEF",
       "slot": "DEF",
-      "rem": 8.15,
+      "rem": 8.14,
       "state": "pending",
       "pts": 0.0,
-      "proj": 8.15,
-      "live": 8.15,
+      "proj": 8.14,
+      "live": 8.14,
       "game": "Thu 8:15 pm vs Was"
      }
     ],
