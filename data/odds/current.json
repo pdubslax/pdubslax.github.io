@@ -68,7 +68,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-13T00:00:32+00:00",
+  "ts": "2026-11-13T00:20:41+00:00",
   "week": 10,
   "matchups": [
    {
@@ -606,7 +606,7 @@
       "game": "Sun 1:00 pm @ GB"
      },
      {
-      "player": "Packers",
+      "player": "G. Bay",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 8.94,
@@ -696,7 +696,7 @@
       "game": "Sun 9:30 am @ Det"
      },
      {
-      "player": "Rams",
+      "player": "L. Angeles",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 9.3,
