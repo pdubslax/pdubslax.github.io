@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 11,
- "ts": "2026-11-13T00:41:25+00:00",
+ "ts": "2026-11-13T01:21:24+00:00",
  "matchups": [
   {
    "id": "1v4",
@@ -479,11 +479,11 @@
    "right": "Zen Buddha Boys 🪷💨",
    "rightRec": "4-5",
    "leftScore": 0.0,
-   "leftProj": 95.5,
+   "leftProj": 99.86,
    "rightScore": 0.0,
    "rightProj": 112.88,
-   "leftPct": 36,
-   "leftRem": 6,
+   "leftPct": 39,
+   "leftRem": 7,
    "rightRem": 8,
    "shotgun": [
     {
@@ -524,20 +524,6 @@
      "state": "bye",
      "slot": "K",
      "manager": "Zen Buddha Boys 🪷💨",
-     "locked": false,
-     "live": 0.0,
-     "reason": "pts"
-    },
-    {
-     "player": "Packers",
-     "pos": "DEF",
-     "team": "GB",
-     "pts": 0.0,
-     "game": "Bye",
-     "tag": null,
-     "state": "bye",
-     "slot": "DEF",
-     "manager": "Robotripping Gardener",
      "locked": false,
      "live": 0.0,
      "reason": "pts"
@@ -609,6 +595,17 @@
      "proj": 9.43,
      "live": 9.43,
      "game": "Sun 8:20 pm @ SF"
+    },
+    {
+     "player": "Commanders",
+     "pos": "DEF",
+     "slot": "DEF",
+     "rem": 4.36,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 4.36,
+     "live": 4.36,
+     "game": "Mon 8:15 pm vs Cin"
     }
    ],
    "rightActive": [
