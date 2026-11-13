@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 11,
- "ts": "2026-11-13T21:25:02+00:00",
+ "ts": "2026-11-13T22:05:03+00:00",
  "matchups": [
   {
    "id": "1v4",
@@ -827,7 +827,7 @@
      "game": "Sun 1:00 pm vs Mia"
     },
     {
-     "player": "Buffalo",
+     "player": "Bills",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 10.78,
@@ -895,7 +895,7 @@
      "game": "Sun 1:00 pm vs Ari"
     },
     {
-     "player": "K. City",
+     "player": "Chiefs",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 9.97,
@@ -972,7 +972,7 @@
      "reason": "pts"
     },
     {
-     "player": "Cleveland",
+     "player": "Browns",
      "pos": "DEF",
      "team": "Cle",
      "pts": 0.0,
@@ -1054,7 +1054,7 @@
      "game": "Sun 1:00 pm @ KC"
     },
     {
-     "player": "N. York",
+     "player": "Giants",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 5.06,
