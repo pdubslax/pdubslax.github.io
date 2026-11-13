@@ -236942,7 +236942,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-13T05:42:21+00:00",
+  "ts": "2026-11-13T06:02:13+00:00",
   "week": 10,
   "matchups": [
    {
@@ -236952,9 +236952,9 @@
     "right": "Sir this is a FF league",
     "rightRec": "4-5",
     "leftScore": 0.0,
-    "leftProj": 120.11,
+    "leftProj": 120.13,
     "rightScore": 0.0,
-    "rightProj": 119.16,
+    "rightProj": 119.15,
     "shotgun": [],
     "leftActive": [
      {
@@ -236983,11 +236983,11 @@
       "player": "M. Golden",
       "pos": "WR",
       "slot": "WR",
-      "rem": 15.36,
+      "rem": 15.38,
       "state": "pending",
       "pts": 0.0,
-      "proj": 15.36,
-      "live": 15.36,
+      "proj": 15.38,
+      "live": 15.38,
       "game": "Sun 1:00 pm vs Min"
      },
      {
@@ -237062,11 +237062,11 @@
       "player": "J. Love",
       "pos": "QB",
       "slot": "QB",
-      "rem": 20.14,
+      "rem": 20.15,
       "state": "pending",
       "pts": 0.0,
-      "proj": 20.14,
-      "live": 20.14,
+      "proj": 20.15,
+      "live": 20.15,
       "game": "Sun 1:00 pm vs Min"
      },
      {
@@ -237084,11 +237084,11 @@
       "player": "J. Jefferson",
       "pos": "WR",
       "slot": "WR",
-      "rem": 15.98,
+      "rem": 15.96,
       "state": "pending",
       "pts": 0.0,
-      "proj": 15.98,
-      "live": 15.98,
+      "proj": 15.96,
+      "live": 15.96,
       "game": "Sun 1:00 pm @ GB"
      },
      {
@@ -237169,7 +237169,7 @@
     "right": "RosterMogged",
     "rightRec": "4-5",
     "leftScore": 27.2,
-    "leftProj": 126.61,
+    "leftProj": 126.62,
     "rightScore": 0.0,
     "rightProj": 113.14,
     "shotgun": [],
@@ -237200,11 +237200,11 @@
       "player": "C. Watson",
       "pos": "WR",
       "slot": "WR",
-      "rem": 15.21,
+      "rem": 15.22,
       "state": "pending",
       "pts": 0.0,
-      "proj": 15.21,
-      "live": 15.21,
+      "proj": 15.22,
+      "live": 15.22,
       "game": "Sun 1:00 pm vs Min"
      },
      {
@@ -237767,7 +237767,7 @@
     "leftScore": 53.66,
     "leftProj": 140.68,
     "rightScore": 9.8,
-    "rightProj": 98.14,
+    "rightProj": 98.13,
     "shotgun": [],
     "leftActive": [
      {
@@ -237919,11 +237919,11 @@
       "player": "K. Johnson",
       "pos": "RB",
       "slot": "RB",
-      "rem": 5.82,
+      "rem": 5.81,
       "state": "pending",
       "pts": 0.0,
-      "proj": 5.82,
-      "live": 5.82,
+      "proj": 5.81,
+      "live": 5.81,
       "game": "Sun 1:00 pm vs Min"
      }
     ],
@@ -237938,9 +237938,9 @@
     "right": "Kiwis are better than mid",
     "rightRec": "6-3",
     "leftScore": 0.0,
-    "leftProj": 124.13,
+    "leftProj": 124.14,
     "rightScore": 7.7,
-    "rightProj": 119.8,
+    "rightProj": 119.81,
     "shotgun": [],
     "leftActive": [
      {
@@ -238024,11 +238024,11 @@
       "player": "T.J. Hockenson",
       "pos": "TE",
       "slot": "TE",
-      "rem": 9.54,
+      "rem": 9.55,
       "state": "pending",
       "pts": 0.0,
-      "proj": 9.54,
-      "live": 9.54,
+      "proj": 9.55,
+      "live": 9.55,
       "game": "Sun 1:00 pm @ GB"
      },
      {
@@ -238114,11 +238114,11 @@
       "player": "A. Jones Sr.",
       "pos": "RB",
       "slot": "W/R/T",
-      "rem": 9.13,
+      "rem": 9.14,
       "state": "pending",
       "pts": 0.0,
-      "proj": 9.13,
-      "live": 9.13,
+      "proj": 9.14,
+      "live": 9.14,
       "game": "Sun 1:00 pm @ GB"
      },
      {
