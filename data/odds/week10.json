@@ -236942,7 +236942,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-13T20:45:13+00:00",
+  "ts": "2026-11-13T21:05:02+00:00",
   "week": 10,
   "matchups": [
    {
@@ -237024,7 +237024,7 @@
       "game": "Sun 9:30 am vs NE"
      },
      {
-      "player": "Houston",
+      "player": "Texans",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 10.4,
@@ -237136,7 +237136,7 @@
       "game": "Sun 8:20 pm vs Pit"
      },
      {
-      "player": "Indianapolis",
+      "player": "Colts",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 9.56,
@@ -237241,7 +237241,7 @@
       "game": "Sun 4:25 pm @ Dal"
      },
      {
-      "player": "N. Orleans",
+      "player": "Saints",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 6.4,
@@ -237342,7 +237342,7 @@
       "game": "Sun 4:05 pm @ Ari"
      },
      {
-      "player": "K. City",
+      "player": "Chiefs",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 6.11,
@@ -237526,7 +237526,7 @@
       "game": "Sun 4:25 pm vs SF"
      },
      {
-      "player": "L. Angeles",
+      "player": "Rams",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 9.3,
@@ -237559,9 +237559,9 @@
     "right": "James Ray Ervin Yonts",
     "rightRec": "6-3",
     "leftScore": 0.0,
-    "leftProj": 121.73,
+    "leftProj": 121.72,
     "rightScore": 6.5,
-    "rightProj": 122.57,
+    "rightProj": 122.56,
     "shotgun": [],
     "leftActive": [
      {
@@ -237623,11 +237623,11 @@
       "player": "A. Jeanty",
       "pos": "RB",
       "slot": "RB",
-      "rem": 11.91,
+      "rem": 11.9,
       "state": "pending",
       "pts": 0.0,
-      "proj": 11.91,
-      "live": 11.91,
+      "proj": 11.9,
+      "live": 11.9,
       "game": "Sun 4:05 pm vs Sea"
      },
      {
@@ -237691,11 +237691,11 @@
       "player": "J. Warren",
       "pos": "RB",
       "slot": "RB",
-      "rem": 17.34,
+      "rem": 17.33,
       "state": "pending",
       "pts": 0.0,
-      "proj": 17.34,
-      "live": 17.34,
+      "proj": 17.33,
+      "live": 17.33,
       "game": "Sun 8:20 pm @ Cin"
      },
      {
@@ -237837,7 +237837,7 @@
       "game": "Sun 1:00 pm @ NYJ"
      },
      {
-      "player": "Buffalo",
+      "player": "Bills",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 8.08,
@@ -237894,7 +237894,7 @@
       "game": "Sun 8:20 pm @ Cin"
      },
      {
-      "player": "Jacksonville",
+      "player": "Jaguars",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 9.2,
@@ -237940,7 +237940,7 @@
     "leftScore": 0.0,
     "leftProj": 125.34,
     "rightScore": 7.7,
-    "rightProj": 119.53,
+    "rightProj": 119.52,
     "shotgun": [],
     "leftActive": [
      {
@@ -238092,11 +238092,11 @@
       "player": "DK Metcalf",
       "pos": "WR",
       "slot": "WR",
-      "rem": 11.75,
+      "rem": 11.74,
       "state": "pending",
       "pts": 0.0,
-      "proj": 11.75,
-      "live": 11.75,
+      "proj": 11.74,
+      "live": 11.74,
       "game": "Sun 8:20 pm @ Cin"
      },
      {
