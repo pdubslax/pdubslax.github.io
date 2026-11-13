@@ -236942,7 +236942,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-13T19:24:10+00:00",
+  "ts": "2026-11-13T19:44:21+00:00",
   "week": 10,
   "matchups": [
    {
@@ -236952,7 +236952,7 @@
     "right": "Lover boy",
     "rightRec": "4-5",
     "leftScore": 0.0,
-    "leftProj": 121.36,
+    "leftProj": 121.38,
     "rightScore": 0.0,
     "rightProj": 119.71,
     "shotgun": [],
@@ -237049,11 +237049,11 @@
       "player": "A. Estime",
       "pos": "RB",
       "slot": "RB",
-      "rem": 8.91,
+      "rem": 8.93,
       "state": "pending",
       "pts": 0.0,
-      "proj": 8.91,
-      "live": 8.91,
+      "proj": 8.93,
+      "live": 8.93,
       "game": "Sun 1:00 pm vs Car"
      }
     ],
@@ -237767,7 +237767,7 @@
     "leftScore": 53.66,
     "leftProj": 140.09,
     "rightScore": 9.8,
-    "rightProj": 98.59,
+    "rightProj": 98.62,
     "shotgun": [],
     "leftActive": [
      {
@@ -237875,11 +237875,11 @@
       "player": "C. Olave",
       "pos": "WR",
       "slot": "WR",
-      "rem": 16.08,
+      "rem": 16.11,
       "state": "pending",
       "pts": 0.0,
-      "proj": 16.08,
-      "live": 16.08,
+      "proj": 16.11,
+      "live": 16.11,
       "game": "Sun 1:00 pm vs Car"
      },
      {
@@ -237938,7 +237938,7 @@
     "right": "Kiwis are better than mid",
     "rightRec": "6-3",
     "leftScore": 0.0,
-    "leftProj": 125.33,
+    "leftProj": 125.38,
     "rightScore": 7.7,
     "rightProj": 119.53,
     "shotgun": [],
@@ -237947,11 +237947,11 @@
       "player": "T. Shough",
       "pos": "QB",
       "slot": "QB",
-      "rem": 22.41,
+      "rem": 22.46,
       "state": "pending",
       "pts": 0.0,
-      "proj": 22.41,
-      "live": 22.41,
+      "proj": 22.46,
+      "live": 22.46,
       "game": "Sun 1:00 pm vs Car"
      },
      {
