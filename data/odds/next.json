@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 11,
- "ts": "2026-11-13T20:45:02+00:00",
+ "ts": "2026-11-13T21:25:02+00:00",
  "matchups": [
   {
    "id": "1v4",
@@ -74,7 +74,7 @@
      "reason": "pts"
     },
     {
-     "player": "Seattle",
+     "player": "Seahawks",
      "pos": "DEF",
      "team": "Sea",
      "pts": 0.0,
@@ -123,7 +123,7 @@
      "game": "Sun 1:00 pm vs TB"
     },
     {
-     "player": "Houston",
+     "player": "Texans",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 9.23,
@@ -321,7 +321,7 @@
      "reason": "pts"
     },
     {
-     "player": "L. Angeles",
+     "player": "Rams",
      "pos": "DEF",
      "team": "LAR",
      "pts": 0.0,
@@ -392,7 +392,7 @@
      "game": "Sun 4:25 pm vs Jax"
     },
     {
-     "player": "N. Orleans",
+     "player": "Saints",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 4.13,
@@ -827,7 +827,7 @@
      "game": "Sun 1:00 pm vs Mia"
     },
     {
-     "player": "Bills",
+     "player": "Buffalo",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 10.78,
@@ -895,7 +895,7 @@
      "game": "Sun 1:00 pm vs Ari"
     },
     {
-     "player": "Chiefs",
+     "player": "K. City",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 9.97,
@@ -972,7 +972,7 @@
      "reason": "pts"
     },
     {
-     "player": "Browns",
+     "player": "Cleveland",
      "pos": "DEF",
      "team": "Cle",
      "pts": 0.0,
@@ -1054,7 +1054,7 @@
      "game": "Sun 1:00 pm @ KC"
     },
     {
-     "player": "Giants",
+     "player": "N. York",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 5.06,
@@ -1270,7 +1270,7 @@
      "game": "Thu 8:15 pm vs Ind"
     },
     {
-     "player": "Jacksonville",
+     "player": "Jaguars",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 9.47,
@@ -1371,7 +1371,7 @@
      "game": "Mon 8:15 pm @ Was"
     },
     {
-     "player": "Indianapolis",
+     "player": "Colts",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 4.92,
