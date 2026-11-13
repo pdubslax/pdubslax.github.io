@@ -236942,7 +236942,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-13T18:24:19+00:00",
+  "ts": "2026-11-13T18:44:11+00:00",
   "week": 10,
   "matchups": [
    {
@@ -237366,7 +237366,7 @@
     "leftScore": 22.8,
     "leftProj": 135.61,
     "rightScore": 0.0,
-    "rightProj": 115.82,
+    "rightProj": 115.83,
     "shotgun": [],
     "leftActive": [
      {
@@ -237463,11 +237463,11 @@
       "player": "J. Taylor",
       "pos": "RB",
       "slot": "RB",
-      "rem": 17.35,
+      "rem": 17.36,
       "state": "pending",
       "pts": 0.0,
-      "proj": 17.35,
-      "live": 17.35,
+      "proj": 17.36,
+      "live": 17.36,
       "game": "Sun 1:00 pm vs Mia"
      },
      {
@@ -237559,7 +237559,7 @@
     "right": "James Ray Ervin Yonts",
     "rightRec": "6-3",
     "leftScore": 0.0,
-    "leftProj": 121.62,
+    "leftProj": 121.63,
     "rightScore": 6.5,
     "rightProj": 122.67,
     "shotgun": [],
@@ -237612,11 +237612,11 @@
       "player": "T. Warren",
       "pos": "TE",
       "slot": "TE",
-      "rem": 12.34,
+      "rem": 12.35,
       "state": "pending",
       "pts": 0.0,
-      "proj": 12.34,
-      "live": 12.34,
+      "proj": 12.35,
+      "live": 12.35,
       "game": "Sun 1:00 pm vs Mia"
      },
      {
