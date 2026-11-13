@@ -236942,7 +236942,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-13T10:23:06+00:00",
+  "ts": "2026-11-13T10:43:13+00:00",
   "week": 10,
   "matchups": [
    {
@@ -236954,7 +236954,7 @@
     "leftScore": 0.0,
     "leftProj": 120.1,
     "rightScore": 0.0,
-    "rightProj": 119.22,
+    "rightProj": 119.49,
     "shotgun": [],
     "leftActive": [
      {
@@ -237073,11 +237073,11 @@
       "player": "J. Cook III",
       "pos": "RB",
       "slot": "RB",
-      "rem": 18.39,
+      "rem": 18.6,
       "state": "pending",
       "pts": 0.0,
-      "proj": 18.39,
-      "live": 18.39,
+      "proj": 18.6,
+      "live": 18.6,
       "game": "Sun 1:00 pm @ NYJ"
      },
      {
@@ -237095,11 +237095,11 @@
       "player": "B. Hall",
       "pos": "RB",
       "slot": "RB",
-      "rem": 13.23,
+      "rem": 13.29,
       "state": "pending",
       "pts": 0.0,
-      "proj": 13.23,
-      "live": 13.23,
+      "proj": 13.29,
+      "live": 13.29,
       "game": "Sun 1:00 pm vs Buf"
      },
      {
@@ -237366,7 +237366,7 @@
     "leftScore": 22.8,
     "leftProj": 135.39,
     "rightScore": 0.0,
-    "rightProj": 114.75,
+    "rightProj": 114.62,
     "shotgun": [],
     "leftActive": [
      {
@@ -237485,11 +237485,11 @@
       "player": "DJ Moore",
       "pos": "WR",
       "slot": "WR",
-      "rem": 12.0,
+      "rem": 11.87,
       "state": "pending",
       "pts": 0.0,
-      "proj": 12.0,
-      "live": 12.0,
+      "proj": 11.87,
+      "live": 11.87,
       "game": "Sun 1:00 pm @ NYJ"
      },
      {
@@ -237765,7 +237765,7 @@
     "right": "Alex Michael Pagels",
     "rightRec": "4-5",
     "leftScore": 53.66,
-    "leftProj": 140.69,
+    "leftProj": 140.49,
     "rightScore": 9.8,
     "rightProj": 98.13,
     "shotgun": [],
@@ -237818,22 +237818,22 @@
       "player": "D. Kincaid",
       "pos": "TE",
       "slot": "TE",
-      "rem": 9.81,
+      "rem": 9.71,
       "state": "pending",
       "pts": 0.0,
-      "proj": 9.81,
-      "live": 9.81,
+      "proj": 9.71,
+      "live": 9.71,
       "game": "Sun 1:00 pm @ NYJ"
      },
      {
       "player": "K. Shakir",
       "pos": "WR",
       "slot": "WR",
-      "rem": 9.51,
+      "rem": 9.41,
       "state": "pending",
       "pts": 0.0,
-      "proj": 9.51,
-      "live": 9.51,
+      "proj": 9.41,
+      "live": 9.41,
       "game": "Sun 1:00 pm @ NYJ"
      },
      {
@@ -237940,7 +237940,7 @@
     "leftScore": 0.0,
     "leftProj": 124.13,
     "rightScore": 7.7,
-    "rightProj": 119.82,
+    "rightProj": 119.6,
     "shotgun": [],
     "leftActive": [
      {
@@ -238048,11 +238048,11 @@
       "player": "J. Allen",
       "pos": "QB",
       "slot": "QB",
-      "rem": 26.9,
+      "rem": 26.81,
       "state": "pending",
       "pts": 0.0,
-      "proj": 26.9,
-      "live": 26.9,
+      "proj": 26.81,
+      "live": 26.81,
       "game": "Sun 1:00 pm @ NYJ"
      },
      {
@@ -238081,11 +238081,11 @@
       "player": "G. Wilson",
       "pos": "WR",
       "slot": "WR",
-      "rem": 12.83,
+      "rem": 12.7,
       "state": "pending",
       "pts": 0.0,
-      "proj": 12.83,
-      "live": 12.83,
+      "proj": 12.7,
+      "live": 12.7,
       "game": "Sun 1:00 pm vs Buf"
      },
      {

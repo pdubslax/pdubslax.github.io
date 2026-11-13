@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 11,
- "ts": "2026-11-13T10:22:14+00:00",
+ "ts": "2026-11-13T10:43:05+00:00",
  "matchups": [
   {
    "id": "1v4",
@@ -479,7 +479,7 @@
    "right": "Zen Buddha Boys 🪷💨",
    "rightRec": "4-5",
    "leftScore": 0.0,
-   "leftProj": 99.9,
+   "leftProj": 100.18,
    "rightScore": 0.0,
    "rightProj": 112.84,
    "leftPct": 39,
@@ -534,11 +534,11 @@
      "player": "P. Mahomes",
      "pos": "QB",
      "slot": "QB",
-     "rem": 23.55,
+     "rem": 23.72,
      "state": "pending",
      "pts": 0.0,
-     "proj": 23.55,
-     "live": 23.55,
+     "proj": 23.72,
+     "live": 23.72,
      "game": "Sun 1:00 pm vs Ari"
     },
     {
@@ -567,11 +567,11 @@
      "player": "T. McBride",
      "pos": "TE",
      "slot": "TE",
-     "rem": 12.89,
+     "rem": 13.0,
      "state": "pending",
      "pts": 0.0,
-     "proj": 12.89,
-     "live": 12.89,
+     "proj": 13.0,
+     "live": 13.0,
      "game": "Sun 1:00 pm @ KC"
     },
     {
@@ -708,7 +708,7 @@
    "leftScore": 0.0,
    "leftProj": 103.55,
    "rightScore": 0.0,
-   "rightProj": 83.73,
+   "rightProj": 83.71,
    "leftPct": 69,
    "leftRem": 8,
    "rightRem": 6,
@@ -865,11 +865,11 @@
      "player": "K. Walker III",
      "pos": "RB",
      "slot": "RB",
-     "rem": 23.94,
+     "rem": 23.78,
      "state": "pending",
      "pts": 0.0,
-     "proj": 23.94,
-     "live": 23.94,
+     "proj": 23.78,
+     "live": 23.78,
      "game": "Sun 1:00 pm vs Ari"
     },
     {
@@ -887,11 +887,11 @@
      "player": "R. Rice",
      "pos": "WR",
      "slot": "WR",
-     "rem": 12.54,
+     "rem": 12.68,
      "state": "pending",
      "pts": 0.0,
-     "proj": 12.54,
-     "live": 12.54,
+     "proj": 12.68,
+     "live": 12.68,
      "game": "Sun 1:00 pm vs Ari"
     },
     {
@@ -936,9 +936,9 @@
    "right": "Kiwis are better than mid",
    "rightRec": "6-3",
    "leftScore": 0.0,
-   "leftProj": 97.82,
+   "leftProj": 97.89,
    "rightScore": 0.0,
-   "rightProj": 109.35,
+   "rightProj": 109.31,
    "leftPct": 40,
    "leftRem": 7,
    "rightRem": 8,
@@ -1024,11 +1024,11 @@
      "player": "T. Kelce",
      "pos": "TE",
      "slot": "TE",
-     "rem": 11.07,
+     "rem": 11.2,
      "state": "pending",
      "pts": 0.0,
-     "proj": 11.07,
-     "live": 11.07,
+     "proj": 11.2,
+     "live": 11.2,
      "game": "Sun 1:00 pm vs Ari"
     },
     {
@@ -1046,11 +1046,11 @@
      "player": "T. Allgeier",
      "pos": "RB",
      "slot": "RB",
-     "rem": 9.53,
+     "rem": 9.47,
      "state": "pending",
      "pts": 0.0,
-     "proj": 9.53,
-     "live": 9.53,
+     "proj": 9.47,
+     "live": 9.47,
      "game": "Sun 1:00 pm @ KC"
     },
     {
@@ -1092,11 +1092,11 @@
      "player": "B. Bowers",
      "pos": "TE",
      "slot": "TE",
-     "rem": 14.32,
+     "rem": 14.28,
      "state": "pending",
      "pts": 0.0,
-     "proj": 14.32,
-     "live": 14.32,
+     "proj": 14.28,
+     "live": 14.28,
      "game": "Sun 4:25 pm @ Den"
     },
     {
