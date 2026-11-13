@@ -236942,7 +236942,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-13T08:22:19+00:00",
+  "ts": "2026-11-13T08:42:14+00:00",
   "week": 10,
   "matchups": [
    {
@@ -237241,7 +237241,7 @@
       "game": "Sun 9:30 am @ Det"
      },
      {
-      "player": "Saints",
+      "player": "N. Orleans",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 6.39,
@@ -237342,7 +237342,7 @@
       "game": "Sun 4:05 pm @ Ari"
      },
      {
-      "player": "Chiefs",
+      "player": "K. City",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 6.12,
@@ -237526,7 +237526,7 @@
       "game": "Sun 9:30 am @ Det"
      },
      {
-      "player": "Rams",
+      "player": "L. Angeles",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 9.3,
@@ -237559,7 +237559,7 @@
     "right": "James Ray Ervin Yonts",
     "rightRec": "6-3",
     "leftScore": 0.0,
-    "leftProj": 121.64,
+    "leftProj": 121.63,
     "rightScore": 6.5,
     "rightProj": 123.32,
     "shotgun": [],
@@ -237568,11 +237568,11 @@
       "player": "C.J. Stroud",
       "pos": "QB",
       "slot": "QB",
-      "rem": 19.83,
+      "rem": 19.82,
       "state": "pending",
       "pts": 0.0,
-      "proj": 19.83,
-      "live": 19.83,
+      "proj": 19.82,
+      "live": 19.82,
       "game": "Sun 1:00 pm @ Cle"
      },
      {
@@ -237938,7 +237938,7 @@
     "right": "Kiwis are better than mid",
     "rightRec": "6-3",
     "leftScore": 0.0,
-    "leftProj": 124.15,
+    "leftProj": 124.14,
     "rightScore": 7.7,
     "rightProj": 119.84,
     "shotgun": [],
@@ -238002,11 +238002,11 @@
       "player": "N. Collins",
       "pos": "WR",
       "slot": "WR",
-      "rem": 12.82,
+      "rem": 12.81,
       "state": "pending",
       "pts": 0.0,
-      "proj": 12.82,
-      "live": 12.82,
+      "proj": 12.81,
+      "live": 12.81,
       "game": "Sun 1:00 pm @ Cle"
      },
      {
