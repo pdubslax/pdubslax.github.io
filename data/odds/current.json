@@ -236942,7 +236942,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-13T16:04:11+00:00",
+  "ts": "2026-11-13T16:24:20+00:00",
   "week": 10,
   "matchups": [
    {
@@ -237366,7 +237366,7 @@
     "leftScore": 22.8,
     "leftProj": 135.5,
     "rightScore": 0.0,
-    "rightProj": 114.46,
+    "rightProj": 114.45,
     "shotgun": [],
     "leftActive": [
      {
@@ -237463,11 +237463,11 @@
       "player": "J. Taylor",
       "pos": "RB",
       "slot": "RB",
-      "rem": 17.33,
+      "rem": 17.32,
       "state": "pending",
       "pts": 0.0,
-      "proj": 17.33,
-      "live": 17.33,
+      "proj": 17.32,
+      "live": 17.32,
       "game": "Sun 1:00 pm vs Mia"
      },
      {
@@ -237559,7 +237559,7 @@
     "right": "James Ray Ervin Yonts",
     "rightRec": "6-3",
     "leftScore": 0.0,
-    "leftProj": 121.78,
+    "leftProj": 121.77,
     "rightScore": 6.5,
     "rightProj": 123.08,
     "shotgun": [],
@@ -237612,11 +237612,11 @@
       "player": "T. Warren",
       "pos": "TE",
       "slot": "TE",
-      "rem": 12.34,
+      "rem": 12.33,
       "state": "pending",
       "pts": 0.0,
-      "proj": 12.34,
-      "live": 12.34,
+      "proj": 12.33,
+      "live": 12.33,
       "game": "Sun 1:00 pm vs Mia"
      },
      {
@@ -237653,7 +237653,7 @@
       "game": "Sun 4:05 pm @ Ari"
      },
      {
-      "player": "Seahawks",
+      "player": "Seattle",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 8.64,
@@ -237938,7 +237938,7 @@
     "right": "Kiwis are better than mid",
     "rightRec": "6-3",
     "leftScore": 0.0,
-    "leftProj": 123.82,
+    "leftProj": 123.88,
     "rightScore": 7.7,
     "rightProj": 119.6,
     "shotgun": [],
@@ -237980,11 +237980,11 @@
       "player": "O. Gordon II",
       "pos": "RB",
       "slot": "RB",
-      "rem": 14.48,
+      "rem": 14.54,
       "state": "pending",
       "pts": 0.0,
-      "proj": 14.48,
-      "live": 14.48,
+      "proj": 14.54,
+      "live": 14.54,
       "game": "Sun 1:00 pm @ Ind"
      },
      {
