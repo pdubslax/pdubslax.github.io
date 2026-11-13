@@ -236942,7 +236942,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-13T22:25:03+00:00",
+  "ts": "2026-11-13T22:45:12+00:00",
   "week": 10,
   "matchups": [
    {
@@ -237169,7 +237169,7 @@
     "right": "RosterMogged",
     "rightRec": "4-5",
     "leftScore": 27.2,
-    "leftProj": 126.92,
+    "leftProj": 126.93,
     "rightScore": 0.0,
     "rightProj": 111.8,
     "shotgun": [],
@@ -237200,11 +237200,11 @@
       "player": "C. Watson",
       "pos": "WR",
       "slot": "WR",
-      "rem": 15.4,
+      "rem": 15.41,
       "state": "pending",
       "pts": 0.0,
-      "proj": 15.4,
-      "live": 15.4,
+      "proj": 15.41,
+      "live": 15.41,
       "game": "Sun 1:00 pm vs Min"
      },
      {
@@ -237938,7 +237938,7 @@
     "right": "Kiwis are better than mid",
     "rightRec": "6-3",
     "leftScore": 0.0,
-    "leftProj": 116.27,
+    "leftProj": 116.28,
     "rightScore": 7.7,
     "rightProj": 120.32,
     "shotgun": [],
@@ -237980,11 +237980,11 @@
       "player": "O. Gordon II",
       "pos": "RB",
       "slot": "RB",
-      "rem": 14.61,
+      "rem": 14.62,
       "state": "pending",
       "pts": 0.0,
-      "proj": 14.61,
-      "live": 14.61,
+      "proj": 14.62,
+      "live": 14.62,
       "game": "Sun 1:00 pm @ Ind"
      },
      {
