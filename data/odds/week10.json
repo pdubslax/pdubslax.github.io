@@ -236942,7 +236942,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-13T16:24:20+00:00",
+  "ts": "2026-11-13T16:44:10+00:00",
   "week": 10,
   "matchups": [
    {
@@ -236952,7 +236952,7 @@
     "right": "Sir this is a FF league",
     "rightRec": "4-5",
     "leftScore": 0.0,
-    "leftProj": 120.06,
+    "leftProj": 120.07,
     "rightScore": 0.0,
     "rightProj": 119.69,
     "shotgun": [],
@@ -237016,11 +237016,11 @@
       "player": "W. Marks",
       "pos": "RB",
       "slot": "RB",
-      "rem": 10.9,
+      "rem": 10.91,
       "state": "pending",
       "pts": 0.0,
-      "proj": 10.9,
-      "live": 10.9,
+      "proj": 10.91,
+      "live": 10.91,
       "game": "Sun 1:00 pm @ Cle"
      },
      {
@@ -237364,7 +237364,7 @@
     "right": "Tuten Brown",
     "rightRec": "5-4",
     "leftScore": 22.8,
-    "leftProj": 135.5,
+    "leftProj": 135.49,
     "rightScore": 0.0,
     "rightProj": 114.45,
     "shotgun": [],
@@ -237428,11 +237428,11 @@
       "player": "D. Boston",
       "pos": "WR",
       "slot": "W/R/T",
-      "rem": 10.33,
+      "rem": 10.32,
       "state": "pending",
       "pts": 0.0,
-      "proj": 10.33,
-      "live": 10.33,
+      "proj": 10.32,
+      "live": 10.32,
       "game": "Sun 1:00 pm vs Hou"
      },
      {
@@ -237559,7 +237559,7 @@
     "right": "James Ray Ervin Yonts",
     "rightRec": "6-3",
     "leftScore": 0.0,
-    "leftProj": 121.77,
+    "leftProj": 121.79,
     "rightScore": 6.5,
     "rightProj": 123.08,
     "shotgun": [],
@@ -237568,11 +237568,11 @@
       "player": "C.J. Stroud",
       "pos": "QB",
       "slot": "QB",
-      "rem": 19.72,
+      "rem": 19.74,
       "state": "pending",
       "pts": 0.0,
-      "proj": 19.72,
-      "live": 19.72,
+      "proj": 19.74,
+      "live": 19.74,
       "game": "Sun 1:00 pm @ Cle"
      },
      {
@@ -237653,7 +237653,7 @@
       "game": "Sun 4:05 pm @ Ari"
      },
      {
-      "player": "Seattle",
+      "player": "Seahawks",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 8.64,
@@ -237767,7 +237767,7 @@
     "leftScore": 53.66,
     "leftProj": 140.32,
     "rightScore": 9.8,
-    "rightProj": 98.34,
+    "rightProj": 98.36,
     "shotgun": [],
     "leftActive": [
      {
@@ -237908,11 +237908,11 @@
       "player": "D. Montgomery",
       "pos": "RB",
       "slot": "RB",
-      "rem": 7.13,
+      "rem": 7.15,
       "state": "pending",
       "pts": 0.0,
-      "proj": 7.13,
-      "live": 7.13,
+      "proj": 7.15,
+      "live": 7.15,
       "game": "Sun 1:00 pm @ Cle"
      },
      {
@@ -238032,7 +238032,7 @@
       "game": "Sun 1:00 pm @ GB"
      },
      {
-      "player": "49ers",
+      "player": "S. Francisco",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 5.0,
@@ -238122,7 +238122,7 @@
       "game": "Sun 1:00 pm @ GB"
      },
      {
-      "player": "Browns",
+      "player": "Cleveland",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 6.88,
