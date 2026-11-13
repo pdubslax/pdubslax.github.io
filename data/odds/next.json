@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 11,
- "ts": "2026-11-13T16:24:11+00:00",
+ "ts": "2026-11-13T17:04:11+00:00",
  "matchups": [
   {
    "id": "1v4",
@@ -74,7 +74,7 @@
      "reason": "pts"
     },
     {
-     "player": "Seahawks",
+     "player": "Seattle",
      "pos": "DEF",
      "team": "Sea",
      "pts": 0.0,
@@ -123,7 +123,7 @@
      "game": "Sun 1:00 pm vs TB"
     },
     {
-     "player": "Texans",
+     "player": "Houston",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 9.23,
@@ -827,7 +827,7 @@
      "game": "Sun 1:00 pm vs Mia"
     },
     {
-     "player": "Bills",
+     "player": "Buffalo",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 10.78,
@@ -895,7 +895,7 @@
      "game": "Sun 1:00 pm vs Ari"
     },
     {
-     "player": "Chiefs",
+     "player": "K. City",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 9.97,
@@ -1160,7 +1160,7 @@
    "id": "8v9",
    "left": "Alex Michael Pagels",
    "leftRec": "4-5",
-   "right": "Sir this is a FF league",
+   "right": "Lover boy",
    "rightRec": "4-5",
    "leftScore": 0.0,
    "leftProj": 109.23,
@@ -1179,7 +1179,7 @@
      "tag": null,
      "state": "bye",
      "slot": "QB",
-     "manager": "Sir this is a FF league",
+     "manager": "Lover boy",
      "locked": false,
      "live": 0.0,
      "reason": "pts"
@@ -1207,7 +1207,7 @@
      "tag": null,
      "state": "bye",
      "slot": "W/R/T",
-     "manager": "Sir this is a FF league",
+     "manager": "Lover boy",
      "locked": false,
      "live": 0.0,
      "reason": "pts"
