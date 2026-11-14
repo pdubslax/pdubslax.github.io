@@ -1,13 +1,13 @@
 {
  "v": 3,
  "week": 11,
- "ts": "2026-11-14T15:47:43+00:00",
+ "ts": "2026-11-14T16:27:43+00:00",
  "matchups": [
   {
    "id": "1v4",
    "left": "Nick Leif Erikson Barden",
    "leftRec": "4-5",
-   "right": "Matt #chubb69",
+   "right": "Chubb will Rise Again",
    "rightRec": "4-5",
    "leftScore": 0.0,
    "leftProj": 57.23,
@@ -68,13 +68,13 @@
      "tag": null,
      "state": "bye",
      "slot": "W/R/T",
-     "manager": "Matt #chubb69",
+     "manager": "Chubb will Rise Again",
      "locked": false,
      "live": 0.0,
      "reason": "pts"
     },
     {
-     "player": "Seattle",
+     "player": "Seahawks",
      "pos": "DEF",
      "team": "Sea",
      "pts": 0.0,
@@ -82,7 +82,7 @@
      "tag": null,
      "state": "bye",
      "slot": "DEF",
-     "manager": "Matt #chubb69",
+     "manager": "Chubb will Rise Again",
      "locked": false,
      "live": 0.0,
      "reason": "pts"
@@ -123,7 +123,7 @@
      "game": "Sun 1:00 pm vs TB"
     },
     {
-     "player": "Houston",
+     "player": "Texans",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 9.23,
@@ -321,7 +321,7 @@
      "reason": "pts"
     },
     {
-     "player": "Rams",
+     "player": "L. Angeles",
      "pos": "DEF",
      "team": "LAR",
      "pts": 0.0,
@@ -392,7 +392,7 @@
      "game": "Sun 4:25 pm vs Jax"
     },
     {
-     "player": "Saints",
+     "player": "N. Orleans",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 4.13,
@@ -1273,7 +1273,7 @@
      "game": "Thu 8:15 pm vs Ind"
     },
     {
-     "player": "Jaguars",
+     "player": "Jacksonville",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 9.47,
@@ -1374,7 +1374,7 @@
      "game": "Mon 8:15 pm @ Was"
     },
     {
-     "player": "Colts",
+     "player": "Indianapolis",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 4.92,
