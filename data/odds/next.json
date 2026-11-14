@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 11,
- "ts": "2026-11-14T23:10:04+00:00",
+ "ts": "2026-11-14T23:50:02+00:00",
  "matchups": [
   {
    "id": "1v4",
@@ -10,9 +10,9 @@
    "right": "Chubb will Rise Again",
    "rightRec": "4-5",
    "leftScore": 0.0,
-   "leftProj": 62.99,
+   "leftProj": 63.08,
    "rightScore": 0.0,
-   "rightProj": 110.33,
+   "rightProj": 110.38,
    "leftPct": 12,
    "leftRem": 6,
    "rightRem": 7,
@@ -137,11 +137,11 @@
      "player": "S. Shrader",
      "pos": "K",
      "slot": "K",
-     "rem": 8.7,
+     "rem": 8.79,
      "state": "pending",
      "pts": 0.0,
-     "proj": 8.7,
-     "live": 8.7,
+     "proj": 8.79,
+     "live": 8.79,
      "game": "Thu 8:15 pm @ Hou"
     },
     {
@@ -227,11 +227,11 @@
      "player": "C. Little",
      "pos": "K",
      "slot": "K",
-     "rem": 9.88,
+     "rem": 9.93,
      "state": "pending",
      "pts": 0.0,
-     "proj": 9.88,
-     "live": 9.88,
+     "proj": 9.93,
+     "live": 9.93,
      "game": "Sun 4:25 pm @ NYG"
     }
    ]
@@ -479,7 +479,7 @@
    "right": "Zen Buddha Boys 🪷💨",
    "rightRec": "4-5",
    "leftScore": 0.0,
-   "leftProj": 99.83,
+   "leftProj": 99.98,
    "rightScore": 0.0,
    "rightProj": 102.29,
    "leftPct": 48,
@@ -603,11 +603,11 @@
      "player": "W. Reichard",
      "pos": "K",
      "slot": "K",
-     "rem": 9.28,
+     "rem": 9.43,
      "state": "pending",
      "pts": 0.0,
-     "proj": 9.28,
-     "live": 9.28,
+     "proj": 9.43,
+     "live": 9.43,
      "game": "Sun 8:20 pm @ SF"
     },
     {
@@ -709,7 +709,7 @@
    "right": "RosterMogged",
    "rightRec": "4-5",
    "leftScore": 0.0,
-   "leftProj": 104.87,
+   "leftProj": 104.76,
    "rightScore": 0.0,
    "rightProj": 69.87,
    "leftPct": 83,
@@ -833,11 +833,11 @@
      "player": "T. Bass",
      "pos": "K",
      "slot": "K",
-     "rem": 10.6,
+     "rem": 10.49,
      "state": "pending",
      "pts": 0.0,
-     "proj": 10.6,
-     "live": 10.6,
+     "proj": 10.49,
+     "live": 10.49,
      "game": "Sun 1:00 pm vs Mia"
     },
     {

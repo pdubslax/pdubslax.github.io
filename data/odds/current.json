@@ -236942,7 +236942,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-14T23:30:02+00:00",
+  "ts": "2026-11-14T23:50:12+00:00",
   "week": 10,
   "matchups": [
    {
@@ -237171,7 +237171,7 @@
     "leftScore": 27.2,
     "leftProj": 126.97,
     "rightScore": 0.0,
-    "rightProj": 100.06,
+    "rightProj": 100.33,
     "shotgun": [],
     "leftActive": [
      {
@@ -237309,26 +237309,26 @@
       "game": "Mon 8:15 pm @ Bal"
      },
      {
-      "player": "M. Gay",
-      "pos": "K",
-      "slot": "K",
-      "rem": 8.11,
-      "state": "pending",
-      "pts": 0.0,
-      "proj": 8.11,
-      "live": 8.11,
-      "game": "Sun 4:05 pm vs Sea"
-     },
-     {
       "player": "K. Pitts Sr.",
       "pos": "TE",
       "slot": "TE",
-      "rem": 7.94,
+      "rem": 8.17,
       "state": "pending",
       "pts": 0.0,
-      "proj": 7.94,
-      "live": 7.94,
+      "proj": 8.17,
+      "live": 8.17,
       "game": "Sun 1:00 pm vs KC"
+     },
+     {
+      "player": "M. Gay",
+      "pos": "K",
+      "slot": "K",
+      "rem": 8.15,
+      "state": "pending",
+      "pts": 0.0,
+      "proj": 8.15,
+      "live": 8.15,
+      "game": "Sun 4:05 pm vs Sea"
      },
      {
       "player": "K. Mumpfield",
@@ -237561,7 +237561,7 @@
     "leftScore": 0.0,
     "leftProj": 121.2,
     "rightScore": 6.5,
-    "rightProj": 131.03,
+    "rightProj": 130.87,
     "shotgun": [],
     "leftActive": [
      {
@@ -237713,11 +237713,11 @@
       "player": "D. London",
       "pos": "WR",
       "slot": "WR",
-      "rem": 15.78,
+      "rem": 15.62,
       "state": "pending",
       "pts": 0.0,
-      "proj": 15.78,
-      "live": 15.78,
+      "proj": 15.62,
+      "live": 15.62,
       "game": "Sun 1:00 pm vs KC"
      },
      {
@@ -237765,7 +237765,7 @@
     "right": "Alex Michael Pagels",
     "rightRec": "4-5",
     "leftScore": 53.66,
-    "leftProj": 140.69,
+    "leftProj": 140.7,
     "rightScore": 9.8,
     "rightProj": 98.08,
     "shotgun": [],
@@ -237774,11 +237774,11 @@
       "player": "B. Robinson",
       "pos": "RB",
       "slot": "RB",
-      "rem": 22.33,
+      "rem": 22.34,
       "state": "pending",
       "pts": 0.0,
-      "proj": 22.33,
-      "live": 22.33,
+      "proj": 22.34,
+      "live": 22.34,
       "game": "Sun 1:00 pm vs KC"
      },
      {
@@ -237940,7 +237940,7 @@
     "leftScore": 0.0,
     "leftProj": 125.71,
     "rightScore": 7.7,
-    "rightProj": 119.95,
+    "rightProj": 119.78,
     "shotgun": [],
     "leftActive": [
      {
@@ -238103,11 +238103,11 @@
       "player": "E. Pineiro",
       "pos": "K",
       "slot": "K",
-      "rem": 9.78,
+      "rem": 9.61,
       "state": "pending",
       "pts": 0.0,
-      "proj": 9.78,
-      "live": 9.78,
+      "proj": 9.61,
+      "live": 9.61,
       "game": "Sun 4:25 pm @ Dal"
      },
      {
