@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 11,
- "ts": "2026-11-14T04:26:03+00:00",
+ "ts": "2026-11-14T05:06:02+00:00",
  "matchups": [
   {
    "id": "1v4",
@@ -265,6 +265,20 @@
      "reason": "pts"
     },
     {
+     "player": "C. Kiner",
+     "pos": "RB",
+     "team": "NE",
+     "pts": 0.0,
+     "game": "Bye",
+     "tag": null,
+     "state": "bye",
+     "slot": "RB",
+     "manager": "BDSM AI Stealth Founder",
+     "locked": false,
+     "live": 0.0,
+     "reason": "pts"
+    },
+    {
      "player": "C. Watson",
      "pos": "WR",
      "team": "GB",
@@ -307,20 +321,6 @@
      "reason": "pts"
     },
     {
-     "player": "C. Kiner",
-     "pos": "RB",
-     "team": "NE",
-     "pts": 0.0,
-     "game": "Bye",
-     "tag": null,
-     "state": "bye",
-     "slot": "W/R/T",
-     "manager": "BDSM AI Stealth Founder",
-     "locked": false,
-     "live": 0.0,
-     "reason": "pts"
-    },
-    {
      "player": "Rams",
      "pos": "DEF",
      "team": "LAR",
@@ -339,7 +339,7 @@
     {
      "player": "D. Henry",
      "pos": "RB",
-     "slot": "RB",
+     "slot": "W/R/T",
      "rem": 17.57,
      "state": "pending",
      "pts": 0.0,
