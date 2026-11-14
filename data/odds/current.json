@@ -236942,7 +236942,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-14T07:06:53+00:00",
+  "ts": "2026-11-14T07:27:00+00:00",
   "week": 10,
   "matchups": [
    {
@@ -237837,7 +237837,7 @@
       "game": "Sun 1:00 pm @ NYJ"
      },
      {
-      "player": "Buffalo",
+      "player": "Bills",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 8.09,
@@ -237894,7 +237894,7 @@
       "game": "Sun 8:20 pm @ Cin"
      },
      {
-      "player": "Jacksonville",
+      "player": "Jaguars",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 9.19,
@@ -238021,7 +238021,7 @@
       "game": "Sun 4:05 pm @ LV"
      },
      {
-      "player": "S. Francisco",
+      "player": "49ers",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 4.96,
@@ -238111,7 +238111,7 @@
       "game": "Sun 1:00 pm @ GB"
      },
      {
-      "player": "Cleveland",
+      "player": "Browns",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 6.84,
