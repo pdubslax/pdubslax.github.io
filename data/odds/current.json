@@ -236942,7 +236942,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-14T06:06:02+00:00",
+  "ts": "2026-11-14T06:26:12+00:00",
   "week": 10,
   "matchups": [
    {
@@ -237024,7 +237024,7 @@
       "game": "Sun 9:30 am vs NE"
      },
      {
-      "player": "Texans",
+      "player": "Houston",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 10.29,
@@ -237136,7 +237136,7 @@
       "game": "Sun 8:20 pm vs Pit"
      },
      {
-      "player": "Colts",
+      "player": "Indianapolis",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 9.58,
@@ -237241,7 +237241,7 @@
       "game": "Sun 4:25 pm @ Dal"
      },
      {
-      "player": "Saints",
+      "player": "N. Orleans",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 6.4,
@@ -237342,7 +237342,7 @@
       "game": "Sun 4:05 pm @ Ari"
      },
      {
-      "player": "Chiefs",
+      "player": "K. City",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 6.06,
@@ -237457,7 +237457,7 @@
       "pts": 0.0,
       "proj": 22.97,
       "live": 22.97,
-      "game": "Sun 1:00 pm @ Ten"
+      "game": "Sun 1:00 pm @ Ten"
      },
      {
       "player": "J. Taylor",
@@ -237479,7 +237479,7 @@
       "pts": 0.0,
       "proj": 15.49,
       "live": 15.49,
-      "game": "Sun 1:00 pm @ Ten"
+      "game": "Sun 1:00 pm @ Ten"
      },
      {
       "player": "DJ Moore",
@@ -237501,7 +237501,7 @@
       "pts": 0.0,
       "proj": 9.97,
       "live": 9.97,
-      "game": "Sun 1:00 pm vs Jax"
+      "game": "Sun 1:00 pm vs Jax"
      },
      {
       "player": "B. Aubrey",
@@ -237606,7 +237606,7 @@
       "pts": 0.0,
       "proj": 14.6,
       "live": 14.6,
-      "game": "Sun 1:00 pm @ Ten"
+      "game": "Sun 1:00 pm @ Ten"
      },
      {
       "player": "T. Warren",
@@ -237639,7 +237639,7 @@
       "pts": 0.0,
       "proj": 10.58,
       "live": 10.58,
-      "game": "Sun 1:00 pm @ Ten"
+      "game": "Sun 1:00 pm @ Ten"
      },
      {
       "player": "T. Atwell",
@@ -237902,7 +237902,7 @@
       "pts": 0.0,
       "proj": 9.19,
       "live": 9.19,
-      "game": "Sun 1:00 pm @ Ten"
+      "game": "Sun 1:00 pm @ Ten"
      },
      {
       "player": "D. Montgomery",
@@ -238007,7 +238007,7 @@
       "pts": 0.0,
       "proj": 13.12,
       "live": 13.12,
-      "game": "Sun 1:00 pm vs Jax"
+      "game": "Sun 1:00 pm vs Jax"
      },
      {
       "player": "J. Myers",
