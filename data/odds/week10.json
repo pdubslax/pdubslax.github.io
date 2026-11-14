@@ -236942,7 +236942,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-14T20:49:14+00:00",
+  "ts": "2026-11-14T21:09:08+00:00",
   "week": 10,
   "matchups": [
    {
@@ -237756,7 +237756,7 @@
     "leftScore": 53.66,
     "leftProj": 140.64,
     "rightScore": 9.8,
-    "rightProj": 98.12,
+    "rightProj": 98.09,
     "shotgun": [],
     "leftActive": [
      {
@@ -237842,22 +237842,22 @@
       "player": "J. Burrow",
       "pos": "QB",
       "slot": "QB",
-      "rem": 24.61,
+      "rem": 24.59,
       "state": "pending",
       "pts": 0.0,
-      "proj": 24.61,
-      "live": 24.61,
+      "proj": 24.59,
+      "live": 24.59,
       "game": "Sun 8:20 pm vs Pit"
      },
      {
       "player": "T. Higgins",
       "pos": "WR",
       "slot": "W/R/T",
-      "rem": 16.73,
+      "rem": 16.72,
       "state": "pending",
       "pts": 0.0,
-      "proj": 16.73,
-      "live": 16.73,
+      "proj": 16.72,
+      "live": 16.72,
       "game": "Sun 8:20 pm vs Pit"
      },
      {
