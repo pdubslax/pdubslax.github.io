@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 11,
- "ts": "2026-11-14T15:07:44+00:00",
+ "ts": "2026-11-14T15:47:43+00:00",
  "matchups": [
   {
    "id": "1v4",
@@ -321,7 +321,7 @@
      "reason": "pts"
     },
     {
-     "player": "L. Angeles",
+     "player": "Rams",
      "pos": "DEF",
      "team": "LAR",
      "pts": 0.0,
@@ -392,7 +392,7 @@
      "game": "Sun 4:25 pm vs Jax"
     },
     {
-     "player": "N. Orleans",
+     "player": "Saints",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 4.13,
@@ -481,10 +481,10 @@
    "leftScore": 0.0,
    "leftProj": 99.9,
    "rightScore": 0.0,
-   "rightProj": 113.42,
-   "leftPct": 39,
+   "rightProj": 103.04,
+   "leftPct": 47,
    "leftRem": 7,
-   "rightRem": 8,
+   "rightRem": 7,
    "shotgun": [
     {
      "player": "K. Williams",
@@ -496,6 +496,20 @@
      "state": "bye",
      "slot": "RB",
      "manager": "Robotripping Gardener",
+     "locked": false,
+     "live": 0.0,
+     "reason": "pts"
+    },
+    {
+     "player": "H. Henry",
+     "pos": "TE",
+     "team": "NE",
+     "pts": 0.0,
+     "game": "Bye",
+     "tag": null,
+     "state": "bye",
+     "slot": "TE",
+     "manager": "Zen Buddha Boys 🪷💨",
      "locked": false,
      "live": 0.0,
      "reason": "pts"
@@ -676,17 +690,6 @@
      "game": "Sun 1:00 pm @ Buf"
     },
     {
-     "player": "T.J. Hockenson",
-     "pos": "TE",
-     "slot": "TE",
-     "rem": 10.38,
-     "state": "pending",
-     "pts": 0.0,
-     "proj": 10.38,
-     "live": 10.38,
-     "game": "Sun 8:20 pm @ SF"
-    },
-    {
      "player": "49ers",
      "pos": "DEF",
      "slot": "DEF",
@@ -827,7 +830,7 @@
      "game": "Sun 1:00 pm vs Mia"
     },
     {
-     "player": "Buffalo",
+     "player": "Bills",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 10.78,
@@ -895,7 +898,7 @@
      "game": "Sun 1:00 pm vs Ari"
     },
     {
-     "player": "K. City",
+     "player": "Chiefs",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 9.97,
@@ -1270,7 +1273,7 @@
      "game": "Thu 8:15 pm vs Ind"
     },
     {
-     "player": "Jacksonville",
+     "player": "Jaguars",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 9.47,
@@ -1371,7 +1374,7 @@
      "game": "Mon 8:15 pm @ Was"
     },
     {
-     "player": "Indianapolis",
+     "player": "Colts",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 4.92,

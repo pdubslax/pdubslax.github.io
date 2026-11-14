@@ -236942,7 +236942,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-14T15:27:43+00:00",
+  "ts": "2026-11-14T15:47:52+00:00",
   "week": 10,
   "matchups": [
    {
@@ -237241,7 +237241,7 @@
       "game": "Sun 4:25 pm @ Dal"
      },
      {
-      "player": "Saints",
+      "player": "N. Orleans",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 6.4,
@@ -237342,7 +237342,7 @@
       "game": "Sun 4:05 pm @ Ari"
      },
      {
-      "player": "Chiefs",
+      "player": "K. City",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 6.05,
@@ -237653,7 +237653,7 @@
       "game": "Sun 4:05 pm @ Ari"
      },
      {
-      "player": "Seahawks",
+      "player": "Seattle",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 8.6,
@@ -237837,7 +237837,7 @@
       "game": "Sun 1:00 pm @ NYJ"
      },
      {
-      "player": "Bills",
+      "player": "Buffalo",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 8.09,
@@ -237894,7 +237894,7 @@
       "game": "Sun 8:20 pm @ Cin"
      },
      {
-      "player": "Jaguars",
+      "player": "Jacksonville",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 9.2,
@@ -237938,7 +237938,7 @@
     "right": "Kiwis are better than mid",
     "rightRec": "6-3",
     "leftScore": 0.0,
-    "leftProj": 116.26,
+    "leftProj": 125.05,
     "rightScore": 7.7,
     "rightProj": 120.12,
     "shotgun": [],
@@ -238019,6 +238019,17 @@
       "proj": 10.06,
       "live": 10.06,
       "game": "Sun 4:05 pm @ LV"
+     },
+     {
+      "player": "H. Henry",
+      "pos": "TE",
+      "slot": "TE",
+      "rem": 8.79,
+      "state": "pending",
+      "pts": 0.0,
+      "proj": 8.79,
+      "live": 8.79,
+      "game": "Sun 9:30 am @ Det"
      },
      {
       "player": "S. Francisco",
@@ -238122,7 +238133,7 @@
       "game": "Sun 1:00 pm vs Hou"
      }
     ],
-    "leftPct": 47,
+    "leftPct": 54,
     "leftRem": 9,
     "rightRem": 8
    }
