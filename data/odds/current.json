@@ -236942,7 +236942,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-14T17:29:15+00:00",
+  "ts": "2026-11-14T17:49:06+00:00",
   "week": 10,
   "matchups": [
    {
@@ -236952,7 +236952,7 @@
     "right": "Lover boy",
     "rightRec": "4-5",
     "leftScore": 0.0,
-    "leftProj": 117.29,
+    "leftProj": 111.15,
     "rightScore": 0.0,
     "rightProj": 120.14,
     "shotgun": [],
@@ -237044,17 +237044,6 @@
       "proj": 9.8,
       "live": 9.8,
       "game": "Sun 1:00 pm vs Mia"
-     },
-     {
-      "player": "A. Estime",
-      "pos": "RB",
-      "slot": "RB",
-      "rem": 6.14,
-      "state": "pending",
-      "pts": 0.0,
-      "proj": 6.14,
-      "live": 6.14,
-      "game": "Sun 1:00 pm vs Car"
      }
     ],
     "rightActive": [
@@ -237158,7 +237147,7 @@
       "game": "Sun 8:20 pm vs Pit"
      }
     ],
-    "leftPct": 48,
+    "leftPct": 43,
     "leftRem": 9,
     "rightRem": 9
    },
