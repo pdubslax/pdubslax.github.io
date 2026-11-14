@@ -236942,7 +236942,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-14T15:07:53+00:00",
+  "ts": "2026-11-14T15:27:43+00:00",
   "week": 10,
   "matchups": [
    {
@@ -237010,7 +237010,7 @@
       "pts": 0.0,
       "proj": 11.76,
       "live": 11.76,
-      "game": "Sun 1:00 pm @ Cle"
+      "game": "Sun 1:00 pm @ Cle"
      },
      {
       "player": "S. LaPorta",
@@ -237024,7 +237024,7 @@
       "game": "Sun 9:30 am vs NE"
      },
      {
-      "player": "Houston",
+      "player": "Texans",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 10.29,
@@ -237032,7 +237032,7 @@
       "pts": 0.0,
       "proj": 10.29,
       "live": 10.29,
-      "game": "Sun 1:00 pm @ Cle"
+      "game": "Sun 1:00 pm @ Cle"
      },
      {
       "player": "S. Shrader",
@@ -237078,7 +237078,7 @@
       "pts": 0.0,
       "proj": 18.71,
       "live": 18.71,
-      "game": "Sun 1:00 pm @ NYJ"
+      "game": "Sun 1:00 pm @ NYJ"
      },
      {
       "player": "J. Jefferson",
@@ -237100,7 +237100,7 @@
       "pts": 0.0,
       "proj": 13.35,
       "live": 13.35,
-      "game": "Sun 1:00 pm vs Buf"
+      "game": "Sun 1:00 pm vs Buf"
      },
      {
       "player": "J. Williams",
@@ -237133,10 +237133,10 @@
       "pts": 0.0,
       "proj": 9.93,
       "live": 9.93,
-      "game": "Sun 8:20 pm vs Pit"
+      "game": "Sun 8:20 pm vs Pit"
      },
      {
-      "player": "Indianapolis",
+      "player": "Colts",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 9.58,
@@ -237155,7 +237155,7 @@
       "pts": 0.0,
       "proj": 8.13,
       "live": 8.13,
-      "game": "Sun 8:20 pm vs Pit"
+      "game": "Sun 8:20 pm vs Pit"
      }
     ],
     "leftPct": 50,
@@ -237216,7 +237216,7 @@
       "pts": 0.0,
       "proj": 14.77,
       "live": 14.77,
-      "game": "Sun 8:20 pm vs Pit"
+      "game": "Sun 8:20 pm vs Pit"
      },
      {
       "player": "C. Kiner",
@@ -237306,7 +237306,7 @@
       "pts": 0.0,
       "proj": 10.05,
       "live": 10.05,
-      "game": "Sun 8:20 pm @ Cin"
+      "game": "Sun 8:20 pm @ Cin"
      },
      {
       "player": "M. Gay",
@@ -237433,7 +237433,7 @@
       "pts": 0.0,
       "proj": 10.38,
       "live": 10.38,
-      "game": "Sun 1:00 pm vs Hou"
+      "game": "Sun 1:00 pm vs Hou"
      },
      {
       "player": "W. Reichard",
@@ -237490,7 +237490,7 @@
       "pts": 0.0,
       "proj": 11.79,
       "live": 11.79,
-      "game": "Sun 1:00 pm @ NYJ"
+      "game": "Sun 1:00 pm @ NYJ"
      },
      {
       "player": "W. Robinson",
@@ -237526,7 +237526,7 @@
       "game": "Sun 1:00 pm vs Min"
      },
      {
-      "player": "L. Angeles",
+      "player": "Rams",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 9.34,
@@ -237573,7 +237573,7 @@
       "pts": 0.0,
       "proj": 19.85,
       "live": 19.85,
-      "game": "Sun 1:00 pm @ Cle"
+      "game": "Sun 1:00 pm @ Cle"
      },
      {
       "player": "J. Chase",
@@ -237584,7 +237584,7 @@
       "pts": 0.0,
       "proj": 19.04,
       "live": 19.04,
-      "game": "Sun 8:20 pm vs Pit"
+      "game": "Sun 8:20 pm vs Pit"
      },
      {
       "player": "J. Williams",
@@ -237653,7 +237653,7 @@
       "game": "Sun 4:05 pm @ Ari"
      },
      {
-      "player": "Seattle",
+      "player": "Seahawks",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 8.6,
@@ -237696,7 +237696,7 @@
       "pts": 0.0,
       "proj": 17.46,
       "live": 17.46,
-      "game": "Sun 8:20 pm @ Cin"
+      "game": "Sun 8:20 pm @ Cin"
      },
      {
       "player": "D. London",
@@ -237751,7 +237751,7 @@
       "pts": 0.0,
       "proj": 9.52,
       "live": 9.52,
-      "game": "Sun 1:00 pm @ Cle"
+      "game": "Sun 1:00 pm @ Cle"
      }
     ],
     "leftPct": 49,
@@ -237812,7 +237812,7 @@
       "pts": 0.0,
       "proj": 10.12,
       "live": 10.12,
-      "game": "Sun 1:00 pm @ NYJ"
+      "game": "Sun 1:00 pm @ NYJ"
      },
      {
       "player": "D. Kincaid",
@@ -237823,7 +237823,7 @@
       "pts": 0.0,
       "proj": 9.63,
       "live": 9.63,
-      "game": "Sun 1:00 pm @ NYJ"
+      "game": "Sun 1:00 pm @ NYJ"
      },
      {
       "player": "K. Shakir",
@@ -237834,10 +237834,10 @@
       "pts": 0.0,
       "proj": 9.33,
       "live": 9.33,
-      "game": "Sun 1:00 pm @ NYJ"
+      "game": "Sun 1:00 pm @ NYJ"
      },
      {
-      "player": "Buffalo",
+      "player": "Bills",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 8.09,
@@ -237845,7 +237845,7 @@
       "pts": 0.0,
       "proj": 8.09,
       "live": 8.09,
-      "game": "Sun 1:00 pm @ NYJ"
+      "game": "Sun 1:00 pm @ NYJ"
      }
     ],
     "rightActive": [
@@ -237858,7 +237858,7 @@
       "pts": 0.0,
       "proj": 24.61,
       "live": 24.61,
-      "game": "Sun 8:20 pm vs Pit"
+      "game": "Sun 8:20 pm vs Pit"
      },
      {
       "player": "T. Higgins",
@@ -237869,7 +237869,7 @@
       "pts": 0.0,
       "proj": 16.73,
       "live": 16.73,
-      "game": "Sun 8:20 pm vs Pit"
+      "game": "Sun 8:20 pm vs Pit"
      },
      {
       "player": "C. Olave",
@@ -237891,10 +237891,10 @@
       "pts": 0.0,
       "proj": 9.22,
       "live": 9.22,
-      "game": "Sun 8:20 pm @ Cin"
+      "game": "Sun 8:20 pm @ Cin"
      },
      {
-      "player": "Jacksonville",
+      "player": "Jaguars",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 9.2,
@@ -237913,7 +237913,7 @@
       "pts": 0.0,
       "proj": 8.05,
       "live": 8.05,
-      "game": "Sun 1:00 pm @ Cle"
+      "game": "Sun 1:00 pm @ Cle"
      },
      {
       "player": "K. Johnson",
@@ -237996,7 +237996,7 @@
       "pts": 0.0,
       "proj": 13.24,
       "live": 13.24,
-      "game": "Sun 1:00 pm @ Cle"
+      "game": "Sun 1:00 pm @ Cle"
      },
      {
       "player": "T. Pollard",
@@ -238021,7 +238021,7 @@
       "game": "Sun 4:05 pm @ LV"
      },
      {
-      "player": "49ers",
+      "player": "S. Francisco",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 4.96,
@@ -238042,7 +238042,7 @@
       "pts": 0.0,
       "proj": 26.67,
       "live": 26.67,
-      "game": "Sun 1:00 pm @ NYJ"
+      "game": "Sun 1:00 pm @ NYJ"
      },
      {
       "player": "C. McCaffrey",
@@ -238075,7 +238075,7 @@
       "pts": 0.0,
       "proj": 12.88,
       "live": 12.88,
-      "game": "Sun 1:00 pm vs Buf"
+      "game": "Sun 1:00 pm vs Buf"
      },
      {
       "player": "DK Metcalf",
@@ -238086,7 +238086,7 @@
       "pts": 0.0,
       "proj": 11.79,
       "live": 11.79,
-      "game": "Sun 8:20 pm @ Cin"
+      "game": "Sun 8:20 pm @ Cin"
      },
      {
       "player": "E. Pineiro",
@@ -238111,7 +238111,7 @@
       "game": "Sun 1:00 pm @ GB"
      },
      {
-      "player": "Browns",
+      "player": "Cleveland",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 6.84,
@@ -238119,7 +238119,7 @@
       "pts": 0.0,
       "proj": 6.84,
       "live": 6.84,
-      "game": "Sun 1:00 pm vs Hou"
+      "game": "Sun 1:00 pm vs Hou"
      }
     ],
     "leftPct": 47,
