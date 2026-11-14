@@ -236942,7 +236942,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-13T23:45:02+00:00",
+  "ts": "2026-11-14T00:05:12+00:00",
   "week": 10,
   "matchups": [
    {
@@ -236952,9 +236952,9 @@
     "right": "Lover boy",
     "rightRec": "4-5",
     "leftScore": 0.0,
-    "leftProj": 120.92,
+    "leftProj": 120.91,
     "rightScore": 0.0,
-    "rightProj": 121.78,
+    "rightProj": 121.83,
     "shotgun": [],
     "leftActive": [
      {
@@ -236983,11 +236983,11 @@
       "player": "M. Golden",
       "pos": "WR",
       "slot": "WR",
-      "rem": 15.5,
+      "rem": 15.49,
       "state": "pending",
       "pts": 0.0,
-      "proj": 15.5,
-      "live": 15.5,
+      "proj": 15.49,
+      "live": 15.49,
       "game": "Sun 1:00 pm vs Min"
      },
      {
@@ -237084,11 +237084,11 @@
       "player": "J. Jefferson",
       "pos": "WR",
       "slot": "WR",
-      "rem": 18.11,
+      "rem": 18.16,
       "state": "pending",
       "pts": 0.0,
-      "proj": 18.11,
-      "live": 18.11,
+      "proj": 18.16,
+      "live": 18.16,
       "game": "Sun 1:00 pm @ GB"
      },
      {
@@ -237366,7 +237366,7 @@
     "leftScore": 22.8,
     "leftProj": 135.56,
     "rightScore": 0.0,
-    "rightProj": 115.87,
+    "rightProj": 115.89,
     "shotgun": [],
     "leftActive": [
      {
@@ -237518,11 +237518,11 @@
       "player": "T. Kraft",
       "pos": "TE",
       "slot": "TE",
-      "rem": 9.81,
+      "rem": 9.83,
       "state": "pending",
       "pts": 0.0,
-      "proj": 9.81,
-      "live": 9.81,
+      "proj": 9.83,
+      "live": 9.83,
       "game": "Sun 1:00 pm vs Min"
      },
      {
@@ -237767,7 +237767,7 @@
     "leftScore": 53.66,
     "leftProj": 140.34,
     "rightScore": 9.8,
-    "rightProj": 99.3,
+    "rightProj": 99.28,
     "shotgun": [],
     "leftActive": [
      {
@@ -237919,11 +237919,11 @@
       "player": "K. Johnson",
       "pos": "RB",
       "slot": "RB",
-      "rem": 5.88,
+      "rem": 5.86,
       "state": "pending",
       "pts": 0.0,
-      "proj": 5.88,
-      "live": 5.88,
+      "proj": 5.86,
+      "live": 5.86,
       "game": "Sun 1:00 pm vs Min"
      }
     ],
@@ -237940,7 +237940,7 @@
     "leftScore": 0.0,
     "leftProj": 116.33,
     "rightScore": 7.7,
-    "rightProj": 120.4,
+    "rightProj": 120.39,
     "shotgun": [],
     "leftActive": [
      {
@@ -238103,11 +238103,11 @@
       "player": "A. Jones Sr.",
       "pos": "RB",
       "slot": "W/R/T",
-      "rem": 9.67,
+      "rem": 9.66,
       "state": "pending",
       "pts": 0.0,
-      "proj": 9.67,
-      "live": 9.67,
+      "proj": 9.66,
+      "live": 9.66,
       "game": "Sun 1:00 pm @ GB"
      },
      {

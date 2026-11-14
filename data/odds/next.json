@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 11,
- "ts": "2026-11-13T23:25:02+00:00",
+ "ts": "2026-11-14T00:05:03+00:00",
  "matchups": [
   {
    "id": "1v4",
@@ -479,9 +479,9 @@
    "right": "Zen Buddha Boys 🪷💨",
    "rightRec": "4-5",
    "leftScore": 0.0,
-   "leftProj": 99.97,
+   "leftProj": 99.93,
    "rightScore": 0.0,
-   "rightProj": 113.05,
+   "rightProj": 113.04,
    "leftPct": 39,
    "leftRem": 7,
    "rightRem": 8,
@@ -545,11 +545,11 @@
      "player": "J. Gibbs",
      "pos": "RB",
      "slot": "RB",
-     "rem": 23.33,
+     "rem": 23.29,
      "state": "pending",
      "pts": 0.0,
-     "proj": 23.33,
-     "live": 23.33,
+     "proj": 23.29,
+     "live": 23.29,
      "game": "Sun 1:00 pm vs TB"
     },
     {
@@ -624,11 +624,11 @@
      "player": "A. St. Brown",
      "pos": "WR",
      "slot": "WR",
-     "rem": 17.66,
+     "rem": 17.65,
      "state": "pending",
      "pts": 0.0,
-     "proj": 17.66,
-     "live": 17.66,
+     "proj": 17.65,
+     "live": 17.65,
      "game": "Sun 1:00 pm vs TB"
     },
     {
@@ -1165,7 +1165,7 @@
    "leftScore": 0.0,
    "leftProj": 109.2,
    "rightScore": 0.0,
-   "rightProj": 83.93,
+   "rightProj": 83.92,
    "leftPct": 72,
    "leftRem": 8,
    "rightRem": 7,
@@ -1341,11 +1341,11 @@
      "player": "J. Williams",
      "pos": "WR",
      "slot": "WR",
-     "rem": 11.24,
+     "rem": 11.23,
      "state": "pending",
      "pts": 0.0,
-     "proj": 11.24,
-     "live": 11.24,
+     "proj": 11.23,
+     "live": 11.23,
      "game": "Sun 1:00 pm vs TB"
     },
     {
