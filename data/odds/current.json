@@ -236942,7 +236942,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-14T01:46:14+00:00",
+  "ts": "2026-11-14T02:06:03+00:00",
   "week": 10,
   "matchups": [
    {
@@ -236952,9 +236952,9 @@
     "right": "Lover boy",
     "rightRec": "4-5",
     "leftScore": 0.0,
-    "leftProj": 121.1,
+    "leftProj": 120.99,
     "rightScore": 0.0,
-    "rightProj": 120.38,
+    "rightProj": 120.41,
     "shotgun": [],
     "leftActive": [
      {
@@ -237027,11 +237027,11 @@
       "player": "Texans",
       "pos": "DEF",
       "slot": "DEF",
-      "rem": 10.4,
+      "rem": 10.29,
       "state": "pending",
       "pts": 0.0,
-      "proj": 10.4,
-      "live": 10.4,
+      "proj": 10.29,
+      "live": 10.29,
       "game": "Sun 1:00 pm @ Cle"
      },
      {
@@ -237139,11 +237139,11 @@
       "player": "Colts",
       "pos": "DEF",
       "slot": "DEF",
-      "rem": 9.55,
+      "rem": 9.58,
       "state": "pending",
       "pts": 0.0,
-      "proj": 9.55,
-      "live": 9.55,
+      "proj": 9.58,
+      "live": 9.58,
       "game": "Sun 1:00 pm vs Mia"
      },
      {
@@ -237158,7 +237158,7 @@
       "game": "Sun 8:20 pm vs Pit"
      }
     ],
-    "leftPct": 51,
+    "leftPct": 50,
     "leftRem": 9,
     "rightRem": 9
    },
@@ -237171,7 +237171,7 @@
     "leftScore": 27.2,
     "leftProj": 127.27,
     "rightScore": 0.0,
-    "rightProj": 111.87,
+    "rightProj": 111.82,
     "shotgun": [],
     "leftActive": [
      {
@@ -237345,11 +237345,11 @@
       "player": "Chiefs",
       "pos": "DEF",
       "slot": "DEF",
-      "rem": 6.1,
+      "rem": 6.05,
       "state": "pending",
       "pts": 0.0,
-      "proj": 6.1,
-      "live": 6.1,
+      "proj": 6.05,
+      "live": 6.05,
       "game": "Sun 1:00 pm @ Atl"
      }
     ],
@@ -237366,7 +237366,7 @@
     "leftScore": 22.8,
     "leftProj": 135.64,
     "rightScore": 0.0,
-    "rightProj": 115.88,
+    "rightProj": 115.92,
     "shotgun": [],
     "leftActive": [
      {
@@ -237529,11 +237529,11 @@
       "player": "Rams",
       "pos": "DEF",
       "slot": "DEF",
-      "rem": 9.3,
+      "rem": 9.34,
       "state": "pending",
       "pts": 0.0,
-      "proj": 9.3,
-      "live": 9.3,
+      "proj": 9.34,
+      "live": 9.34,
       "game": "Sun 4:05 pm @ Ari"
      },
      {
@@ -237559,7 +237559,7 @@
     "right": "James Ray Ervin Yonts",
     "rightRec": "6-3",
     "leftScore": 0.0,
-    "leftProj": 121.9,
+    "leftProj": 121.86,
     "rightScore": 6.5,
     "rightProj": 122.81,
     "shotgun": [],
@@ -237656,11 +237656,11 @@
       "player": "Seahawks",
       "pos": "DEF",
       "slot": "DEF",
-      "rem": 8.65,
+      "rem": 8.61,
       "state": "pending",
       "pts": 0.0,
-      "proj": 8.65,
-      "live": 8.65,
+      "proj": 8.61,
+      "live": 8.61,
       "game": "Sun 4:05 pm @ LV"
      }
     ],
@@ -237938,9 +237938,9 @@
     "right": "Kiwis are better than mid",
     "rightRec": "6-3",
     "leftScore": 0.0,
-    "leftProj": 116.21,
+    "leftProj": 116.16,
     "rightScore": 7.7,
-    "rightProj": 120.12,
+    "rightProj": 120.13,
     "shotgun": [],
     "leftActive": [
      {
@@ -238024,11 +238024,11 @@
       "player": "49ers",
       "pos": "DEF",
       "slot": "DEF",
-      "rem": 5.0,
+      "rem": 4.95,
       "state": "pending",
       "pts": 0.0,
-      "proj": 5.0,
-      "live": 5.0,
+      "proj": 4.95,
+      "live": 4.95,
       "game": "Sun 4:25 pm @ Dal"
      }
     ],
@@ -238114,11 +238114,11 @@
       "player": "Browns",
       "pos": "DEF",
       "slot": "DEF",
-      "rem": 6.83,
+      "rem": 6.84,
       "state": "pending",
       "pts": 0.0,
-      "proj": 6.83,
-      "live": 6.83,
+      "proj": 6.84,
+      "live": 6.84,
       "game": "Sun 1:00 pm vs Hou"
      }
     ],
