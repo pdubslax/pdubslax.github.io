@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 11,
- "ts": "2026-11-14T17:29:08+00:00",
+ "ts": "2026-11-14T18:09:09+00:00",
  "matchups": [
   {
    "id": "1v4",
@@ -10,10 +10,10 @@
    "right": "Chubb will Rise Again",
    "rightRec": "4-5",
    "leftScore": 0.0,
-   "leftProj": 57.23,
+   "leftProj": 62.36,
    "rightScore": 0.0,
    "rightProj": 110.67,
-   "leftPct": 9,
+   "leftPct": 12,
    "leftRem": 6,
    "rightRem": 7,
    "shotgun": [
@@ -74,7 +74,7 @@
      "reason": "pts"
     },
     {
-     "player": "Seattle",
+     "player": "Seahawks",
      "pos": "DEF",
      "team": "Sea",
      "pts": 0.0,
@@ -123,7 +123,7 @@
      "game": "Sun 1:00 pm vs TB"
     },
     {
-     "player": "Houston",
+     "player": "Texans",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 9.23,
@@ -132,6 +132,17 @@
      "proj": 9.23,
      "live": 9.23,
      "game": "Thu 8:15 pm vs Ind"
+    },
+    {
+     "player": "T. Etienne Jr.",
+     "pos": "RB",
+     "slot": "RB",
+     "rem": 8.31,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 8.31,
+     "live": 8.31,
+     "game": "Sun 1:00 pm @ Chi"
     },
     {
      "player": "S. Shrader",
@@ -143,17 +154,6 @@
      "proj": 8.04,
      "live": 8.04,
      "game": "Thu 8:15 pm @ Hou"
-    },
-    {
-     "player": "A. Estime",
-     "pos": "RB",
-     "slot": "RB",
-     "rem": 3.18,
-     "state": "pending",
-     "pts": 0.0,
-     "proj": 3.18,
-     "live": 3.18,
-     "game": "Sun 1:00 pm @ Chi"
     }
    ],
    "rightActive": [
@@ -479,7 +479,7 @@
    "right": "Zen Buddha Boys 🪷💨",
    "rightRec": "4-5",
    "leftScore": 0.0,
-   "leftProj": 99.9,
+   "leftProj": 99.88,
    "rightScore": 0.0,
    "rightProj": 103.04,
    "leftPct": 47,
@@ -548,11 +548,11 @@
      "player": "P. Mahomes",
      "pos": "QB",
      "slot": "QB",
-     "rem": 23.56,
+     "rem": 23.6,
      "state": "pending",
      "pts": 0.0,
-     "proj": 23.56,
-     "live": 23.56,
+     "proj": 23.6,
+     "live": 23.6,
      "game": "Sun 1:00 pm vs Ari"
     },
     {
@@ -581,11 +581,11 @@
      "player": "T. McBride",
      "pos": "TE",
      "slot": "TE",
-     "rem": 12.98,
+     "rem": 12.92,
      "state": "pending",
      "pts": 0.0,
-     "proj": 12.98,
-     "live": 12.98,
+     "proj": 12.92,
+     "live": 12.92,
      "game": "Sun 1:00 pm @ KC"
     },
     {
@@ -611,7 +611,7 @@
      "game": "Sun 8:20 pm @ SF"
     },
     {
-     "player": "Washington",
+     "player": "Commanders",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 4.38,
@@ -690,7 +690,7 @@
      "game": "Sun 1:00 pm @ Buf"
     },
     {
-     "player": "S. Francisco",
+     "player": "49ers",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 7.32,
@@ -711,7 +711,7 @@
    "leftScore": 0.0,
    "leftProj": 102.81,
    "rightScore": 0.0,
-   "rightProj": 69.86,
+   "rightProj": 69.9,
    "leftPct": 82,
    "leftRem": 8,
    "rightRem": 6,
@@ -879,11 +879,22 @@
      "player": "R. Rice",
      "pos": "WR",
      "slot": "WR",
-     "rem": 12.56,
+     "rem": 12.58,
      "state": "pending",
      "pts": 0.0,
-     "proj": 12.56,
-     "live": 12.56,
+     "proj": 12.58,
+     "live": 12.58,
+     "game": "Sun 1:00 pm vs Ari"
+    },
+    {
+     "player": "Chiefs",
+     "pos": "DEF",
+     "slot": "DEF",
+     "rem": 9.99,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 9.99,
+     "live": 9.99,
      "game": "Sun 1:00 pm vs Ari"
     },
     {
@@ -896,17 +907,6 @@
      "proj": 9.97,
      "live": 9.97,
      "game": "Sun 4:05 pm vs NYJ"
-    },
-    {
-     "player": "Chiefs",
-     "pos": "DEF",
-     "slot": "DEF",
-     "rem": 9.97,
-     "state": "pending",
-     "pts": 0.0,
-     "proj": 9.97,
-     "live": 9.97,
-     "game": "Sun 1:00 pm vs Ari"
     },
     {
      "player": "G. Bernard",
@@ -939,7 +939,7 @@
    "right": "Kiwis are better than mid",
    "rightRec": "6-3",
    "leftScore": 0.0,
-   "leftProj": 93.89,
+   "leftProj": 93.9,
    "rightScore": 0.0,
    "rightProj": 108.95,
    "leftPct": 36,
@@ -975,7 +975,7 @@
      "reason": "pts"
     },
     {
-     "player": "Cleveland",
+     "player": "Browns",
      "pos": "DEF",
      "team": "Cle",
      "pts": 0.0,
@@ -1049,15 +1049,15 @@
      "player": "E. Johnson",
      "pos": "RB",
      "slot": "RB",
-     "rem": 6.05,
+     "rem": 6.06,
      "state": "pending",
      "pts": 0.0,
-     "proj": 6.05,
-     "live": 6.05,
+     "proj": 6.06,
+     "live": 6.06,
      "game": "Sun 1:00 pm vs Ari"
     },
     {
-     "player": "N. York",
+     "player": "Giants",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 5.06,

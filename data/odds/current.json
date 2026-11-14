@@ -236942,7 +236942,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-14T17:49:06+00:00",
+  "ts": "2026-11-14T18:09:17+00:00",
   "week": 10,
   "matchups": [
    {
@@ -237160,7 +237160,7 @@
     "leftScore": 27.2,
     "leftProj": 126.91,
     "rightScore": 0.0,
-    "rightProj": 100.79,
+    "rightProj": 100.78,
     "shotgun": [],
     "leftActive": [
      {
@@ -237268,11 +237268,11 @@
       "player": "R. Rice",
       "pos": "WR",
       "slot": "WR",
-      "rem": 13.75,
+      "rem": 13.72,
       "state": "pending",
       "pts": 0.0,
-      "proj": 13.75,
-      "live": 13.75,
+      "proj": 13.72,
+      "live": 13.72,
       "game": "Sun 1:00 pm @ Atl"
      },
      {
@@ -237312,11 +237312,11 @@
       "player": "K. Pitts Sr.",
       "pos": "TE",
       "slot": "TE",
-      "rem": 7.94,
+      "rem": 7.95,
       "state": "pending",
       "pts": 0.0,
-      "proj": 7.94,
-      "live": 7.94,
+      "proj": 7.95,
+      "live": 7.95,
       "game": "Sun 1:00 pm vs KC"
      },
      {
@@ -237334,11 +237334,11 @@
       "player": "Chiefs",
       "pos": "DEF",
       "slot": "DEF",
-      "rem": 6.06,
+      "rem": 6.07,
       "state": "pending",
       "pts": 0.0,
-      "proj": 6.06,
-      "live": 6.06,
+      "proj": 6.07,
+      "live": 6.07,
       "game": "Sun 1:00 pm @ Atl"
      }
     ],
@@ -237353,7 +237353,7 @@
     "right": "Tuten Brown",
     "rightRec": "5-4",
     "leftScore": 22.8,
-    "leftProj": 137.43,
+    "leftProj": 137.42,
     "rightScore": 0.0,
     "rightProj": 115.96,
     "shotgun": [],
@@ -237373,11 +237373,11 @@
       "player": "P. Mahomes",
       "pos": "QB",
       "slot": "QB",
-      "rem": 23.7,
+      "rem": 23.69,
       "state": "pending",
       "pts": 0.0,
-      "proj": 23.7,
-      "live": 23.7,
+      "proj": 23.69,
+      "live": 23.69,
       "game": "Sun 1:00 pm @ Atl"
      },
      {
@@ -237550,7 +237550,7 @@
     "leftScore": 0.0,
     "leftProj": 120.86,
     "rightScore": 6.5,
-    "rightProj": 129.6,
+    "rightProj": 129.56,
     "shotgun": [],
     "leftActive": [
      {
@@ -237691,33 +237691,33 @@
       "player": "E. Johnson",
       "pos": "RB",
       "slot": "RB",
-      "rem": 16.53,
+      "rem": 16.54,
       "state": "pending",
       "pts": 0.0,
-      "proj": 16.53,
-      "live": 16.53,
+      "proj": 16.54,
+      "live": 16.54,
       "game": "Sun 1:00 pm @ Atl"
      },
      {
       "player": "D. London",
       "pos": "WR",
       "slot": "WR",
-      "rem": 15.78,
+      "rem": 15.77,
       "state": "pending",
       "pts": 0.0,
-      "proj": 15.78,
-      "live": 15.78,
+      "proj": 15.77,
+      "live": 15.77,
       "game": "Sun 1:00 pm vs KC"
      },
      {
       "player": "T. Kelce",
       "pos": "TE",
       "slot": "TE",
-      "rem": 12.06,
+      "rem": 12.02,
       "state": "pending",
       "pts": 0.0,
-      "proj": 12.06,
-      "live": 12.06,
+      "proj": 12.02,
+      "live": 12.02,
       "game": "Sun 1:00 pm @ Atl"
      },
      {
@@ -237754,7 +237754,7 @@
     "right": "Alex Michael Pagels",
     "rightRec": "4-5",
     "leftScore": 53.66,
-    "leftProj": 140.48,
+    "leftProj": 140.47,
     "rightScore": 9.8,
     "rightProj": 99.6,
     "shotgun": [],
@@ -237763,11 +237763,11 @@
       "player": "B. Robinson",
       "pos": "RB",
       "slot": "RB",
-      "rem": 22.07,
+      "rem": 22.06,
       "state": "pending",
       "pts": 0.0,
-      "proj": 22.07,
-      "live": 22.07,
+      "proj": 22.06,
+      "live": 22.06,
       "game": "Sun 1:00 pm vs KC"
      },
      {
