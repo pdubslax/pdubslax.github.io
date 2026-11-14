@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 11,
- "ts": "2026-11-14T16:49:08+00:00",
+ "ts": "2026-11-14T17:29:08+00:00",
  "matchups": [
   {
    "id": "1v4",
@@ -74,7 +74,7 @@
      "reason": "pts"
     },
     {
-     "player": "Seahawks",
+     "player": "Seattle",
      "pos": "DEF",
      "team": "Sea",
      "pts": 0.0,
@@ -123,7 +123,7 @@
      "game": "Sun 1:00 pm vs TB"
     },
     {
-     "player": "Texans",
+     "player": "Houston",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 9.23,
@@ -611,7 +611,7 @@
      "game": "Sun 8:20 pm @ SF"
     },
     {
-     "player": "Commanders",
+     "player": "Washington",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 4.38,
@@ -690,7 +690,7 @@
      "game": "Sun 1:00 pm @ Buf"
     },
     {
-     "player": "49ers",
+     "player": "S. Francisco",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 7.32,
@@ -711,8 +711,8 @@
    "leftScore": 0.0,
    "leftProj": 102.81,
    "rightScore": 0.0,
-   "rightProj": 83.75,
-   "leftPct": 68,
+   "rightProj": 69.86,
+   "leftPct": 82,
    "leftRem": 8,
    "rightRem": 6,
    "shotgun": [
@@ -865,17 +865,6 @@
    ],
    "rightActive": [
     {
-     "player": "K. Walker III",
-     "pos": "RB",
-     "slot": "RB",
-     "rem": 23.86,
-     "state": "pending",
-     "pts": 0.0,
-     "proj": 23.86,
-     "live": 23.86,
-     "game": "Sun 1:00 pm vs Ari"
-    },
-    {
      "player": "B. Purdy",
      "pos": "QB",
      "slot": "QB",
@@ -896,6 +885,17 @@
      "proj": 12.56,
      "live": 12.56,
      "game": "Sun 1:00 pm vs Ari"
+    },
+    {
+     "player": "O. Hampton",
+     "pos": "RB",
+     "slot": "RB",
+     "rem": 9.97,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 9.97,
+     "live": 9.97,
+     "game": "Sun 4:05 pm vs NYJ"
     },
     {
      "player": "Chiefs",
@@ -975,7 +975,7 @@
      "reason": "pts"
     },
     {
-     "player": "Browns",
+     "player": "Cleveland",
      "pos": "DEF",
      "team": "Cle",
      "pts": 0.0,
@@ -1057,7 +1057,7 @@
      "game": "Sun 1:00 pm vs Ari"
     },
     {
-     "player": "Giants",
+     "player": "N. York",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 5.06,
