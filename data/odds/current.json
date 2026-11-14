@@ -236942,7 +236942,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-14T06:26:12+00:00",
+  "ts": "2026-11-14T06:26:54+00:00",
   "week": 10,
   "matchups": [
    {
@@ -237024,7 +237024,7 @@
       "game": "Sun 9:30 am vs NE"
      },
      {
-      "player": "Houston",
+      "player": "Texans",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 10.29,
@@ -237136,7 +237136,7 @@
       "game": "Sun 8:20 pm vs Pit"
      },
      {
-      "player": "Indianapolis",
+      "player": "Colts",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 9.58,
@@ -237241,7 +237241,7 @@
       "game": "Sun 4:25 pm @ Dal"
      },
      {
-      "player": "N. Orleans",
+      "player": "Saints",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 6.4,
@@ -237342,7 +237342,7 @@
       "game": "Sun 4:05 pm @ Ari"
      },
      {
-      "player": "K. City",
+      "player": "Chiefs",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 6.06,
