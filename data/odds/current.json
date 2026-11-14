@@ -236942,7 +236942,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-14T07:46:53+00:00",
+  "ts": "2026-11-14T08:07:01+00:00",
   "week": 10,
   "matchups": [
    {
@@ -236952,9 +236952,9 @@
     "right": "Lover boy",
     "rightRec": "4-5",
     "leftScore": 0.0,
-    "leftProj": 120.78,
+    "leftProj": 120.8,
     "rightScore": 0.0,
-    "rightProj": 120.14,
+    "rightProj": 120.19,
     "shotgun": [],
     "leftActive": [
      {
@@ -236983,11 +236983,11 @@
       "player": "M. Golden",
       "pos": "WR",
       "slot": "WR",
-      "rem": 15.36,
+      "rem": 15.38,
       "state": "pending",
       "pts": 0.0,
-      "proj": 15.36,
-      "live": 15.36,
+      "proj": 15.38,
+      "live": 15.38,
       "game": "Sun 1:00 pm vs Min"
      },
      {
@@ -237062,11 +237062,11 @@
       "player": "J. Love",
       "pos": "QB",
       "slot": "QB",
-      "rem": 20.18,
+      "rem": 20.22,
       "state": "pending",
       "pts": 0.0,
-      "proj": 20.18,
-      "live": 20.18,
+      "proj": 20.22,
+      "live": 20.22,
       "game": "Sun 1:00 pm vs Min"
      },
      {
@@ -237084,11 +237084,11 @@
       "player": "J. Jefferson",
       "pos": "WR",
       "slot": "WR",
-      "rem": 16.66,
+      "rem": 16.63,
       "state": "pending",
       "pts": 0.0,
-      "proj": 16.66,
-      "live": 16.66,
+      "proj": 16.63,
+      "live": 16.63,
       "game": "Sun 1:00 pm @ GB"
      },
      {
@@ -237128,11 +237128,11 @@
       "player": "E. McPherson",
       "pos": "K",
       "slot": "K",
-      "rem": 9.91,
+      "rem": 9.93,
       "state": "pending",
       "pts": 0.0,
-      "proj": 9.91,
-      "live": 9.91,
+      "proj": 9.93,
+      "live": 9.93,
       "game": "Sun 8:20 pm vs Pit"
      },
      {
@@ -237150,15 +237150,15 @@
       "player": "M. Gesicki",
       "pos": "TE",
       "slot": "TE",
-      "rem": 8.11,
+      "rem": 8.13,
       "state": "pending",
       "pts": 0.0,
-      "proj": 8.11,
-      "live": 8.11,
+      "proj": 8.13,
+      "live": 8.13,
       "game": "Sun 8:20 pm vs Pit"
      }
     ],
-    "leftPct": 51,
+    "leftPct": 50,
     "leftRem": 9,
     "rightRem": 9
    },
@@ -237169,9 +237169,9 @@
     "right": "RosterMogged",
     "rightRec": "4-5",
     "leftScore": 27.2,
-    "leftProj": 126.95,
+    "leftProj": 126.97,
     "rightScore": 0.0,
-    "rightProj": 111.9,
+    "rightProj": 111.92,
     "shotgun": [],
     "leftActive": [
      {
@@ -237200,22 +237200,22 @@
       "player": "C. Watson",
       "pos": "WR",
       "slot": "WR",
-      "rem": 15.28,
+      "rem": 15.29,
       "state": "pending",
       "pts": 0.0,
-      "proj": 15.28,
-      "live": 15.28,
+      "proj": 15.29,
+      "live": 15.29,
       "game": "Sun 1:00 pm vs Min"
      },
      {
       "player": "C. Brown",
       "pos": "RB",
       "slot": "RB",
-      "rem": 14.76,
+      "rem": 14.77,
       "state": "pending",
       "pts": 0.0,
-      "proj": 14.76,
-      "live": 14.76,
+      "proj": 14.77,
+      "live": 14.77,
       "game": "Sun 8:20 pm vs Pit"
      },
      {
@@ -237301,11 +237301,11 @@
       "player": "G. Bernard",
       "pos": "WR",
       "slot": "W/R/T",
-      "rem": 10.03,
+      "rem": 10.05,
       "state": "pending",
       "pts": 0.0,
-      "proj": 10.03,
-      "live": 10.03,
+      "proj": 10.05,
+      "live": 10.05,
       "game": "Sun 8:20 pm @ Cin"
      },
      {
@@ -237364,9 +237364,9 @@
     "right": "Tuten Brown",
     "rightRec": "5-4",
     "leftScore": 22.8,
-    "leftProj": 135.73,
+    "leftProj": 135.71,
     "rightScore": 0.0,
-    "rightProj": 115.84,
+    "rightProj": 115.85,
     "shotgun": [],
     "leftActive": [
      {
@@ -237439,11 +237439,11 @@
       "player": "W. Reichard",
       "pos": "K",
       "slot": "K",
-      "rem": 9.31,
+      "rem": 9.29,
       "state": "pending",
       "pts": 0.0,
-      "proj": 9.31,
-      "live": 9.31,
+      "proj": 9.29,
+      "live": 9.29,
       "game": "Sun 1:00 pm @ GB"
      }
     ],
@@ -237518,11 +237518,11 @@
       "player": "T. Kraft",
       "pos": "TE",
       "slot": "TE",
-      "rem": 9.75,
+      "rem": 9.76,
       "state": "pending",
       "pts": 0.0,
-      "proj": 9.75,
-      "live": 9.75,
+      "proj": 9.76,
+      "live": 9.76,
       "game": "Sun 1:00 pm vs Min"
      },
      {
@@ -237559,9 +237559,9 @@
     "right": "James Ray Ervin Yonts",
     "rightRec": "6-3",
     "leftScore": 0.0,
-    "leftProj": 121.83,
+    "leftProj": 121.86,
     "rightScore": 6.5,
-    "rightProj": 122.88,
+    "rightProj": 122.89,
     "shotgun": [],
     "leftActive": [
      {
@@ -237579,11 +237579,11 @@
       "player": "J. Chase",
       "pos": "WR",
       "slot": "WR",
-      "rem": 19.01,
+      "rem": 19.04,
       "state": "pending",
       "pts": 0.0,
-      "proj": 19.01,
-      "live": 19.01,
+      "proj": 19.04,
+      "live": 19.04,
       "game": "Sun 8:20 pm vs Pit"
      },
      {
@@ -237691,11 +237691,11 @@
       "player": "J. Warren",
       "pos": "RB",
       "slot": "RB",
-      "rem": 17.45,
+      "rem": 17.46,
       "state": "pending",
       "pts": 0.0,
-      "proj": 17.45,
-      "live": 17.45,
+      "proj": 17.46,
+      "live": 17.46,
       "game": "Sun 8:20 pm @ Cin"
      },
      {
@@ -237767,7 +237767,7 @@
     "leftScore": 53.66,
     "leftProj": 140.45,
     "rightScore": 9.8,
-    "rightProj": 99.53,
+    "rightProj": 99.66,
     "shotgun": [],
     "leftActive": [
      {
@@ -237853,22 +237853,22 @@
       "player": "J. Burrow",
       "pos": "QB",
       "slot": "QB",
-      "rem": 24.55,
+      "rem": 24.61,
       "state": "pending",
       "pts": 0.0,
-      "proj": 24.55,
-      "live": 24.55,
+      "proj": 24.61,
+      "live": 24.61,
       "game": "Sun 8:20 pm vs Pit"
      },
      {
       "player": "T. Higgins",
       "pos": "WR",
       "slot": "W/R/T",
-      "rem": 16.7,
+      "rem": 16.73,
       "state": "pending",
       "pts": 0.0,
-      "proj": 16.7,
-      "live": 16.7,
+      "proj": 16.73,
+      "live": 16.73,
       "game": "Sun 8:20 pm vs Pit"
      },
      {
@@ -237886,11 +237886,11 @@
       "player": "C. Boswell",
       "pos": "K",
       "slot": "K",
-      "rem": 9.2,
+      "rem": 9.22,
       "state": "pending",
       "pts": 0.0,
-      "proj": 9.2,
-      "live": 9.2,
+      "proj": 9.22,
+      "live": 9.22,
       "game": "Sun 8:20 pm @ Cin"
      },
      {
@@ -237919,11 +237919,11 @@
       "player": "K. Johnson",
       "pos": "RB",
       "slot": "RB",
-      "rem": 5.89,
+      "rem": 5.91,
       "state": "pending",
       "pts": 0.0,
-      "proj": 5.89,
-      "live": 5.89,
+      "proj": 5.91,
+      "live": 5.91,
       "game": "Sun 1:00 pm vs Min"
      }
     ],
@@ -238081,11 +238081,11 @@
       "player": "DK Metcalf",
       "pos": "WR",
       "slot": "WR",
-      "rem": 11.77,
+      "rem": 11.79,
       "state": "pending",
       "pts": 0.0,
-      "proj": 11.77,
-      "live": 11.77,
+      "proj": 11.79,
+      "live": 11.79,
       "game": "Sun 8:20 pm @ Cin"
      },
      {
@@ -238103,11 +238103,11 @@
       "player": "A. Jones Sr.",
       "pos": "RB",
       "slot": "W/R/T",
-      "rem": 9.43,
+      "rem": 9.41,
       "state": "pending",
       "pts": 0.0,
-      "proj": 9.43,
-      "live": 9.43,
+      "proj": 9.41,
+      "live": 9.41,
       "game": "Sun 1:00 pm @ GB"
      },
      {
