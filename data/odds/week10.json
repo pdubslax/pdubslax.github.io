@@ -236942,7 +236942,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-14T02:06:03+00:00",
+  "ts": "2026-11-14T02:26:12+00:00",
   "week": 10,
   "matchups": [
    {
@@ -237364,7 +237364,7 @@
     "right": "Tuten Brown",
     "rightRec": "5-4",
     "leftScore": 22.8,
-    "leftProj": 135.64,
+    "leftProj": 135.65,
     "rightScore": 0.0,
     "rightProj": 115.92,
     "shotgun": [],
@@ -237428,11 +237428,11 @@
       "player": "D. Boston",
       "pos": "WR",
       "slot": "W/R/T",
-      "rem": 10.35,
+      "rem": 10.36,
       "state": "pending",
       "pts": 0.0,
-      "proj": 10.35,
-      "live": 10.35,
+      "proj": 10.36,
+      "live": 10.36,
       "game": "Sun 1:00 pm vs Hou"
      },
      {
