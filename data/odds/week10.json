@@ -236942,7 +236942,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-14T18:09:17+00:00",
+  "ts": "2026-11-14T18:29:08+00:00",
   "week": 10,
   "matchups": [
    {
@@ -237756,7 +237756,7 @@
     "leftScore": 53.66,
     "leftProj": 140.47,
     "rightScore": 9.8,
-    "rightProj": 99.6,
+    "rightProj": 98.14,
     "shotgun": [],
     "leftActive": [
      {
@@ -237894,15 +237894,15 @@
       "game": "Sun 1:00 pm @ Ten"
      },
      {
-      "player": "D. Montgomery",
+      "player": "S. Perine",
       "pos": "RB",
       "slot": "RB",
-      "rem": 8.05,
+      "rem": 6.59,
       "state": "pending",
       "pts": 0.0,
-      "proj": 8.05,
-      "live": 8.05,
-      "game": "Sun 1:00 pm @ Cle"
+      "proj": 6.59,
+      "live": 6.59,
+      "game": "Sun 8:20 pm vs Pit"
      },
      {
       "player": "K. Johnson",
@@ -237916,7 +237916,7 @@
       "game": "Sun 1:00 pm vs Min"
      }
     ],
-    "leftPct": 84,
+    "leftPct": 85,
     "leftRem": 7,
     "rightRem": 7
    },
