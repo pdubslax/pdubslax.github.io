@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 11,
- "ts": "2026-11-14T18:49:09+00:00",
+ "ts": "2026-11-14T19:29:07+00:00",
  "matchups": [
   {
    "id": "1v4",
@@ -481,7 +481,7 @@
    "leftScore": 0.0,
    "leftProj": 99.94,
    "rightScore": 0.0,
-   "rightProj": 102.45,
+   "rightProj": 102.44,
    "leftPct": 48,
    "leftRem": 7,
    "rightRem": 7,
@@ -682,11 +682,11 @@
      "player": "O. Gordon II",
      "pos": "RB",
      "slot": "RB",
-     "rem": 12.25,
+     "rem": 12.24,
      "state": "pending",
      "pts": 0.0,
-     "proj": 12.25,
-     "live": 12.25,
+     "proj": 12.24,
+     "live": 12.24,
      "game": "Sun 1:00 pm @ Buf"
     },
     {
