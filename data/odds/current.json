@@ -236942,7 +236942,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-14T16:29:10+00:00",
+  "ts": "2026-11-14T16:49:16+00:00",
   "week": 10,
   "matchups": [
    {
@@ -237024,7 +237024,7 @@
       "game": "Sun 9:30 am vs NE"
      },
      {
-      "player": "Texans",
+      "player": "Houston",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 10.29,
@@ -237136,7 +237136,7 @@
       "game": "Sun 8:20 pm vs Pit"
      },
      {
-      "player": "Colts",
+      "player": "Indianapolis",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 9.58,
@@ -237171,7 +237171,7 @@
     "leftScore": 27.2,
     "leftProj": 126.91,
     "rightScore": 0.0,
-    "rightProj": 111.8,
+    "rightProj": 91.14,
     "shotgun": [],
     "leftActive": [
      {
@@ -237265,17 +237265,6 @@
       "game": "Sun 4:25 pm @ Dal"
      },
      {
-      "player": "K. Walker III",
-      "pos": "RB",
-      "slot": "RB",
-      "rem": 20.66,
-      "state": "pending",
-      "pts": 0.0,
-      "proj": 20.66,
-      "live": 20.66,
-      "game": "Sun 1:00 pm @ Atl"
-     },
-     {
       "player": "Z. Charbonnet",
       "pos": "RB",
       "slot": "RB",
@@ -237353,7 +237342,7 @@
       "game": "Sun 1:00 pm @ Atl"
      }
     ],
-    "leftPct": 63,
+    "leftPct": 81,
     "leftRem": 7,
     "rightRem": 9
    },
@@ -237526,7 +237515,7 @@
       "game": "Sun 1:00 pm vs Min"
      },
      {
-      "player": "L. Angeles",
+      "player": "Rams",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 9.34,
@@ -237561,7 +237550,7 @@
     "leftScore": 0.0,
     "leftProj": 121.74,
     "rightScore": 6.5,
-    "rightProj": 122.9,
+    "rightProj": 119.74,
     "shotgun": [],
     "leftActive": [
      {
@@ -237653,7 +237642,7 @@
       "game": "Sun 4:05 pm @ Ari"
      },
      {
-      "player": "Seahawks",
+      "player": "Seattle",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 8.6,
@@ -237721,17 +237710,6 @@
       "game": "Sun 1:00 pm @ Atl"
      },
      {
-      "player": "T. Allgeier",
-      "pos": "RB",
-      "slot": "RB",
-      "rem": 10.74,
-      "state": "pending",
-      "pts": 0.0,
-      "proj": 10.74,
-      "live": 10.74,
-      "game": "Sun 4:05 pm vs LAR"
-     },
-     {
       "player": "J. Price",
       "pos": "RB",
       "slot": "W/R/T",
@@ -237752,9 +237730,20 @@
       "proj": 9.52,
       "live": 9.52,
       "game": "Sun 1:00 pm @ Cle"
+     },
+     {
+      "player": "E. Johnson",
+      "pos": "RB",
+      "slot": "RB",
+      "rem": 7.58,
+      "state": "pending",
+      "pts": 0.0,
+      "proj": 7.58,
+      "live": 7.58,
+      "game": "Sun 1:00 pm @ Atl"
      }
     ],
-    "leftPct": 49,
+    "leftPct": 52,
     "leftRem": 9,
     "rightRem": 8
    },
@@ -237837,7 +237826,7 @@
       "game": "Sun 1:00 pm @ NYJ"
      },
      {
-      "player": "Bills",
+      "player": "Buffalo",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 8.09,
@@ -237894,7 +237883,7 @@
       "game": "Sun 8:20 pm @ Cin"
      },
      {
-      "player": "Jaguars",
+      "player": "Jacksonville",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 9.2,

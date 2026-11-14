@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 11,
- "ts": "2026-11-14T16:27:43+00:00",
+ "ts": "2026-11-14T16:49:08+00:00",
  "matchups": [
   {
    "id": "1v4",
@@ -321,7 +321,7 @@
      "reason": "pts"
     },
     {
-     "player": "L. Angeles",
+     "player": "Rams",
      "pos": "DEF",
      "team": "LAR",
      "pts": 0.0,
@@ -392,7 +392,7 @@
      "game": "Sun 4:25 pm vs Jax"
     },
     {
-     "player": "N. Orleans",
+     "player": "Saints",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 4.13,
@@ -939,10 +939,10 @@
    "right": "Kiwis are better than mid",
    "rightRec": "6-3",
    "leftScore": 0.0,
-   "leftProj": 97.4,
+   "leftProj": 93.89,
    "rightScore": 0.0,
    "rightProj": 108.95,
-   "leftPct": 40,
+   "leftPct": 36,
    "leftRem": 7,
    "rightRem": 8,
    "shotgun": [
@@ -1046,15 +1046,15 @@
      "game": "Thu 8:15 pm vs Ind"
     },
     {
-     "player": "T. Allgeier",
+     "player": "E. Johnson",
      "pos": "RB",
      "slot": "RB",
-     "rem": 9.56,
+     "rem": 6.05,
      "state": "pending",
      "pts": 0.0,
-     "proj": 9.56,
-     "live": 9.56,
-     "game": "Sun 1:00 pm @ KC"
+     "proj": 6.05,
+     "live": 6.05,
+     "game": "Sun 1:00 pm vs Ari"
     },
     {
      "player": "Giants",
@@ -1273,7 +1273,7 @@
      "game": "Thu 8:15 pm vs Ind"
     },
     {
-     "player": "Jacksonville",
+     "player": "Jaguars",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 9.47,
@@ -1374,7 +1374,7 @@
      "game": "Mon 8:15 pm @ Was"
     },
     {
-     "player": "Indianapolis",
+     "player": "Colts",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 4.92,
