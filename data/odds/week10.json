@@ -236942,7 +236942,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-14T21:09:08+00:00",
+  "ts": "2026-11-14T21:29:15+00:00",
   "week": 10,
   "matchups": [
    {
@@ -236952,7 +236952,7 @@
     "right": "Lover boy",
     "rightRec": "4-5",
     "leftScore": 0.0,
-    "leftProj": 113.44,
+    "leftProj": 123.07,
     "rightScore": 0.0,
     "rightProj": 120.28,
     "shotgun": [],
@@ -237044,6 +237044,17 @@
       "proj": 9.83,
       "live": 9.83,
       "game": "Sun 1:00 pm vs Mia"
+     },
+     {
+      "player": "T. Etienne Jr.",
+      "pos": "RB",
+      "slot": "RB",
+      "rem": 9.63,
+      "state": "pending",
+      "pts": 0.0,
+      "proj": 9.63,
+      "live": 9.63,
+      "game": "Sun 1:00 pm vs Car"
      }
     ],
     "rightActive": [
@@ -237147,7 +237158,7 @@
       "game": "Sun 8:20 pm vs Pit"
      }
     ],
-    "leftPct": 44,
+    "leftPct": 52,
     "leftRem": 9,
     "rightRem": 9
    },
@@ -237355,7 +237366,7 @@
     "leftScore": 22.8,
     "leftProj": 136.16,
     "rightScore": 0.0,
-    "rightProj": 115.97,
+    "rightProj": 115.99,
     "shotgun": [],
     "leftActive": [
      {
@@ -237485,11 +237496,11 @@
       "player": "W. Robinson",
       "pos": "WR",
       "slot": "W/R/T",
-      "rem": 9.98,
+      "rem": 10.0,
       "state": "pending",
       "pts": 0.0,
-      "proj": 9.98,
-      "live": 9.98,
+      "proj": 10.0,
+      "live": 10.0,
       "game": "Sun 1:00 pm vs Jax"
      },
      {
@@ -237927,7 +237938,7 @@
     "right": "Kiwis are better than mid",
     "rightRec": "6-3",
     "leftScore": 0.0,
-    "leftProj": 125.67,
+    "leftProj": 125.7,
     "rightScore": 7.7,
     "rightProj": 119.96,
     "shotgun": [],
@@ -237991,11 +238002,11 @@
       "player": "T. Pollard",
       "pos": "RB",
       "slot": "W/R/T",
-      "rem": 13.13,
+      "rem": 13.16,
       "state": "pending",
       "pts": 0.0,
-      "proj": 13.13,
-      "live": 13.13,
+      "proj": 13.16,
+      "live": 13.16,
       "game": "Sun 1:00 pm vs Jax"
      },
      {
