@@ -236942,7 +236942,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-15T06:31:00+00:00",
+  "ts": "2026-11-15T06:51:10+00:00",
   "week": 10,
   "matchups": [
    {
@@ -237024,7 +237024,7 @@
       "game": "Sun 9:30 am vs NE"
      },
      {
-      "player": "Texans",
+      "player": "Houston",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 10.34,
@@ -237136,7 +237136,7 @@
       "game": "Sun 8:20 pm vs Pit"
      },
      {
-      "player": "Colts",
+      "player": "Indianapolis",
       "pos": "DEF",
       "slot": "DEF",
       "rem": 9.68,
@@ -237194,7 +237194,7 @@
       "pts": 0.0,
       "proj": 17.89,
       "live": 17.89,
-      "game": "Mon 8:15 pm vs LAC"
+      "game": "Mon 8:15 pm vs LAC"
      },
      {
       "player": "C. Watson",
@@ -237306,7 +237306,7 @@
       "pts": 0.0,
       "proj": 8.64,
       "live": 8.64,
-      "game": "Mon 8:15 pm @ Bal"
+      "game": "Mon 8:15 pm @ Bal"
      },
      {
       "player": "K. Pitts Sr.",
