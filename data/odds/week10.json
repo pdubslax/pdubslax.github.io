@@ -236942,7 +236942,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-15T04:11:10+00:00",
+  "ts": "2026-11-15T04:31:00+00:00",
   "week": 10,
   "matchups": [
    {
@@ -236952,7 +236952,7 @@
     "right": "Lover boy",
     "rightRec": "4-5",
     "leftScore": 0.0,
-    "leftProj": 122.32,
+    "leftProj": 122.2,
     "rightScore": 0.0,
     "rightProj": 120.48,
     "shotgun": [],
@@ -236994,11 +236994,11 @@
       "player": "W. Marks",
       "pos": "RB",
       "slot": "RB",
-      "rem": 13.9,
+      "rem": 13.78,
       "state": "pending",
       "pts": 0.0,
-      "proj": 13.9,
-      "live": 13.9,
+      "proj": 13.78,
+      "live": 13.78,
       "game": "Sun 1:00 pm @ Cle"
      },
      {
@@ -237364,9 +237364,9 @@
     "right": "Tuten Brown",
     "rightRec": "5-4",
     "leftScore": 22.8,
-    "leftProj": 135.74,
+    "leftProj": 135.84,
     "rightScore": 0.0,
-    "rightProj": 116.05,
+    "rightProj": 116.12,
     "shotgun": [],
     "leftActive": [
      {
@@ -237428,11 +237428,11 @@
       "player": "D. Boston",
       "pos": "WR",
       "slot": "W/R/T",
-      "rem": 10.34,
+      "rem": 10.44,
       "state": "pending",
       "pts": 0.0,
-      "proj": 10.34,
-      "live": 10.34,
+      "proj": 10.44,
+      "live": 10.44,
       "game": "Sun 1:00 pm vs Hou"
      },
      {
@@ -237452,11 +237452,11 @@
       "player": "T. Lawrence",
       "pos": "QB",
       "slot": "QB",
-      "rem": 22.96,
+      "rem": 23.04,
       "state": "pending",
       "pts": 0.0,
-      "proj": 22.96,
-      "live": 22.96,
+      "proj": 23.04,
+      "live": 23.04,
       "game": "Sun 1:00 pm @ Ten"
      },
      {
@@ -237474,11 +237474,11 @@
       "player": "B. Tuten",
       "pos": "RB",
       "slot": "RB",
-      "rem": 15.47,
+      "rem": 15.42,
       "state": "pending",
       "pts": 0.0,
-      "proj": 15.47,
-      "live": 15.47,
+      "proj": 15.42,
+      "live": 15.42,
       "game": "Sun 1:00 pm @ Ten"
      },
      {
@@ -237496,11 +237496,11 @@
       "player": "W. Robinson",
       "pos": "WR",
       "slot": "W/R/T",
-      "rem": 9.98,
+      "rem": 10.02,
       "state": "pending",
       "pts": 0.0,
-      "proj": 9.98,
-      "live": 9.98,
+      "proj": 10.02,
+      "live": 10.02,
       "game": "Sun 1:00 pm vs Jax"
      },
      {
@@ -237559,7 +237559,7 @@
     "right": "James Ray Ervin Yonts",
     "rightRec": "6-3",
     "leftScore": 0.0,
-    "leftProj": 120.96,
+    "leftProj": 121.17,
     "rightScore": 6.5,
     "rightProj": 130.95,
     "shotgun": [],
@@ -237568,11 +237568,11 @@
       "player": "C.J. Stroud",
       "pos": "QB",
       "slot": "QB",
-      "rem": 20.27,
+      "rem": 20.41,
       "state": "pending",
       "pts": 0.0,
-      "proj": 20.27,
-      "live": 20.27,
+      "proj": 20.41,
+      "live": 20.41,
       "game": "Sun 1:00 pm @ Cle"
      },
      {
@@ -237601,11 +237601,11 @@
       "player": "P. Washington",
       "pos": "WR",
       "slot": "WR",
-      "rem": 14.61,
+      "rem": 14.68,
       "state": "pending",
       "pts": 0.0,
-      "proj": 14.61,
-      "live": 14.61,
+      "proj": 14.68,
+      "live": 14.68,
       "game": "Sun 1:00 pm @ Ten"
      },
      {
@@ -237938,7 +237938,7 @@
     "right": "Kiwis are better than mid",
     "rightRec": "6-3",
     "leftScore": 0.0,
-    "leftProj": 125.43,
+    "leftProj": 125.54,
     "rightScore": 7.7,
     "rightProj": 119.88,
     "shotgun": [],
@@ -237991,22 +237991,22 @@
       "player": "N. Collins",
       "pos": "WR",
       "slot": "WR",
-      "rem": 13.47,
+      "rem": 13.63,
       "state": "pending",
       "pts": 0.0,
-      "proj": 13.47,
-      "live": 13.47,
+      "proj": 13.63,
+      "live": 13.63,
       "game": "Sun 1:00 pm @ Cle"
      },
      {
       "player": "T. Pollard",
       "pos": "RB",
       "slot": "W/R/T",
-      "rem": 13.18,
+      "rem": 13.13,
       "state": "pending",
       "pts": 0.0,
-      "proj": 13.18,
-      "live": 13.18,
+      "proj": 13.13,
+      "live": 13.13,
       "game": "Sun 1:00 pm vs Jax"
      },
      {
