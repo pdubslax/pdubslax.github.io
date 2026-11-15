@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 11,
- "ts": "2026-11-15T11:52:02+00:00",
+ "ts": "2026-11-15T12:32:03+00:00",
  "matchups": [
   {
    "id": "1v4",
@@ -10,7 +10,7 @@
    "right": "Chubb will Rise Again",
    "rightRec": "4-5",
    "leftScore": 0.0,
-   "leftProj": 62.79,
+   "leftProj": 62.74,
    "rightScore": 0.0,
    "rightProj": 110.43,
    "leftPct": 12,
@@ -104,11 +104,11 @@
      "player": "J. Coker",
      "pos": "WR",
      "slot": "WR",
-     "rem": 12.34,
+     "rem": 12.29,
      "state": "pending",
      "pts": 0.0,
-     "proj": 12.34,
-     "live": 12.34,
+     "proj": 12.29,
+     "live": 12.29,
      "game": "Sun 1:00 pm vs Bal"
     },
     {
@@ -243,7 +243,7 @@
    "right": "Tuten Brown",
    "rightRec": "5-4",
    "leftScore": 0.0,
-   "leftProj": 72.13,
+   "leftProj": 72.2,
    "rightScore": 0.0,
    "rightProj": 85.54,
    "leftPct": 36,
@@ -326,11 +326,11 @@
      "player": "D. Henry",
      "pos": "RB",
      "slot": "RB",
-     "rem": 17.5,
+     "rem": 17.57,
      "state": "pending",
      "pts": 0.0,
-     "proj": 17.5,
-     "live": 17.5,
+     "proj": 17.57,
+     "live": 17.57,
      "game": "Sun 1:00 pm @ Car"
     },
     {
@@ -476,9 +476,9 @@
    "right": "Zen Buddha Boys 🪷💨",
    "rightRec": "4-5",
    "leftScore": 0.0,
-   "leftProj": 99.96,
+   "leftProj": 99.9,
    "rightScore": 0.0,
-   "rightProj": 102.08,
+   "rightProj": 102.13,
    "leftPct": 48,
    "leftRem": 7,
    "rightRem": 7,
@@ -567,11 +567,11 @@
      "player": "T. McMillan",
      "pos": "WR",
      "slot": "WR",
-     "rem": 14.23,
+     "rem": 14.17,
      "state": "pending",
      "pts": 0.0,
-     "proj": 14.23,
-     "live": 14.23,
+     "proj": 14.17,
+     "live": 14.17,
      "game": "Sun 1:00 pm vs Bal"
     },
     {
@@ -646,11 +646,11 @@
      "player": "C. Hubbard",
      "pos": "RB",
      "slot": "RB",
-     "rem": 15.88,
+     "rem": 15.93,
      "state": "pending",
      "pts": 0.0,
-     "proj": 15.88,
-     "live": 15.88,
+     "proj": 15.93,
+     "live": 15.93,
      "game": "Sun 1:00 pm vs Bal"
     },
     {
