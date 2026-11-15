@@ -236942,7 +236942,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-15T11:52:14+00:00",
+  "ts": "2026-11-15T12:12:01+00:00",
   "week": 10,
   "matchups": [
    {
@@ -236952,9 +236952,9 @@
     "right": "Lover boy",
     "rightRec": "4-5",
     "leftScore": 0.0,
-    "leftProj": 122.25,
+    "leftProj": 122.27,
     "rightScore": 0.0,
-    "rightProj": 120.41,
+    "rightProj": 120.43,
     "shotgun": [],
     "leftActive": [
      {
@@ -237016,11 +237016,11 @@
       "player": "S. LaPorta",
       "pos": "TE",
       "slot": "TE",
-      "rem": 10.92,
+      "rem": 10.94,
       "state": "pending",
       "pts": 0.0,
-      "proj": 10.92,
-      "live": 10.92,
+      "proj": 10.94,
+      "live": 10.94,
       "game": "Sun 9:30 am vs NE"
      },
      {
@@ -237106,11 +237106,11 @@
       "player": "J. Williams",
       "pos": "WR",
       "slot": "WR",
-      "rem": 12.05,
+      "rem": 12.07,
       "state": "pending",
       "pts": 0.0,
-      "proj": 12.05,
-      "live": 12.05,
+      "proj": 12.07,
+      "live": 12.07,
       "game": "Sun 9:30 am vs NE"
      },
      {
@@ -237169,7 +237169,7 @@
     "right": "RosterMogged",
     "rightRec": "4-5",
     "leftScore": 27.2,
-    "leftProj": 124.81,
+    "leftProj": 124.88,
     "rightScore": 0.0,
     "rightProj": 100.2,
     "shotgun": [],
@@ -237178,11 +237178,11 @@
       "player": "D. Maye",
       "pos": "QB",
       "slot": "QB",
-      "rem": 24.87,
+      "rem": 24.94,
       "state": "pending",
       "pts": 0.0,
-      "proj": 24.87,
-      "live": 24.87,
+      "proj": 24.94,
+      "live": 24.94,
       "game": "Sun 9:30 am @ Det"
      },
      {
@@ -237353,7 +237353,7 @@
       "game": "Sun 1:00 pm @ Atl"
      }
     ],
-    "leftPct": 72,
+    "leftPct": 73,
     "leftRem": 7,
     "rightRem": 9
    },
@@ -237364,20 +237364,20 @@
     "right": "Tuten Brown",
     "rightRec": "5-4",
     "leftScore": 22.8,
-    "leftProj": 135.7,
+    "leftProj": 135.72,
     "rightScore": 0.0,
-    "rightProj": 115.97,
+    "rightProj": 115.99,
     "shotgun": [],
     "leftActive": [
      {
       "player": "J. Gibbs",
       "pos": "RB",
       "slot": "RB",
-      "rem": 24.85,
+      "rem": 24.87,
       "state": "pending",
       "pts": 0.0,
-      "proj": 24.85,
-      "live": 24.85,
+      "proj": 24.87,
+      "live": 24.87,
       "game": "Sun 9:30 am vs NE"
      },
      {
@@ -237540,11 +237540,11 @@
       "player": "D. Douglas",
       "pos": "WR",
       "slot": "WR",
-      "rem": 9.23,
+      "rem": 9.25,
       "state": "pending",
       "pts": 0.0,
-      "proj": 9.23,
-      "live": 9.23,
+      "proj": 9.25,
+      "live": 9.25,
       "game": "Sun 9:30 am @ Det"
      }
     ],
@@ -237938,7 +237938,7 @@
     "right": "Kiwis are better than mid",
     "rightRec": "6-3",
     "leftScore": 0.0,
-    "leftProj": 125.3,
+    "leftProj": 125.36,
     "rightScore": 7.7,
     "rightProj": 119.79,
     "shotgun": [],
@@ -237969,11 +237969,11 @@
       "player": "A. St. Brown",
       "pos": "WR",
       "slot": "WR",
-      "rem": 18.91,
+      "rem": 18.95,
       "state": "pending",
       "pts": 0.0,
-      "proj": 18.91,
-      "live": 18.91,
+      "proj": 18.95,
+      "live": 18.95,
       "game": "Sun 9:30 am vs NE"
      },
      {
@@ -238024,11 +238024,11 @@
       "player": "H. Henry",
       "pos": "TE",
       "slot": "TE",
-      "rem": 8.73,
+      "rem": 8.75,
       "state": "pending",
       "pts": 0.0,
-      "proj": 8.73,
-      "live": 8.73,
+      "proj": 8.75,
+      "live": 8.75,
       "game": "Sun 9:30 am @ Det"
      },
      {
