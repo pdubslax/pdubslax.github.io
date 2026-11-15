@@ -236942,7 +236942,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-15T13:52:56+00:00",
+  "ts": "2026-11-15T14:13:06+00:00",
   "week": 10,
   "matchups": [
    {
@@ -236952,9 +236952,9 @@
     "right": "Lover boy",
     "rightRec": "4-5",
     "leftScore": 0.0,
-    "leftProj": 122.12,
+    "leftProj": 122.22,
     "rightScore": 0.0,
-    "rightProj": 120.45,
+    "rightProj": 120.44,
     "shotgun": [],
     "leftActive": [
      {
@@ -237021,17 +237021,17 @@
       "pts": 0.0,
       "proj": 10.96,
       "live": 10.96,
-      "game": "Sun 9:30 am vs NE"
+      "game": "Sun 9:30 am vs NE"
      },
      {
       "player": "Texans",
       "pos": "DEF",
       "slot": "DEF",
-      "rem": 10.34,
+      "rem": 10.44,
       "state": "pending",
       "pts": 0.0,
-      "proj": 10.34,
-      "live": 10.34,
+      "proj": 10.44,
+      "live": 10.44,
       "game": "Sun 1:00 pm @ Cle"
      },
      {
@@ -237111,7 +237111,7 @@
       "pts": 0.0,
       "proj": 12.1,
       "live": 12.1,
-      "game": "Sun 9:30 am vs NE"
+      "game": "Sun 9:30 am vs NE"
      },
      {
       "player": "B. Corum",
@@ -237139,11 +237139,11 @@
       "player": "Colts",
       "pos": "DEF",
       "slot": "DEF",
-      "rem": 9.68,
+      "rem": 9.67,
       "state": "pending",
       "pts": 0.0,
-      "proj": 9.68,
-      "live": 9.68,
+      "proj": 9.67,
+      "live": 9.67,
       "game": "Sun 1:00 pm vs Mia"
      },
      {
@@ -237169,7 +237169,7 @@
     "right": "RosterMogged",
     "rightRec": "4-5",
     "leftScore": 27.2,
-    "leftProj": 125.01,
+    "leftProj": 124.97,
     "rightScore": 0.0,
     "rightProj": 100.19,
     "shotgun": [],
@@ -237183,7 +237183,7 @@
       "pts": 0.0,
       "proj": 25.0,
       "live": 25.0,
-      "game": "Sun 9:30 am @ Det"
+      "game": "Sun 9:30 am @ Det"
      },
      {
       "player": "D. Henry",
@@ -237244,11 +237244,11 @@
       "player": "Saints",
       "pos": "DEF",
       "slot": "DEF",
-      "rem": 6.33,
+      "rem": 6.29,
       "state": "pending",
       "pts": 0.0,
-      "proj": 6.33,
-      "live": 6.33,
+      "proj": 6.29,
+      "live": 6.29,
       "game": "Sun 1:00 pm vs Car"
      }
     ],
@@ -237366,7 +237366,7 @@
     "leftScore": 22.8,
     "leftProj": 135.79,
     "rightScore": 0.0,
-    "rightProj": 115.98,
+    "rightProj": 116.03,
     "shotgun": [],
     "leftActive": [
      {
@@ -237378,7 +237378,7 @@
       "pts": 0.0,
       "proj": 24.9,
       "live": 24.9,
-      "game": "Sun 9:30 am vs NE"
+      "game": "Sun 9:30 am vs NE"
      },
      {
       "player": "P. Mahomes",
@@ -237529,11 +237529,11 @@
       "player": "Rams",
       "pos": "DEF",
       "slot": "DEF",
-      "rem": 9.33,
+      "rem": 9.38,
       "state": "pending",
       "pts": 0.0,
-      "proj": 9.33,
-      "live": 9.33,
+      "proj": 9.38,
+      "live": 9.38,
       "game": "Sun 4:05 pm @ Ari"
      },
      {
@@ -237545,7 +237545,7 @@
       "pts": 0.0,
       "proj": 9.27,
       "live": 9.27,
-      "game": "Sun 9:30 am @ Det"
+      "game": "Sun 9:30 am @ Det"
      }
     ],
     "leftPct": 66,
@@ -237765,9 +237765,9 @@
     "right": "Alex Michael Pagels",
     "rightRec": "4-5",
     "leftScore": 53.66,
-    "leftProj": 140.78,
+    "leftProj": 140.74,
     "rightScore": 9.8,
-    "rightProj": 97.72,
+    "rightProj": 97.64,
     "shotgun": [],
     "leftActive": [
      {
@@ -237837,14 +237837,14 @@
       "game": "Sun 1:00 pm @ NYJ"
      },
      {
-      "player": "Buffalo",
+      "player": "Bills",
       "pos": "DEF",
       "slot": "DEF",
-      "rem": 8.06,
+      "rem": 8.02,
       "state": "pending",
       "pts": 0.0,
-      "proj": 8.06,
-      "live": 8.06,
+      "proj": 8.02,
+      "live": 8.02,
       "game": "Sun 1:00 pm @ NYJ"
      }
     ],
@@ -237894,14 +237894,14 @@
       "game": "Sun 8:20 pm @ Cin"
      },
      {
-      "player": "Jacksonville",
+      "player": "Jaguars",
       "pos": "DEF",
       "slot": "DEF",
-      "rem": 9.17,
+      "rem": 9.09,
       "state": "pending",
       "pts": 0.0,
-      "proj": 9.17,
-      "live": 9.17,
+      "proj": 9.09,
+      "live": 9.09,
       "game": "Sun 1:00 pm @ Ten"
      },
      {
@@ -237940,7 +237940,7 @@
     "leftScore": 0.0,
     "leftProj": 125.57,
     "rightScore": 7.7,
-    "rightProj": 119.79,
+    "rightProj": 119.89,
     "shotgun": [],
     "leftActive": [
      {
@@ -237974,7 +237974,7 @@
       "pts": 0.0,
       "proj": 18.98,
       "live": 18.98,
-      "game": "Sun 9:30 am vs NE"
+      "game": "Sun 9:30 am vs NE"
      },
      {
       "player": "O. Gordon II",
@@ -238029,7 +238029,7 @@
       "pts": 0.0,
       "proj": 8.77,
       "live": 8.77,
-      "game": "Sun 9:30 am @ Det"
+      "game": "Sun 9:30 am @ Det"
      },
      {
       "player": "49ers",
@@ -238125,11 +238125,11 @@
       "player": "Browns",
       "pos": "DEF",
       "slot": "DEF",
-      "rem": 6.73,
+      "rem": 6.83,
       "state": "pending",
       "pts": 0.0,
-      "proj": 6.73,
-      "live": 6.73,
+      "proj": 6.83,
+      "live": 6.83,
       "game": "Sun 1:00 pm vs Hou"
      }
     ],
