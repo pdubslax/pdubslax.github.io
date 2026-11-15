@@ -236942,7 +236942,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-15T06:11:08+00:00",
+  "ts": "2026-11-15T06:31:00+00:00",
   "week": 10,
   "matchups": [
    {
@@ -237169,9 +237169,9 @@
     "right": "RosterMogged",
     "rightRec": "4-5",
     "leftScore": 27.2,
-    "leftProj": 124.63,
+    "leftProj": 124.57,
     "rightScore": 0.0,
-    "rightProj": 100.2,
+    "rightProj": 100.18,
     "shotgun": [],
     "leftActive": [
      {
@@ -237189,12 +237189,12 @@
       "player": "D. Henry",
       "pos": "RB",
       "slot": "W/R/T",
-      "rem": 17.95,
+      "rem": 17.89,
       "state": "pending",
       "pts": 0.0,
-      "proj": 17.95,
-      "live": 17.95,
-      "game": "Mon 8:15 pm vs LAC"
+      "proj": 17.89,
+      "live": 17.89,
+      "game": "Mon 8:15 pm vs LAC"
      },
      {
       "player": "C. Watson",
@@ -237301,12 +237301,12 @@
       "player": "O. Hampton",
       "pos": "RB",
       "slot": "RB",
-      "rem": 8.66,
+      "rem": 8.64,
       "state": "pending",
       "pts": 0.0,
-      "proj": 8.66,
-      "live": 8.66,
-      "game": "Mon 8:15 pm @ Bal"
+      "proj": 8.64,
+      "live": 8.64,
+      "game": "Mon 8:15 pm @ Bal"
      },
      {
       "player": "K. Pitts Sr.",
