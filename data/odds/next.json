@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 11,
- "ts": "2026-11-15T04:11:01+00:00",
+ "ts": "2026-11-15T04:50:58+00:00",
  "matchups": [
   {
    "id": "1v4",
@@ -10,7 +10,7 @@
    "right": "Chubb will Rise Again",
    "rightRec": "4-5",
    "leftScore": 0.0,
-   "leftProj": 62.73,
+   "leftProj": 62.74,
    "rightScore": 0.0,
    "rightProj": 110.58,
    "leftPct": 12,
@@ -148,11 +148,11 @@
      "player": "T. Etienne Jr.",
      "pos": "RB",
      "slot": "RB",
-     "rem": 8.32,
+     "rem": 8.33,
      "state": "pending",
      "pts": 0.0,
-     "proj": 8.32,
-     "live": 8.32,
+     "proj": 8.33,
+     "live": 8.33,
      "game": "Sun 1:00 pm @ Chi"
     }
    ],
@@ -709,7 +709,7 @@
    "right": "RosterMogged",
    "rightRec": "4-5",
    "leftScore": 0.0,
-   "leftProj": 104.72,
+   "leftProj": 104.71,
    "rightScore": 0.0,
    "rightProj": 69.83,
    "leftPct": 83,
@@ -800,11 +800,11 @@
      "player": "C. Skattebo",
      "pos": "RB",
      "slot": "RB",
-     "rem": 13.51,
+     "rem": 13.5,
      "state": "pending",
      "pts": 0.0,
-     "proj": 13.51,
-     "live": 13.51,
+     "proj": 13.5,
+     "live": 13.5,
      "game": "Sun 4:25 pm vs Jax"
     },
     {
@@ -1166,7 +1166,7 @@
    "right": "Lover boy",
    "rightRec": "4-5",
    "leftScore": 0.0,
-   "leftProj": 105.07,
+   "leftProj": 105.06,
    "rightScore": 0.0,
    "rightProj": 83.57,
    "leftPct": 69,
@@ -1243,11 +1243,11 @@
      "player": "C. Olave",
      "pos": "WR",
      "slot": "WR",
-     "rem": 14.47,
+     "rem": 14.46,
      "state": "pending",
      "pts": 0.0,
-     "proj": 14.47,
-     "live": 14.47,
+     "proj": 14.46,
+     "live": 14.46,
      "game": "Sun 1:00 pm @ Chi"
     },
     {
