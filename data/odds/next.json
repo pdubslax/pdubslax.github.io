@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 11,
- "ts": "2026-11-15T02:51:00+00:00",
+ "ts": "2026-11-15T03:31:00+00:00",
  "matchups": [
   {
    "id": "1v4",
@@ -479,7 +479,7 @@
    "right": "Zen Buddha Boys 🪷💨",
    "rightRec": "4-5",
    "leftScore": 0.0,
-   "leftProj": 100.01,
+   "leftProj": 100.02,
    "rightScore": 0.0,
    "rightProj": 102.14,
    "leftPct": 48,
@@ -581,11 +581,11 @@
      "player": "T. McBride",
      "pos": "TE",
      "slot": "TE",
-     "rem": 12.91,
+     "rem": 12.92,
      "state": "pending",
      "pts": 0.0,
-     "proj": 12.91,
-     "live": 12.91,
+     "proj": 12.92,
+     "live": 12.92,
      "game": "Sun 1:00 pm @ KC"
     },
     {
