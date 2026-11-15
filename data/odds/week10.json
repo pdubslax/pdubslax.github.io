@@ -236942,7 +236942,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-15T02:30:12+00:00",
+  "ts": "2026-11-15T02:30:59+00:00",
   "week": 10,
   "matchups": [
    {
@@ -236954,7 +236954,7 @@
     "leftScore": 0.0,
     "leftProj": 122.42,
     "rightScore": 0.0,
-    "rightProj": 120.43,
+    "rightProj": 120.42,
     "shotgun": [],
     "leftActive": [
      {
@@ -237062,11 +237062,11 @@
       "player": "J. Love",
       "pos": "QB",
       "slot": "QB",
-      "rem": 20.2,
+      "rem": 20.19,
       "state": "pending",
       "pts": 0.0,
-      "proj": 20.2,
-      "live": 20.2,
+      "proj": 20.19,
+      "live": 20.19,
       "game": "Sun 1:00 pm vs Min"
      },
      {
@@ -237169,9 +237169,9 @@
     "right": "RosterMogged",
     "rightRec": "4-5",
     "leftScore": 27.2,
-    "leftProj": 125.42,
+    "leftProj": 125.47,
     "rightScore": 0.0,
-    "rightProj": 100.15,
+    "rightProj": 100.17,
     "shotgun": [],
     "leftActive": [
      {
@@ -237559,9 +237559,9 @@
     "right": "James Ray Ervin Yonts",
     "rightRec": "6-3",
     "leftScore": 0.0,
-    "leftProj": 121.0,
+    "leftProj": 120.99,
     "rightScore": 6.5,
-    "rightProj": 130.96,
+    "rightProj": 130.95,
     "shotgun": [],
     "leftActive": [
      {
