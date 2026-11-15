@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 11,
- "ts": "2026-11-15T07:52:02+00:00",
+ "ts": "2026-11-15T08:32:02+00:00",
  "matchups": [
   {
    "id": "1v4",
@@ -10,7 +10,7 @@
    "right": "Chubb will Rise Again",
    "rightRec": "4-5",
    "leftScore": 0.0,
-   "leftProj": 62.79,
+   "leftProj": 62.74,
    "rightScore": 0.0,
    "rightProj": 110.42,
    "leftPct": 12,
@@ -74,7 +74,7 @@
      "reason": "pts"
     },
     {
-     "player": "Seattle",
+     "player": "Seahawks",
      "pos": "DEF",
      "team": "Sea",
      "pts": 0.0,
@@ -104,11 +104,11 @@
      "player": "J. Coker",
      "pos": "WR",
      "slot": "WR",
-     "rem": 12.34,
+     "rem": 12.29,
      "state": "pending",
      "pts": 0.0,
-     "proj": 12.34,
-     "live": 12.34,
+     "proj": 12.29,
+     "live": 12.29,
      "game": "Sun 1:00 pm vs Bal"
     },
     {
@@ -123,7 +123,7 @@
      "game": "Sun 1:00 pm vs TB"
     },
     {
-     "player": "Houston",
+     "player": "Texans",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 9.09,
@@ -243,11 +243,11 @@
    "right": "Tuten Brown",
    "rightRec": "5-4",
    "leftScore": 0.0,
-   "leftProj": 63.93,
+   "leftProj": 72.19,
    "rightScore": 0.0,
    "rightProj": 85.53,
-   "leftPct": 28,
-   "leftRem": 6,
+   "leftPct": 36,
+   "leftRem": 7,
    "rightRem": 6,
    "shotgun": [
     {
@@ -259,20 +259,6 @@
      "tag": null,
      "state": "bye",
      "slot": "QB",
-     "manager": "BDSM AI Stealth Founder",
-     "locked": false,
-     "live": 0.0,
-     "reason": "pts"
-    },
-    {
-     "player": "C. Kiner",
-     "pos": "RB",
-     "team": "NE",
-     "pts": 0.0,
-     "game": "Bye",
-     "tag": null,
-     "state": "bye",
-     "slot": "RB",
      "manager": "BDSM AI Stealth Founder",
      "locked": false,
      "live": 0.0,
@@ -339,7 +325,7 @@
     {
      "player": "D. Henry",
      "pos": "RB",
-     "slot": "W/R/T",
+     "slot": "RB",
      "rem": 17.5,
      "state": "pending",
      "pts": 0.0,
@@ -368,6 +354,17 @@
      "proj": 11.36,
      "live": 11.36,
      "game": "Sun 4:25 pm vs Jax"
+    },
+    {
+     "player": "T. Dell",
+     "pos": "WR",
+     "slot": "W/R/T",
+     "rem": 8.19,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 8.19,
+     "live": 8.19,
+     "game": "Thu 8:15 pm vs Ind"
     },
     {
      "player": "D. Samuel Sr.",
@@ -479,9 +476,9 @@
    "right": "Zen Buddha Boys 🪷💨",
    "rightRec": "4-5",
    "leftScore": 0.0,
-   "leftProj": 99.96,
+   "leftProj": 99.9,
    "rightScore": 0.0,
-   "rightProj": 102.09,
+   "rightProj": 102.14,
    "leftPct": 48,
    "leftRem": 7,
    "rightRem": 7,
@@ -570,11 +567,11 @@
      "player": "T. McMillan",
      "pos": "WR",
      "slot": "WR",
-     "rem": 14.23,
+     "rem": 14.17,
      "state": "pending",
      "pts": 0.0,
-     "proj": 14.23,
-     "live": 14.23,
+     "proj": 14.17,
+     "live": 14.17,
      "game": "Sun 1:00 pm vs Bal"
     },
     {
@@ -649,11 +646,11 @@
      "player": "C. Hubbard",
      "pos": "RB",
      "slot": "RB",
-     "rem": 15.88,
+     "rem": 15.93,
      "state": "pending",
      "pts": 0.0,
-     "proj": 15.88,
-     "live": 15.88,
+     "proj": 15.93,
+     "live": 15.93,
      "game": "Sun 1:00 pm vs Bal"
     },
     {
@@ -1168,7 +1165,7 @@
    "leftScore": 0.0,
    "leftProj": 104.69,
    "rightScore": 0.0,
-   "rightProj": 83.49,
+   "rightProj": 83.5,
    "leftPct": 69,
    "leftRem": 8,
    "rightRem": 7,
@@ -1232,11 +1229,11 @@
      "player": "T. Higgins",
      "pos": "WR",
      "slot": "W/R/T",
-     "rem": 16.55,
+     "rem": 16.56,
      "state": "pending",
      "pts": 0.0,
-     "proj": 16.55,
-     "live": 16.55,
+     "proj": 16.56,
+     "live": 16.56,
      "game": "Mon 8:15 pm @ Was"
     },
     {
@@ -1298,11 +1295,11 @@
      "player": "S. Perine",
      "pos": "RB",
      "slot": "RB",
-     "rem": 6.63,
+     "rem": 6.62,
      "state": "pending",
      "pts": 0.0,
-     "proj": 6.63,
-     "live": 6.63,
+     "proj": 6.62,
+     "live": 6.62,
      "game": "Mon 8:15 pm @ Was"
     }
    ],
@@ -1311,11 +1308,11 @@
      "player": "J. Cook III",
      "pos": "RB",
      "slot": "RB",
-     "rem": 19.32,
+     "rem": 19.33,
      "state": "pending",
      "pts": 0.0,
-     "proj": 19.32,
-     "live": 19.32,
+     "proj": 19.33,
+     "live": 19.33,
      "game": "Sun 1:00 pm vs Mia"
     },
     {
