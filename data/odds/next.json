@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 11,
- "ts": "2026-11-15T22:10:09+00:00",
+ "ts": "2026-11-15T22:31:08+00:00",
  "matchups": [
   {
    "id": "1v4",
@@ -10,7 +10,7 @@
    "right": "Chubb will Rise Again",
    "rightRec": "4-5",
    "leftScore": 0.0,
-   "leftProj": 62.99,
+   "leftProj": 62.97,
    "rightScore": 0.0,
    "rightProj": 110.38,
    "leftPct": 12,
@@ -148,11 +148,11 @@
      "player": "T. Etienne Jr.",
      "pos": "RB",
      "slot": "RB",
-     "rem": 8.59,
+     "rem": 8.57,
      "state": "pending",
      "pts": 0.0,
-     "proj": 8.59,
-     "live": 8.59,
+     "proj": 8.57,
+     "live": 8.57,
      "game": "Sun 1:00 pm @ Chi"
     }
    ],
@@ -245,7 +245,7 @@
    "leftScore": 0.0,
    "leftProj": 72.73,
    "rightScore": 0.0,
-   "rightProj": 85.45,
+   "rightProj": 85.46,
    "leftPct": 37,
    "leftRem": 7,
    "rightRem": 6,
@@ -307,7 +307,7 @@
      "reason": "pts"
     },
     {
-     "player": "Rams",
+     "player": "L. Angeles",
      "pos": "DEF",
      "team": "LAR",
      "pts": 0.0,
@@ -389,7 +389,7 @@
      "game": "Sun 4:25 pm vs Jax"
     },
     {
-     "player": "Saints",
+     "player": "N. Orleans",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 4.7,
@@ -438,11 +438,11 @@
      "player": "DJ Moore",
      "pos": "WR",
      "slot": "WR",
-     "rem": 12.46,
+     "rem": 12.47,
      "state": "pending",
      "pts": 0.0,
-     "proj": 12.46,
-     "live": 12.46,
+     "proj": 12.47,
+     "live": 12.47,
      "game": "Sun 1:00 pm vs Mia"
     },
     {
@@ -478,7 +478,7 @@
    "leftScore": 0.0,
    "leftProj": 100.06,
    "rightScore": 0.0,
-   "rightProj": 102.44,
+   "rightProj": 102.43,
    "leftPct": 48,
    "leftRem": 7,
    "rightRem": 7,
@@ -624,11 +624,11 @@
      "player": "T. Shough",
      "pos": "QB",
      "slot": "QB",
-     "rem": 19.91,
+     "rem": 19.92,
      "state": "pending",
      "pts": 0.0,
-     "proj": 19.91,
-     "live": 19.91,
+     "proj": 19.92,
+     "live": 19.92,
      "game": "Sun 1:00 pm @ Chi"
     },
     {
@@ -679,11 +679,11 @@
      "player": "O. Gordon II",
      "pos": "RB",
      "slot": "RB",
-     "rem": 12.37,
+     "rem": 12.35,
      "state": "pending",
      "pts": 0.0,
-     "proj": 12.37,
-     "live": 12.37,
+     "proj": 12.35,
+     "live": 12.35,
      "game": "Sun 1:00 pm @ Buf"
     },
     {
@@ -706,7 +706,7 @@
    "right": "RosterMogged",
    "rightRec": "4-5",
    "leftScore": 0.0,
-   "leftProj": 104.48,
+   "leftProj": 104.5,
    "rightScore": 0.0,
    "rightProj": 69.81,
    "leftPct": 83,
@@ -816,7 +816,7 @@
      "game": "Sun 8:20 pm vs Min"
     },
     {
-     "player": "Buffalo",
+     "player": "Bills",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 10.62,
@@ -841,22 +841,22 @@
      "player": "D. Kincaid",
      "pos": "TE",
      "slot": "TE",
-     "rem": 10.09,
+     "rem": 10.1,
      "state": "pending",
      "pts": 0.0,
-     "proj": 10.09,
-     "live": 10.09,
+     "proj": 10.1,
+     "live": 10.1,
      "game": "Sun 1:00 pm vs Mia"
     },
     {
      "player": "K. Shakir",
      "pos": "WR",
      "slot": "WR",
-     "rem": 9.83,
+     "rem": 9.84,
      "state": "pending",
      "pts": 0.0,
-     "proj": 9.83,
-     "live": 9.83,
+     "proj": 9.84,
+     "live": 9.84,
      "game": "Sun 1:00 pm vs Mia"
     }
    ],
@@ -895,7 +895,7 @@
      "game": "Sun 4:05 pm vs NYJ"
     },
     {
-     "player": "K. City",
+     "player": "Chiefs",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 9.86,
@@ -936,9 +936,9 @@
    "right": "Kiwis are better than mid",
    "rightRec": "6-3",
    "leftScore": 0.0,
-   "leftProj": 95.37,
+   "leftProj": 95.36,
    "rightScore": 0.0,
-   "rightProj": 109.0,
+   "rightProj": 109.01,
    "leftPct": 38,
    "leftRem": 7,
    "rightRem": 8,
@@ -972,7 +972,7 @@
      "reason": "pts"
     },
     {
-     "player": "Cleveland",
+     "player": "Browns",
      "pos": "DEF",
      "team": "Cle",
      "pts": 0.0,
@@ -1013,11 +1013,11 @@
      "player": "J. Warren",
      "pos": "RB",
      "slot": "RB",
-     "rem": 16.08,
+     "rem": 16.07,
      "state": "pending",
      "pts": 0.0,
-     "proj": 16.08,
-     "live": 16.08,
+     "proj": 16.07,
+     "live": 16.07,
      "game": "Sun 1:00 pm @ Phi"
     },
     {
@@ -1054,7 +1054,7 @@
      "game": "Sun 1:00 pm vs Ari"
     },
     {
-     "player": "N. York",
+     "player": "Giants",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 5.06,
@@ -1070,11 +1070,11 @@
      "player": "J. Allen",
      "pos": "QB",
      "slot": "QB",
-     "rem": 27.85,
+     "rem": 27.86,
      "state": "pending",
      "pts": 0.0,
-     "proj": 27.85,
-     "live": 27.85,
+     "proj": 27.86,
+     "live": 27.86,
      "game": "Sun 1:00 pm vs Mia"
     },
     {
@@ -1163,9 +1163,9 @@
    "right": "Lover boy",
    "rightRec": "4-5",
    "leftScore": 0.0,
-   "leftProj": 104.51,
+   "leftProj": 104.52,
    "rightScore": 0.0,
-   "rightProj": 83.71,
+   "rightProj": 83.69,
    "leftPct": 68,
    "leftRem": 8,
    "rightRem": 7,
@@ -1240,11 +1240,11 @@
      "player": "C. Olave",
      "pos": "WR",
      "slot": "WR",
-     "rem": 14.33,
+     "rem": 14.34,
      "state": "pending",
      "pts": 0.0,
-     "proj": 14.33,
-     "live": 14.33,
+     "proj": 14.34,
+     "live": 14.34,
      "game": "Sun 1:00 pm @ Chi"
     },
     {
@@ -1259,7 +1259,7 @@
      "game": "Sun 4:25 pm vs Jax"
     },
     {
-     "player": "Jacksonville",
+     "player": "Jaguars",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 9.47,
@@ -1308,11 +1308,11 @@
      "player": "J. Cook III",
      "pos": "RB",
      "slot": "RB",
-     "rem": 19.57,
+     "rem": 19.55,
      "state": "pending",
      "pts": 0.0,
-     "proj": 19.57,
-     "live": 19.57,
+     "proj": 19.55,
+     "live": 19.55,
      "game": "Sun 1:00 pm vs Mia"
     },
     {
@@ -1371,7 +1371,7 @@
      "game": "Mon 8:15 pm @ Was"
     },
     {
-     "player": "Indianapolis",
+     "player": "Colts",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 4.94,
