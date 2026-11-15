@@ -236942,7 +236942,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-15T02:51:10+00:00",
+  "ts": "2026-11-15T03:10:59+00:00",
   "week": 10,
   "matchups": [
    {
@@ -237364,7 +237364,7 @@
     "right": "Tuten Brown",
     "rightRec": "5-4",
     "leftScore": 22.8,
-    "leftProj": 135.86,
+    "leftProj": 135.87,
     "rightScore": 0.0,
     "rightProj": 116.07,
     "shotgun": [],
@@ -237417,11 +237417,11 @@
       "player": "T. McBride",
       "pos": "TE",
       "slot": "TE",
-      "rem": 13.51,
+      "rem": 13.52,
       "state": "pending",
       "pts": 0.0,
-      "proj": 13.51,
-      "live": 13.51,
+      "proj": 13.52,
+      "live": 13.52,
       "game": "Sun 4:05 pm vs LAR"
      },
      {
