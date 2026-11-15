@@ -236942,7 +236942,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-14T23:50:12+00:00",
+  "ts": "2026-11-15T00:10:02+00:00",
   "week": 10,
   "matchups": [
    {
@@ -236952,9 +236952,9 @@
     "right": "Lover boy",
     "rightRec": "4-5",
     "leftScore": 0.0,
-    "leftProj": 122.89,
+    "leftProj": 122.9,
     "rightScore": 0.0,
-    "rightProj": 120.29,
+    "rightProj": 120.31,
     "shotgun": [],
     "leftActive": [
      {
@@ -236983,11 +236983,11 @@
       "player": "M. Golden",
       "pos": "WR",
       "slot": "WR",
-      "rem": 15.36,
+      "rem": 15.37,
       "state": "pending",
       "pts": 0.0,
-      "proj": 15.36,
-      "live": 15.36,
+      "proj": 15.37,
+      "live": 15.37,
       "game": "Sun 1:00 pm vs Min"
      },
      {
@@ -237062,11 +237062,11 @@
       "player": "J. Love",
       "pos": "QB",
       "slot": "QB",
-      "rem": 20.18,
+      "rem": 20.2,
       "state": "pending",
       "pts": 0.0,
-      "proj": 20.18,
-      "live": 20.18,
+      "proj": 20.2,
+      "live": 20.2,
       "game": "Sun 1:00 pm vs Min"
      },
      {
@@ -237366,7 +237366,7 @@
     "leftScore": 22.8,
     "leftProj": 136.0,
     "rightScore": 0.0,
-    "rightProj": 115.98,
+    "rightProj": 115.99,
     "shotgun": [],
     "leftActive": [
      {
@@ -237496,11 +237496,11 @@
       "player": "W. Robinson",
       "pos": "WR",
       "slot": "W/R/T",
-      "rem": 9.97,
+      "rem": 9.98,
       "state": "pending",
       "pts": 0.0,
-      "proj": 9.97,
-      "live": 9.97,
+      "proj": 9.98,
+      "live": 9.98,
       "game": "Sun 1:00 pm vs Jax"
      },
      {
@@ -237559,7 +237559,7 @@
     "right": "James Ray Ervin Yonts",
     "rightRec": "6-3",
     "leftScore": 0.0,
-    "leftProj": 121.2,
+    "leftProj": 121.23,
     "rightScore": 6.5,
     "rightProj": 130.87,
     "shotgun": [],
@@ -237601,11 +237601,11 @@
       "player": "P. Washington",
       "pos": "WR",
       "slot": "WR",
-      "rem": 14.61,
+      "rem": 14.64,
       "state": "pending",
       "pts": 0.0,
-      "proj": 14.61,
-      "live": 14.61,
+      "proj": 14.64,
+      "live": 14.64,
       "game": "Sun 1:00 pm @ Ten"
      },
      {
@@ -237754,7 +237754,7 @@
       "game": "Sun 1:00 pm @ Cle"
      }
     ],
-    "leftPct": 42,
+    "leftPct": 43,
     "leftRem": 9,
     "rightRem": 8
    },
@@ -237767,7 +237767,7 @@
     "leftScore": 53.66,
     "leftProj": 140.7,
     "rightScore": 9.8,
-    "rightProj": 98.08,
+    "rightProj": 97.43,
     "shotgun": [],
     "leftActive": [
      {
@@ -237897,11 +237897,11 @@
       "player": "Jaguars",
       "pos": "DEF",
       "slot": "DEF",
-      "rem": 9.18,
+      "rem": 9.17,
       "state": "pending",
       "pts": 0.0,
-      "proj": 9.18,
-      "live": 9.18,
+      "proj": 9.17,
+      "live": 9.17,
       "game": "Sun 1:00 pm @ Ten"
      },
      {
@@ -237919,11 +237919,11 @@
       "player": "K. Johnson",
       "pos": "RB",
       "slot": "RB",
-      "rem": 5.89,
+      "rem": 5.25,
       "state": "pending",
       "pts": 0.0,
-      "proj": 5.89,
-      "live": 5.89,
+      "proj": 5.25,
+      "live": 5.25,
       "game": "Sun 1:00 pm vs Min"
      }
     ],
@@ -237938,7 +237938,7 @@
     "right": "Kiwis are better than mid",
     "rightRec": "6-3",
     "leftScore": 0.0,
-    "leftProj": 125.71,
+    "leftProj": 125.77,
     "rightScore": 7.7,
     "rightProj": 119.78,
     "shotgun": [],
@@ -238002,11 +238002,11 @@
       "player": "T. Pollard",
       "pos": "RB",
       "slot": "W/R/T",
-      "rem": 13.12,
+      "rem": 13.18,
       "state": "pending",
       "pts": 0.0,
-      "proj": 13.12,
-      "live": 13.12,
+      "proj": 13.18,
+      "live": 13.18,
       "game": "Sun 1:00 pm vs Jax"
      },
      {
