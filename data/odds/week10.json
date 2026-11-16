@@ -812973,6 +812973,293 @@
      "rightRem": 1
     }
    ]
+  },
+  {
+   "ts": "2026-11-16T03:37:04+00:00",
+   "week": 10,
+   "matchups": [
+    {
+     "id": "1v9",
+     "left": "Nick Leif Erikson Barden",
+     "leftRec": "4-5",
+     "right": "Lover boy",
+     "rightRec": "4-5",
+     "leftScore": 96.86,
+     "leftProj": 96.86,
+     "rightScore": 123.15,
+     "rightProj": 127.82,
+     "shotgun": [],
+     "leftActive": [],
+     "rightActive": [
+      {
+       "player": "E. McPherson",
+       "pos": "K",
+       "slot": "K",
+       "rem": 2.55,
+       "state": "live",
+       "pts": 6.4,
+       "proj": 9.95,
+       "live": 8.95,
+       "game": "3rd 0:21, 31-3 vs PIT"
+      },
+      {
+       "player": "M. Gesicki",
+       "pos": "TE",
+       "slot": "TE",
+       "rem": 2.09,
+       "state": "live",
+       "pts": 1.4,
+       "proj": 8.16,
+       "live": 3.49,
+       "game": "3rd 0:21, 31-3 vs PIT"
+      }
+     ],
+     "leftPct": 1,
+     "leftRem": 0,
+     "rightRem": 2
+    },
+    {
+     "id": "2v10",
+     "left": "BDSM AI Stealth Founder",
+     "leftRec": "3-6",
+     "right": "RosterMogged",
+     "rightRec": "4-5",
+     "leftScore": 99.87,
+     "leftProj": 121.64,
+     "rightScore": 99.86,
+     "rightProj": 111.15,
+     "shotgun": [],
+     "leftActive": [
+      {
+       "player": "D. Henry",
+       "pos": "RB",
+       "slot": "RB",
+       "rem": 17.96,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 17.96,
+       "live": 17.96,
+       "game": "Tue 1:15 AM vs LAC"
+      },
+      {
+       "player": "C. Brown",
+       "pos": "RB",
+       "slot": "RB",
+       "rem": 3.77,
+       "state": "live",
+       "pts": 26.3,
+       "proj": 14.75,
+       "live": 30.07,
+       "game": "3rd 0:21, 31-3 vs PIT"
+      }
+     ],
+     "rightActive": [
+      {
+       "player": "O. Hampton",
+       "pos": "RB",
+       "slot": "RB",
+       "rem": 8.69,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 8.69,
+       "live": 8.69,
+       "game": "Tue 1:15 AM @ BAL"
+      },
+      {
+       "player": "G. Bernard",
+       "pos": "WR",
+       "slot": "W/R/T",
+       "rem": 2.57,
+       "state": "live",
+       "pts": 1.5,
+       "proj": 10.06,
+       "live": 4.07,
+       "game": "3rd 0:21, 3-31 @ CIN"
+      }
+     ],
+     "leftPct": 71,
+     "leftRem": 2,
+     "rightRem": 2
+    },
+    {
+     "id": "3v5",
+     "left": "Robotripping Gardener",
+     "leftRec": "5-4",
+     "right": "Tuten Brown",
+     "rightRec": "5-4",
+     "leftScore": 137.42,
+     "leftProj": 137.42,
+     "rightScore": 128.73,
+     "rightProj": 128.73,
+     "shotgun": [],
+     "leftActive": [],
+     "rightActive": [],
+     "leftPct": 100,
+     "leftRem": 0,
+     "rightRem": 0
+    },
+    {
+     "id": "4v7",
+     "left": "Chubb will Rise Again",
+     "leftRec": "4-5",
+     "right": "James Ray Ervin Yonts",
+     "rightRec": "6-3",
+     "leftScore": 142.24,
+     "leftProj": 147.15,
+     "rightScore": 143.62,
+     "rightProj": 148.12,
+     "shotgun": [],
+     "leftActive": [
+      {
+       "player": "J. Chase",
+       "pos": "WR",
+       "slot": "WR",
+       "rem": 4.86,
+       "state": "live",
+       "pts": 27.8,
+       "proj": 19.01,
+       "live": 32.66,
+       "game": "3rd 0:21, 31-3 vs PIT"
+      }
+     ],
+     "rightActive": [
+      {
+       "player": "J. Warren",
+       "pos": "RB",
+       "slot": "RB",
+       "rem": 4.46,
+       "state": "live",
+       "pts": 5.5,
+       "proj": 17.42,
+       "live": 9.96,
+       "game": "3rd 0:21, 3-31 @ CIN"
+      }
+     ],
+     "leftPct": 47,
+     "leftRem": 1,
+     "rightRem": 1
+    },
+    {
+     "id": "6v8",
+     "left": "MELONHEADS (daniel)",
+     "leftRec": "5-4",
+     "right": "Alex Michael Pagels",
+     "rightRec": "4-5",
+     "leftScore": 160.01,
+     "leftProj": 160.01,
+     "rightScore": 83.19,
+     "rightProj": 97.95,
+     "shotgun": [],
+     "leftActive": [],
+     "rightActive": [
+      {
+       "player": "J. Burrow",
+       "pos": "QB",
+       "slot": "QB",
+       "rem": 6.32,
+       "state": "live",
+       "pts": 35.04,
+       "proj": 24.7,
+       "live": 41.36,
+       "game": "3rd 0:21, 31-3 vs PIT"
+      },
+      {
+       "player": "T. Higgins",
+       "pos": "WR",
+       "slot": "W/R/T",
+       "rem": 4.29,
+       "state": "live",
+       "pts": 11.6,
+       "proj": 16.76,
+       "live": 15.89,
+       "game": "3rd 0:21, 31-3 vs PIT"
+      },
+      {
+       "player": "C. Boswell",
+       "pos": "K",
+       "slot": "K",
+       "rem": 2.35,
+       "state": "live",
+       "pts": 4.5,
+       "proj": 9.2,
+       "live": 6.85,
+       "game": "3rd 0:21, 3-31 @ CIN"
+      },
+      {
+       "player": "S. Perine",
+       "pos": "RB",
+       "slot": "RB",
+       "rem": 1.68,
+       "state": "live",
+       "pts": 7.8,
+       "proj": 6.58,
+       "live": 9.48,
+       "game": "3rd 0:21, 31-3 vs PIT"
+      }
+     ],
+     "leftPct": 99,
+     "leftRem": 0,
+     "rightRem": 4
+    },
+    {
+     "id": "11v12",
+     "left": "Zen Buddha Boys 🪷💨",
+     "leftRec": "4-5",
+     "right": "Kiwis are better than mid",
+     "rightRec": "6-3",
+     "leftScore": 138.23,
+     "leftProj": 138.23,
+     "rightScore": 125.54,
+     "rightProj": 128.58,
+     "shotgun": [
+      {
+       "player": "D. Metcalf",
+       "pos": "WR",
+       "team": "Pit",
+       "pts": 0.0,
+       "game": "3rd 0:21, 3-31 @ CIN",
+       "tag": null,
+       "state": "live",
+       "slot": "WR",
+       "manager": "Kiwis are better than mid",
+       "locked": false,
+       "live": 3.02,
+       "reason": "pts"
+      },
+      {
+       "player": "49ers",
+       "pos": "DEF",
+       "team": "SF",
+       "pts": -2.25,
+       "game": "Final (W) 46-40 @ DAL",
+       "tag": null,
+       "state": "final",
+       "slot": "DEF",
+       "manager": "Zen Buddha Boys 🪷💨",
+       "locked": true,
+       "live": 4.79,
+       "reason": "pts"
+      }
+     ],
+     "leftActive": [],
+     "rightActive": [
+      {
+       "player": "D. Metcalf",
+       "pos": "WR",
+       "slot": "WR",
+       "rem": 3.02,
+       "state": "live",
+       "pts": 0.0,
+       "proj": 11.8,
+       "live": 3.02,
+       "game": "3rd 0:21, 3-31 @ CIN"
+      }
+     ],
+     "leftPct": 95,
+     "leftRem": 0,
+     "rightRem": 1
+    }
+   ]
   }
  ],
  "segments": [
