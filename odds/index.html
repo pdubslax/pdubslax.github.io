@@ -397,9 +397,10 @@ function render(hist, mode, curWeek){
       ${flip ? strip(firstName(m,0),m.left,m.leftRec,lp,m.leftScore,m.leftProj,m.leftRem,false,'bot',m.leftActive) : strip(firstName(m,1),m.right,m.rightRec,rp,m.rightScore,m.rightProj,m.rightRem,false,'bot',m.rightActive)}
     </a>`;
   }).join('');
-  // Projected standings: only when this week's file carries the standings it was played from.
+  // Projected standings: only for the latest week (not when looking back at an earlier one), and only when its file carries the
+  // standings it was played from.
   const st = document.getElementById('stand');
-  if (!hist.base || hist.base.through !== hist.week - 1) st.innerHTML = '';
+  if (hist.week !== curWeek || !hist.base || hist.base.through !== hist.week - 1) st.innerHTML = '';
   else {
     const was = {}; ranked(hist.base).forEach((t, i) => was[t.id] = i + 1);
     const now = ranked(advance(hist.base, last.matchups));
