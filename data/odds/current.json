@@ -776640,7 +776640,7 @@
   }
  ],
  "preview": {
-  "ts": "2026-11-16T00:48:50+00:00",
+  "ts": "2026-11-16T01:08:58+00:00",
   "week": 10,
   "matchups": [
    {
@@ -776652,7 +776652,7 @@
     "leftScore": 96.86,
     "leftProj": 96.86,
     "rightScore": 115.35,
-    "rightProj": 133.44,
+    "rightProj": 133.46,
     "shotgun": [],
     "leftActive": [],
     "rightActive": [
@@ -776660,11 +776660,11 @@
       "player": "E. McPherson",
       "pos": "K",
       "slot": "K",
-      "rem": 9.93,
+      "rem": 9.95,
       "state": "pending",
       "pts": 0.0,
-      "proj": 9.93,
-      "live": 9.93,
+      "proj": 9.95,
+      "live": 9.95,
       "game": "Mon 1:20 AM vs PIT"
      },
      {
@@ -776690,20 +776690,20 @@
     "right": "RosterMogged",
     "rightRec": "4-5",
     "leftScore": 73.57,
-    "leftProj": 106.26,
+    "leftProj": 106.28,
     "rightScore": 98.36,
-    "rightProj": 117.18,
+    "rightProj": 117.11,
     "shotgun": [],
     "leftActive": [
      {
       "player": "D. Henry",
       "pos": "RB",
       "slot": "RB",
-      "rem": 17.94,
+      "rem": 17.96,
       "state": "pending",
       "pts": 0.0,
-      "proj": 17.94,
-      "live": 17.94,
+      "proj": 17.96,
+      "live": 17.96,
       "game": "Tue 1:15 AM vs LAC"
      },
      {
@@ -776723,22 +776723,22 @@
       "player": "G. Bernard",
       "pos": "WR",
       "slot": "W/R/T",
-      "rem": 10.08,
+      "rem": 10.06,
       "state": "pending",
       "pts": 0.0,
-      "proj": 10.08,
-      "live": 10.08,
+      "proj": 10.06,
+      "live": 10.06,
       "game": "Mon 1:20 AM @ CIN"
      },
      {
       "player": "O. Hampton",
       "pos": "RB",
       "slot": "RB",
-      "rem": 8.74,
+      "rem": 8.69,
       "state": "pending",
       "pts": 0.0,
-      "proj": 8.74,
-      "live": 8.74,
+      "proj": 8.69,
+      "live": 8.69,
       "game": "Tue 1:15 AM @ BAL"
      }
     ],
@@ -776771,20 +776771,20 @@
     "right": "James Ray Ervin Yonts",
     "rightRec": "6-3",
     "leftScore": 114.44,
-    "leftProj": 133.45,
+    "leftProj": 133.46,
     "rightScore": 138.12,
-    "rightProj": 155.6,
+    "rightProj": 155.54,
     "shotgun": [],
     "leftActive": [
      {
       "player": "J. Chase",
       "pos": "WR",
       "slot": "WR",
-      "rem": 19.01,
+      "rem": 19.02,
       "state": "pending",
       "pts": 0.0,
-      "proj": 19.01,
-      "live": 19.01,
+      "proj": 19.02,
+      "live": 19.02,
       "game": "Mon 1:20 AM vs PIT"
      }
     ],
@@ -776793,11 +776793,11 @@
       "player": "J. Warren",
       "pos": "RB",
       "slot": "RB",
-      "rem": 17.48,
+      "rem": 17.42,
       "state": "pending",
       "pts": 0.0,
-      "proj": 17.48,
-      "live": 17.48,
+      "proj": 17.42,
+      "live": 17.42,
       "game": "Mon 1:20 AM @ CIN"
      }
     ],
@@ -776814,7 +776814,7 @@
     "leftScore": 160.01,
     "leftProj": 160.01,
     "rightScore": 24.25,
-    "rightProj": 81.48,
+    "rightProj": 81.5,
     "shotgun": [],
     "leftActive": [],
     "rightActive": [
@@ -776822,11 +776822,11 @@
       "player": "J. Burrow",
       "pos": "QB",
       "slot": "QB",
-      "rem": 24.69,
+      "rem": 24.71,
       "state": "pending",
       "pts": 0.0,
-      "proj": 24.69,
-      "live": 24.69,
+      "proj": 24.71,
+      "live": 24.71,
       "game": "Mon 1:20 AM vs PIT"
      },
      {
@@ -776844,22 +776844,22 @@
       "player": "C. Boswell",
       "pos": "K",
       "slot": "K",
-      "rem": 9.22,
+      "rem": 9.2,
       "state": "pending",
       "pts": 0.0,
-      "proj": 9.22,
-      "live": 9.22,
+      "proj": 9.2,
+      "live": 9.2,
       "game": "Mon 1:20 AM @ CIN"
      },
      {
       "player": "S. Perine",
       "pos": "RB",
       "slot": "RB",
-      "rem": 6.56,
+      "rem": 6.58,
       "state": "pending",
       "pts": 0.0,
-      "proj": 6.56,
-      "live": 6.56,
+      "proj": 6.58,
+      "live": 6.58,
       "game": "Mon 1:20 AM vs PIT"
      }
     ],
@@ -776876,7 +776876,7 @@
     "leftScore": 138.23,
     "leftProj": 138.23,
     "rightScore": 125.54,
-    "rightProj": 137.35,
+    "rightProj": 137.34,
     "shotgun": [
      {
       "player": "49ers",
@@ -776899,11 +776899,11 @@
       "player": "D. Metcalf",
       "pos": "WR",
       "slot": "WR",
-      "rem": 11.81,
+      "rem": 11.8,
       "state": "pending",
       "pts": 0.0,
-      "proj": 11.81,
-      "live": 11.81,
+      "proj": 11.8,
+      "live": 11.8,
       "game": "Mon 1:20 AM @ CIN"
      }
     ],
