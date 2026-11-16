@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 11,
- "ts": "2026-11-16T03:11:36+00:00",
+ "ts": "2026-11-16T03:32:02+00:00",
  "matchups": [
   {
    "id": "1v4",
@@ -12,7 +12,7 @@
    "leftScore": 0.0,
    "leftProj": 57.66,
    "rightScore": 0.0,
-   "rightProj": 110.8,
+   "rightProj": 110.76,
    "leftPct": 9,
    "leftRem": 6,
    "rightRem": 7,
@@ -74,7 +74,7 @@
      "reason": "pts"
     },
     {
-     "player": "Seahawks",
+     "player": "Seattle",
      "pos": "DEF",
      "team": "Sea",
      "pts": 0.0,
@@ -112,7 +112,7 @@
      "game": "Sun 1:00 pm vs TB"
     },
     {
-     "player": "Texans",
+     "player": "Houston",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 9.12,
@@ -243,9 +243,9 @@
    "right": "Tuten Brown",
    "rightRec": "5-4",
    "leftScore": 0.0,
-   "leftProj": 72.19,
+   "leftProj": 72.24,
    "rightScore": 0.0,
-   "rightProj": 85.57,
+   "rightProj": 85.5,
    "leftPct": 36,
    "leftRem": 7,
    "rightRem": 6,
@@ -307,7 +307,7 @@
      "reason": "pts"
     },
     {
-     "player": "Rams",
+     "player": "L. Angeles",
      "pos": "DEF",
      "team": "LAR",
      "pts": 0.0,
@@ -389,7 +389,7 @@
      "game": "Sun 8:20 pm vs Min"
     },
     {
-     "player": "Saints",
+     "player": "N. Orleans",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 4.11,
@@ -706,7 +706,7 @@
    "right": "RosterMogged",
    "rightRec": "4-5",
    "leftScore": 0.0,
-   "leftProj": 104.71,
+   "leftProj": 104.76,
    "rightScore": 0.0,
    "rightProj": 71.03,
    "leftPct": 82,
@@ -797,11 +797,11 @@
      "player": "C. Skattebo",
      "pos": "RB",
      "slot": "RB",
-     "rem": 13.6,
+     "rem": 13.65,
      "state": "pending",
      "pts": 0.0,
-     "proj": 13.6,
-     "live": 13.6,
+     "proj": 13.65,
+     "live": 13.65,
      "game": "Sun 4:25 pm vs Jax"
     },
     {
@@ -944,7 +944,7 @@
    "rightRem": 8,
    "shotgun": [
     {
-     "player": "Browns",
+     "player": "Cleveland",
      "pos": "DEF",
      "team": "Cle",
      "pts": 0.0,
@@ -1037,7 +1037,7 @@
      "game": "Thu 8:15 pm vs Ind"
     },
     {
-     "player": "Chargers",
+     "player": "L. Angeles",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 8.6,
@@ -1157,10 +1157,10 @@
    "right": "Lover boy",
    "rightRec": "4-5",
    "leftScore": 0.0,
-   "leftProj": 104.52,
+   "leftProj": 103.86,
    "rightScore": 0.0,
    "rightProj": 83.42,
-   "leftPct": 69,
+   "leftPct": 68,
    "leftRem": 8,
    "rightRem": 7,
    "shotgun": [
@@ -1234,11 +1234,11 @@
      "player": "M. Nabers",
      "pos": "WR",
      "slot": "WR",
-     "rem": 14.42,
+     "rem": 14.45,
      "state": "pending",
      "pts": 0.0,
-     "proj": 14.42,
-     "live": 14.42,
+     "proj": 14.45,
+     "live": 14.45,
      "game": "Sun 4:25 pm vs Jax"
     },
     {
@@ -1253,17 +1253,6 @@
      "game": "Sun 1:00 pm @ Chi"
     },
     {
-     "player": "Jaguars",
-     "pos": "DEF",
-     "slot": "DEF",
-     "rem": 9.58,
-     "state": "pending",
-     "pts": 0.0,
-     "proj": 9.58,
-     "live": 9.58,
-     "game": "Sun 4:25 pm @ NYG"
-    },
-    {
      "player": "C. Boswell",
      "pos": "K",
      "slot": "K",
@@ -1273,6 +1262,17 @@
      "proj": 9.44,
      "live": 9.44,
      "game": "Sun 1:00 pm @ Phi"
+    },
+    {
+     "player": "Jacksonville",
+     "pos": "DEF",
+     "slot": "DEF",
+     "rem": 8.89,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 8.89,
+     "live": 8.89,
+     "game": "Sun 4:25 pm @ NYG"
     },
     {
      "player": "C. Okonkwo",
@@ -1365,7 +1365,7 @@
      "game": "Mon 8:15 pm @ Was"
     },
     {
-     "player": "Colts",
+     "player": "Indianapolis",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 4.94,
