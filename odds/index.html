@@ -103,9 +103,8 @@ footer{font-size:12.5px;color:var(--muted);border-top:1px solid var(--line);padd
 .shot .none{color:var(--muted);font-size:14px}
 .shot em.down{font-style:normal;color:var(--lock);font-family:var(--mono);font-size:12px}
 /* Top band. Wide screens: punishment watch on the left half, projected standings on the right, above the matchup cards. Narrower
-   screens, and any view without standings (.solo), keep the old order: punishment watch full width, cards, then standings. */
+   screens stack the same order: punishment watch, standings, then the cards. A view without standings (.solo) is just the watch. */
 .band{display:contents}
-.stand{order:1} footer{order:2}
 @media (min-width:1001px){
   .band:not(.solo){display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}
   .band:not(.solo) .shot{align-content:start}
@@ -449,7 +448,7 @@ function render(hist, mode, curWeek){
     const head = `<thead><tr><th class="rk">#</th><th class="mv"></th><th class="nm">Manager</th><th class="rec">Rec<span class="lg">ord</span></th><th class="res">Wk ${hist.week}</th><th class="num">PF</th><th class="num">PA</th><th class="tag"></th></tr></thead>`;
     // The arrow is the move from where the team stood entering the week.
     const row = (t, i) => { const mv = was[t.id] - (i + 1);
-      return `<tr><td class="rk">${i + 1}</td><td class="mv ${mv > 0 ? 'up' : mv < 0 ? 'down' : ''}">${mv > 0 ? '▲' + mv : mv < 0 ? '▼' + (-mv) : ''}</td><td class="nm">${esc(MANAGERS[t.id] || 'Team ' + t.id)}</td><td class="rec">${t.w}-${t.l}${t.t ? '-' + t.t : ''}</td><td class="res ${t.res}">${t.res}</td><td class="num">${t.pf.toFixed(2)}</td><td class="num">${t.pa.toFixed(2)}</td><td class="tag"></td></tr>`; };
+      return `<tr><td class="rk">${i + 1}</td><td class="mv ${mv > 0 ? 'up' : mv < 0 ? 'down' : ''}">${mv > 0 ? '▲' + mv : mv < 0 ? '▼' + (-mv) : ''}</td><td class="nm">${esc(MANAGERS[t.id] || 'Team ' + t.id)}</td><td class="rec">${t.w}-${t.l}${t.t ? '-' + t.t : ''}</td><td class="res ${t.res}">${t.res}</td><td class="num">${Math.round(t.pf)}</td><td class="num">${Math.round(t.pa)}</td><td class="tag"></td></tr>`; };
     // A labeled rule under the last team on the right side of each cutoff: the top two skip the first round, the top six make the playoffs.
     const cut = rank => rank === BYE_SPOTS ? `<tr class="cut"><td colspan="8"><span>First-round bye</span></td></tr>` : rank === PLAYOFF_SPOTS ? `<tr class="cut"><td colspan="8"><span>Playoff line</span></td></tr>` : '';
     const table = `<table>${head}<tbody>${now.map((t, i) => row(t, i) + cut(i + 1)).join('')}</tbody></table>`;
