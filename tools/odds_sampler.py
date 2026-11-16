@@ -1,11 +1,24 @@
 """Sample Yahoo win odds for every matchup in the Harry Koch Memorial Cup and append to a JSON history.
 Runs in GitHub Actions with Playwright (the live win percentage only renders in a browser).
 Usage: python tools/odds_sampler.py <out_dir>
+       python tools/odds_sampler.py --slim <out_dir>   (rewrite the slim files from the week files already there; no browser needed)
+
+Files in <out_dir>:
+  weekN.json       the week's full history: every sample with every matchup's scores, odds, starters and shotgun entries. The sampler
+                   reads it back each pass and appends. About 10 MB by the end of a week.
+  current.json     a copy of the current week's weekN.json, kept for pages and tabs that predate the slim files.
+  weekN.lite.json  the same week as the page needs it (see slim()): the latest sample in full, and for the chart only the time and
+                   the left team's odds of every sample. Well under a hundredth of the size.
+  live.json        a copy of the current week's weekN.lite.json. This is what the page polls.
+  next.json        next week's matchups, staged once the current week is decided.
 """
-import asyncio, datetime, html, json, os, re, sys, urllib.request
+import asyncio, datetime, glob, html, json, os, re, sys, urllib.request
 from datetime import timedelta
 from zoneinfo import ZoneInfo
-from playwright.async_api import async_playwright
+try:
+    from playwright.async_api import async_playwright
+except ImportError:
+    async_playwright = None   # only the sampling passes need a browser; --slim runs without one
 
 LEAGUE = 932579
 BASE = f"https://football.fantasysports.yahoo.com/f1/{LEAGUE}"
@@ -254,6 +267,60 @@ async def preview_next(out_dir, nweek, max_age_min=20):
     json.dump(dict(v=PREVIEW_V, week=nweek, ts=datetime.datetime.now(datetime.timezone.utc).isoformat(timespec="seconds"), matchups=rows, windows=nfl_windows(nweek)), open(path, "w"), ensure_ascii=False, indent=1)
     print(f"next week {nweek}: {len(rows)} matchups previewed")
 
+def healed_pct(m):
+    """A sample's odds for the chart, with the page's heal() already applied: a matchup recorded with both players-remaining counts
+    missing, nobody left to play on either side and a score on the board was finished, so it reads 100 or 0 for whoever is ahead.
+    Keep in step with heal() in odds/index.html, which still does this for the full-format files."""
+    if m.get("leftRem") is None and m.get("rightRem") is None:
+        left = lambda a: sum(1 for x in a or [] if x.get("state") in ("live", "pending"))
+        ls, rs = m.get("leftScore") or 0, m.get("rightScore") or 0
+        if left(m.get("leftActive")) == 0 and left(m.get("rightActive")) == 0 and ls != rs and ls + rs > 0:
+            return 100 if ls > rs else 0
+    return m.get("leftPct")
+
+def slim(hist):
+    """The week as the page needs it. The full history repeats every matchup's starters and shotgun entries in each of about a
+    thousand samples, but the page only reads those from the latest one; from the rest it draws the chart, which takes a time and
+    the left team's odds. So: everything at the top level as is (week, windows, base, preview), the latest sample in full as "last",
+    and "series" with one list of sample times (epoch seconds) and one list of odds per matchup id, index for index (null where a
+    sample has no reading for that matchup). "v" is 2; the full format has no "v"."""
+    samples = hist.get("samples") or []
+    ids = list(dict.fromkeys(m["id"] for s in samples for m in s["matchups"]))
+    pct = {i: [] for i in ids}
+    for s in samples:
+        by = {m["id"]: m for m in s["matchups"]}
+        for i in ids: pct[i].append(healed_pct(by[i]) if i in by else None)
+    out = {k: v for k, v in hist.items() if k != "samples"}
+    out.update(v=2, last=samples[-1] if samples else None,
+               series={"ts": [int(datetime.datetime.fromisoformat(s["ts"]).timestamp()) for s in samples], "pct": pct})
+    return out
+
+def dump(obj, path):
+    """Compact JSON. The indent the files used to carry made them two thirds larger and nothing reads them by eye."""
+    with open(path, "w", encoding="utf-8") as f: json.dump(obj, f, ensure_ascii=False, separators=(",", ":"))
+
+def write_slim(hist, out_dir, current=True):
+    """weekN.lite.json, and live.json when this is the current week. If that fails the files are removed rather than left stale:
+    the page falls back to the full files when the slim ones are missing, but it cannot tell an old slim file from a fresh one."""
+    paths = [os.path.join(out_dir, f"week{hist['week']}.lite.json")] + ([os.path.join(out_dir, "live.json")] if current else [])
+    try:
+        lite = slim(hist)
+        for p in paths: dump(lite, p)
+    except Exception as e:
+        print("slim files failed:", e, file=sys.stderr)
+        for p in paths:
+            if os.path.exists(p): os.remove(p)
+
+def reslim(out_dir):
+    """Rebuild the slim files from the week files on disk: a lite file for every weekN.json, and live.json from current.json."""
+    for path in sorted(glob.glob(os.path.join(out_dir, "week*.json"))):
+        if not re.fullmatch(r"week\d+\.json", os.path.basename(path)): continue
+        hist = json.load(open(path, encoding="utf-8")); write_slim(hist, out_dir, current=False)
+        print(f"week {hist['week']}: {len(hist.get('samples') or [])} samples, {os.path.getsize(path)} -> {os.path.getsize(os.path.join(out_dir, 'week%d.lite.json' % hist['week']))} bytes")
+    cur = os.path.join(out_dir, "current.json")
+    if os.path.exists(cur): dump(slim(json.load(open(cur, encoding="utf-8"))), os.path.join(out_dir, "live.json"))
+    return 0
+
 async def main(out_dir):
     week, rows = scoreboard()
     await preview_next(out_dir, week + 1)
@@ -319,6 +386,8 @@ async def main(out_dir):
     if all_done and hist["samples"]:
         last = hist["samples"][-1]["matchups"]
         if all(r.get("leftRem") == 0 and r.get("rightRem") == 0 for r in last):
+            # Nothing to write, except the slim files the first time a sampler that knows about them finds a finished week.
+            if not all(os.path.exists(os.path.join(out_dir, f)) for f in (f"week{week}.lite.json", "live.json")): write_slim(hist, out_dir)
             print("week already fully decided; no new sample"); return 0
     # History only starts once the week is underway (a starter is live or final). Before kickoff, odds swing with lineup changes,
     # so pre-action runs just refresh a preview snapshot that the page shows in place of samples.
@@ -338,8 +407,8 @@ async def main(out_dir):
         hist["samples"].append(snapshot); hist.pop("preview", None)
     else:
         hist["preview"] = snapshot
-    json.dump(hist, open(path, "w"), ensure_ascii=False, indent=1)
-    json.dump(hist, open(os.path.join(out_dir, "current.json"), "w"), ensure_ascii=False, indent=1)
+    dump(hist, path); dump(hist, os.path.join(out_dir, "current.json"))
+    write_slim(hist, out_dir)
     # The workflow keys its cadence off this line: "sample #" means keep sampling every minute, anything else means idle.
     status = f"sample #{len(hist['samples'])}" + (" (catch-up)" if moved and not (any_live or last_had_live) else "") if recorded else ("preview refreshed" if underway else "preview only (week not underway)")
     print(f"week {week}: {status} with {len(good)} matchups; all decided: {all_done}")
@@ -358,4 +427,6 @@ def in_window(now=None, windows=None):
 if __name__ == "__main__":
     if "--in-window" in sys.argv:
         ok = in_window(); print("in window" if ok else "outside window"); sys.exit(0 if ok else 1)
+    if "--slim" in sys.argv:
+        sys.exit(reslim(next((a for a in sys.argv[1:] if not a.startswith("--")), "data/odds")))
     sys.exit(asyncio.run(main(sys.argv[1] if len(sys.argv) > 1 else "data/odds")))

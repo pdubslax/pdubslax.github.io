@@ -176,20 +176,28 @@ footer{font-size:12.5px;color:var(--muted);border-top:1px solid var(--line);padd
   <footer><span>Win odds and projections are Yahoo's, sampled about once a minute during game windows. This page refreshes itself.</span></footer>
 </div>
 <script>
-const REPO = 'pdubslax/pdubslax.github.io', FILE = 'data/odds/current.json';
+const REPO = 'pdubslax/pdubslax.github.io';
 const REF_URL = 'https://api.github.com/repos/' + REPO + '/commits/odds-data';
-const RAW_URL = 'https://raw.githubusercontent.com/' + REPO + '/odds-data/' + FILE;
+// The data branch through its two mirrors: jsDelivr by commit (fresh the moment the commit exists), and GitHub's own raw host by commit or branch.
+const jsd = (sha, f) => 'https://cdn.jsdelivr.net/gh/' + REPO + '@' + sha + '/data/odds/' + f;
+const raw = (ref, f) => 'https://raw.githubusercontent.com/' + REPO + '/' + ref + '/data/odds/' + f;
+// Each week exists in two forms. The slim one (live.json for the current week, weekN.lite.json for any week) is a few KB on the wire and
+// is what this page polls. The full one (current.json, weekN.json) repeats every starter in every sample, about 17 MB to parse, and is
+// read only when the slim file is missing: weeks recorded before the slim files, or a sampler run that started before them.
+const LIVE_FILES = ['live.json', 'current.json'], weekFiles = w => ['week' + w + '.lite.json', 'week' + w + '.json'];
 let lastSha = null, lastJson = null, apiBlockedUntil = 0;
 const FIRST_WEEK = 6;            // first week the sampler recorded
 let latest = null;               // {hist, nxt, sha} from the newest data commit
 let viewWeek = (location.hash.match(/^#week(\d+)$/)||[])[1] ? parseInt(RegExp.$1, 10) : null;  // a past week the viewer picked, else auto
 const pastCache = {};
 async function fetchJson(url){ const r = await fetch(url, {cache:'no-store'}); if(!r.ok) throw new Error('HTTP '+r.status); return r.json(); }
+// The first address that answers with JSON; the last error if none does.
+async function firstJson(urls){ let err = new Error('no source'); for (const u of urls) { try { return await fetchJson(u); } catch(e) { err = e; } } throw err; }
 // Samples of a finished matchup taken before the sampler learned Yahoo's result layout carry null players-remaining and a stale 99/1.
 // Count what is left from the starters list instead, and call the game for whoever is ahead when nobody is left on either side.
 function heal(hist){
   const left = a => (a||[]).filter(x => x.state==='live' || x.state==='pending').length;
-  for (const s of [...(hist.samples||[]), hist.preview]) for (const m of (s && s.matchups) || []) {
+  for (const s of [...(hist.samples||[]), hist.last, hist.preview]) for (const m of (s && s.matchups) || []) {
     if (m.leftRem != null && m.rightRem != null) continue;
     const both = m.leftRem == null && m.rightRem == null;
     if (m.leftRem == null) m.leftRem = left(m.leftActive);
@@ -198,7 +206,17 @@ function heal(hist){
   }
   return hist;
 }
-function show(hist, nxt, sha){ latest = {hist: heal(hist), nxt, sha: sha || (latest && latest.sha)}; renderView(); }
+// A downloaded week, in either form, as render() reads it: healed, with a samples list. The slim form carries the latest sample in full
+// plus, for the chart, every sample's time and each matchup's left-team odds (already healed by the sampler); the earlier samples are
+// rebuilt here with just those, which is all render() takes from them.
+function unpack(d){
+  heal(d); if (!d.series) return d;
+  const {series, last, ...rest} = d, ids = Object.keys(series.pct);
+  const samples = series.ts.map((t, i) => ({ts: t * 1000, matchups: ids.filter(id => series.pct[id][i] != null).map(id => ({id, leftPct: series.pct[id][i]}))}));
+  if (last && samples.length) samples[samples.length-1] = last;
+  return {...rest, samples};
+}
+function show(hist, nxt, sha){ latest = {hist: unpack(hist), nxt, sha: sha || (latest && latest.sha)}; renderView(); }
 // Decide what the board shows: a past week the viewer picked, the upcoming week once the current one is fully decided, or the live week.
 async function renderView(){
   if (!latest) return;
@@ -216,11 +234,7 @@ async function renderView(){
     if (!past) {
       // By commit through the CDN when the latest commit is known; otherwise straight from the data branch, so a rate-limited
       // GitHub API (60 calls an hour per network) never leaves the week links dead.
-      const f = '/data/odds/week' + want + '.json';
-      for (const u of [sha && 'https://cdn.jsdelivr.net/gh/' + REPO + '@' + sha + f, 'https://raw.githubusercontent.com/' + REPO + '/odds-data' + f]) {
-        if (!u) continue;
-        try { past = heal(await fetchJson(u)); pastCache[want] = past; break; } catch(e) {}
-      }
+      try { past = unpack(await firstJson(weekFiles(want).flatMap(f => [sha && jsd(sha, f), raw('odds-data', f)]).filter(Boolean))); pastCache[want] = past; } catch(e) {}
       if (viewWeek !== want) return;  // the viewer picked another week while this one was downloading; that pick has its own render
     }
     if (past) { renderOnce(past, 'past', topWeek); return; }
@@ -253,16 +267,14 @@ async function load(){
       if (r.ok) {
         const sha = (await r.text()).trim();
         if (sha === lastSha) return;
-        let hist;
-        try { hist = await fetchJson('https://cdn.jsdelivr.net/gh/' + REPO + '@' + sha + '/' + FILE); }
-        catch(e) { hist = await fetchJson('https://raw.githubusercontent.com/' + REPO + '/' + sha + '/' + FILE); }
-        let nxt = null; try { nxt = await fetchJson('https://cdn.jsdelivr.net/gh/' + REPO + '@' + sha + '/data/odds/next.json'); } catch(e) {}
+        const hist = await firstJson(LIVE_FILES.flatMap(f => [jsd(sha, f), raw(sha, f)]));
+        let nxt = null; try { nxt = await fetchJson(jsd(sha, 'next.json')); } catch(e) {}
         lastSha = sha; show(hist, nxt, sha); return;
       }
       if (r.status === 403 || r.status === 429) apiBlockedUntil = Date.now() + 10*60*1000;
     }
     // Fallback: the branch file through GitHub's CDN, which can lag up to 5 minutes.
-    show(await fetchJson(RAW_URL + '?t=' + Date.now()), null, null);
+    show(await firstJson(LIVE_FILES.map(f => raw('odds-data', f) + '?t=' + Date.now())), null, null);
   } catch(e){ const g=document.getElementById('grid'); if(!g.children.length) g.innerHTML='<div class="empty">No samples yet. The sampler runs about once a minute during game windows.</div>'; }
 }
 const LEAGUE = 932579;
