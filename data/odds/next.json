@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 11,
- "ts": "2026-11-16T20:08:50+00:00",
+ "ts": "2026-11-16T20:29:04+00:00",
  "matchups": [
   {
    "id": "1v4",
@@ -810,7 +810,7 @@
      "game": "Sun 8:20 pm vs Min"
     },
     {
-     "player": "Buffalo",
+     "player": "Bills",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 10.58,
@@ -878,7 +878,7 @@
      "game": "Sun 1:00 pm vs Ari"
     },
     {
-     "player": "K. City",
+     "player": "Chiefs",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 11.29,
