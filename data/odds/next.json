@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 11,
- "ts": "2026-11-16T21:29:48+00:00",
+ "ts": "2026-11-16T21:50:04+00:00",
  "matchups": [
   {
    "id": "1v4",
@@ -1151,7 +1151,7 @@
    "right": "Lover boy",
    "rightRec": "4-5",
    "leftScore": 0.0,
-   "leftProj": 127.54,
+   "leftProj": 127.53,
    "rightScore": 0.0,
    "rightProj": 82.87,
    "leftPct": 83,
@@ -1280,11 +1280,11 @@
      "player": "D. Goedert",
      "pos": "TE",
      "slot": "TE",
-     "rem": 8.34,
+     "rem": 8.33,
      "state": "pending",
      "pts": 0.0,
-     "proj": 8.34,
-     "live": 8.34,
+     "proj": 8.33,
+     "live": 8.33,
      "game": "Sun 1:00 pm vs Pit"
     }
    ],
