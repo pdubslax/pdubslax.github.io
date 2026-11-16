@@ -29,10 +29,7 @@ Alex's 2026 team arc has been tracking the NVIDIA company arc. That is to say, a
 
 **✅ 100% - 27.29 points: Lover boy (4-5) vs Nick Leif Erikson Barden (4-5)**  
 
-
-
-**73% - 10.35 points: BDSM AI Stealth Founder (3-6) vs RosterMogged (4-5)**  
-
+Scott debuted a new team name, and an even newer team [avatar](https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/22b9912006180ff06e9a27fec086017589ef09c69280f1b3e7bf8dd4552fcfff.png), en route to a comfy victory over the handcuff hoarder from Hippie Hollow. Not too much to say here, other than there is a growing movement for Scott to release Blake Corum to the waiver wire, where we can all enjoy a partial ownership stake in his success, a la the Green Bay [Packers](https://en.wikipedia.org/wiki/Green_Bay_Packers,_Inc.). Or better yet - let the Rams cut him and pass his carries through to Kyren. Scott continues to lurk around the top half of the league [table](https://photos.fife.usercontent.google.com/pw/AP1GczMZiWNwUvPyFk2nwEa8anOdsbmDam6n6c8buJh0Zq1qraw4gp7xHS6wgA=w1394-h1858-s-no-gm?authuser=0) - he has done MORE than enough to qualify for the upcoming round of 48 playoff structure we are experimenting with this year. 
 
 
 **✅ 100% - 8.69 points: Robotripping Gardener (5-4) vs Tuten Brown (5-4)**  
@@ -45,7 +42,9 @@ Alex's 2026 team arc has been tracking the NVIDIA company arc. That is to say, a
 
 **✅ 100% - 1.52 points: Chubb will Rise Again (4-5) vs James Ray Ervin Yonts (6-3)**  
 
+**73% - 10.35 points: BDSM AI Stealth Founder (3-6) vs RosterMogged (4-5)**  
 
+In tonight's MAIN EVENT - these two consonant-followed-by-a-Y named managers are separated by just 1.01 pts. It's an old fashioned, straight up mano a mano battle of Derrick Henry vs Omarion Hampton. The two have actually been scoring a somewhat similar amount of points over their last 4 starts - Henry has gone 6.0, 6.4, 13.5 and 7.1, while Hampton has gone 4.9, 6.4, 3.7 and 7.0.
 
 <br/>
 
