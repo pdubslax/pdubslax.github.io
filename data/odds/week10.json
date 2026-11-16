@@ -826299,7 +826299,7 @@
   }
  },
  "preview": {
-  "ts": "2026-11-16T07:56:17+00:00",
+  "ts": "2026-11-16T08:16:06+00:00",
   "week": 10,
   "matchups": [
    {
@@ -826326,20 +826326,20 @@
     "right": "RosterMogged",
     "rightRec": "4-5",
     "leftScore": 100.37,
-    "leftProj": 118.33,
+    "leftProj": 118.3,
     "rightScore": 99.36,
-    "rightProj": 108.05,
+    "rightProj": 108.04,
     "shotgun": [],
     "leftActive": [
      {
       "player": "D. Henry",
       "pos": "RB",
       "slot": "RB",
-      "rem": 17.96,
+      "rem": 17.93,
       "state": "pending",
       "pts": 0.0,
-      "proj": 17.96,
-      "live": 17.96,
+      "proj": 17.93,
+      "live": 17.93,
       "game": "Mon 8:15 pm vs LAC"
      }
     ],
@@ -826348,11 +826348,11 @@
       "player": "O. Hampton",
       "pos": "RB",
       "slot": "RB",
-      "rem": 8.69,
+      "rem": 8.68,
       "state": "pending",
       "pts": 0.0,
-      "proj": 8.69,
-      "live": 8.69,
+      "proj": 8.68,
+      "live": 8.68,
       "game": "Mon 8:15 pm @ Bal"
      }
     ],
@@ -826433,7 +826433,7 @@
       "slot": "DEF",
       "manager": "Zen Buddha Boys 🪷💨",
       "locked": true,
-      "live": 4.79,
+      "live": 4.8,
       "reason": "pts"
      }
     ],
