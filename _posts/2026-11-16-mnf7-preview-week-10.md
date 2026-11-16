@@ -44,7 +44,7 @@ Scott debuted a new team name, and an even newer team [avatar](https://yahoofant
 
 **73% - 10.35 points: BDSM AI Stealth Founder (3-6) vs RosterMogged (4-5)**  
 
-In tonight's MAIN EVENT - these two consonant-followed-by-a-Y named managers are separated by just 1.01 pts. It's an old fashioned, straight up mano a mano battle of Derrick Henry vs Omarion Hampton. The two have actually been scoring a somewhat similar amount of points over their last 4 starts - Henry has gone 6.0, 6.4, 13.5 and 7.1, while Hampton has gone 4.9, 6.4, 3.7 and 7.0.
+In tonight's MAIN EVENT - these two consonant-followed-by-a-Y named managers are separated by just 1.01 pts. It's an old fashioned, straight up mano a mano battle of Derrick Henry vs Omarion Hampton. The two have actually been scoring a somewhat similar amount of points over their last 4 starts - 8.2 a game for Henry and 5.5 for Hampton. Again, and I cannot stress this enough - we have absolutely no reason to believe the Chargers will be scoring any points, or even smiling / enjoying themselves in any way tonight. That being said - many moons ago, Omarion Hampton did use to score TDs (BC era - weeks 1-4). It's anyone's ball game - and speaking of ball games, the BDSM AI Stealth Founder needs a win tonight to escape sole possession of last place, which he would be handing directly to Kyle on his way out. Loser gets the basement, so may the least bad man win - it's time for MNF.
 
 <br/>
 
