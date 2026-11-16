@@ -138,7 +138,20 @@ let latest = null;               // {hist, nxt, sha} from the newest data commit
 let viewWeek = (location.hash.match(/^#week(\d+)$/)||[])[1] ? parseInt(RegExp.$1, 10) : null;  // a past week the viewer picked, else auto
 const pastCache = {};
 async function fetchJson(url){ const r = await fetch(url, {cache:'no-store'}); if(!r.ok) throw new Error('HTTP '+r.status); return r.json(); }
-function show(hist, nxt, sha){ latest = {hist, nxt, sha: sha || (latest && latest.sha)}; renderView(); }
+// Samples of a finished matchup taken before the sampler learned Yahoo's result layout carry null players-remaining and a stale 99/1.
+// Count what is left from the starters list instead, and call the game for whoever is ahead when nobody is left on either side.
+function heal(hist){
+  const left = a => (a||[]).filter(x => x.state==='live' || x.state==='pending').length;
+  for (const s of [...(hist.samples||[]), hist.preview]) for (const m of (s && s.matchups) || []) {
+    if (m.leftRem != null && m.rightRem != null) continue;
+    const both = m.leftRem == null && m.rightRem == null;
+    if (m.leftRem == null) m.leftRem = left(m.leftActive);
+    if (m.rightRem == null) m.rightRem = left(m.rightActive);
+    if (both && m.leftRem === 0 && m.rightRem === 0 && m.leftScore !== m.rightScore && m.leftScore + m.rightScore > 0) m.leftPct = m.leftScore > m.rightScore ? 100 : 0;
+  }
+  return hist;
+}
+function show(hist, nxt, sha){ latest = {hist: heal(hist), nxt, sha: sha || (latest && latest.sha)}; renderView(); }
 // Decide what the board shows: a past week the viewer picked, the upcoming week once the current one is fully decided, or the live week.
 async function renderView(){
   if (!latest) return;
@@ -153,7 +166,7 @@ async function renderView(){
   if ((!hist.samples || !hist.samples.length) && hist.preview && !viewWeek) { renderOnce({...hist, samples: [hist.preview]}, 'upcoming', hist.week); return; }
   if (viewWeek && viewWeek !== hist.week) {
     let past = pastCache[viewWeek];
-    if (!past && sha) { try { past = await fetchJson('https://cdn.jsdelivr.net/gh/' + REPO + '@' + sha + '/data/odds/week' + viewWeek + '.json'); pastCache[viewWeek] = past; } catch(e) {} }
+    if (!past && sha) { try { past = await fetchJson('https://cdn.jsdelivr.net/gh/' + REPO + '@' + sha + '/data/odds/week' + viewWeek + '.json'); pastCache[viewWeek] = heal(past); } catch(e) {} }
     if (past) { renderOnce(past, 'past', topWeek); return; }
     viewWeek = null; history.replaceState(null, '', location.pathname);
   }

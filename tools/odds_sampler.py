@@ -142,6 +142,11 @@ def active_starters(rows, side, top=9):
     out.sort(key=lambda x: -x["rem"])
     return out[:top]
 
+def starters_left(rows, side):
+    """How many of a side's starters have a game still to come or in progress, counted from the roster table."""
+    pk = "lp" if side == "L" else "rp"
+    return sum(1 for r in rows if r["slot"] not in ("BN", "IR") and parse_player(r[side][0], r[side][1], r[pk])["state"] in ("pending", "live"))
+
 def shotgun_entries(rows, left_team, right_team):
     """Starters at zero or below whose fate is in play: live or final games, inactive tags, byes, empty slots."""
     out = []
@@ -181,6 +186,9 @@ async def odds_for(page, week, mid):
     m = re.search(r"(\d+)%[\s\S]{0,40}?Projected Winner", body) or re.search(r"(Favorite|Underdog) (\d+)%", body)
     r = re.search(r"(\d+) Players [Rr]emaining[\s\S]*?Players [Rr]emaining (\d+)", body)
     rem = [int(r.group(1)), int(r.group(2))] if r else None
+    # Once both teams are finished, Yahoo swaps to a result layout ("Winner / Result / Loser") that prints neither the odds nor the
+    # players-remaining line. Count the remaining starters from the roster instead, so a finished matchup reads 0 and 0, never null.
+    if rem is None and rows: rem = [starters_left(rows, "L"), starters_left(rows, "R")]
     pct = int(m.group(m.lastindex)) if m else None
     return pct, rem, body, rows
 
