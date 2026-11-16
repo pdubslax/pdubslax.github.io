@@ -306,7 +306,7 @@ function advance(base, matchups){
 const PLAYOFF_SPOTS = 6, BYE_SPOTS = 2;
 // Yahoo's order: winning percentage, then points for.
 const ranked = base => Object.entries(base.teams).map(([id, t]) => ({id: +id, ...t, pct: (t.w + t.t/2) / Math.max(1, t.w + t.l + t.t)})).sort((x, y) => y.pct - x.pct || y.pf - x.pf);
-const DAYS = {Thu:0,Fri:1,Sat:2,Sun:3,Mon:4,Tue:5,Wed:6};
+const DAYS = {Tue:0,Wed:1,Thu:2,Fri:3,Sat:4,Sun:5,Mon:6};  // a fantasy week runs Tuesday to Monday, so a Wednesday game (Thanksgiving Eve) comes before Thursday's
 const dayOf = a => ((a.game||'').match(/^(Thu|Fri|Sat|Sun|Mon|Tue|Wed)/)||[])[1];
 // The next game day across a whole slate, so 'still to come' lists only the players in the next games (Thursday's starters, say).
 function nextDay(matchups){ const ds = matchups.flatMap(m => [...(m.leftActive||[]), ...(m.rightActive||[])]).filter(a => a.state==='pending').map(dayOf).filter(Boolean); if (!ds.length) return null; const first = Math.min(...ds.map(d => DAYS[d])); return Object.keys(DAYS).find(k => DAYS[k] === first); }
@@ -355,8 +355,17 @@ function render(hist, mode, curWeek){
   let SEG;
   if (hist.windows && hist.windows.length) {
     // The sampler records the week's real kickoff slots from the NFL schedule (label, start, end, game count), so a London morning,
-    // a Thanksgiving triple-header or a Saturday slate lays out on its own. Width grows with the number of games, gently.
-    SEG = hist.windows.map(g => ({label: g.label, a: new Date(g.start).getTime(), b: new Date(g.end).getTime(), w: 1 + Math.sqrt(g.games || 1)}));
+    // a Thanksgiving triple-header or a Saturday slate lays out on its own. Width follows impact: games to the power 0.6, which for a
+    // standard week gives a night game about 12%, the 1 PM slate about 39% and the late slate about 24% (the shares first tuned by
+    // hand), and in a crowded week (Thanksgiving has nine windows) still leaves a lone game enough room to read.
+    // A crowded week also has no room for a label like "THU 4:30" under a lone game, so each day-prefixed slot carries a short form:
+    // the day for the first slot of that day, the kickoff time for the ones after it (WED, THU, 4:30, TNF, FRI).
+    SEG = hist.windows.map((g, i, all) => {
+      const pre = /^([A-Z]{3}) ./.exec(g.label), day = g.start.slice(0, 10); let short = null;
+      if (pre) { const h = +g.start.slice(11, 13), mi = +g.start.slice(14, 16), h12 = h % 12 || 12;  // the start is written in Eastern time
+        short = all.slice(0, i).some(p => p.start.slice(0, 10) === day) ? (mi < 30 ? h12 + (h >= 12 ? 'PM' : 'AM') : h12 + ':' + String(mi).padStart(2, '0')) : pre[1]; }
+      return {label: g.label, short, a: new Date(g.start).getTime(), b: new Date(g.end).getTime(), w: Math.pow(g.games || 1, 0.6)};
+    });
   } else {
     // Older weeks (6 and 7) predate the schedule feed: fixed slots, with a 9:30 band only when samples exist before 1 PM.
     const thu = new Date(hist.segments.find(g => g.label === 'TNF').start).getTime();
@@ -394,7 +403,8 @@ function render(hist, mode, curWeek){
       for(let i=0;i<n-1;i++){ const h3=dx[i]/3; d += ` C${(P[i].x+h3).toFixed(1)} ${(P[i].y+m[i]*h3).toFixed(1)} ${(P[i+1].x-h3).toFixed(1)} ${(P[i+1].y-m[i+1]*h3).toFixed(1)} ${P[i+1].x.toFixed(1)} ${P[i+1].y.toFixed(1)}`; }
     }
     const n=vals.length, lastV=vals[n-1], lastX=x(tsList[n-1]);
-    const bands = SEG.map((g,i)=>{ const x0=pl+(W-pl-pr)*g.x0, x1=pl+(W-pl-pr)*g.x1; const lbl = (x1-x0) > 22 ? `<text x="${((x0+x1)/2).toFixed(1)}" y="${H-6}" text-anchor="middle" font-size="9.5" font-family="var(--mono)" fill="var(--muted)">${g.label}</text>` : ''; const div = i ? `<line x1="${(x0-1.9).toFixed(1)}" x2="${(x0-1.9).toFixed(1)}" y1="${pt}" y2="${H-pb}" stroke="var(--muted)" stroke-width="1" stroke-dasharray="2 3" opacity=".5"/>` : ''; return `<rect x="${x0.toFixed(1)}" y="${pt}" width="${(x1-x0).toFixed(1)}" height="${H-pt-pb}" fill="var(--grid)" opacity="${i%2?0.55:0.25}"/>${div}${lbl}`; }).join('');
+    const bands = SEG.map((g,i)=>{ const x0=pl+(W-pl-pr)*g.x0, x1=pl+(W-pl-pr)*g.x1; const fits = s => s && s.length * 5.7 <= x1 - x0 + 1, name = fits(g.label) ? g.label : fits(g.short) ? g.short : '';  // 5.7 = one character of the 9.5px mono label
+      const lbl = name ? `<text x="${((x0+x1)/2).toFixed(1)}" y="${H-6}" text-anchor="middle" font-size="9.5" font-family="var(--mono)" fill="var(--muted)">${name}</text>` : ''; const div = i ? `<line x1="${(x0-1.9).toFixed(1)}" x2="${(x0-1.9).toFixed(1)}" y1="${pt}" y2="${H-pb}" stroke="var(--muted)" stroke-width="1" stroke-dasharray="2 3" opacity=".5"/>` : ''; return `<rect x="${x0.toFixed(1)}" y="${pt}" width="${(x1-x0).toFixed(1)}" height="${H-pt-pb}" fill="var(--grid)" opacity="${i%2?0.55:0.25}"/>${div}${lbl}`; }).join('');
     const ticks = '';
     const area = n>1 ? d+` L${lastX.toFixed(1)} ${y(50)} L${x(tsList[0]).toFixed(1)} ${y(50)} Z` : '';
     const cid = 'c' + Math.random().toString(36).slice(2,8);
