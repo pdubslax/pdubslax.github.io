@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 11,
- "ts": "2026-11-16T04:34:06+00:00",
+ "ts": "2026-11-16T04:55:07+00:00",
  "matchups": [
   {
    "id": "1v4",
@@ -608,7 +608,7 @@
      "game": "Sun 8:20 pm @ SF"
     },
     {
-     "player": "Commanders",
+     "player": "Washington",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 4.4,
@@ -687,7 +687,7 @@
      "game": "Sun 1:00 pm @ Buf"
     },
     {
-     "player": "49ers",
+     "player": "S. Francisco",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 7.03,
@@ -1157,11 +1157,11 @@
    "right": "Lover boy",
    "rightRec": "4-5",
    "leftScore": 0.0,
-   "leftProj": 103.86,
+   "leftProj": 126.34,
    "rightScore": 0.0,
    "rightProj": 83.42,
-   "leftPct": 68,
-   "leftRem": 8,
+   "leftPct": 82,
+   "leftRem": 9,
    "rightRem": 7,
    "shotgun": [
     {
@@ -1174,20 +1174,6 @@
      "state": "bye",
      "slot": "QB",
      "manager": "Lover boy",
-     "locked": false,
-     "live": 0.0,
-     "reason": "pts"
-    },
-    {
-     "player": "K. Johnson",
-     "pos": "RB",
-     "team": "GB",
-     "pts": 0.0,
-     "game": "Bye",
-     "tag": null,
-     "state": "bye",
-     "slot": "RB",
-     "manager": "Alex Michael Pagels",
      "locked": false,
      "live": 0.0,
      "reason": "pts"
@@ -1218,6 +1204,17 @@
      "proj": 25.04,
      "live": 25.04,
      "game": "Mon 8:15 pm @ Was"
+    },
+    {
+     "player": "J. Coleman",
+     "pos": "RB",
+     "slot": "RB",
+     "rem": 17.09,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 17.09,
+     "live": 17.09,
+     "game": "Sun 4:25 pm vs LV"
     },
     {
      "player": "T. Higgins",
@@ -1253,6 +1250,17 @@
      "game": "Sun 1:00 pm @ Chi"
     },
     {
+     "player": "S. Barkley",
+     "pos": "RB",
+     "slot": "RB",
+     "rem": 12.44,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 12.44,
+     "live": 12.44,
+     "game": "Sun 1:00 pm vs Pit"
+    },
+    {
      "player": "C. Boswell",
      "pos": "K",
      "slot": "K",
@@ -1275,26 +1283,15 @@
      "game": "Sun 4:25 pm @ NYG"
     },
     {
-     "player": "C. Okonkwo",
+     "player": "D. Goedert",
      "pos": "TE",
      "slot": "TE",
-     "rem": 8.86,
+     "rem": 8.41,
      "state": "pending",
      "pts": 0.0,
-     "proj": 8.86,
-     "live": 8.86,
-     "game": "Mon 8:15 pm vs Cin"
-    },
-    {
-     "player": "S. Perine",
-     "pos": "RB",
-     "slot": "RB",
-     "rem": 6.6,
-     "state": "pending",
-     "pts": 0.0,
-     "proj": 6.6,
-     "live": 6.6,
-     "game": "Mon 8:15 pm @ Was"
+     "proj": 8.41,
+     "live": 8.41,
+     "game": "Sun 1:00 pm vs Pit"
     }
    ],
    "rightActive": [
