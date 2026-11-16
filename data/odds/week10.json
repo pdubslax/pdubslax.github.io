@@ -825847,6 +825847,153 @@
      "rightRem": 0
     }
    ]
+  },
+  {
+   "ts": "2026-11-16T04:34:17+00:00",
+   "week": 10,
+   "matchups": [
+    {
+     "id": "1v9",
+     "left": "Nick Leif Erikson Barden",
+     "leftRec": "4-5",
+     "right": "Lover boy",
+     "rightRec": "4-5",
+     "leftScore": 96.86,
+     "leftProj": 96.86,
+     "rightScore": 124.15,
+     "rightProj": 124.15,
+     "shotgun": [],
+     "leftActive": [],
+     "rightActive": [],
+     "leftPct": 0,
+     "leftRem": 0,
+     "rightRem": 0
+    },
+    {
+     "id": "2v10",
+     "left": "BDSM AI Stealth Founder",
+     "leftRec": "3-6",
+     "right": "RosterMogged",
+     "rightRec": "4-5",
+     "leftScore": 100.37,
+     "leftProj": 118.33,
+     "rightScore": 99.86,
+     "rightProj": 108.55,
+     "shotgun": [],
+     "leftActive": [
+      {
+       "player": "D. Henry",
+       "pos": "RB",
+       "slot": "RB",
+       "rem": 17.96,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 17.96,
+       "live": 17.96,
+       "game": "Mon 8:15 pm vs LAC"
+      }
+     ],
+     "rightActive": [
+      {
+       "player": "O. Hampton",
+       "pos": "RB",
+       "slot": "RB",
+       "rem": 8.69,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 8.69,
+       "live": 8.69,
+       "game": "Mon 8:15 pm @ Bal"
+      }
+     ],
+     "leftPct": 72,
+     "leftRem": 1,
+     "rightRem": 1
+    },
+    {
+     "id": "3v5",
+     "left": "Robotripping Gardener",
+     "leftRec": "5-4",
+     "right": "Tuten Brown",
+     "rightRec": "5-4",
+     "leftScore": 137.42,
+     "leftProj": 137.42,
+     "rightScore": 128.73,
+     "rightProj": 128.73,
+     "shotgun": [],
+     "leftActive": [],
+     "rightActive": [],
+     "leftPct": 100,
+     "leftRem": 0,
+     "rightRem": 0
+    },
+    {
+     "id": "4v7",
+     "left": "Chubb will Rise Again",
+     "leftRec": "4-5",
+     "right": "James Ray Ervin Yonts",
+     "rightRec": "6-3",
+     "leftScore": 147.54,
+     "leftProj": 147.54,
+     "rightScore": 146.22,
+     "rightProj": 146.22,
+     "shotgun": [],
+     "leftActive": [],
+     "rightActive": [],
+     "leftPct": 100,
+     "leftRem": 0,
+     "rightRem": 0
+    },
+    {
+     "id": "6v8",
+     "left": "MELONHEADS (daniel)",
+     "leftRec": "5-4",
+     "right": "Alex Michael Pagels",
+     "rightRec": "4-5",
+     "leftScore": 160.01,
+     "leftProj": 160.01,
+     "rightScore": 92.21,
+     "rightProj": 92.21,
+     "shotgun": [],
+     "leftActive": [],
+     "rightActive": [],
+     "leftPct": 100,
+     "leftRem": 0,
+     "rightRem": 0
+    },
+    {
+     "id": "11v12",
+     "left": "Zen Buddha Boys 🪷💨",
+     "leftRec": "4-5",
+     "right": "Kiwis are better than mid",
+     "rightRec": "6-3",
+     "leftScore": 138.23,
+     "leftProj": 138.23,
+     "rightScore": 140.44,
+     "rightProj": 140.44,
+     "shotgun": [
+      {
+       "player": "49ers",
+       "pos": "DEF",
+       "team": "SF",
+       "pts": -2.25,
+       "game": "Final W 46-40 @ Dal",
+       "tag": null,
+       "state": "final",
+       "slot": "DEF",
+       "manager": "Zen Buddha Boys 🪷💨",
+       "locked": true,
+       "live": 4.79,
+       "reason": "pts"
+      }
+     ],
+     "leftActive": [],
+     "rightActive": [],
+     "leftPct": 0,
+     "leftRem": 0,
+     "rightRem": 0
+    }
+   ]
   }
  ],
  "segments": [
