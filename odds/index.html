@@ -65,7 +65,7 @@ a.card:hover{border-color:var(--fav)}
 .strip.top .pct,.strip.top .nm{color:var(--fav)} .strip.bot .pct,.strip.bot .nm{color:var(--alt)}
 .strip.bot{border-top:1px solid var(--line);padding-top:8px}
 .strip.top{padding-bottom:2px}
-.chart{position:relative}
+.chart{position:relative;touch-action:pan-y;-webkit-touch-callout:none;-webkit-user-select:none;user-select:none}  /* sideways drags scrub the chart, vertical ones still scroll the page */
 .chart svg{width:100%;height:96px;display:block;max-width:100%}
 .chart svg *{pointer-events:none}
 .chart .tip{position:absolute;top:4px;left:6px;font-family:var(--mono);font-size:11px;color:var(--ink);background:var(--panel);padding:1px 5px;border:1px solid var(--line);border-radius:3px;pointer-events:none;display:none;font-variant-numeric:tabular-nums;white-space:nowrap}
@@ -369,7 +369,24 @@ grid.addEventListener('pointermove', e => {
   const x = e.clientX; if (hoverRaf) cancelAnimationFrame(hoverRaf);
   hoverRaf = requestAnimationFrame(() => { hoverRaf = null; showHover(c, x); });
 });
-grid.addEventListener('pointerout', e => { const c = e.target.closest('.chart'); if (c && !(e.relatedTarget && c.contains(e.relatedTarget))) hideHover(c); });
+grid.addEventListener('pointerout', e => { if (e.pointerType === 'touch') return;  // a lifted finger leaves the readout up
+  const c = e.target.closest('.chart'); if (c && !(e.relatedTarget && c.contains(e.relatedTarget))) hideHover(c); });
+// Touch: the chart is not a link. A tap or a sideways drag scrubs the readout, which stays up until the next touch somewhere else;
+// the rest of the card still opens Yahoo. A mouse keeps hovering to scrub and clicking anywhere on the card, chart included, to open Yahoo.
+let lastDownTouch = false, pinned = null;
+const scrubbable = c => { const d = c && HOVER[c.dataset.id]; return !!(d && d.xs.length >= 2); };  // a single-point (upcoming) chart has nothing to scrub, so it stays a link
+document.addEventListener('pointerdown', e => {
+  lastDownTouch = e.pointerType === 'touch';
+  const c = e.target.closest ? e.target.closest('.chart') : null;
+  if (pinned && pinned !== c) { if (pinned.isConnected) hideHover(pinned); pinned = null; }
+  if (lastDownTouch && scrubbable(c)) { pinned = c; showHover(c, e.clientX); }
+});
+grid.addEventListener('pointercancel', e => {  // the touch turned into a page scroll: drop the readout it opened
+  if (e.pointerType !== 'touch' || !pinned) return;
+  if (hoverRaf) { cancelAnimationFrame(hoverRaf); hoverRaf = null; }
+  if (pinned.isConnected) hideHover(pinned); pinned = null;
+});
+grid.addEventListener('click', e => { if (lastDownTouch && scrubbable(e.target.closest('.chart'))) e.preventDefault(); });
 document.getElementById('meta').addEventListener('click', e => { const a = e.target.closest('a[data-week]'); if (!a) return; e.preventDefault(); pickWeek(parseInt(a.dataset.week, 10) || null); });
 load(); setInterval(load, 75000); // 48 API calls per hour per viewer, under GitHub's 60 limit
 // Reload when a newer build of this page is published, so open tabs never run stale code.
