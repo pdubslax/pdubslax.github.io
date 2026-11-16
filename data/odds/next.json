@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 11,
- "ts": "2026-11-16T23:11:04+00:00",
+ "ts": "2026-11-16T23:31:21+00:00",
  "matchups": [
   {
    "id": "1v4",
@@ -12,7 +12,7 @@
    "leftScore": 0.0,
    "leftProj": 57.29,
    "rightScore": 0.0,
-   "rightProj": 111.77,
+   "rightProj": 111.73,
    "leftPct": 9,
    "leftRem": 6,
    "rightRem": 7,
@@ -194,11 +194,11 @@
      "player": "P. Washington",
      "pos": "WR",
      "slot": "WR",
-     "rem": 13.2,
+     "rem": 13.19,
      "state": "pending",
      "pts": 0.0,
-     "proj": 13.2,
-     "live": 13.2,
+     "proj": 13.19,
+     "live": 13.19,
      "game": "Sun 4:25 pm @ NYG"
     },
     {
@@ -227,11 +227,11 @@
      "player": "C. Little",
      "pos": "K",
      "slot": "K",
-     "rem": 10.03,
+     "rem": 10.0,
      "state": "pending",
      "pts": 0.0,
-     "proj": 10.03,
-     "live": 10.03,
+     "proj": 10.0,
+     "live": 10.0,
      "game": "Sun 4:25 pm @ NYG"
     }
    ]
@@ -243,9 +243,9 @@
    "right": "Tuten Brown",
    "rightRec": "5-4",
    "leftScore": 0.0,
-   "leftProj": 107.49,
+   "leftProj": 107.54,
    "rightScore": 0.0,
-   "rightProj": 85.81,
+   "rightProj": 85.74,
    "leftPct": 70,
    "leftRem": 9,
    "rightRem": 6,
@@ -331,11 +331,11 @@
      "player": "I. Likely",
      "pos": "TE",
      "slot": "TE",
-     "rem": 11.67,
+     "rem": 11.7,
      "state": "pending",
      "pts": 0.0,
-     "proj": 11.67,
-     "live": 11.67,
+     "proj": 11.7,
+     "live": 11.7,
      "game": "Sun 4:25 pm vs Jax"
     },
     {
@@ -375,11 +375,11 @@
      "player": "D. Zvada",
      "pos": "K",
      "slot": "K",
-     "rem": 8.21,
+     "rem": 8.23,
      "state": "pending",
      "pts": 0.0,
-     "proj": 8.21,
-     "live": 8.21,
+     "proj": 8.23,
+     "live": 8.23,
      "game": "Sun 4:25 pm vs Jax"
     },
     {
@@ -399,11 +399,11 @@
      "player": "T. Lawrence",
      "pos": "QB",
      "slot": "QB",
-     "rem": 21.2,
+     "rem": 21.16,
      "state": "pending",
      "pts": 0.0,
-     "proj": 21.2,
-     "live": 21.2,
+     "proj": 21.16,
+     "live": 21.16,
      "game": "Sun 4:25 pm @ NYG"
     },
     {
@@ -421,11 +421,11 @@
      "player": "B. Tuten",
      "pos": "RB",
      "slot": "RB",
-     "rem": 15.35,
+     "rem": 15.32,
      "state": "pending",
      "pts": 0.0,
-     "proj": 15.35,
-     "live": 15.35,
+     "proj": 15.32,
+     "live": 15.32,
      "game": "Sun 4:25 pm @ NYG"
     },
     {
@@ -700,7 +700,7 @@
    "right": "RosterMogged",
    "rightRec": "4-5",
    "leftScore": 0.0,
-   "leftProj": 105.47,
+   "leftProj": 105.52,
    "rightScore": 0.0,
    "rightProj": 70.69,
    "leftPct": 83,
@@ -791,11 +791,11 @@
      "player": "C. Skattebo",
      "pos": "RB",
      "slot": "RB",
-     "rem": 13.96,
+     "rem": 14.01,
      "state": "pending",
      "pts": 0.0,
-     "proj": 13.96,
-     "live": 13.96,
+     "proj": 14.01,
+     "live": 14.01,
      "game": "Sun 4:25 pm vs Jax"
     },
     {
@@ -1151,7 +1151,7 @@
    "right": "Lover boy",
    "rightRec": "4-5",
    "leftScore": 0.0,
-   "leftProj": 127.44,
+   "leftProj": 127.45,
    "rightScore": 0.0,
    "rightProj": 82.85,
    "leftPct": 83,
@@ -1225,11 +1225,11 @@
      "player": "M. Nabers",
      "pos": "WR",
      "slot": "WR",
-     "rem": 14.48,
+     "rem": 14.51,
      "state": "pending",
      "pts": 0.0,
-     "proj": 14.48,
-     "live": 14.48,
+     "proj": 14.51,
+     "live": 14.51,
      "game": "Sun 4:25 pm vs Jax"
     },
     {
@@ -1269,11 +1269,11 @@
      "player": "Jaguars",
      "pos": "DEF",
      "slot": "DEF",
-     "rem": 8.89,
+     "rem": 8.87,
      "state": "pending",
      "pts": 0.0,
-     "proj": 8.89,
-     "live": 8.89,
+     "proj": 8.87,
+     "live": 8.87,
      "game": "Sun 4:25 pm @ NYG"
     },
     {
