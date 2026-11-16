@@ -198,15 +198,16 @@ async function renderView(){
   // A week that has not kicked off yet carries a preview snapshot instead of samples.
   if ((!hist.samples || !hist.samples.length) && hist.preview && !viewWeek) { renderOnce({...hist, samples: [hist.preview]}, 'upcoming', hist.week); return; }
   if (viewWeek && viewWeek !== hist.week) {
-    let past = pastCache[viewWeek];
+    const want = viewWeek; let past = pastCache[want];
     if (!past) {
       // By commit through the CDN when the latest commit is known; otherwise straight from the data branch, so a rate-limited
       // GitHub API (60 calls an hour per network) never leaves the week links dead.
-      const f = '/data/odds/week' + viewWeek + '.json';
+      const f = '/data/odds/week' + want + '.json';
       for (const u of [sha && 'https://cdn.jsdelivr.net/gh/' + REPO + '@' + sha + f, 'https://raw.githubusercontent.com/' + REPO + '/odds-data' + f]) {
         if (!u) continue;
-        try { past = heal(await fetchJson(u)); pastCache[viewWeek] = past; break; } catch(e) {}
+        try { past = heal(await fetchJson(u)); pastCache[want] = past; break; } catch(e) {}
       }
+      if (viewWeek !== want) return;  // the viewer picked another week while this one was downloading; that pick has its own render
     }
     if (past) { renderOnce(past, 'past', topWeek); return; }
     viewWeek = null; history.replaceState(null, '', location.pathname);
