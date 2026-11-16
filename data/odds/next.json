@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 11,
- "ts": "2026-11-16T20:49:19+00:00",
+ "ts": "2026-11-16T21:09:34+00:00",
  "matchups": [
   {
    "id": "1v4",
@@ -1151,7 +1151,7 @@
    "right": "Lover boy",
    "rightRec": "4-5",
    "leftScore": 0.0,
-   "leftProj": 127.58,
+   "leftProj": 127.54,
    "rightScore": 0.0,
    "rightProj": 82.87,
    "leftPct": 83,
@@ -1247,11 +1247,11 @@
      "player": "S. Barkley",
      "pos": "RB",
      "slot": "RB",
-     "rem": 12.41,
+     "rem": 12.38,
      "state": "pending",
      "pts": 0.0,
-     "proj": 12.41,
-     "live": 12.41,
+     "proj": 12.38,
+     "live": 12.38,
      "game": "Sun 1:00 pm vs Pit"
     },
     {
@@ -1280,11 +1280,11 @@
      "player": "D. Goedert",
      "pos": "TE",
      "slot": "TE",
-     "rem": 8.35,
+     "rem": 8.34,
      "state": "pending",
      "pts": 0.0,
-     "proj": 8.35,
-     "live": 8.35,
+     "proj": 8.34,
+     "live": 8.34,
      "game": "Sun 1:00 pm vs Pit"
     }
    ],
