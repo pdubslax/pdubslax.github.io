@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 11,
- "ts": "2026-11-16T15:23:37+00:00",
+ "ts": "2026-11-16T15:43:58+00:00",
  "matchups": [
   {
    "id": "1v4",
@@ -12,7 +12,7 @@
    "leftScore": 0.0,
    "leftProj": 57.71,
    "rightScore": 0.0,
-   "rightProj": 111.14,
+   "rightProj": 111.3,
    "leftPct": 9,
    "leftRem": 6,
    "rightRem": 7,
@@ -183,11 +183,11 @@
      "player": "J. Chase",
      "pos": "WR",
      "slot": "WR",
-     "rem": 18.88,
+     "rem": 19.04,
      "state": "pending",
      "pts": 0.0,
-     "proj": 18.88,
-     "live": 18.88,
+     "proj": 19.04,
+     "live": 19.04,
      "game": "Mon 8:15 pm @ Was"
     },
     {
@@ -243,7 +243,7 @@
    "right": "Tuten Brown",
    "rightRec": "5-4",
    "leftScore": 0.0,
-   "leftProj": 107.32,
+   "leftProj": 107.47,
    "rightScore": 0.0,
    "rightProj": 85.76,
    "leftPct": 70,
@@ -320,11 +320,11 @@
      "player": "C. Brown",
      "pos": "RB",
      "slot": "RB",
-     "rem": 14.72,
+     "rem": 14.87,
      "state": "pending",
      "pts": 0.0,
-     "proj": 14.72,
-     "live": 14.72,
+     "proj": 14.87,
+     "live": 14.87,
      "game": "Mon 8:15 pm @ Was"
     },
     {
@@ -470,7 +470,7 @@
    "right": "Zen Buddha Boys 🪷💨",
    "rightRec": "4-5",
    "leftScore": 0.0,
-   "leftProj": 99.38,
+   "leftProj": 99.36,
    "rightScore": 0.0,
    "rightProj": 102.15,
    "leftPct": 48,
@@ -605,11 +605,11 @@
      "player": "Commanders",
      "pos": "DEF",
      "slot": "DEF",
-     "rem": 3.73,
+     "rem": 3.71,
      "state": "pending",
      "pts": 0.0,
-     "proj": 3.73,
-     "live": 3.73,
+     "proj": 3.71,
+     "live": 3.71,
      "game": "Mon 8:15 pm vs Cin"
     }
    ],
@@ -700,7 +700,7 @@
    "right": "RosterMogged",
    "rightRec": "4-5",
    "leftScore": 0.0,
-   "leftProj": 105.14,
+   "leftProj": 105.08,
    "rightScore": 0.0,
    "rightProj": 71.14,
    "leftPct": 82,
@@ -769,11 +769,11 @@
      "player": "J. Daniels",
      "pos": "QB",
      "slot": "QB",
-     "rem": 23.8,
+     "rem": 23.74,
      "state": "pending",
      "pts": 0.0,
-     "proj": 23.8,
-     "live": 23.8,
+     "proj": 23.74,
+     "live": 23.74,
      "game": "Mon 8:15 pm vs Cin"
     },
     {
@@ -810,7 +810,7 @@
      "game": "Sun 8:20 pm vs Min"
     },
     {
-     "player": "Bills",
+     "player": "Buffalo",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 10.62,
@@ -878,7 +878,7 @@
      "game": "Sun 1:00 pm vs Ari"
     },
     {
-     "player": "Chiefs",
+     "player": "K. City",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 11.29,
@@ -932,13 +932,13 @@
    "leftScore": 0.0,
    "leftProj": 128.49,
    "rightScore": 0.0,
-   "rightProj": 108.1,
+   "rightProj": 108.07,
    "leftPct": 67,
    "leftRem": 9,
    "rightRem": 8,
    "shotgun": [
     {
-     "player": "Cleveland",
+     "player": "Browns",
      "pos": "DEF",
      "team": "Cle",
      "pts": 0.0,
@@ -1031,7 +1031,7 @@
      "game": "Thu 8:15 pm vs Ind"
     },
     {
-     "player": "L. Angeles",
+     "player": "Chargers",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 8.6,
@@ -1135,11 +1135,11 @@
      "player": "R. White",
      "pos": "RB",
      "slot": "RB",
-     "rem": 7.78,
+     "rem": 7.75,
      "state": "pending",
      "pts": 0.0,
-     "proj": 7.78,
-     "live": 7.78,
+     "proj": 7.75,
+     "live": 7.75,
      "game": "Mon 8:15 pm vs Cin"
     }
    ]
@@ -1151,9 +1151,9 @@
    "right": "Lover boy",
    "rightRec": "4-5",
    "leftScore": 0.0,
-   "leftProj": 127.42,
+   "leftProj": 127.87,
    "rightScore": 0.0,
-   "rightProj": 83.5,
+   "rightProj": 83.64,
    "leftPct": 83,
    "leftRem": 9,
    "rightRem": 7,
@@ -1192,11 +1192,11 @@
      "player": "J. Burrow",
      "pos": "QB",
      "slot": "QB",
-     "rem": 25.28,
+     "rem": 25.58,
      "state": "pending",
      "pts": 0.0,
-     "proj": 25.28,
-     "live": 25.28,
+     "proj": 25.58,
+     "live": 25.58,
      "game": "Mon 8:15 pm @ Was"
     },
     {
@@ -1214,11 +1214,11 @@
      "player": "T. Higgins",
      "pos": "WR",
      "slot": "W/R/T",
-     "rem": 16.68,
+     "rem": 16.83,
      "state": "pending",
      "pts": 0.0,
-     "proj": 16.68,
-     "live": 16.68,
+     "proj": 16.83,
+     "live": 16.83,
      "game": "Mon 8:15 pm @ Was"
     },
     {
@@ -1255,7 +1255,7 @@
      "game": "Sun 1:00 pm vs Pit"
     },
     {
-     "player": "Jaguars",
+     "player": "Jacksonville",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 9.58,
@@ -1337,26 +1337,26 @@
      "player": "E. McPherson",
      "pos": "K",
      "slot": "K",
-     "rem": 9.95,
+     "rem": 10.01,
      "state": "pending",
      "pts": 0.0,
-     "proj": 9.95,
-     "live": 9.95,
+     "proj": 10.01,
+     "live": 10.01,
      "game": "Mon 8:15 pm @ Was"
     },
     {
      "player": "M. Gesicki",
      "pos": "TE",
      "slot": "TE",
-     "rem": 8.26,
+     "rem": 8.34,
      "state": "pending",
      "pts": 0.0,
-     "proj": 8.26,
-     "live": 8.26,
+     "proj": 8.34,
+     "live": 8.34,
      "game": "Mon 8:15 pm @ Was"
     },
     {
-     "player": "Colts",
+     "player": "Indianapolis",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 4.94,
