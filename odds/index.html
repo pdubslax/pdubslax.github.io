@@ -113,7 +113,7 @@ footer{font-size:12.5px;color:var(--muted);border-top:1px solid var(--line);padd
   .band:not(.solo) .stand{max-width:none;align-content:start}
 }
 /* Projected standings: one list of twelve, capped in width so the eye does not have to cross the whole page from name to points. */
-.stand{background:var(--panel);border:1px solid var(--line);padding:10px 16px;display:grid;gap:6px;min-width:0;max-width:600px}
+.stand{background:var(--panel);border:1px solid var(--line);padding:10px 16px;display:grid;gap:6px;min-width:0;max-width:600px;container-type:inline-size}
 .stand:empty{display:none}
 .stand .hd{display:flex;justify-content:space-between;align-items:baseline;gap:4px 10px;flex-wrap:wrap}
 .stand .lab{font-family:var(--display);font-size:13px;letter-spacing:.14em;text-transform:uppercase;color:var(--muted)}
@@ -121,18 +121,26 @@ footer{font-size:12.5px;color:var(--muted);border-top:1px solid var(--line);padd
 .stand table{width:100%;border-collapse:collapse;table-layout:fixed;font-variant-numeric:tabular-nums}
 .stand th{font-family:var(--display);font-weight:600;font-size:11px;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);text-align:left;padding:0 0 3px;white-space:nowrap}
 .stand td{border-top:1px solid var(--line);padding:3px 0;font-size:13px;line-height:1.3;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}  /* compact rows: twelve teams should not push the cards far down the page */
-.stand .rk{width:26px;font-family:var(--mono);color:var(--muted)}
-.stand .mv{width:36px;font-family:var(--mono);font-size:11px}
+.stand .rk{width:24px;font-family:var(--mono);color:var(--muted)}
+.stand .mv{width:30px;font-family:var(--mono);font-size:11px}
 .stand .mv.up{color:var(--win)} .stand .mv.down{color:var(--lock)}
-.stand td.nm{font-weight:600;padding-right:6px}
-.stand .rec{width:60px;font-family:var(--mono)} .stand td.rec{font-weight:500}
+.stand td.nm{font-weight:600;padding-right:6px} .stand th.nm{width:104px}  /* names are short: the spare width goes to the label gutter on the right */
+.stand .rec{width:56px;font-family:var(--mono)} .stand td.rec{font-weight:500}
 .stand .res{width:48px;font-family:var(--mono);font-size:12px}
 .stand td.res.W{color:var(--win)} .stand td.res.L{color:var(--lock)}
-.stand .num{width:84px;text-align:right;font-family:var(--mono)} .stand td.num{font-size:12px}
-/* Cutoff lines take no height of their own, so every row keeps the same rhythm. The label sits on the line at the right, like a legend. */
-.stand .cut td{border-top:2px solid var(--ink);padding:0;height:0;line-height:0;overflow:visible;position:relative}
-.stand .cut span{position:absolute;right:0;top:-1px;transform:translateY(-50%);background:var(--panel);padding-left:8px;font-family:var(--display);font-size:9.5px;line-height:1;letter-spacing:.14em;text-transform:uppercase;color:var(--muted);white-space:nowrap}
-.stand .cut.bye td{border-top-width:1px}
+.stand .num{width:78px;text-align:right;font-family:var(--mono)} .stand td.num{font-size:12px}
+/* Cutoff lines take no height of their own, so every row keeps the same rhythm. The label sits on the line in the empty gutter to the
+   right of the numbers (the last, flexible column), never over them. Where the panel is too narrow for a gutter, the labels give way to
+   a sentence in the note. */
+.stand .cut td{border-top:1px solid var(--ink);padding:0;height:0;line-height:0;overflow:visible;position:relative}
+.stand .cut span{position:absolute;right:0;top:-.5px;transform:translateY(-50%);background:var(--panel);padding-left:8px;font-family:var(--display);font-size:10.5px;line-height:1;letter-spacing:.14em;text-transform:uppercase;color:var(--muted);white-space:nowrap}
+.stand .note .sm{display:none}
+@container (max-width:519px){
+  .stand .cut span{display:none}
+  .stand th.tag{width:0}  /* kept as a zero-width column: hiding it would leave the lines' colspan to invent a column that steals width from the names */
+  .stand th.nm{width:auto}
+  .stand .note .sm{display:inline}
+}
 .stand .cut + tr td{border-top:0}
 @media (max-width:680px){
   .stand .rk{width:20px} .stand .mv{width:22px} .stand .rec{width:38px} .stand .res{width:36px} .stand .num{width:56px} .stand td.num{font-size:12px}
@@ -438,14 +446,14 @@ function render(hist, mode, curWeek){
   else {
     const was = {}; ranked(hist.base).forEach((t, i) => was[t.id] = i + 1);
     const now = ranked(advance(hist.base, last.matchups));
-    const head = `<thead><tr><th class="rk">#</th><th class="mv"></th><th class="nm">Manager</th><th class="rec">Rec<span class="lg">ord</span></th><th class="res">Wk ${hist.week}</th><th class="num">PF</th><th class="num">PA</th></tr></thead>`;
+    const head = `<thead><tr><th class="rk">#</th><th class="mv"></th><th class="nm">Manager</th><th class="rec">Rec<span class="lg">ord</span></th><th class="res">Wk ${hist.week}</th><th class="num">PF</th><th class="num">PA</th><th class="tag"></th></tr></thead>`;
     // The arrow is the move from where the team stood entering the week.
     const row = (t, i) => { const mv = was[t.id] - (i + 1);
-      return `<tr><td class="rk">${i + 1}</td><td class="mv ${mv > 0 ? 'up' : mv < 0 ? 'down' : ''}">${mv > 0 ? '▲' + mv : mv < 0 ? '▼' + (-mv) : ''}</td><td class="nm">${esc(MANAGERS[t.id] || 'Team ' + t.id)}</td><td class="rec">${t.w}-${t.l}${t.t ? '-' + t.t : ''}</td><td class="res ${t.res}">${t.res}</td><td class="num">${t.pf.toFixed(2)}</td><td class="num">${t.pa.toFixed(2)}</td></tr>`; };
+      return `<tr><td class="rk">${i + 1}</td><td class="mv ${mv > 0 ? 'up' : mv < 0 ? 'down' : ''}">${mv > 0 ? '▲' + mv : mv < 0 ? '▼' + (-mv) : ''}</td><td class="nm">${esc(MANAGERS[t.id] || 'Team ' + t.id)}</td><td class="rec">${t.w}-${t.l}${t.t ? '-' + t.t : ''}</td><td class="res ${t.res}">${t.res}</td><td class="num">${t.pf.toFixed(2)}</td><td class="num">${t.pa.toFixed(2)}</td><td class="tag"></td></tr>`; };
     // A labeled rule under the last team on the right side of each cutoff: the top two skip the first round, the top six make the playoffs.
-    const cut = rank => rank === BYE_SPOTS ? `<tr class="cut bye"><td colspan="7"><span>First-round bye</span></td></tr>` : rank === PLAYOFF_SPOTS ? `<tr class="cut"><td colspan="7"><span>Playoff line</span></td></tr>` : '';
+    const cut = rank => rank === BYE_SPOTS ? `<tr class="cut"><td colspan="8"><span>First-round bye</span></td></tr>` : rank === PLAYOFF_SPOTS ? `<tr class="cut"><td colspan="8"><span>Playoff line</span></td></tr>` : '';
     const table = `<table>${head}<tbody>${now.map((t, i) => row(t, i) + cut(i + 1)).join('')}</tbody></table>`;
-    st.innerHTML = `<div class="hd"><span class="lab">${weekDone ? 'Standings' : 'Projected standings'} after Week ${hist.week}</span><span class="note">${weekDone ? 'final scores' : `Week ${hist.week} results and points are Yahoo's live projections`}</span></div>` +
+    st.innerHTML = `<div class="hd"><span class="lab">${weekDone ? 'Standings' : 'Projected standings'} after Week ${hist.week}</span><span class="note">${weekDone ? 'final scores' : `Week ${hist.week} results and points are Yahoo's live projections`}<span class="sm"> · lines mark the first-round bye and the playoff cut</span></span></div>` +
       table;
   }
   document.getElementById('band').classList.toggle('solo', !st.innerHTML);
