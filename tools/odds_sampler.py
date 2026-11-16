@@ -2,6 +2,7 @@
 Runs in GitHub Actions with Playwright (the live win percentage only renders in a browser).
 Usage: python tools/odds_sampler.py <out_dir>
        python tools/odds_sampler.py --slim <out_dir>   (rewrite the slim files from the week files already there; no browser needed)
+       python tools/odds_sampler.py --idle-gap <out_dir>   (seconds the workflow may wait before its next pass; see idle_gap())
 
 Files in <out_dir>:
   weekN.json       the week's full history: every sample with every matchup's scores, odds, starters and shotgun entries. The sampler
@@ -424,9 +425,28 @@ def in_window(now=None, windows=None):
     wd, h = now.weekday(), now.hour + now.minute / 60
     return (wd == 3 and h >= 20) or (wd == 6 and h >= 13) or (wd == 0 and h < 1) or (wd == 0 and h >= 20) or (wd == 1 and h < 1)
 
+def idle_gap(out_dir, now=None, cap=1200):
+    """Seconds the workflow's loop may wait after a pass that recorded nothing. A minute while a game window is open: the week's first
+    kickoff is not 'underway' until a starter goes live, and a pass that failed should be retried. Otherwise until the next window
+    opens (5 minutes before its kickoff), at most 20 minutes, so sampling starts with the game and not up to 20 minutes into it.
+    Thanksgiving week has nine windows over six days; every one of them is a cold start."""
+    now = now or datetime.datetime.now(ET)
+    windows = None
+    for f in ("live.json", "current.json"):
+        try:
+            windows = json.load(open(os.path.join(out_dir, f), encoding="utf-8")).get("windows"); break
+        except Exception:
+            continue
+    if in_window(now, windows): return 60
+    opens = [datetime.datetime.fromisoformat(g["start"]) - timedelta(minutes=5) for g in windows or []]
+    ahead = [(o - now).total_seconds() for o in opens if o > now]
+    return max(60, min(cap, int(min(ahead)))) if ahead else cap
+
 if __name__ == "__main__":
     if "--in-window" in sys.argv:
         ok = in_window(); print("in window" if ok else "outside window"); sys.exit(0 if ok else 1)
+    if "--idle-gap" in sys.argv:
+        print(idle_gap(next((a for a in sys.argv[1:] if not a.startswith("--")), "data/odds"))); sys.exit(0)
     if "--slim" in sys.argv:
         sys.exit(reslim(next((a for a in sys.argv[1:] if not a.startswith("--")), "data/odds")))
     sys.exit(asyncio.run(main(sys.argv[1] if len(sys.argv) > 1 else "data/odds")))

@@ -11,6 +11,10 @@ on:
     - cron: '*/5 17-23 * * 0'
     - cron: '*/5 0-5 * * 1'
     - cron: '*/5 0-4 * * 2'
+    # Holiday and late-season slots, every 10 minutes: Thursday, Friday and Saturday afternoons ET (Thanksgiving, Black Friday,
+    # Christmas, December Saturdays), and Wednesday, Friday and Saturday nights ET (Thanksgiving Eve, Christmas night, Saturday night).
+    - cron: '*/10 17-23 * * 4-6'
+    - cron: '*/10 0-4 * * 0,4,6'
     # One daily off-window sample (11 AM ET, Tue-Sat) so the week flips and the next slate stages before Thursday.
     - cron: '0 15 * * 2-6'
 concurrency:
@@ -56,8 +60,15 @@ jobs:
             t0=$SECONDS
             out=$(python tools/odds_sampler.py odds-data/data/odds 2>&1)
             echo "$(date -u +%H:%M) $out"
-            # A recorded sample means a game is on (or a window is open): keep sampling every minute. Otherwise idle for 20 minutes.
-            case "$out" in *"sample #"*) gap=60;; *) gap=1200;; esac
+            # A recorded sample means a game is on (or a window is open): keep sampling every minute. A finished week idles for 20 minutes.
+            # Anything else waits until the next game window opens, 20 minutes at most, so sampling starts with the kickoff.
+            case "$out" in
+              *"sample #"*) gap=60;;
+              *"already fully decided"*) gap=1200;;
+              *) idle=$(python tools/odds_sampler.py --idle-gap odds-data/data/odds 2>/dev/null)
+                 case "$idle" in ''|*[!0-9]*) idle=1200;; esac
+                 gap=$((SECONDS - t0 + idle));;
+            esac
             ( cd odds-data && git add data/odds
               if git diff --cached --quiet; then echo "nothing to commit"; else
                 git commit -qm "odds sample $(date -u +%Y-%m-%dT%H:%MZ)"
