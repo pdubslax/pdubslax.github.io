@@ -296,7 +296,9 @@ function render(hist, mode, curWeek){
     if (P.length){ d = 'M'+P[0].x.toFixed(1)+' '+P[0].y.toFixed(1);
       const n=P.length, m=[], dx=[], dy=[];
       for(let i=0;i<n-1;i++){ dx[i]=P[i+1].x-P[i].x; dy[i]=(P[i+1].y-P[i].y)/(dx[i]||1e-6); }
-      for(let i=0;i<n;i++){ if(i===0) m[i]=dy[0]||0; else if(i===n-1) m[i]=dy[n-2]||0; else m[i]=(dy[i-1]*dy[i]<=0)?0:(dy[i-1]+dy[i])/2; }
+      // Tangents by Steffen's rule: each is capped by the flatter of the two neighboring slopes, so the curve never rises above or dips
+      // below the samples it joins. A plain average overshot badly where a steep run of crowded samples met a wide gap between windows.
+      for(let i=0;i<n;i++){ if(i===0) m[i]=dy[0]||0; else if(i===n-1) m[i]=dy[n-2]||0; else { const s0=dy[i-1], s1=dy[i], p=(s0*dx[i]+s1*dx[i-1])/((dx[i-1]+dx[i])||1e-6); m[i]=(Math.sign(s0)+Math.sign(s1))*Math.min(Math.abs(s0),Math.abs(s1),0.5*Math.abs(p))||0; } }
       for(let i=0;i<n-1;i++){ const h3=dx[i]/3; d += ` C${(P[i].x+h3).toFixed(1)} ${(P[i].y+m[i]*h3).toFixed(1)} ${(P[i+1].x-h3).toFixed(1)} ${(P[i+1].y-m[i+1]*h3).toFixed(1)} ${P[i+1].x.toFixed(1)} ${P[i+1].y.toFixed(1)}`; }
     }
     const n=vals.length, lastV=vals[n-1], lastX=x(tsList[n-1]);
