@@ -116,7 +116,7 @@ footer{font-size:12.5px;color:var(--muted);border-top:1px solid var(--line);padd
 .stand .mv.up{color:var(--win)} .stand .mv.down{color:var(--lock)}
 .stand td.nm{font-weight:600;padding-right:6px}
 .stand .rec{width:60px;font-family:var(--mono)} .stand td.rec{font-weight:500}
-.stand .res{width:56px;font-family:var(--mono);font-size:12.5px}
+.stand .res{width:48px;font-family:var(--mono);font-size:12.5px}
 .stand td.res.W{color:var(--win)} .stand td.res.L{color:var(--lock)}
 .stand .num{width:84px;text-align:right;font-family:var(--mono)} .stand td.num{font-size:13px}
 .stand .cut td{border-top:2px solid var(--ink);padding:3px 0 4px;text-align:right;font-family:var(--display);font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--muted)}
@@ -199,7 +199,15 @@ async function renderView(){
   if ((!hist.samples || !hist.samples.length) && hist.preview && !viewWeek) { renderOnce({...hist, samples: [hist.preview]}, 'upcoming', hist.week); return; }
   if (viewWeek && viewWeek !== hist.week) {
     let past = pastCache[viewWeek];
-    if (!past && sha) { try { past = await fetchJson('https://cdn.jsdelivr.net/gh/' + REPO + '@' + sha + '/data/odds/week' + viewWeek + '.json'); pastCache[viewWeek] = heal(past); } catch(e) {} }
+    if (!past) {
+      // By commit through the CDN when the latest commit is known; otherwise straight from the data branch, so a rate-limited
+      // GitHub API (60 calls an hour per network) never leaves the week links dead.
+      const f = '/data/odds/week' + viewWeek + '.json';
+      for (const u of [sha && 'https://cdn.jsdelivr.net/gh/' + REPO + '@' + sha + f, 'https://raw.githubusercontent.com/' + REPO + '/odds-data' + f]) {
+        if (!u) continue;
+        try { past = heal(await fetchJson(u)); pastCache[viewWeek] = past; break; } catch(e) {}
+      }
+    }
     if (past) { renderOnce(past, 'past', topWeek); return; }
     viewWeek = null; history.replaceState(null, '', location.pathname);
   }
@@ -252,13 +260,12 @@ const shortName = (m, side) => firstName(m, side) || (side===0 ? m.left : m.righ
 // projected final. The win goes to the higher projection, so record and points always agree. A finished game's projection is its score,
 // so the same sum gives the real standings once the week is over.
 function advance(base, matchups){
-  const T = {}; for (const k in base.teams) T[k] = {...base.teams[k], res: '', done: false};
+  const T = {}; for (const k in base.teams) T[k] = {...base.teams[k], res: ''};
   for (const m of matchups) {
     const [a, b] = sideIds(m), A = T[a], B = T[b]; if (!A || !B) continue;
     const lp = m.leftProj, rp = m.rightProj; A.pf += lp; A.pa += rp; B.pf += rp; B.pa += lp;
     if (lp === rp && m.leftRem === 0 && m.rightRem === 0) { A.t++; B.t++; A.res = B.res = 'T'; }
     else { const leftWins = lp !== rp ? lp > rp : m.leftPct >= 50; (leftWins ? A : B).w++; (leftWins ? B : A).l++; A.res = leftWins ? 'W' : 'L'; B.res = leftWins ? 'L' : 'W'; }
-    A.done = B.done = decidedOf(m);
   }
   return {through: base.through + 1, teams: T};
 }
@@ -405,9 +412,9 @@ function render(hist, mode, curWeek){
     const was = {}; ranked(hist.base).forEach((t, i) => was[t.id] = i + 1);
     const now = ranked(advance(hist.base, last.matchups));
     const head = `<thead><tr><th class="rk">#</th><th class="mv"></th><th class="nm">Manager</th><th class="rec">Rec<span class="lg">ord</span></th><th class="res">Wk ${hist.week}</th><th class="num">PF</th><th class="num">PA</th></tr></thead>`;
-    // The arrow is the move from where the team stood entering the week. A check marks a result that is already decided.
+    // The arrow is the move from where the team stood entering the week.
     const row = (t, i) => { const mv = was[t.id] - (i + 1);
-      return `<tr><td class="rk">${i + 1}</td><td class="mv ${mv > 0 ? 'up' : mv < 0 ? 'down' : ''}">${mv > 0 ? '▲' + mv : mv < 0 ? '▼' + (-mv) : ''}</td><td class="nm">${esc(MANAGERS[t.id] || 'Team ' + t.id)}</td><td class="rec">${t.w}-${t.l}${t.t ? '-' + t.t : ''}</td><td class="res ${t.res}">${t.res}${t.done ? ' ✅' : ''}</td><td class="num">${t.pf.toFixed(2)}</td><td class="num">${t.pa.toFixed(2)}</td></tr>`; };
+      return `<tr><td class="rk">${i + 1}</td><td class="mv ${mv > 0 ? 'up' : mv < 0 ? 'down' : ''}">${mv > 0 ? '▲' + mv : mv < 0 ? '▼' + (-mv) : ''}</td><td class="nm">${esc(MANAGERS[t.id] || 'Team ' + t.id)}</td><td class="rec">${t.w}-${t.l}${t.t ? '-' + t.t : ''}</td><td class="res ${t.res}">${t.res}</td><td class="num">${t.pf.toFixed(2)}</td><td class="num">${t.pa.toFixed(2)}</td></tr>`; };
     // A labeled rule under the last team on the right side of each cutoff: the top two skip the first round, the top six make the playoffs.
     const cut = rank => rank === BYE_SPOTS ? `<tr class="cut bye"><td colspan="7">First-round bye</td></tr>` : rank === PLAYOFF_SPOTS ? `<tr class="cut"><td colspan="7">Playoff line</td></tr>` : '';
     const table = `<table>${head}<tbody>${now.map((t, i) => row(t, i) + cut(i + 1)).join('')}</tbody></table>`;
