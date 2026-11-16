@@ -127,7 +127,10 @@ footer{font-size:12.5px;color:var(--muted);border-top:1px solid var(--line);padd
 .stand .rec{width:56px;font-family:var(--mono)} .stand td.rec{font-weight:500}
 .stand .res{width:48px;font-family:var(--mono);font-size:12px}
 .stand td.res.W{color:var(--win)} .stand td.res.L{color:var(--lock)}
-.stand .num{width:78px;text-align:right;font-family:var(--mono)} .stand td.num{font-size:12px}
+.stand .num{width:78px;text-align:right;font-family:var(--mono)} .stand td.num{font-size:12px} .stand th.num{padding-right:4px}
+/* Every number carries the same padding so the digits stay aligned; only the best and worst in a column get the tint. */
+.stand td.num span{padding:1px 4px;border-radius:3px}
+.stand td.num .hi{background:var(--win-soft);color:var(--win)} .stand td.num .lo{background:var(--lock-soft);color:var(--lock)}
 /* Cutoff lines take no height of their own, so every row keeps the same rhythm. The label sits on the line in the empty gutter to the
    right of the numbers (the last, flexible column), never over them. Where the panel is too narrow for a gutter, the labels give way to
    a sentence in the note. */
@@ -455,10 +458,14 @@ function render(hist, mode, curWeek){
   else {
     const was = {}; ranked(hist.base).forEach((t, i) => was[t.id] = i + 1);
     const now = ranked(advance(hist.base, last.matchups));
+    // Best and worst in each points column get a soft tint: most points for and fewest against are good, the opposites are bad.
+    const ext = k => { const v = now.map(t => t[k]); return [Math.max(...v), Math.min(...v)]; };
+    const [pfMax, pfMin] = ext('pf'), [paMax, paMin] = ext('pa');
+    const mark = (v, good, bad, what) => v === good ? ` class="hi" title="${what[0]}"` : v === bad ? ` class="lo" title="${what[1]}"` : '';
     const head = `<thead><tr><th class="rk">#</th><th class="mv"></th><th class="nm">Manager</th><th class="rec">Rec<span class="lg">ord</span></th><th class="res">Wk ${hist.week}</th><th class="num">PF</th><th class="num">PA</th><th class="tag"></th></tr></thead>`;
     // The arrow is the move from where the team stood entering the week.
     const row = (t, i) => { const mv = was[t.id] - (i + 1);
-      return `<tr><td class="rk">${i + 1}</td><td class="mv ${mv > 0 ? 'up' : mv < 0 ? 'down' : ''}">${mv > 0 ? '▲' + mv : mv < 0 ? '▼' + (-mv) : ''}</td><td class="nm">${esc(MANAGERS[t.id] || 'Team ' + t.id)}</td><td class="rec">${t.w}-${t.l}${t.t ? '-' + t.t : ''}</td><td class="res ${t.res}">${t.res}</td><td class="num">${Math.round(t.pf)}</td><td class="num">${Math.round(t.pa)}</td><td class="tag"></td></tr>`; };
+      return `<tr><td class="rk">${i + 1}</td><td class="mv ${mv > 0 ? 'up' : mv < 0 ? 'down' : ''}">${mv > 0 ? '▲' + mv : mv < 0 ? '▼' + (-mv) : ''}</td><td class="nm">${esc(MANAGERS[t.id] || 'Team ' + t.id)}</td><td class="rec">${t.w}-${t.l}${t.t ? '-' + t.t : ''}</td><td class="res ${t.res}">${t.res}</td><td class="num"><span${mark(t.pf, pfMax, pfMin, ['Most points for', 'Fewest points for'])}>${Math.round(t.pf)}</span></td><td class="num"><span${mark(t.pa, paMin, paMax, ['Fewest points against', 'Most points against'])}>${Math.round(t.pa)}</span></td><td class="tag"></td></tr>`; };
     // A labeled rule under the last team on the right side of each cutoff: the top two skip the first round, the top six make the playoffs.
     const cut = rank => rank === BYE_SPOTS ? `<tr class="cut"><td colspan="8"><span>First-round bye</span></td></tr>` : rank === PLAYOFF_SPOTS ? `<tr class="cut"><td colspan="8"><span>Playoff line</span></td></tr>` : '';
     const table = `<table>${head}<tbody>${now.map((t, i) => row(t, i) + cut(i + 1)).join('')}</tbody></table>`;
