@@ -55,9 +55,38 @@ def nfl_windows(week):
         out.append(dict(label=slot_label(sl["start"]), start=sl["start"].isoformat(), end=end.isoformat(), games=sl["games"]))
     return out
 
+_RZ = None
+def league_feed():
+    """Yahoo's public league feed (current week, each team's record and points). Fetched once per pass."""
+    global _RZ
+    if _RZ is None:
+        _RZ = json.loads(get(f"https://pub-api.fantasysports.yahoo.com/fantasy/v3/redzone/nfl?league_id={LEAGUE}&format=json"))["service"]["leagues"][str(LEAGUE)]
+    return _RZ
+
 def current_week():
-    rz = json.loads(get(f"https://pub-api.fantasysports.yahoo.com/fantasy/v3/redzone/nfl?league_id={LEAGUE}&format=json"))
-    return int(rz["service"]["leagues"][str(LEAGUE)]["weekInfo"]["week"])
+    return int(league_feed()["weekInfo"]["week"])
+
+def standings_base(week):
+    """Every team's record and points entering this week, for the page's projected standings. The feed says which week its points run
+    through (pfWeek); anything other than exactly last week returns None, so a base is never built from the wrong week."""
+    teams = league_feed()["teams"]
+    if {int(t.get("pfWeek") or 0) for t in teams.values()} != {week - 1}: return None
+    return {"through": week - 1, "teams": {str(k): {"w": int(t["wins"]), "l": int(t["losses"]), "t": int(t.get("ties") or 0),
+                                                  "pf": float(t["pf"]), "pa": float(t["pa"])} for k, t in teams.items()}}
+
+def advance_base(base, matchups):
+    """A base moved forward one finished week by adding that week's final scores. Covers the stretch after Yahoo turns the week over
+    but before its feed has folded last week's results into the records."""
+    teams = {k: dict(v) for k, v in base["teams"].items()}
+    for m in matchups:
+        a, b = m["id"].split("v"); ls, rs = m["leftScore"], m["rightScore"]
+        if a not in teams or b not in teams: continue
+        teams[a]["pf"] = round(teams[a]["pf"] + ls, 2); teams[a]["pa"] = round(teams[a]["pa"] + rs, 2)
+        teams[b]["pf"] = round(teams[b]["pf"] + rs, 2); teams[b]["pa"] = round(teams[b]["pa"] + ls, 2)
+        if ls == rs: teams[a]["t"] += 1; teams[b]["t"] += 1
+        else:
+            teams[a if ls > rs else b]["w"] += 1; teams[b if ls > rs else a]["l"] += 1
+    return {"through": base["through"] + 1, "teams": teams}
 
 def scoreboard(week=None):
     week = week or current_week()
@@ -233,6 +262,18 @@ async def main(out_dir):
     path = os.path.join(out_dir, f"week{week}.json")
     hist = json.load(open(path)) if os.path.exists(path) else {"week": week, "samples": []}
     hist.update(meta)
+    # Standings entering the week. Refreshed every pass while the feed is exactly one week behind (stat corrections land midweek);
+    # left alone once the feed has moved on, so a finished week keeps the base it was played from.
+    try:
+        base = standings_base(week)
+        if base is None and "base" not in hist:
+            prev_path = os.path.join(out_dir, f"week{week-1}.json")
+            prev = json.load(open(prev_path)) if os.path.exists(prev_path) else {}
+            if prev.get("base", {}).get("through") == week - 2 and prev.get("samples"):
+                base = advance_base(prev["base"], prev["samples"][-1]["matchups"])
+        if base: hist["base"] = base
+    except Exception as e:
+        print("standings base failed:", e, file=sys.stderr)
     windows = nfl_windows(week)
     if windows: hist["windows"] = windows
     windows = hist.get("windows")

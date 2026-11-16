@@ -101,6 +101,33 @@ footer{font-size:12.5px;color:var(--muted);border-top:1px solid var(--line);padd
 .chip.risk{background:var(--risk-soft);color:var(--risk)} .chip.beer{background:var(--lock-soft);color:var(--lock)}
 .shot .none{color:var(--muted);font-size:14px}
 .shot em.down{font-style:normal;color:var(--lock);font-family:var(--mono);font-size:12px}
+/* Projected standings: two six-row tables side by side, one list on phones. Fixed column widths keep the two tables aligned. */
+.stand{background:var(--panel);border:1px solid var(--line);padding:12px 16px;display:grid;gap:8px;min-width:0}
+.stand:empty{display:none}
+.stand .hd{display:flex;justify-content:space-between;align-items:baseline;gap:4px 10px;flex-wrap:wrap}
+.stand .lab{font-family:var(--display);font-size:13px;letter-spacing:.14em;text-transform:uppercase;color:var(--muted)}
+.stand .note{font-family:var(--mono);font-size:11.5px;color:var(--muted)}
+.stand .tabs{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:0 48px;align-items:start}
+.stand table{width:100%;border-collapse:collapse;table-layout:fixed;font-variant-numeric:tabular-nums}
+.stand th{font-family:var(--display);font-weight:600;font-size:12px;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);text-align:left;padding:2px 0 4px;white-space:nowrap}
+.stand td{border-top:1px solid var(--line);padding:6px 0;font-size:14px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.stand .rk{width:26px;font-family:var(--mono);color:var(--muted)}
+.stand .mv{width:36px;font-family:var(--mono);font-size:11.5px}
+.stand .mv.up{color:var(--win)} .stand .mv.down{color:var(--lock)}
+.stand td.nm{font-weight:600;padding-right:6px}
+.stand .rec{width:60px;font-family:var(--mono)} .stand td.rec{font-weight:500}
+.stand .res{width:56px;font-family:var(--mono);font-size:12.5px}
+.stand td.res.W{color:var(--win)} .stand td.res.L{color:var(--lock)}
+.stand .num{width:84px;text-align:right;font-family:var(--mono)} .stand td.num{font-size:13px}
+.stand .cut td{border-top:2px solid var(--ink);padding:3px 0 4px;text-align:right;font-family:var(--display);font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--muted)}
+.stand .cut.bye td{border-top-width:1px}
+.stand .cut + tr td{border-top:0}
+@media (max-width:680px){
+  .stand .tabs{grid-template-columns:1fr} .stand table + table thead{display:none}
+  .stand table + table tbody tr:first-child td{border-top:0}
+  .stand .rk{width:20px} .stand .mv{width:22px} .stand .rec{width:38px} .stand .res{width:36px} .stand .num{width:56px} .stand td.num{font-size:12px}
+  .stand th{letter-spacing:.04em} .stand th .lg{display:none}
+}
 .meta .crumbs a{color:var(--fav);text-decoration:none;font-weight:500}
 .meta .crumbs b{color:var(--ink)}
 .meta .crumbs .wk{color:var(--muted);margin-right:2px}
@@ -126,6 +153,7 @@ footer{font-size:12.5px;color:var(--muted);border-top:1px solid var(--line);padd
   </header>
   <section class="shot" id="shot" aria-label="Punishment watch"></section>
   <section class="grid" id="grid" aria-label="Matchups"></section>
+  <section class="stand" id="stand" aria-label="Projected standings"></section>
   <footer><span>Win odds and projections are Yahoo's, sampled about once a minute during game windows. This page refreshes itself.</span></footer>
 </div>
 <script>
@@ -173,6 +201,7 @@ async function renderView(){
   if (hasNext) {
     const shift = 7*86400000, mv = s => new Date(new Date(s).getTime() + shift).toISOString();
     const up = {week: nxt.week, samples: [{ts: nxt.ts, week: nxt.week, matchups: nxt.matchups}], windows: nxt.windows,
+                base: hist.base && hist.base.through === hist.week - 1 ? advance(hist.base, lastS.matchups) : null,  // this week's results carried into the week ahead
                 segments: (hist.segments||[]).map(g => ({...g, start: mv(g.start), end: mv(g.end)})), ticks: (hist.ticks||[]).map(k => ({at: mv(k.at)}))};
     renderOnce(up, 'upcoming', topWeek); return;
   }
@@ -214,6 +243,23 @@ const MANAGERS = {1:'Nick', 2:'Hy', 3:'Patrick', 4:'Matt #1', 5:'Keith', 6:'Dani
 const sideIds = m => m.id.split('v').map(Number);
 const firstName = (m, side) => MANAGERS[sideIds(m)[side]] || '';
 const shortName = (m, side) => firstName(m, side) || (side===0 ? m.left : m.right);
+// Standings after a week: the record and points entering it (base, recorded by the sampler from Yahoo's league feed) plus each matchup's
+// projected final. The win goes to the higher projection, so record and points always agree. A finished game's projection is its score,
+// so the same sum gives the real standings once the week is over.
+function advance(base, matchups){
+  const T = {}; for (const k in base.teams) T[k] = {...base.teams[k], res: '', done: false};
+  for (const m of matchups) {
+    const [a, b] = sideIds(m), A = T[a], B = T[b]; if (!A || !B) continue;
+    const lp = m.leftProj, rp = m.rightProj; A.pf += lp; A.pa += rp; B.pf += rp; B.pa += lp;
+    if (lp === rp && m.leftRem === 0 && m.rightRem === 0) { A.t++; B.t++; A.res = B.res = 'T'; }
+    else { const leftWins = lp !== rp ? lp > rp : m.leftPct >= 50; (leftWins ? A : B).w++; (leftWins ? B : A).l++; A.res = leftWins ? 'W' : 'L'; B.res = leftWins ? 'L' : 'W'; }
+    A.done = B.done = decidedOf(m);
+  }
+  return {through: base.through + 1, teams: T};
+}
+const PLAYOFF_SPOTS = 6, BYE_SPOTS = 2;
+// Yahoo's order: winning percentage, then points for.
+const ranked = base => Object.entries(base.teams).map(([id, t]) => ({id: +id, ...t, pct: (t.w + t.t/2) / Math.max(1, t.w + t.l + t.t)})).sort((x, y) => y.pct - x.pct || y.pf - x.pf);
 const DAYS = {Thu:0,Fri:1,Sat:2,Sun:3,Mon:4,Tue:5,Wed:6};
 const dayOf = a => ((a.game||'').match(/^(Thu|Fri|Sat|Sun|Mon|Tue|Wed)/)||[])[1];
 // The next game day across a whole slate, so 'still to come' lists only the players in the next games (Thursday's starters, say).
@@ -346,6 +392,22 @@ function render(hist, mode, curWeek){
       ${flip ? strip(firstName(m,0),m.left,m.leftRec,lp,m.leftScore,m.leftProj,m.leftRem,false,'bot',m.leftActive) : strip(firstName(m,1),m.right,m.rightRec,rp,m.rightScore,m.rightProj,m.rightRem,false,'bot',m.rightActive)}
     </a>`;
   }).join('');
+  // Projected standings: only when this week's file carries the standings it was played from.
+  const st = document.getElementById('stand');
+  if (!hist.base || hist.base.through !== hist.week - 1) st.innerHTML = '';
+  else {
+    const was = {}; ranked(hist.base).forEach((t, i) => was[t.id] = i + 1);
+    const now = ranked(advance(hist.base, last.matchups)), half = PLAYOFF_SPOTS;  // the tables split at the playoff line
+    const head = `<thead><tr><th class="rk">#</th><th class="mv"></th><th class="nm">Manager</th><th class="rec">Rec<span class="lg">ord</span></th><th class="res">Wk ${hist.week}</th><th class="num">PF</th><th class="num">PA</th></tr></thead>`;
+    // The arrow is the move from where the team stood entering the week. A check marks a result that is already decided.
+    const row = (t, i) => { const mv = was[t.id] - (i + 1);
+      return `<tr><td class="rk">${i + 1}</td><td class="mv ${mv > 0 ? 'up' : mv < 0 ? 'down' : ''}">${mv > 0 ? '▲' + mv : mv < 0 ? '▼' + (-mv) : ''}</td><td class="nm">${esc(MANAGERS[t.id] || 'Team ' + t.id)}</td><td class="rec">${t.w}-${t.l}${t.t ? '-' + t.t : ''}</td><td class="res ${t.res}">${t.res}${t.done ? ' ✅' : ''}</td><td class="num">${t.pf.toFixed(2)}</td><td class="num">${t.pa.toFixed(2)}</td></tr>`; };
+    // A labeled rule under the last team on the right side of each cutoff: the top two skip the first round, the top six make the playoffs.
+    const cut = rank => rank === BYE_SPOTS ? `<tr class="cut bye"><td colspan="7">First-round bye</td></tr>` : rank === PLAYOFF_SPOTS ? `<tr class="cut"><td colspan="7">Playoff line</td></tr>` : '';
+    const table = (rows, from) => `<table>${head}<tbody>${rows.map((t, i) => row(t, i + from) + cut(i + from + 1)).join('')}</tbody></table>`;
+    st.innerHTML = `<div class="hd"><span class="lab">${weekDone ? 'Standings' : 'Projected standings'} after Week ${hist.week}</span><span class="note">${weekDone ? 'final scores' : `Week ${hist.week} results and points are Yahoo's live projections`}</span></div>` +
+      `<div class="tabs">${table(now.slice(0, half), 0)}${table(now.slice(half), half)}</div>`;
+  }
 }
 const grid = document.getElementById('grid');
 let hoverRaf = null;
