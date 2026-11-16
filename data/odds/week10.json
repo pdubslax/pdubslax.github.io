@@ -789348,6 +789348,324 @@
      "rightRem": 1
     }
    ]
+  },
+  {
+   "ts": "2026-11-16T02:10:52+00:00",
+   "week": 10,
+   "matchups": [
+    {
+     "id": "1v9",
+     "left": "Nick Leif Erikson Barden",
+     "leftRec": "4-5",
+     "right": "Lover boy",
+     "rightRec": "4-5",
+     "leftScore": 96.86,
+     "leftProj": 96.86,
+     "rightScore": 120.15,
+     "rightProj": 132.72,
+     "shotgun": [],
+     "leftActive": [],
+     "rightActive": [
+      {
+       "player": "E. McPherson",
+       "pos": "K",
+       "slot": "K",
+       "rem": 6.91,
+       "state": "live",
+       "pts": 3.4,
+       "proj": 9.95,
+       "live": 10.31,
+       "game": "2nd 11:40, 10-0 vs PIT"
+      },
+      {
+       "player": "M. Gesicki",
+       "pos": "TE",
+       "slot": "TE",
+       "rem": 5.67,
+       "state": "live",
+       "pts": 1.4,
+       "proj": 8.16,
+       "live": 7.07,
+       "game": "2nd 11:40, 10-0 vs PIT"
+      }
+     ],
+     "leftPct": 1,
+     "leftRem": 0,
+     "rightRem": 2
+    },
+    {
+     "id": "2v10",
+     "left": "BDSM AI Stealth Founder",
+     "leftRec": "3-6",
+     "right": "RosterMogged",
+     "rightRec": "4-5",
+     "leftScore": 81.37,
+     "leftProj": 109.57,
+     "rightScore": 98.36,
+     "rightProj": 114.04,
+     "shotgun": [
+      {
+       "player": "G. Bernard",
+       "pos": "WR",
+       "team": "Pit",
+       "pts": 0.0,
+       "game": "2nd 11:40, 0-10 @ CIN",
+       "tag": null,
+       "state": "live",
+       "slot": "W/R/T",
+       "manager": "RosterMogged",
+       "locked": false,
+       "live": 6.99,
+       "reason": "pts"
+      }
+     ],
+     "leftActive": [
+      {
+       "player": "D. Henry",
+       "pos": "RB",
+       "slot": "RB",
+       "rem": 17.96,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 17.96,
+       "live": 17.96,
+       "game": "Tue 1:15 AM vs LAC"
+      },
+      {
+       "player": "C. Brown",
+       "pos": "RB",
+       "slot": "RB",
+       "rem": 10.24,
+       "state": "live",
+       "pts": 7.8,
+       "proj": 14.75,
+       "live": 18.04,
+       "game": "2nd 11:40, 10-0 vs PIT"
+      }
+     ],
+     "rightActive": [
+      {
+       "player": "O. Hampton",
+       "pos": "RB",
+       "slot": "RB",
+       "rem": 8.69,
+       "state": "pending",
+       "pts": 0.0,
+       "proj": 8.69,
+       "live": 8.69,
+       "game": "Tue 1:15 AM @ BAL"
+      },
+      {
+       "player": "G. Bernard",
+       "pos": "WR",
+       "slot": "W/R/T",
+       "rem": 6.99,
+       "state": "live",
+       "pts": 0.0,
+       "proj": 10.06,
+       "live": 6.99,
+       "game": "2nd 11:40, 0-10 @ CIN"
+      }
+     ],
+     "leftPct": 42,
+     "leftRem": 2,
+     "rightRem": 2
+    },
+    {
+     "id": "3v5",
+     "left": "Robotripping Gardener",
+     "leftRec": "5-4",
+     "right": "Tuten Brown",
+     "rightRec": "5-4",
+     "leftScore": 137.42,
+     "leftProj": 137.42,
+     "rightScore": 128.73,
+     "rightProj": 128.73,
+     "shotgun": [],
+     "leftActive": [],
+     "rightActive": [],
+     "stale": true,
+     "leftPct": 99,
+     "leftRem": null,
+     "rightRem": null
+    },
+    {
+     "id": "4v7",
+     "left": "Chubb will Rise Again",
+     "leftRec": "4-5",
+     "right": "James Ray Ervin Yonts",
+     "rightRec": "6-3",
+     "leftScore": 122.14,
+     "leftProj": 135.34,
+     "rightScore": 138.42,
+     "rightProj": 150.52,
+     "shotgun": [],
+     "leftActive": [
+      {
+       "player": "J. Chase",
+       "pos": "WR",
+       "slot": "WR",
+       "rem": 12.94,
+       "state": "live",
+       "pts": 12.2,
+       "proj": 19.01,
+       "live": 25.14,
+       "game": "2nd 10:50, 10-0 vs PIT"
+      }
+     ],
+     "rightActive": [
+      {
+       "player": "J. Warren",
+       "pos": "RB",
+       "slot": "RB",
+       "rem": 11.86,
+       "state": "live",
+       "pts": 0.3,
+       "proj": 17.42,
+       "live": 12.16,
+       "game": "2nd 10:50, 0-10 @ CIN"
+      }
+     ],
+     "leftPct": 30,
+     "leftRem": 1,
+     "rightRem": 1
+    },
+    {
+     "id": "6v8",
+     "left": "MELONHEADS (daniel)",
+     "leftRec": "5-4",
+     "right": "Alex Michael Pagels",
+     "rightRec": "4-5",
+     "leftScore": 160.01,
+     "leftProj": 160.01,
+     "rightScore": 46.43,
+     "rightProj": 86.18,
+     "shotgun": [
+      {
+       "player": "C. Boswell",
+       "pos": "K",
+       "team": "Pit",
+       "pts": 0.0,
+       "game": "2nd 10:50, 0-10 @ CIN",
+       "tag": null,
+       "state": "live",
+       "slot": "K",
+       "manager": "Alex Michael Pagels",
+       "locked": false,
+       "live": 6.26,
+       "reason": "pts"
+      }
+     ],
+     "leftActive": [],
+     "rightActive": [
+      {
+       "player": "J. Burrow",
+       "pos": "QB",
+       "slot": "QB",
+       "rem": 16.81,
+       "state": "live",
+       "pts": 13.68,
+       "proj": 24.7,
+       "live": 30.49,
+       "game": "2nd 10:50, 10-0 vs PIT"
+      },
+      {
+       "player": "T. Higgins",
+       "pos": "WR",
+       "slot": "W/R/T",
+       "rem": 11.41,
+       "state": "live",
+       "pts": 4.7,
+       "proj": 16.76,
+       "live": 16.11,
+       "game": "2nd 10:50, 10-0 vs PIT"
+      },
+      {
+       "player": "C. Boswell",
+       "pos": "K",
+       "slot": "K",
+       "rem": 6.26,
+       "state": "live",
+       "pts": 0.0,
+       "proj": 9.2,
+       "live": 6.26,
+       "game": "2nd 10:50, 0-10 @ CIN"
+      },
+      {
+       "player": "S. Perine",
+       "pos": "RB",
+       "slot": "RB",
+       "rem": 4.48,
+       "state": "live",
+       "pts": 5.6,
+       "proj": 6.58,
+       "live": 10.08,
+       "game": "2nd 10:50, 10-0 vs PIT"
+      }
+     ],
+     "leftPct": 99,
+     "leftRem": 0,
+     "rightRem": 4
+    },
+    {
+     "id": "11v12",
+     "left": "Zen Buddha Boys 🪷💨",
+     "leftRec": "4-5",
+     "right": "Kiwis are better than mid",
+     "rightRec": "6-3",
+     "leftScore": 138.23,
+     "leftProj": 138.23,
+     "rightScore": 125.54,
+     "rightProj": 133.73,
+     "shotgun": [
+      {
+       "player": "D. Metcalf",
+       "pos": "WR",
+       "team": "Pit",
+       "pts": 0.0,
+       "game": "2nd 10:50, 0-10 @ CIN",
+       "tag": null,
+       "state": "live",
+       "slot": "WR",
+       "manager": "Kiwis are better than mid",
+       "locked": false,
+       "live": 8.03,
+       "reason": "pts"
+      },
+      {
+       "player": "49ers",
+       "pos": "DEF",
+       "team": "SF",
+       "pts": -2.25,
+       "game": "Final (W) 46-40 @ DAL",
+       "tag": null,
+       "state": "final",
+       "slot": "DEF",
+       "manager": "Zen Buddha Boys 🪷💨",
+       "locked": true,
+       "live": 4.79,
+       "reason": "pts"
+      }
+     ],
+     "leftActive": [],
+     "rightActive": [
+      {
+       "player": "D. Metcalf",
+       "pos": "WR",
+       "slot": "WR",
+       "rem": 8.03,
+       "state": "live",
+       "pts": 0.0,
+       "proj": 11.8,
+       "live": 8.03,
+       "game": "2nd 10:50, 0-10 @ CIN"
+      }
+     ],
+     "leftPct": 68,
+     "leftRem": 0,
+     "rightRem": 1
+    }
+   ]
   }
  ],
  "segments": [
