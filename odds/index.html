@@ -306,7 +306,7 @@ function advance(base, matchups){
   }
   return {through: base.through + 1, teams: T};
 }
-const PLAYOFF_SPOTS = 6, BYE_SPOTS = 2;
+const PLAYOFF_SPOTS = 6, BYE_SPOTS = 2, PLAYOFF_START_WEEK = 15;  // league settings: 6 teams, playoffs in Weeks 15, 16 and 17
 // Yahoo's order: winning percentage, then points for.
 const ranked = base => Object.entries(base.teams).map(([id, t]) => ({id: +id, ...t, pct: (t.w + t.t/2) / Math.max(1, t.w + t.l + t.t)})).sort((x, y) => y.pct - x.pct || y.pf - x.pf);
 const DAYS = {Tue:0,Wed:1,Thu:2,Fri:3,Sat:4,Sun:5,Mon:6};  // a fantasy week runs Tuesday to Monday, so a Wednesday game (Thanksgiving Eve) comes before Thursday's
@@ -469,7 +469,10 @@ function render(hist, mode, curWeek){
     // A labeled rule under the last team on the right side of each cutoff: the top two skip the first round, the top six make the playoffs.
     const cut = rank => rank === BYE_SPOTS ? `<tr class="cut"><td colspan="8"><span>First-round bye</span></td></tr>` : rank === PLAYOFF_SPOTS ? `<tr class="cut"><td colspan="8"><span>Playoff line</span></td></tr>` : '';
     const table = `<table>${head}<tbody>${now.map((t, i) => row(t, i) + cut(i + 1)).join('')}</tbody></table>`;
-    st.innerHTML = `<div class="hd"><span class="lab">${weekDone ? 'Standings' : 'Projected standings'} after Week ${hist.week}</span><span class="note">${weekDone ? 'final scores' : `Week ${hist.week} results and points are Yahoo's live projections`}<span class="sm"> · lines mark the first-round bye and the playoff cut</span></span></div>` +
+    // Regular-season weeks still to play once this one is in the books.
+    const left = PLAYOFF_START_WEEK - 1 - hist.week;
+    const toGo = left > 1 ? `${left} weeks left before playoffs` : left === 1 ? '1 week left before playoffs' : left === 0 ? 'last week before playoffs' : '';
+    st.innerHTML = `<div class="hd"><span class="lab">${weekDone ? 'Standings' : 'Projected standings'} after Week ${hist.week}</span><span class="note">${toGo}<span class="sm">${toGo ? ' · ' : ''}lines mark the first-round bye and the playoff cut</span></span></div>` +
       table;
   }
   document.getElementById('band').classList.toggle('solo', !st.innerHTML);
