@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 11,
- "ts": "2026-11-16T15:03:16+00:00",
+ "ts": "2026-11-16T15:23:37+00:00",
  "matchups": [
   {
    "id": "1v4",
@@ -938,7 +938,7 @@
    "rightRem": 8,
    "shotgun": [
     {
-     "player": "Browns",
+     "player": "Cleveland",
      "pos": "DEF",
      "team": "Cle",
      "pts": 0.0,
@@ -1031,7 +1031,7 @@
      "game": "Thu 8:15 pm vs Ind"
     },
     {
-     "player": "Chargers",
+     "player": "L. Angeles",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 8.6,
