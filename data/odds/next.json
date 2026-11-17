@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 11,
- "ts": "2026-11-17T22:08:02+00:00",
+ "ts": "2026-11-17T22:28:36+00:00",
  "matchups": [
   {
    "id": "1v4",
@@ -81,7 +81,7 @@
      "game": "Sun 1:00 pm vs TB"
     },
     {
-     "player": "Texans",
+     "player": "Houston",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 9.28,
@@ -570,7 +570,7 @@
      "game": "Sun 1:00 pm @ Buf"
     },
     {
-     "player": "Eagles",
+     "player": "Philadelphia",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 7.16,
@@ -649,7 +649,7 @@
      "game": "Sun 1:00 pm @ Buf"
     },
     {
-     "player": "49ers",
+     "player": "S. Francisco",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 7.03,
