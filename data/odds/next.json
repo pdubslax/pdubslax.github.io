@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 11,
- "ts": "2026-11-17T07:25:45+00:00",
+ "ts": "2026-11-17T07:46:39+00:00",
  "matchups": [
   {
    "id": "1v4",
@@ -696,7 +696,7 @@
    "leftScore": 0.0,
    "leftProj": 105.8,
    "rightScore": 0.0,
-   "rightProj": 70.52,
+   "rightProj": 70.63,
    "leftPct": 83,
    "leftRem": 8,
    "rightRem": 6,
@@ -804,7 +804,7 @@
      "game": "Sun 8:20 pm vs Min"
     },
     {
-     "player": "Bills",
+     "player": "Buffalo",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 10.58,
@@ -872,7 +872,7 @@
      "game": "Sun 1:00 pm vs Ari"
     },
     {
-     "player": "Chiefs",
+     "player": "K. City",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 11.33,
@@ -886,11 +886,11 @@
      "player": "O. Hampton",
      "pos": "RB",
      "slot": "RB",
-     "rem": 9.69,
+     "rem": 9.8,
      "state": "pending",
      "pts": 0.0,
-     "proj": 9.69,
-     "live": 9.69,
+     "proj": 9.8,
+     "live": 9.8,
      "game": "Sun 4:05 pm vs NYJ"
     },
     {
@@ -924,15 +924,15 @@
    "right": "Kiwis are better than mid",
    "rightRec": "6-3",
    "leftScore": 0.0,
-   "leftProj": 129.68,
+   "leftProj": 130.13,
    "rightScore": 0.0,
-   "rightProj": 108.0,
+   "rightProj": 107.69,
    "leftPct": 68,
    "leftRem": 9,
    "rightRem": 8,
    "shotgun": [
     {
-     "player": "Browns",
+     "player": "Cleveland",
      "pos": "DEF",
      "team": "Cle",
      "pts": 0.0,
@@ -1025,6 +1025,17 @@
      "game": "Thu 8:15 pm vs Ind"
     },
     {
+     "player": "L. Angeles",
+     "pos": "DEF",
+     "slot": "DEF",
+     "rem": 8.59,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 8.59,
+     "live": 8.59,
+     "game": "Sun 4:05 pm vs NYJ"
+    },
+    {
      "player": "E. Johnson",
      "pos": "RB",
      "slot": "RB",
@@ -1034,17 +1045,6 @@
      "proj": 8.43,
      "live": 8.43,
      "game": "Sun 1:00 pm vs Ari"
-    },
-    {
-     "player": "Chargers",
-     "pos": "DEF",
-     "slot": "DEF",
-     "rem": 8.14,
-     "state": "pending",
-     "pts": 0.0,
-     "proj": 8.14,
-     "live": 8.14,
-     "game": "Sun 4:05 pm vs NYJ"
     }
    ],
    "rightActive": [
@@ -1071,17 +1071,6 @@
      "game": "Sun 8:20 pm vs Min"
     },
     {
-     "player": "G. Wilson",
-     "pos": "WR",
-     "slot": "WR",
-     "rem": 13.47,
-     "state": "pending",
-     "pts": 0.0,
-     "proj": 13.47,
-     "live": 13.47,
-     "game": "Sun 4:05 pm @ LAC"
-    },
-    {
      "player": "B. Bowers",
      "pos": "TE",
      "slot": "TE",
@@ -1091,6 +1080,17 @@
      "proj": 13.45,
      "live": 13.45,
      "game": "Sun 4:25 pm @ Den"
+    },
+    {
+     "player": "G. Wilson",
+     "pos": "WR",
+     "slot": "WR",
+     "rem": 13.16,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 13.16,
+     "live": 13.16,
+     "game": "Sun 4:05 pm @ LAC"
     },
     {
      "player": "E. Pineiro",
@@ -1147,7 +1147,7 @@
    "leftScore": 0.0,
    "leftProj": 127.24,
    "rightScore": 0.0,
-   "rightProj": 82.97,
+   "rightProj": 82.78,
    "leftPct": 83,
    "leftRem": 9,
    "rightRem": 7,
@@ -1260,7 +1260,7 @@
      "game": "Sun 1:00 pm @ Phi"
     },
     {
-     "player": "Jaguars",
+     "player": "Jacksonville",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 8.86,
@@ -1309,11 +1309,11 @@
      "player": "B. Hall",
      "pos": "RB",
      "slot": "RB",
-     "rem": 13.27,
+     "rem": 13.08,
      "state": "pending",
      "pts": 0.0,
-     "proj": 13.27,
-     "live": 13.27,
+     "proj": 13.08,
+     "live": 13.08,
      "game": "Sun 4:05 pm @ LAC"
     },
     {
@@ -1350,7 +1350,7 @@
      "game": "Mon 8:15 pm @ Was"
     },
     {
-     "player": "Colts",
+     "player": "Indianapolis",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 4.22,
