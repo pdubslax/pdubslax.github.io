@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 11,
- "ts": "2026-11-17T01:37:34+00:00",
+ "ts": "2026-11-17T02:00:09+00:00",
  "matchups": [
   {
    "id": "1v4",
@@ -1034,11 +1034,11 @@
      "player": "Chargers",
      "pos": "DEF",
      "slot": "DEF",
-     "rem": 8.6,
+     "rem": 8.13,
      "state": "pending",
      "pts": 0.0,
-     "proj": 8.6,
-     "live": 8.6,
+     "proj": 8.13,
+     "live": 8.13,
      "game": "Sun 4:05 pm vs NYJ"
     },
     {
@@ -1091,11 +1091,11 @@
      "player": "G. Wilson",
      "pos": "WR",
      "slot": "WR",
-     "rem": 12.96,
+     "rem": 13.31,
      "state": "pending",
      "pts": 0.0,
-     "proj": 12.96,
-     "live": 12.96,
+     "proj": 13.31,
+     "live": 13.31,
      "game": "Sun 4:05 pm @ LAC"
     },
     {
@@ -1315,11 +1315,11 @@
      "player": "B. Hall",
      "pos": "RB",
      "slot": "RB",
-     "rem": 12.84,
+     "rem": 13.07,
      "state": "pending",
      "pts": 0.0,
-     "proj": 12.84,
-     "live": 12.84,
+     "proj": 13.07,
+     "live": 13.07,
      "game": "Sun 4:05 pm @ LAC"
     },
     {
