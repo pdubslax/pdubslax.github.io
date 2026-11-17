@@ -3,7 +3,7 @@ layout: post
 title: Monday Night Football - 2026 Fantasy Preview - Week 10
 ---
 
-A weekly newsletter for members of the Harry Koch Memorial Cup Fantasy Football league - all others will **BE FORCED TO TAKE ON 25 [CHET HANKS](https://www.youtube.com/watch?v=0gQs_AOfvBc) IN A ROUND OF "[SURROUNDED](https://www.youtube.com/watch?v=WV29R1M25n8)" BY JUBILEE**
+A weekly newsletter for members of the Harry Koch Memorial Cup Fantasy Football league - all others will **BE FORCED TO TAKE ON 25 ["CHESTER" HANKS](https://www.youtube.com/watch?v=0gQs_AOfvBc) IN A ROUND OF "[SURROUNDED](https://www.youtube.com/watch?v=WV29R1M25n8)" BY JUBILEE**
 
 <br/>
 
