@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 11,
- "ts": "2026-11-17T09:06:39+00:00",
+ "ts": "2026-11-17T09:46:38+00:00",
  "matchups": [
   {
    "id": "1v4",
@@ -596,7 +596,7 @@
      "game": "Sun 1:00 pm @ Buf"
     },
     {
-     "player": "Philadelphia",
+     "player": "Eagles",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 7.27,
@@ -675,7 +675,7 @@
      "game": "Sun 1:00 pm @ Buf"
     },
     {
-     "player": "S. Francisco",
+     "player": "49ers",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 7.06,
@@ -932,7 +932,7 @@
    "rightRem": 8,
    "shotgun": [
     {
-     "player": "Cleveland",
+     "player": "Browns",
      "pos": "DEF",
      "team": "Cle",
      "pts": 0.0,
@@ -1025,7 +1025,7 @@
      "game": "Thu 8:15 pm vs Ind"
     },
     {
-     "player": "L. Angeles",
+     "player": "Chargers",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 8.57,
@@ -1260,7 +1260,7 @@
      "game": "Sun 1:00 pm @ Phi"
     },
     {
-     "player": "Jacksonville",
+     "player": "Jaguars",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 8.85,
@@ -1350,7 +1350,7 @@
      "game": "Mon 8:15 pm @ Was"
     },
     {
-     "player": "Indianapolis",
+     "player": "Colts",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 4.23,
