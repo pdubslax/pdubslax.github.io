@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 11,
- "ts": "2026-11-17T02:00:09+00:00",
+ "ts": "2026-11-17T02:20:46+00:00",
  "matchups": [
   {
    "id": "1v4",
@@ -702,7 +702,7 @@
    "leftScore": 0.0,
    "leftProj": 105.47,
    "rightScore": 0.0,
-   "rightProj": 70.69,
+   "rightProj": 70.56,
    "leftPct": 83,
    "leftRem": 8,
    "rightRem": 6,
@@ -892,11 +892,11 @@
      "player": "O. Hampton",
      "pos": "RB",
      "slot": "RB",
-     "rem": 9.99,
+     "rem": 9.86,
      "state": "pending",
      "pts": 0.0,
-     "proj": 9.99,
-     "live": 9.99,
+     "proj": 9.86,
+     "live": 9.86,
      "game": "Sun 4:05 pm vs NYJ"
     },
     {
@@ -930,9 +930,9 @@
    "right": "Kiwis are better than mid",
    "rightRec": "6-3",
    "leftScore": 0.0,
-   "leftProj": 128.94,
+   "leftProj": 128.47,
    "rightScore": 0.0,
-   "rightProj": 107.78,
+   "rightProj": 108.13,
    "leftPct": 67,
    "leftRem": 9,
    "rightRem": 8,
@@ -1153,7 +1153,7 @@
    "leftScore": 0.0,
    "leftProj": 127.52,
    "rightScore": 0.0,
-   "rightProj": 82.87,
+   "rightProj": 83.1,
    "leftPct": 83,
    "leftRem": 9,
    "rightRem": 7,
