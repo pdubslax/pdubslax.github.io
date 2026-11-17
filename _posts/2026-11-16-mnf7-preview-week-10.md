@@ -34,7 +34,7 @@ Scott debuted a new team name, and an even newer team [avatar](https://yahoofant
 
 **✅ 100% - 8.69 points: Robotripping Gardener (5-4) vs Tuten Brown (5-4)**  
 
-
+Patrick finally got his vengeance for Keith's crime of making him learn new shite (namely, who Bhayshul Tuten was), en route to a modest but ethical 9 pt victory. Jahmyr Gibbs was able to take advantage of the fact that the Patriots coach was turnt off the liquid bread right up [until kickoff](https://www.thebiglead.com/patriots-mike-vrabel-viral-beer-munich-nfl/), and that Patrick's hip drop hit was processed successfully, yielding a comfortable rushing game script in Munich. The loss drops Keith to the [6/7](https://www.youtube.com/watch?v=jZDRyPZ5i5E) cusp in the playoff hunt, while the win snaps the 4 game losing slide that Patrick's "analysts say this team will never lose a single game" team had been on.
 
 **✅ 100% - 2.21 points: Kiwis are better than mid (6-3) vs Zen Buddha Boys 🪷💨 (4-5)**  
 
@@ -42,9 +42,11 @@ Scott debuted a new team name, and an even newer team [avatar](https://yahoofant
 
 **✅ 100% - 1.52 points: Chubb will Rise Again (4-5) vs James Ray Ervin Yonts (6-3)**  
 
+
+
 **73% - 10.35 points: BDSM AI Stealth Founder (3-6) vs RosterMogged (4-5)**  
 
-In tonight's MAIN EVENT - these two consonant-followed-by-a-Y named managers are separated by just 1.01 pts. It's an old fashioned, straight up mano a mano battle of Derrick Henry vs Omarion Hampton. The two have actually been scoring a somewhat similar amount of points over their last 4 starts - 8.2 a game for Henry and 5.5 for Hampton. Again, and I cannot stress this enough - we have absolutely no reason to believe the Chargers will be scoring any points, or even smiling / enjoying themselves in any way tonight. That being said - many moons ago, Omarion Hampton did use to score TDs (BC era - weeks 1-4). It's anyone's ball game - and speaking of ball games, the BDSM AI Stealth Founder needs a win tonight to escape sole possession of last place, which he would be handing directly to Kyle on his way out. Loser gets the basement, so may the least bad man win - it's time for MNF.
+In tonight's MAIN EVENT, these two consonant-followed-by-a-Y named managers are separated by just 1.01 pts. It's an old fashioned, straight up mano a mano battle of Derrick Henry vs Omarion Hampton. The two have actually been scoring a similar amount of points over their last 4 starts - 8.2 a game for Henry and 5.5 for Hampton. Again, and I cannot stress this enough, we have absolutely no reason to believe the Chargers will be scoring any points, or even smiling / enjoying themselves in any way tonight. That being said, many moons ago, Omarion Hampton did use to score TDs (BC era, weeks 1-4). It's anyone's ball game - and speaking of ball games, the BDSM AI Stealth Founder needs a win tonight to escape sole possession of last place, which he would be handing directly to Kyle on his way out. Whoever wins tonight, it ain't gon' be pretty - it's time for MNF.
 
 <br/>
 
