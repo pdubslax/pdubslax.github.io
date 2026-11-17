@@ -349,7 +349,16 @@ async def main(out_dir):
         browser = await p.chromium.launch()
         ctx = await browser.new_context(user_agent=UA, viewport={"width": 1280, "height": 900})
         page = await ctx.new_page()
+        last_ms = {x["id"]: x for x in (hist["samples"][-1]["matchups"] if hist["samples"] else [])}
         for row in rows:
+            # A matchup that was already final in the last sample, with the same scores now, has nothing new to read. Carry it instead
+            # of loading its page: Yahoo's result layout prints no odds, so every finished matchup cost three 15 second waits and a
+            # week with five of them decided dropped to one sample every 4.5 minutes during Monday night's game.
+            done = last_ms.get(row["id"])
+            if done and done.get("leftRem") == 0 and done.get("rightRem") == 0 and done.get("leftPct") in (0, 100) \
+               and all(round(done.get(k) or 0, 2) == round(row[k], 2) for k in ("leftScore", "rightScore")):
+                for k in ("shotgun", "leftActive", "rightActive", "leftPct", "leftRem", "rightRem"): row[k] = done.get(k, [] if k in ("shotgun", "leftActive", "rightActive") else 0)
+                continue
             pct, rem, body, rows_ = await odds_for(page, week, row["id"])
             if rows_:
                 row["shotgun"] = shotgun_entries(rows_, row["left"], row["right"])
