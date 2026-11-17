@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Monday Night Football - 2026 Fantasy Preview - Week 10
-published: false
 ---
 
 A weekly newsletter for members of the Harry Koch Memorial Cup Fantasy Football league - all others will **BE FORCED TO TAKE ON 25 [CHET HANKS](https://www.youtube.com/watch?v=0gQs_AOfvBc) IN A ROUND OF "[SURROUNDED](https://www.youtube.com/watch?v=WV29R1M25n8)" BY JUBILEE**
@@ -38,11 +37,11 @@ Patrick finally got his vengeance for Keith's crime of making him learn new shit
 
 **✅ 100% - 2.21 points: Kiwis are better than mid (6-3) vs Zen Buddha Boys 🪷💨 (4-5)**  
 
-The smoke is white - we've crowned a new Pope. Let me introduce you. He's no longer from Chicago - rather, he hails from the birthplace of Skyline Chili. He religiously cheers for the Browns, and overlooks their questionable hiring and code of ethics. He has spent over 12 hours in a [Waffle House](https://www.youtube.com/watch?v=pU4jfpkXYT4), has sent 12 messages lifetime to this chat, and has sheared at least 12 sheep in the last 12 minutes, en route to sole possession of [first place](https://pdubslax.com/odds/) in this league at 7-3 overall. And now, for his first miracle. Heading into the 4th quarter late Sunday night, the fallible, sinful, and erotic beat writer Skylar was a 95% favorite. Matt #2 needed 12.7 pts from DK Metcalf, who had exactly zero, on a Steelers team that was down 31-3 and led by an Aaron Rodgers in classic form, [projecting blame onto everyone around him](https://www.aol.com/articles/aaron-rodgers-seemingly-threatens-quit-040446000.html). Three minutes of game clock later, Metcalf had a touchdown, a 2 pt conversion and 14.9 pts, and His Holiness had a 2.21 pt win. We eagerly await whatever future miracles he may perform, and also to learn who the Browns welcome into their organization next.
+The smoke is white - we've crowned a new Pope. Let me introduce you. He's no longer from Chicago - rather, he hails from the birthplace of Skyline Chili. He religiously cheers for the Browns, and overlooks their questionable hiring and code of ethics. He has spent over 12 hours in a [Waffle House](https://www.youtube.com/watch?v=pU4jfpkXYT4), has sent 12 messages lifetime to this chat, and has sheared at least 12 sheep in the last 12 minutes, en route to sole possession of [first place](https://pdubslax.com/odds/) in this league at 7-3 overall. And now, for his first miracle. Heading into the 4th quarter late Sunday night, the fallible, sinful, and erotic beat writer Skylar was a 95% favorite. Matt #2 needed 12.7 pts from DK Metcalf, who had exactly zero, on a Steelers team that was down 31-3 and led by an Aaron Rodgers in classic form, [projecting blame onto everyone around him](https://www.reddit.com/r/nfl/comments/1xxet1s/highlight_nbc_segued_an_exasperated_aaron_rodgers/). Three minutes of game clock later, Metcalf had a touchdown, a 2 pt conversion and 14.9 pts, and Himmy Butler had a 2.21 pt win. We eagerly await whatever future miracles he may perform, and also to learn who the Browns welcome into their organization next.
 
 **✅ 100% - 1.52 points: Chubb will Rise Again (4-5) vs James Ray Ervin Yonts (6-3)**  
 
-
+Annnnd here comes miracle #2, fresh from the coalition of Matts. Matt #1 entered Sunday night down 24 pts, needing Ja'Marr Chase to cover that deficit plus whatever Jaylen Warren would score - and Chase did just that, dropping 33.1 en route to a 1.5 pt miracle victory over Jam. Anytime you see a league leading manager score 146 and lose, it's cause for celebration. Paparazzi last saw Jam frantically feeding tokens into Claude trying to engineer a different outcome - but alas, it was not meant to be. The win vaults Matt #1 into the playoff conversation and into the thick of the 5-5 race.
 
 **73% - 10.35 points: BDSM AI Stealth Founder (3-6) vs RosterMogged (4-5)**  
 
