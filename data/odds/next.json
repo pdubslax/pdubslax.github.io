@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 12,
- "ts": "2026-11-18T17:25:09+00:00",
+ "ts": "2026-11-18T17:45:27+00:00",
  "matchups": [
   {
    "id": "1v8",
@@ -229,7 +229,7 @@
    "leftScore": 0.0,
    "leftProj": 99.83,
    "rightScore": 0.0,
-   "rightProj": 116.85,
+   "rightProj": 116.82,
    "leftPct": 36,
    "leftRem": 8,
    "rightRem": 8,
@@ -402,11 +402,11 @@
      "player": "O. Gordon II",
      "pos": "RB",
      "slot": "RB",
-     "rem": 14.48,
+     "rem": 14.45,
      "state": "pending",
      "pts": 0.0,
-     "proj": 14.48,
-     "live": 14.48,
+     "proj": 14.45,
+     "live": 14.45,
      "game": "Sun 1:00 pm vs NYJ"
     },
     {
@@ -432,7 +432,7 @@
      "game": "Thu 1:00 pm @ Det"
     },
     {
-     "player": "S. Francisco",
+     "player": "49ers",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 7.3,
@@ -451,9 +451,9 @@
    "right": "James Ray Ervin Yonts",
    "rightRec": "6-4",
    "leftScore": 0.0,
-   "leftProj": 128.52,
+   "leftProj": 128.51,
    "rightScore": 0.0,
-   "rightProj": 131.57,
+   "rightProj": 131.59,
    "leftPct": 48,
    "leftRem": 9,
    "rightRem": 9,
@@ -540,11 +540,11 @@
      "player": "C. Douglas",
      "pos": "WR",
      "slot": "WR",
-     "rem": 9.56,
+     "rem": 9.55,
      "state": "pending",
      "pts": 0.0,
-     "proj": 9.56,
-     "live": 9.56,
+     "proj": 9.55,
+     "live": 9.55,
      "game": "Sun 1:00 pm vs NYJ"
     },
     {
@@ -652,11 +652,11 @@
      "player": "Jets",
      "pos": "DEF",
      "slot": "DEF",
-     "rem": 9.55,
+     "rem": 9.57,
      "state": "pending",
      "pts": 0.0,
-     "proj": 9.55,
-     "live": 9.55,
+     "proj": 9.57,
+     "live": 9.57,
      "game": "Sun 1:00 pm @ Mia"
     }
    ]
@@ -670,7 +670,7 @@
    "leftScore": 0.0,
    "leftProj": 118.66,
    "rightScore": 0.0,
-   "rightProj": 120.19,
+   "rightProj": 120.2,
    "leftPct": 49,
    "leftRem": 8,
    "rightRem": 9,
@@ -807,11 +807,11 @@
      "player": "G. Wilson",
      "pos": "WR",
      "slot": "WR",
-     "rem": 14.41,
+     "rem": 14.42,
      "state": "pending",
      "pts": 0.0,
-     "proj": 14.41,
-     "live": 14.41,
+     "proj": 14.42,
+     "live": 14.42,
      "game": "Sun 1:00 pm @ Mia"
     },
     {
@@ -859,7 +859,7 @@
      "game": "Sun 4:25 pm vs Sea"
     },
     {
-     "player": "Cleveland",
+     "player": "Browns",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 9.43,
@@ -1151,11 +1151,11 @@
      "player": "B. Hall",
      "pos": "RB",
      "slot": "RB",
-     "rem": 14.17,
+     "rem": 14.18,
      "state": "pending",
      "pts": 0.0,
-     "proj": 14.17,
-     "live": 14.17,
+     "proj": 14.18,
+     "live": 14.18,
      "game": "Sun 1:00 pm @ Mia"
     },
     {
@@ -1184,11 +1184,11 @@
      "player": "M. Washington",
      "pos": "WR",
      "slot": "W/R/T",
-     "rem": 9.63,
+     "rem": 9.62,
      "state": "pending",
      "pts": 0.0,
-     "proj": 9.63,
-     "live": 9.63,
+     "proj": 9.62,
+     "live": 9.62,
      "game": "Sun 1:00 pm vs NYJ"
     },
     {
