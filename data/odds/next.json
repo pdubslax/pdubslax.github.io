@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 12,
- "ts": "2026-11-18T14:01:40+00:00",
+ "ts": "2026-11-18T14:22:00+00:00",
  "matchups": [
   {
    "id": "1v8",
@@ -986,7 +986,7 @@
      "game": "Sun 1:00 pm @ Jax"
     },
     {
-     "player": "Steelers",
+     "player": "Pittsburgh",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 6.2,
@@ -1087,7 +1087,7 @@
      "game": "Thu 8:20 pm vs KC"
     },
     {
-     "player": "Bills",
+     "player": "Buffalo",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 6.01,
