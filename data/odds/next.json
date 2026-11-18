@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 12,
- "ts": "2026-11-18T18:46:23+00:00",
+ "ts": "2026-11-18T19:08:09+00:00",
  "matchups": [
   {
    "id": "1v8",
@@ -229,25 +229,11 @@
    "leftScore": 0.0,
    "leftProj": 99.83,
    "rightScore": 0.0,
-   "rightProj": 116.82,
-   "leftPct": 36,
+   "rightProj": 125.36,
+   "leftPct": 29,
    "leftRem": 8,
-   "rightRem": 8,
+   "rightRem": 9,
    "shotgun": [
-    {
-     "player": "(Empty)",
-     "pos": "",
-     "team": "",
-     "pts": 0.0,
-     "game": "",
-     "tag": null,
-     "state": "empty",
-     "slot": "K",
-     "manager": "Zen Buddha Boys 🪷💨",
-     "locked": false,
-     "live": 0.0,
-     "reason": "pts"
-    },
     {
      "player": "(Empty)",
      "pos": "",
@@ -430,6 +416,17 @@
      "proj": 11.07,
      "live": 11.07,
      "game": "Thu 1:00 pm @ Det"
+    },
+    {
+     "player": "W. Lutz",
+     "pos": "K",
+     "slot": "K",
+     "rem": 8.54,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 8.54,
+     "live": 8.54,
+     "game": "Fri 3:00 pm @ Pit"
     },
     {
      "player": "49ers",
