@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 12,
- "ts": "2026-11-18T16:24:10+00:00",
+ "ts": "2026-11-18T16:44:30+00:00",
  "matchups": [
   {
    "id": "1v8",
@@ -74,7 +74,7 @@
      "game": "Sun 1:00 pm vs NYG"
     },
     {
-     "player": "Texans",
+     "player": "Houston",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 8.33,
@@ -186,7 +186,7 @@
      "game": "Sun 1:00 pm vs Bal"
     },
     {
-     "player": "Jaguars",
+     "player": "Jacksonville",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 9.58,
@@ -548,7 +548,7 @@
      "game": "Sun 1:00 pm vs NYJ"
     },
     {
-     "player": "Carolina",
+     "player": "Panthers",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 5.95,
@@ -649,7 +649,7 @@
      "game": "Sun 1:00 pm vs Bal"
     },
     {
-     "player": "N. York",
+     "player": "Jets",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 9.55,
@@ -668,9 +668,9 @@
    "right": "Kiwis are better than mid",
    "rightRec": "7-3",
    "leftScore": 0.0,
-   "leftProj": 118.73,
+   "leftProj": 118.66,
    "rightScore": 0.0,
-   "rightProj": 120.2,
+   "rightProj": 120.19,
    "leftPct": 49,
    "leftRem": 8,
    "rightRem": 9,
@@ -739,11 +739,11 @@
      "player": "A. Jeanty",
      "pos": "RB",
      "slot": "RB",
-     "rem": 12.99,
+     "rem": 12.92,
      "state": "pending",
      "pts": 0.0,
-     "proj": 12.99,
-     "live": 12.99,
+     "proj": 12.92,
+     "live": 12.92,
      "game": "Sun 8:20 pm @ Cle"
     },
     {
@@ -818,11 +818,11 @@
      "player": "B. Bowers",
      "pos": "TE",
      "slot": "TE",
-     "rem": 13.84,
+     "rem": 13.78,
      "state": "pending",
      "pts": 0.0,
-     "proj": 13.84,
-     "live": 13.84,
+     "proj": 13.78,
+     "live": 13.78,
      "game": "Sun 8:20 pm @ Cle"
     },
     {
@@ -862,11 +862,11 @@
      "player": "Cleveland",
      "pos": "DEF",
      "slot": "DEF",
-     "rem": 9.38,
+     "rem": 9.43,
      "state": "pending",
      "pts": 0.0,
-     "proj": 9.38,
-     "live": 9.38,
+     "proj": 9.43,
+     "live": 9.43,
      "game": "Sun 8:20 pm vs LV"
     },
     {
@@ -986,7 +986,7 @@
      "game": "Fri 3:00 pm vs Den"
     },
     {
-     "player": "Pittsburgh",
+     "player": "Steelers",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 6.14,
@@ -1087,7 +1087,7 @@
      "game": "Fri 3:00 pm vs Den"
     },
     {
-     "player": "Buffalo",
+     "player": "Bills",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 5.99,
@@ -1108,8 +1108,8 @@
    "leftScore": 0.0,
    "leftProj": 119.14,
    "rightScore": 0.0,
-   "rightProj": 100.22,
-   "leftPct": 66,
+   "rightProj": 100.17,
+   "leftPct": 67,
    "leftRem": 9,
    "rightRem": 9,
    "shotgun": [],
@@ -1192,7 +1192,7 @@
      "game": "Sun 1:00 pm vs NYJ"
     },
     {
-     "player": "Broncos",
+     "player": "Denver",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 9.09,
@@ -1274,11 +1274,11 @@
      "player": "M. Gay",
      "pos": "K",
      "slot": "K",
-     "rem": 8.28,
+     "rem": 8.24,
      "state": "pending",
      "pts": 0.0,
-     "proj": 8.28,
-     "live": 8.28,
+     "proj": 8.24,
+     "live": 8.24,
      "game": "Sun 8:20 pm @ Cle"
     },
     {
@@ -1296,15 +1296,15 @@
      "player": "M. Mayer",
      "pos": "TE",
      "slot": "TE",
-     "rem": 6.21,
+     "rem": 6.2,
      "state": "pending",
      "pts": 0.0,
-     "proj": 6.21,
-     "live": 6.21,
+     "proj": 6.2,
+     "live": 6.2,
      "game": "Sun 8:20 pm @ Cle"
     },
     {
-     "player": "Chiefs",
+     "player": "K. City",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 5.05,
