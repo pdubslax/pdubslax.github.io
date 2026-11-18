@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 12,
- "ts": "2026-11-18T12:39:32+00:00",
+ "ts": "2026-11-18T12:59:49+00:00",
  "matchups": [
   {
    "id": "1v8",
@@ -1196,7 +1196,7 @@
      "game": "Sun 1:00 pm vs NYJ"
     },
     {
-     "player": "Broncos",
+     "player": "Denver",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 9.1,
@@ -1308,7 +1308,7 @@
      "game": "Sun 1:00 pm @ Min"
     },
     {
-     "player": "Chiefs",
+     "player": "K. City",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 5.06,
