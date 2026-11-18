@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 12,
- "ts": "2026-11-18T12:59:49+00:00",
+ "ts": "2026-11-18T13:20:07+00:00",
  "matchups": [
   {
    "id": "1v8",
@@ -889,7 +889,7 @@
    "right": "MELONHEADS (daniel)",
    "rightRec": "6-4",
    "leftScore": 0.0,
-   "leftProj": 115.14,
+   "leftProj": 115.8,
    "rightScore": 0.0,
    "rightProj": 120.31,
    "leftPct": 46,
@@ -964,15 +964,26 @@
      "game": "Thu 4:30 pm vs Phi"
     },
     {
-     "player": "T. Kraft",
+     "player": "P. Freiermuth",
      "pos": "TE",
      "slot": "TE",
-     "rem": 9.22,
+     "rem": 6.41,
      "state": "pending",
      "pts": 0.0,
-     "proj": 9.22,
-     "live": 9.22,
-     "game": "Wed 8:00 pm @ LAR"
+     "proj": 6.41,
+     "live": 6.41,
+     "game": "Fri 3:00 pm vs Den"
+    },
+    {
+     "player": "E. Ayomanor",
+     "pos": "WR",
+     "slot": "W/R/T",
+     "rem": 6.4,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 6.4,
+     "live": 6.4,
+     "game": "Sun 1:00 pm @ Jax"
     },
     {
      "player": "Steelers",
@@ -984,17 +995,6 @@
      "proj": 6.2,
      "live": 6.2,
      "game": "Fri 3:00 pm vs Den"
-    },
-    {
-     "player": "W. Robinson",
-     "pos": "WR",
-     "slot": "W/R/T",
-     "rem": 2.93,
-     "state": "pending",
-     "pts": 0.0,
-     "proj": 2.93,
-     "live": 2.93,
-     "game": "Sun 1:00 pm @ Jax"
     }
    ],
    "rightActive": [
@@ -1196,7 +1196,7 @@
      "game": "Sun 1:00 pm vs NYJ"
     },
     {
-     "player": "Denver",
+     "player": "Broncos",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 9.1,
@@ -1308,7 +1308,7 @@
      "game": "Sun 1:00 pm @ Min"
     },
     {
-     "player": "K. City",
+     "player": "Chiefs",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 5.06,
