@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 12,
- "ts": "2026-11-18T19:28:35+00:00",
+ "ts": "2026-11-18T19:48:58+00:00",
  "matchups": [
   {
    "id": "1v8",
@@ -667,8 +667,8 @@
    "leftScore": 0.0,
    "leftProj": 118.66,
    "rightScore": 0.0,
-   "rightProj": 120.2,
-   "leftPct": 49,
+   "rightProj": 116.3,
+   "leftPct": 52,
    "leftRem": 8,
    "rightRem": 9,
    "shotgun": [
@@ -856,17 +856,6 @@
      "game": "Sun 4:25 pm vs Sea"
     },
     {
-     "player": "Browns",
-     "pos": "DEF",
-     "slot": "DEF",
-     "rem": 9.43,
-     "state": "pending",
-     "pts": 0.0,
-     "proj": 9.43,
-     "live": 9.43,
-     "game": "Sun 8:20 pm vs LV"
-    },
-    {
      "player": "DK Metcalf",
      "pos": "WR",
      "slot": "W/R/T",
@@ -876,6 +865,17 @@
      "proj": 9.03,
      "live": 9.03,
      "game": "Fri 3:00 pm vs Den"
+    },
+    {
+     "player": "Bears",
+     "pos": "DEF",
+     "slot": "DEF",
+     "rem": 5.53,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 5.53,
+     "live": 5.53,
+     "game": "Thu 1:00 pm @ Det"
     }
    ]
   },
