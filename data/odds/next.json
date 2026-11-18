@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 11,
- "ts": "2026-11-18T01:48:34+00:00",
+ "ts": "2026-11-18T02:28:35+00:00",
  "matchups": [
   {
    "id": "1v4",
@@ -444,7 +444,7 @@
    "right": "Zen Buddha Boys 🪷💨",
    "rightRec": "4-6",
    "leftScore": 0.0,
-   "leftProj": 129.39,
+   "leftProj": 129.42,
    "rightScore": 0.0,
    "rightProj": 116.16,
    "leftPct": 60,
@@ -482,11 +482,11 @@
      "player": "P. Mahomes",
      "pos": "QB",
      "slot": "QB",
-     "rem": 24.19,
+     "rem": 24.23,
      "state": "pending",
      "pts": 0.0,
-     "proj": 24.19,
-     "live": 24.19,
+     "proj": 24.23,
+     "live": 24.23,
      "game": "Sun 1:00 pm vs Ari"
     },
     {
@@ -512,17 +512,6 @@
      "game": "Sun 1:00 pm vs Bal"
     },
     {
-     "player": "T. McBride",
-     "pos": "TE",
-     "slot": "TE",
-     "rem": 12.39,
-     "state": "pending",
-     "pts": 0.0,
-     "proj": 12.39,
-     "live": 12.39,
-     "game": "Sun 1:00 pm @ KC"
-    },
-    {
      "player": "S. Diggs",
      "pos": "WR",
      "slot": "WR",
@@ -532,6 +521,17 @@
      "proj": 12.38,
      "live": 12.38,
      "game": "Mon 8:15 pm vs Cin"
+    },
+    {
+     "player": "T. McBride",
+     "pos": "TE",
+     "slot": "TE",
+     "rem": 12.38,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 12.38,
+     "live": 12.38,
+     "game": "Sun 1:00 pm @ KC"
     },
     {
      "player": "W. Reichard",
@@ -667,8 +667,8 @@
    "leftScore": 0.0,
    "leftProj": 108.4,
    "rightScore": 0.0,
-   "rightProj": 104.07,
-   "leftPct": 54,
+   "rightProj": 102.76,
+   "leftPct": 55,
    "leftRem": 8,
    "rightRem": 8,
    "shotgun": [
@@ -793,17 +793,6 @@
    ],
    "rightActive": [
     {
-     "player": "K. Walker III",
-     "pos": "RB",
-     "slot": "RB",
-     "rem": 21.89,
-     "state": "pending",
-     "pts": 0.0,
-     "proj": 21.89,
-     "live": 21.89,
-     "game": "Sun 1:00 pm vs Ari"
-    },
-    {
      "player": "B. Purdy",
      "pos": "QB",
      "slot": "QB",
@@ -815,14 +804,25 @@
      "game": "Sun 8:20 pm vs Min"
     },
     {
+     "player": "K. Walker III",
+     "pos": "RB",
+     "slot": "RB",
+     "rem": 20.56,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 20.56,
+     "live": 20.56,
+     "game": "Sun 1:00 pm vs Ari"
+    },
+    {
      "player": "R. Rice",
      "pos": "WR",
      "slot": "WR",
-     "rem": 13.0,
+     "rem": 13.01,
      "state": "pending",
      "pts": 0.0,
-     "proj": 13.0,
-     "live": 13.0,
+     "proj": 13.01,
+     "live": 13.01,
      "game": "Sun 1:00 pm vs Ari"
     },
     {
@@ -840,11 +840,11 @@
      "player": "Chiefs",
      "pos": "DEF",
      "slot": "DEF",
-     "rem": 11.77,
+     "rem": 11.78,
      "state": "pending",
      "pts": 0.0,
-     "proj": 11.77,
-     "live": 11.77,
+     "proj": 11.78,
+     "live": 11.78,
      "game": "Sun 1:00 pm vs Ari"
     },
     {
@@ -889,10 +889,10 @@
    "right": "Kiwis are better than mid",
    "rightRec": "7-3",
    "leftScore": 0.0,
-   "leftProj": 130.29,
+   "leftProj": 136.81,
    "rightScore": 0.0,
    "rightProj": 114.02,
-   "leftPct": 63,
+   "leftPct": 67,
    "leftRem": 9,
    "rightRem": 8,
    "shotgun": [
@@ -957,14 +957,25 @@
      "game": "Sun 1:00 pm @ Det"
     },
     {
+     "player": "E. Johnson",
+     "pos": "RB",
+     "slot": "RB",
+     "rem": 16.03,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 16.03,
+     "live": 16.03,
+     "game": "Sun 1:00 pm vs Ari"
+    },
+    {
      "player": "T. Kelce",
      "pos": "TE",
      "slot": "TE",
-     "rem": 11.26,
+     "rem": 11.18,
      "state": "pending",
      "pts": 0.0,
-     "proj": 11.26,
-     "live": 11.26,
+     "proj": 11.18,
+     "live": 11.18,
      "game": "Sun 1:00 pm vs Ari"
     },
     {
@@ -988,17 +999,6 @@
      "proj": 10.65,
      "live": 10.65,
      "game": "Sun 1:00 pm vs NO"
-    },
-    {
-     "player": "E. Johnson",
-     "pos": "RB",
-     "slot": "RB",
-     "rem": 9.43,
-     "state": "pending",
-     "pts": 0.0,
-     "proj": 9.43,
-     "live": 9.43,
-     "game": "Sun 1:00 pm vs Ari"
     },
     {
      "player": "Chargers",
