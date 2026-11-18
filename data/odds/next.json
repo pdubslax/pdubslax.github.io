@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 12,
- "ts": "2026-11-18T09:57:22+00:00",
+ "ts": "2026-11-18T10:17:38+00:00",
  "matchups": [
   {
    "id": "1v8",
@@ -227,11 +227,11 @@
    "right": "Zen Buddha Boys 🪷💨",
    "rightRec": "4-6",
    "leftScore": 0.0,
-   "leftProj": 102.95,
+   "leftProj": 99.88,
    "rightScore": 0.0,
    "rightProj": 116.16,
-   "leftPct": 39,
-   "leftRem": 9,
+   "leftPct": 36,
+   "leftRem": 8,
    "rightRem": 8,
    "shotgun": [
     {
@@ -244,6 +244,20 @@
      "state": "empty",
      "slot": "K",
      "manager": "Zen Buddha Boys 🪷💨",
+     "locked": false,
+     "live": 0.0,
+     "reason": "pts"
+    },
+    {
+     "player": "(Empty)",
+     "pos": "",
+     "team": "",
+     "pts": 0.0,
+     "game": "",
+     "tag": null,
+     "state": "empty",
+     "slot": "DEF",
+     "manager": "BDSM AI Stealth Founder",
      "locked": false,
      "live": 0.0,
      "reason": "pts"
@@ -337,17 +351,6 @@
      "proj": 8.19,
      "live": 8.19,
      "game": "Sun 4:25 pm vs Sea"
-    },
-    {
-     "player": "Saints",
-     "pos": "DEF",
-     "slot": "DEF",
-     "rem": 3.07,
-     "state": "pending",
-     "pts": 0.0,
-     "proj": 3.07,
-     "live": 3.07,
-     "game": "Sun 1:00 pm @ Cin"
     }
    ],
    "rightActive": [
