@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 12,
- "ts": "2026-11-18T22:32:01+00:00",
+ "ts": "2026-11-18T22:52:24+00:00",
  "matchups": [
   {
    "id": "1v8",
@@ -265,11 +265,11 @@
      "player": "C. Brown",
      "pos": "RB",
      "slot": "RB",
-     "rem": 16.62,
+     "rem": 16.55,
      "state": "pending",
      "pts": 0.0,
-     "proj": 16.62,
-     "live": 16.62,
+     "proj": 16.55,
+     "live": 16.55,
      "game": "Sun 1:00 pm vs NO"
     },
     {
@@ -344,11 +344,11 @@
      "player": "T. Shough",
      "pos": "QB",
      "slot": "QB",
-     "rem": 20.75,
+     "rem": 20.8,
      "state": "pending",
      "pts": 0.0,
-     "proj": 20.75,
-     "live": 20.75,
+     "proj": 20.8,
+     "live": 20.8,
      "game": "Sun 1:00 pm @ Cin"
     },
     {
@@ -388,11 +388,11 @@
      "player": "O. Gordon II",
      "pos": "RB",
      "slot": "RB",
-     "rem": 14.45,
+     "rem": 14.41,
      "state": "pending",
      "pts": 0.0,
-     "proj": 14.45,
-     "live": 14.45,
+     "proj": 14.41,
+     "live": 14.41,
      "game": "Sun 1:00 pm vs NYJ"
     },
     {
@@ -703,11 +703,11 @@
      "player": "J. Chase",
      "pos": "WR",
      "slot": "WR",
-     "rem": 20.29,
+     "rem": 20.36,
      "state": "pending",
      "pts": 0.0,
-     "proj": 20.29,
-     "live": 20.29,
+     "proj": 20.36,
+     "live": 20.36,
      "game": "Sun 1:00 pm vs NO"
     },
     {
@@ -769,11 +769,11 @@
      "player": "J. Downs",
      "pos": "WR",
      "slot": "W/R/T",
-     "rem": 7.99,
+     "rem": 7.96,
      "state": "pending",
      "pts": 0.0,
-     "proj": 7.99,
-     "live": 7.99,
+     "proj": 7.96,
+     "live": 7.96,
      "game": "Thu 8:20 pm @ Buf"
     }
    ],
@@ -782,11 +782,11 @@
      "player": "J. Allen",
      "pos": "QB",
      "slot": "QB",
-     "rem": 24.89,
+     "rem": 24.84,
      "state": "pending",
      "pts": 0.0,
-     "proj": 24.89,
-     "live": 24.89,
+     "proj": 24.84,
+     "live": 24.84,
      "game": "Thu 8:20 pm vs KC"
     },
     {
@@ -804,11 +804,11 @@
      "player": "G. Wilson",
      "pos": "WR",
      "slot": "WR",
-     "rem": 14.42,
+     "rem": 14.46,
      "state": "pending",
      "pts": 0.0,
-     "proj": 14.42,
-     "live": 14.42,
+     "proj": 14.46,
+     "live": 14.46,
      "game": "Sun 1:00 pm @ Mia"
     },
     {
