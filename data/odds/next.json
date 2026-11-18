@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 12,
- "ts": "2026-11-18T15:23:11+00:00",
+ "ts": "2026-11-18T15:43:30+00:00",
  "matchups": [
   {
    "id": "1v8",
@@ -1106,29 +1106,25 @@
    "right": "RosterMogged",
    "rightRec": "5-5",
    "leftScore": 0.0,
-   "leftProj": 98.14,
+   "leftProj": 116.1,
    "rightScore": 0.0,
-   "rightProj": 100.78,
-   "leftPct": 48,
-   "leftRem": 8,
+   "rightProj": 100.71,
+   "leftPct": 64,
+   "leftRem": 9,
    "rightRem": 9,
-   "shotgun": [
-    {
-     "player": "(Empty)",
-     "pos": "",
-     "team": "",
-     "pts": 0.0,
-     "game": "",
-     "tag": null,
-     "state": "empty",
-     "slot": "QB",
-     "manager": "Lover boy",
-     "locked": false,
-     "live": 0.0,
-     "reason": "pts"
-    }
-   ],
+   "shotgun": [],
    "leftActive": [
+    {
+     "player": "Bo Nix",
+     "pos": "QB",
+     "slot": "QB",
+     "rem": 17.96,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 17.96,
+     "live": 17.96,
+     "game": "Fri 3:00 pm @ Pit"
+    },
     {
      "player": "J. Cook III",
      "pos": "RB",
@@ -1256,22 +1252,22 @@
      "player": "O. Hampton",
      "pos": "RB",
      "slot": "RB",
-     "rem": 10.89,
+     "rem": 10.86,
      "state": "pending",
      "pts": 0.0,
-     "proj": 10.89,
-     "live": 10.89,
+     "proj": 10.86,
+     "live": 10.86,
      "game": "Sun 4:05 pm vs NE"
     },
     {
      "player": "L. McConkey",
      "pos": "WR",
      "slot": "W/R/T",
-     "rem": 9.87,
+     "rem": 9.83,
      "state": "pending",
      "pts": 0.0,
-     "proj": 9.87,
-     "live": 9.87,
+     "proj": 9.83,
+     "live": 9.83,
      "game": "Sun 4:05 pm vs NE"
     },
     {
