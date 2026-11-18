@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 12,
- "ts": "2026-11-18T11:59:02+00:00",
+ "ts": "2026-11-18T12:19:17+00:00",
  "matchups": [
   {
    "id": "1v8",
@@ -432,7 +432,7 @@
      "game": "Thu 1:00 pm @ Det"
     },
     {
-     "player": "49ers",
+     "player": "S. Francisco",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 7.16,
@@ -859,7 +859,7 @@
      "game": "Sun 4:25 pm vs Sea"
     },
     {
-     "player": "Cleveland",
+     "player": "Browns",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 9.2,
