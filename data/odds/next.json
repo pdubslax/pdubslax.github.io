@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 12,
- "ts": "2026-11-19T01:15:23+00:00",
+ "ts": "2026-11-19T01:35:37+00:00",
  "matchups": [
   {
    "id": "1v8",
@@ -227,28 +227,13 @@
    "right": "Zen Buddha Boys 🪷💨",
    "rightRec": "4-6",
    "leftScore": 0.0,
-   "leftProj": 100.03,
+   "leftProj": 108.27,
    "rightScore": 0.0,
    "rightProj": 125.38,
-   "leftPct": 29,
-   "leftRem": 8,
+   "leftPct": 36,
+   "leftRem": 9,
    "rightRem": 9,
-   "shotgun": [
-    {
-     "player": "(Empty)",
-     "pos": "",
-     "team": "",
-     "pts": 0.0,
-     "game": "",
-     "tag": null,
-     "state": "empty",
-     "slot": "DEF",
-     "manager": "BDSM AI Stealth Founder",
-     "locked": false,
-     "live": 0.0,
-     "reason": "pts"
-    }
-   ],
+   "shotgun": [],
    "leftActive": [
     {
      "player": "B. Young",
@@ -326,6 +311,17 @@
      "proj": 9.24,
      "live": 9.24,
      "game": "Sun 1:00 pm @ Ind"
+    },
+    {
+     "player": "Bengals",
+     "pos": "DEF",
+     "slot": "DEF",
+     "rem": 8.24,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 8.24,
+     "live": 8.24,
+     "game": "Sun 1:00 pm vs NO"
     },
     {
      "player": "D. Samuel Sr.",
