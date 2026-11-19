@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 12,
- "ts": "2026-11-19T03:57:33+00:00",
+ "ts": "2026-11-19T04:17:48+00:00",
  "matchups": [
   {
    "id": "1v8",
@@ -12,7 +12,7 @@
    "leftScore": 0.0,
    "leftProj": 87.78,
    "rightScore": 0.0,
-   "rightProj": 126.71,
+   "rightProj": 126.03,
    "leftPct": 18,
    "leftRem": 9,
    "rightRem": 9,
@@ -197,15 +197,15 @@
      "game": "Sun 1:00 pm vs Ten"
     },
     {
-     "player": "D. Goedert",
+     "player": "C. Okonkwo",
      "pos": "TE",
      "slot": "TE",
-     "rem": 9.55,
+     "rem": 8.87,
      "state": "pending",
      "pts": 0.0,
-     "proj": 9.55,
-     "live": 9.55,
-     "game": "Thu 4:30 pm @ Dal"
+     "proj": 8.87,
+     "live": 8.87,
+     "game": "Sun 4:25 pm @ Ari"
     },
     {
      "player": "C. Boswell",
