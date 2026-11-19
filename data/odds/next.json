@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 12,
- "ts": "2026-11-19T04:58:22+00:00",
+ "ts": "2026-11-19T05:19:15+00:00",
  "matchups": [
   {
    "id": "1v8",
@@ -661,28 +661,13 @@
    "right": "Kiwis are better than mid",
    "rightRec": "7-3",
    "leftScore": 0.0,
-   "leftProj": 118.89,
+   "leftProj": 122.3,
    "rightScore": 0.0,
    "rightProj": 116.26,
-   "leftPct": 52,
-   "leftRem": 8,
+   "leftPct": 55,
+   "leftRem": 9,
    "rightRem": 9,
-   "shotgun": [
-    {
-     "player": "(Empty)",
-     "pos": "",
-     "team": "",
-     "pts": 0.0,
-     "game": "",
-     "tag": null,
-     "state": "empty",
-     "slot": "DEF",
-     "manager": "Chubb will Rise Again",
-     "locked": false,
-     "live": 0.0,
-     "reason": "pts"
-    }
-   ],
+   "shotgun": [],
    "leftActive": [
     {
      "player": "C.J. Stroud",
@@ -771,6 +756,17 @@
      "proj": 7.96,
      "live": 7.96,
      "game": "Thu 8:20 pm @ Buf"
+    },
+    {
+     "player": "Lions",
+     "pos": "DEF",
+     "slot": "DEF",
+     "rem": 3.41,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 3.41,
+     "live": 3.41,
+     "game": "Thu 1:00 pm vs Chi"
     }
    ],
    "rightActive": [
