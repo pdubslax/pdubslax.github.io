@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 12,
- "ts": "2026-11-19T16:32:11+00:00",
+ "ts": "2026-11-19T16:52:26+00:00",
  "matchups": [
   {
    "id": "1v8",
@@ -934,11 +934,11 @@
      "player": "DJ Moore",
      "pos": "WR",
      "slot": "WR",
-     "rem": 11.84,
+     "rem": 11.83,
      "state": "pending",
      "pts": 0.0,
-     "proj": 11.84,
-     "live": 11.84,
+     "proj": 11.83,
+     "live": 11.83,
      "game": "Thu 8:20 pm vs KC"
     },
     {
@@ -1057,11 +1057,11 @@
      "player": "K. Shakir",
      "pos": "WR",
      "slot": "WR",
-     "rem": 9.1,
+     "rem": 9.09,
      "state": "pending",
      "pts": 0.0,
-     "proj": 9.1,
-     "live": 9.1,
+     "proj": 9.09,
+     "live": 9.09,
      "game": "Thu 8:20 pm vs KC"
     },
     {
