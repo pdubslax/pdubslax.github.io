@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 12,
- "ts": "2026-11-19T00:14:35+00:00",
+ "ts": "2026-11-19T00:34:53+00:00",
  "matchups": [
   {
    "id": "1v8",
@@ -10,9 +10,9 @@
    "right": "I put a beer on her head",
    "rightRec": "4-6",
    "leftScore": 0.0,
-   "leftProj": 87.74,
+   "leftProj": 87.78,
    "rightScore": 0.0,
-   "rightProj": 126.86,
+   "rightProj": 126.67,
    "leftPct": 18,
    "leftRem": 9,
    "rightRem": 9,
@@ -55,11 +55,11 @@
      "player": "T. Etienne Jr.",
      "pos": "RB",
      "slot": "RB",
-     "rem": 10.19,
+     "rem": 10.23,
      "state": "pending",
      "pts": 0.0,
-     "proj": 10.19,
-     "live": 10.19,
+     "proj": 10.23,
+     "live": 10.23,
      "game": "Sun 1:00 pm @ Cin"
     },
     {
@@ -123,22 +123,22 @@
      "player": "J. Burrow",
      "pos": "QB",
      "slot": "QB",
-     "rem": 27.71,
+     "rem": 27.65,
      "state": "pending",
      "pts": 0.0,
-     "proj": 27.71,
-     "live": 27.71,
+     "proj": 27.65,
+     "live": 27.65,
      "game": "Sun 1:00 pm vs NO"
     },
     {
      "player": "T. Higgins",
      "pos": "WR",
      "slot": "W/R/T",
-     "rem": 16.87,
+     "rem": 16.81,
      "state": "pending",
      "pts": 0.0,
-     "proj": 16.87,
-     "live": 16.87,
+     "proj": 16.81,
+     "live": 16.81,
      "game": "Sun 1:00 pm vs NO"
     },
     {
@@ -153,17 +153,6 @@
      "game": "Sun 1:00 pm @ Ind"
     },
     {
-     "player": "C. Olave",
-     "pos": "WR",
-     "slot": "WR",
-     "rem": 14.5,
-     "state": "pending",
-     "pts": 0.0,
-     "proj": 14.5,
-     "live": 14.5,
-     "game": "Sun 1:00 pm @ Cin"
-    },
-    {
      "player": "J. Coleman",
      "pos": "RB",
      "slot": "RB",
@@ -173,6 +162,17 @@
      "proj": 14.48,
      "live": 14.48,
      "game": "Fri 3:00 pm @ Pit"
+    },
+    {
+     "player": "C. Olave",
+     "pos": "WR",
+     "slot": "WR",
+     "rem": 14.43,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 14.43,
+     "live": 14.43,
+     "game": "Sun 1:00 pm @ Cin"
     },
     {
      "player": "D. Montgomery",
@@ -227,9 +227,9 @@
    "right": "Zen Buddha Boys 🪷💨",
    "rightRec": "4-6",
    "leftScore": 0.0,
-   "leftProj": 99.96,
+   "leftProj": 100.03,
    "rightScore": 0.0,
-   "rightProj": 125.43,
+   "rightProj": 125.38,
    "leftPct": 29,
    "leftRem": 8,
    "rightRem": 9,
@@ -265,11 +265,11 @@
      "player": "C. Brown",
      "pos": "RB",
      "slot": "RB",
-     "rem": 16.55,
+     "rem": 16.62,
      "state": "pending",
      "pts": 0.0,
-     "proj": 16.55,
-     "live": 16.55,
+     "proj": 16.62,
+     "live": 16.62,
      "game": "Sun 1:00 pm vs NO"
     },
     {
@@ -344,11 +344,11 @@
      "player": "T. Shough",
      "pos": "QB",
      "slot": "QB",
-     "rem": 20.8,
+     "rem": 20.75,
      "state": "pending",
      "pts": 0.0,
-     "proj": 20.8,
-     "live": 20.8,
+     "proj": 20.75,
+     "live": 20.75,
      "game": "Sun 1:00 pm @ Cin"
     },
     {
@@ -665,7 +665,7 @@
    "right": "Kiwis are better than mid",
    "rightRec": "7-3",
    "leftScore": 0.0,
-   "leftProj": 118.97,
+   "leftProj": 118.9,
    "rightScore": 0.0,
    "rightProj": 116.33,
    "leftPct": 52,
@@ -703,11 +703,11 @@
      "player": "J. Chase",
      "pos": "WR",
      "slot": "WR",
-     "rem": 20.36,
+     "rem": 20.29,
      "state": "pending",
      "pts": 0.0,
-     "proj": 20.36,
-     "live": 20.36,
+     "proj": 20.29,
+     "live": 20.29,
      "game": "Sun 1:00 pm vs NO"
     },
     {
