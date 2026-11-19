@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 12,
- "ts": "2026-11-19T17:53:10+00:00",
+ "ts": "2026-11-19T18:13:24+00:00",
  "matchups": [
   {
    "id": "1v8",
@@ -10,7 +10,7 @@
    "right": "I put a beer on her head",
    "rightRec": "4-6",
    "leftScore": 0.0,
-   "leftProj": 87.76,
+   "leftProj": 87.75,
    "rightScore": 0.0,
    "rightProj": 126.03,
    "leftPct": 18,
@@ -22,11 +22,11 @@
      "player": "K. Cousins",
      "pos": "QB",
      "slot": "QB",
-     "rem": 20.29,
+     "rem": 20.28,
      "state": "pending",
      "pts": 0.0,
-     "proj": 20.29,
-     "live": 20.29,
+     "proj": 20.28,
+     "live": 20.28,
      "game": "Sun 1:00 pm vs Atl"
     },
     {
@@ -74,7 +74,7 @@
      "game": "Sun 1:00 pm vs NYG"
     },
     {
-     "player": "Houston",
+     "player": "Texans",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 8.37,
@@ -186,7 +186,7 @@
      "game": "Sun 1:00 pm vs Bal"
     },
     {
-     "player": "Jacksonville",
+     "player": "Jaguars",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 9.58,
@@ -313,7 +313,7 @@
      "game": "Sun 1:00 pm @ Ind"
     },
     {
-     "player": "Cincinnati",
+     "player": "Bengals",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 8.24,
@@ -425,7 +425,7 @@
      "game": "Fri 3:00 pm @ Pit"
     },
     {
-     "player": "S. Francisco",
+     "player": "49ers",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 7.3,
@@ -541,7 +541,7 @@
      "game": "Sun 1:00 pm vs NYJ"
     },
     {
-     "player": "Carolina",
+     "player": "Panthers",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 5.95,
@@ -642,7 +642,7 @@
      "game": "Sun 1:00 pm vs Bal"
     },
     {
-     "player": "N. York",
+     "player": "Jets",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 9.57,
@@ -758,7 +758,7 @@
      "game": "Thu 8:20 pm @ Buf"
     },
     {
-     "player": "Detroit",
+     "player": "Lions",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 3.45,
@@ -859,7 +859,7 @@
      "game": "Fri 3:00 pm vs Den"
     },
     {
-     "player": "Chicago",
+     "player": "Bears",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 5.57,
