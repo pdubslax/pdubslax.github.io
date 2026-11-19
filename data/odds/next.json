@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 12,
- "ts": "2026-11-19T08:41:46+00:00",
+ "ts": "2026-11-19T09:02:00+00:00",
  "matchups": [
   {
    "id": "1v8",
@@ -541,7 +541,7 @@
      "game": "Sun 1:00 pm vs NYJ"
     },
     {
-     "player": "Carolina",
+     "player": "Panthers",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 5.95,
@@ -642,7 +642,7 @@
      "game": "Sun 1:00 pm vs Bal"
     },
     {
-     "player": "N. York",
+     "player": "Jets",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 9.57,
