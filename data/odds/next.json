@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 12,
- "ts": "2026-11-20T22:32:39+00:00",
+ "ts": "2026-11-20T22:53:01+00:00",
  "matchups": [
   {
    "id": "1v8",
@@ -510,7 +510,7 @@
     {
      "player": "S. Diggs",
      "pos": "WR",
-     "slot": "WR",
+     "slot": "W/R/T",
      "rem": 12.56,
      "state": "pending",
      "pts": 0.0,
@@ -532,7 +532,7 @@
     {
      "player": "C. Douglas",
      "pos": "WR",
-     "slot": "W/R/T",
+     "slot": "WR",
      "rem": 9.56,
      "state": "pending",
      "pts": 0.0,
@@ -758,7 +758,7 @@
      "game": "Thu 1:00 pm @ Det"
     },
     {
-     "player": "Detroit",
+     "player": "Lions",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 3.45,
@@ -859,7 +859,7 @@
      "game": "Fri 3:00 pm vs Den"
     },
     {
-     "player": "Chicago",
+     "player": "Bears",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 5.57,
