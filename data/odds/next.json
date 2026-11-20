@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 12,
- "ts": "2026-11-20T23:13:22+00:00",
+ "ts": "2026-11-20T23:33:46+00:00",
  "matchups": [
   {
    "id": "1v8",
@@ -293,7 +293,7 @@
     {
      "player": "J. Waddle",
      "pos": "WR",
-     "slot": "W/R/T",
+     "slot": "WR",
      "rem": 10.09,
      "state": "pending",
      "pts": 0.0,
@@ -326,7 +326,7 @@
     {
      "player": "D. Samuel Sr.",
      "pos": "WR",
-     "slot": "WR",
+     "slot": "W/R/T",
      "rem": 8.06,
      "state": "pending",
      "pts": 0.0,
