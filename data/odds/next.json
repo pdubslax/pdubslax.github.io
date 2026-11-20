@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 12,
- "ts": "2026-11-20T03:04:35+00:00",
+ "ts": "2026-11-20T03:25:35+00:00",
  "matchups": [
   {
    "id": "1v8",
@@ -661,7 +661,7 @@
    "right": "Kiwis are better than mid",
    "rightRec": "7-3",
    "leftScore": 0.0,
-   "leftProj": 122.13,
+   "leftProj": 122.36,
    "rightScore": 0.0,
    "rightProj": 116.31,
    "leftPct": 55,
@@ -747,15 +747,15 @@
      "game": "Sun 1:00 pm vs NYG"
     },
     {
-     "player": "J. Downs",
-     "pos": "WR",
+     "player": "K. Monangai",
+     "pos": "RB",
      "slot": "W/R/T",
-     "rem": 7.95,
+     "rem": 8.18,
      "state": "pending",
      "pts": 0.0,
-     "proj": 7.95,
-     "live": 7.95,
-     "game": "Thu 8:20 pm @ Buf"
+     "proj": 8.18,
+     "live": 8.18,
+     "game": "Thu 1:00 pm @ Det"
     },
     {
      "player": "Lions",
