@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 12,
- "ts": "2026-11-20T17:47:19+00:00",
+ "ts": "2026-11-20T18:07:39+00:00",
  "matchups": [
   {
    "id": "1v8",
@@ -1097,8 +1097,8 @@
    "leftScore": 0.0,
    "leftProj": 119.23,
    "rightScore": 0.0,
-   "rightProj": 100.16,
-   "leftPct": 67,
+   "rightProj": 85.93,
+   "leftPct": 79,
    "leftRem": 9,
    "rightRem": 9,
    "shotgun": [],
@@ -1216,17 +1216,6 @@
      "game": "Sun 4:25 pm vs Sea"
     },
     {
-     "player": "K. Walker III",
-     "pos": "RB",
-     "slot": "RB",
-     "rem": 19.8,
-     "state": "pending",
-     "pts": 0.0,
-     "proj": 19.8,
-     "live": 19.8,
-     "game": "Thu 8:20 pm @ Buf"
-    },
-    {
      "player": "R. Rice",
      "pos": "WR",
      "slot": "WR",
@@ -1291,6 +1280,17 @@
      "proj": 6.17,
      "live": 6.17,
      "game": "Sun 8:20 pm @ Cle"
+    },
+    {
+     "player": "T. Spears",
+     "pos": "RB",
+     "slot": "RB",
+     "rem": 5.57,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 5.57,
+     "live": 5.57,
+     "game": "Sun 1:00 pm @ Jax"
     },
     {
      "player": "Chiefs",
