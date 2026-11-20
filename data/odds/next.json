@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 12,
- "ts": "2026-11-20T05:10:44+00:00",
+ "ts": "2026-11-20T05:30:59+00:00",
  "matchups": [
   {
    "id": "1v8",
@@ -10,10 +10,10 @@
    "right": "I put a beer on her head",
    "rightRec": "4-6",
    "leftScore": 0.0,
-   "leftProj": 87.57,
+   "leftProj": 91.87,
    "rightScore": 0.0,
    "rightProj": 125.88,
-   "leftPct": 18,
+   "leftPct": 21,
    "leftRem": 9,
    "rightRem": 9,
    "shotgun": [],
@@ -63,6 +63,17 @@
      "game": "Sun 1:00 pm @ Cin"
     },
     {
+     "player": "J. Croskey-Merritt",
+     "pos": "RB",
+     "slot": "W/R/T",
+     "rem": 9.54,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 9.54,
+     "live": 9.54,
+     "game": "Sun 4:25 pm @ Ari"
+    },
+    {
      "player": "S. Shrader",
      "pos": "K",
      "slot": "K",
@@ -87,7 +98,7 @@
     {
      "player": "J. Hill",
      "pos": "RB",
-     "slot": "W/R/T",
+     "slot": "RB",
      "rem": 6.38,
      "state": "pending",
      "pts": 0.0,
@@ -105,17 +116,6 @@
      "proj": 6.13,
      "live": 6.13,
      "game": "Sun 1:00 pm @ Hou"
-    },
-    {
-     "player": "K. Black",
-     "pos": "RB",
-     "slot": "RB",
-     "rem": 5.24,
-     "state": "pending",
-     "pts": 0.0,
-     "proj": 5.24,
-     "live": 5.24,
-     "game": "Sun 4:25 pm vs Sea"
     }
    ],
    "rightActive": [
