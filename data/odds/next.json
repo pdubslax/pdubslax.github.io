@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 12,
- "ts": "2026-11-20T19:28:58+00:00",
+ "ts": "2026-11-20T19:49:18+00:00",
  "matchups": [
   {
    "id": "1v8",
@@ -661,7 +661,7 @@
    "right": "Kiwis are better than mid",
    "rightRec": "7-3",
    "leftScore": 0.0,
-   "leftProj": 122.36,
+   "leftProj": 122.35,
    "rightScore": 0.0,
    "rightProj": 116.23,
    "leftPct": 55,
@@ -739,11 +739,11 @@
      "player": "T. Warren",
      "pos": "TE",
      "slot": "TE",
-     "rem": 10.41,
+     "rem": 10.4,
      "state": "pending",
      "pts": 0.0,
-     "proj": 10.41,
-     "live": 10.41,
+     "proj": 10.4,
+     "live": 10.4,
      "game": "Sun 1:00 pm vs NYG"
     },
     {
@@ -878,7 +878,7 @@
    "right": "MELONHEADS (daniel)",
    "rightRec": "6-4",
    "leftScore": 0.0,
-   "leftProj": 118.17,
+   "leftProj": 118.13,
    "rightScore": 0.0,
    "rightProj": 115.35,
    "leftPct": 52,
@@ -912,11 +912,11 @@
      "player": "J. Taylor",
      "pos": "RB",
      "slot": "RB",
-     "rem": 16.51,
+     "rem": 16.47,
      "state": "pending",
      "pts": 0.0,
-     "proj": 16.51,
-     "live": 16.51,
+     "proj": 16.47,
+     "live": 16.47,
      "game": "Sun 1:00 pm vs NYG"
     },
     {
