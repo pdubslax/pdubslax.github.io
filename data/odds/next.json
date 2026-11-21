@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 12,
- "ts": "2026-11-21T04:19:28+00:00",
+ "ts": "2026-11-21T04:39:51+00:00",
  "matchups": [
   {
    "id": "1v8",
@@ -663,7 +663,7 @@
    "leftScore": 0.0,
    "leftProj": 122.61,
    "rightScore": 0.0,
-   "rightProj": 116.31,
+   "rightProj": 116.32,
    "leftPct": 55,
    "leftRem": 9,
    "rightRem": 9,
@@ -774,11 +774,11 @@
      "player": "J. Allen",
      "pos": "QB",
      "slot": "QB",
-     "rem": 24.82,
+     "rem": 24.83,
      "state": "pending",
      "pts": 0.0,
-     "proj": 24.82,
-     "live": 24.82,
+     "proj": 24.83,
+     "live": 24.83,
      "game": "Thu 8:20 pm vs KC"
     },
     {
@@ -878,7 +878,7 @@
    "right": "MELONHEADS (daniel)",
    "rightRec": "6-4",
    "leftScore": 0.0,
-   "leftProj": 118.51,
+   "leftProj": 118.52,
    "rightScore": 0.0,
    "rightProj": 115.3,
    "leftPct": 53,
@@ -967,11 +967,11 @@
      "player": "P. Freiermuth",
      "pos": "TE",
      "slot": "TE",
-     "rem": 6.37,
+     "rem": 6.38,
      "state": "pending",
      "pts": 0.0,
-     "proj": 6.37,
-     "live": 6.37,
+     "proj": 6.38,
+     "live": 6.38,
      "game": "Fri 3:00 pm vs Den"
     },
     {
@@ -1095,9 +1095,9 @@
    "right": "RosterMogged",
    "rightRec": "5-5",
    "leftScore": 0.0,
-   "leftProj": 119.21,
+   "leftProj": 119.23,
    "rightScore": 0.0,
-   "rightProj": 85.89,
+   "rightProj": 85.9,
    "leftPct": 79,
    "leftRem": 9,
    "rightRem": 9,
@@ -1107,11 +1107,11 @@
      "player": "Bo Nix",
      "pos": "QB",
      "slot": "QB",
-     "rem": 18.16,
+     "rem": 18.17,
      "state": "pending",
      "pts": 0.0,
-     "proj": 18.16,
-     "live": 18.16,
+     "proj": 18.17,
+     "live": 18.17,
      "game": "Fri 3:00 pm @ Pit"
     },
     {
@@ -1195,11 +1195,11 @@
      "player": "D. Kincaid",
      "pos": "TE",
      "slot": "TE",
-     "rem": 8.92,
+     "rem": 8.93,
      "state": "pending",
      "pts": 0.0,
-     "proj": 8.92,
-     "live": 8.92,
+     "proj": 8.93,
+     "live": 8.93,
      "game": "Thu 8:20 pm vs KC"
     }
    ],
@@ -1263,11 +1263,11 @@
      "player": "G. Bernard",
      "pos": "WR",
      "slot": "WR",
-     "rem": 7.08,
+     "rem": 7.09,
      "state": "pending",
      "pts": 0.0,
-     "proj": 7.08,
-     "live": 7.08,
+     "proj": 7.09,
+     "live": 7.09,
      "game": "Fri 3:00 pm vs Den"
     },
     {
