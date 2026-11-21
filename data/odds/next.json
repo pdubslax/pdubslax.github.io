@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 12,
- "ts": "2026-11-21T19:36:20+00:00",
+ "ts": "2026-11-21T19:56:35+00:00",
  "matchups": [
   {
    "id": "1v8",
@@ -444,7 +444,7 @@
    "right": "James Ray Ervin Yonts",
    "rightRec": "6-4",
    "leftScore": 0.0,
-   "leftProj": 128.61,
+   "leftProj": 128.74,
    "rightScore": 0.0,
    "rightProj": 131.9,
    "leftPct": 48,
@@ -489,11 +489,11 @@
      "player": "T. McBride",
      "pos": "TE",
      "slot": "TE",
-     "rem": 14.64,
+     "rem": 14.77,
      "state": "pending",
      "pts": 0.0,
-     "proj": 14.64,
-     "live": 14.64,
+     "proj": 14.77,
+     "live": 14.77,
      "game": "Sun 4:25 pm vs Was"
     },
     {
