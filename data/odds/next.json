@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 12,
- "ts": "2026-11-21T18:55:50+00:00",
+ "ts": "2026-11-21T19:16:05+00:00",
  "matchups": [
   {
    "id": "1v8",
@@ -1097,8 +1097,8 @@
    "leftScore": 0.0,
    "leftProj": 117.78,
    "rightScore": 0.0,
-   "rightProj": 85.98,
-   "leftPct": 78,
+   "rightProj": 85.1,
+   "leftPct": 79,
    "leftRem": 9,
    "rightRem": 9,
    "shotgun": [],
@@ -1282,17 +1282,6 @@
      "game": "Sun 8:20 pm @ Cle"
     },
     {
-     "player": "T. Spears",
-     "pos": "RB",
-     "slot": "RB",
-     "rem": 5.59,
-     "state": "pending",
-     "pts": 0.0,
-     "proj": 5.59,
-     "live": 5.59,
-     "game": "Sun 1:00 pm @ Jax"
-    },
-    {
      "player": "Chiefs",
      "pos": "DEF",
      "slot": "DEF",
@@ -1302,6 +1291,17 @@
      "proj": 5.07,
      "live": 5.07,
      "game": "Thu 8:20 pm @ Buf"
+    },
+    {
+     "player": "J.K. Dobbins",
+     "pos": "RB",
+     "slot": "RB",
+     "rem": 4.71,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 4.71,
+     "live": 4.71,
+     "game": "Fri 3:00 pm @ Pit"
     }
    ]
   }
