@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 12,
- "ts": "2026-11-21T14:31:15+00:00",
+ "ts": "2026-11-21T14:51:33+00:00",
  "matchups": [
   {
    "id": "1v8",
@@ -239,22 +239,22 @@
      "player": "B. Young",
      "pos": "QB",
      "slot": "QB",
-     "rem": 18.2,
+     "rem": 18.19,
      "state": "pending",
      "pts": 0.0,
-     "proj": 18.2,
-     "live": 18.2,
+     "proj": 18.19,
+     "live": 18.19,
      "game": "Mon 8:15 pm @ TB"
     },
     {
      "player": "C. Brown",
      "pos": "RB",
      "slot": "RB",
-     "rem": 16.64,
+     "rem": 16.65,
      "state": "pending",
      "pts": 0.0,
-     "proj": 16.64,
-     "live": 16.64,
+     "proj": 16.65,
+     "live": 16.65,
      "game": "Sun 1:00 pm vs NO"
     },
     {
@@ -283,11 +283,11 @@
      "player": "E. Egbuka",
      "pos": "WR",
      "slot": "WR",
-     "rem": 10.29,
+     "rem": 10.28,
      "state": "pending",
      "pts": 0.0,
-     "proj": 10.29,
-     "live": 10.29,
+     "proj": 10.28,
+     "live": 10.28,
      "game": "Mon 8:15 pm vs Car"
     },
     {
@@ -313,7 +313,7 @@
      "game": "Sun 1:00 pm @ Ind"
     },
     {
-     "player": "Bengals",
+     "player": "Cincinnati",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 8.24,
@@ -327,11 +327,11 @@
      "player": "D. Samuel Sr.",
      "pos": "WR",
      "slot": "W/R/T",
-     "rem": 8.02,
+     "rem": 8.05,
      "state": "pending",
      "pts": 0.0,
-     "proj": 8.02,
-     "live": 8.02,
+     "proj": 8.05,
+     "live": 8.05,
      "game": "Sun 4:25 pm vs Sea"
     }
    ],
@@ -384,11 +384,11 @@
      "player": "O. Gordon II",
      "pos": "RB",
      "slot": "RB",
-     "rem": 14.43,
+     "rem": 14.44,
      "state": "pending",
      "pts": 0.0,
-     "proj": 14.43,
-     "live": 14.43,
+     "proj": 14.44,
+     "live": 14.44,
      "game": "Sun 1:00 pm vs NYJ"
     },
     {
@@ -425,7 +425,7 @@
      "game": "Fri 3:00 pm @ Pit"
     },
     {
-     "player": "49ers",
+     "player": "S. Francisco",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 7.3,
@@ -975,7 +975,7 @@
      "game": "Fri 3:00 pm vs Den"
     },
     {
-     "player": "Steelers",
+     "player": "Pittsburgh",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 6.14,
@@ -1076,7 +1076,7 @@
      "game": "Fri 3:00 pm vs Den"
     },
     {
-     "player": "Bills",
+     "player": "Buffalo",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 5.99,
@@ -1095,10 +1095,10 @@
    "right": "RosterMogged",
    "rightRec": "5-5",
    "leftScore": 0.0,
-   "leftProj": 119.21,
+   "leftProj": 117.66,
    "rightScore": 0.0,
    "rightProj": 85.96,
-   "leftPct": 79,
+   "leftPct": 78,
    "leftRem": 9,
    "rightRem": 9,
    "shotgun": [],
@@ -1181,7 +1181,7 @@
      "game": "Sun 1:00 pm vs NYJ"
     },
     {
-     "player": "Broncos",
+     "player": "Denver",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 9.09,
@@ -1192,15 +1192,15 @@
      "game": "Fri 3:00 pm @ Pit"
     },
     {
-     "player": "D. Kincaid",
+     "player": "M. Gesicki",
      "pos": "TE",
      "slot": "TE",
-     "rem": 8.92,
+     "rem": 7.37,
      "state": "pending",
      "pts": 0.0,
-     "proj": 8.92,
-     "live": 8.92,
-     "game": "Thu 8:20 pm vs KC"
+     "proj": 7.37,
+     "live": 7.37,
+     "game": "Sun 1:00 pm vs NO"
     }
    ],
    "rightActive": [
@@ -1293,7 +1293,7 @@
      "game": "Sun 1:00 pm @ Jax"
     },
     {
-     "player": "Chiefs",
+     "player": "K. City",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 5.05,
