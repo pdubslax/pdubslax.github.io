@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 12,
- "ts": "2026-11-21T14:51:33+00:00",
+ "ts": "2026-11-21T15:11:53+00:00",
  "matchups": [
   {
    "id": "1v8",
@@ -313,7 +313,7 @@
      "game": "Sun 1:00 pm @ Ind"
     },
     {
-     "player": "Cincinnati",
+     "player": "Bengals",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 8.24,
@@ -425,7 +425,7 @@
      "game": "Fri 3:00 pm @ Pit"
     },
     {
-     "player": "S. Francisco",
+     "player": "49ers",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 7.3,
@@ -975,7 +975,7 @@
      "game": "Fri 3:00 pm vs Den"
     },
     {
-     "player": "Pittsburgh",
+     "player": "Steelers",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 6.14,
@@ -1076,7 +1076,7 @@
      "game": "Fri 3:00 pm vs Den"
     },
     {
-     "player": "Buffalo",
+     "player": "Bills",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 5.99,
@@ -1181,7 +1181,7 @@
      "game": "Sun 1:00 pm vs NYJ"
     },
     {
-     "player": "Denver",
+     "player": "Broncos",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 9.09,
@@ -1293,7 +1293,7 @@
      "game": "Sun 1:00 pm @ Jax"
     },
     {
-     "player": "K. City",
+     "player": "Chiefs",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 5.05,
