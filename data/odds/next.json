@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 12,
- "ts": "2026-11-22T00:40:55+00:00",
+ "ts": "2026-11-22T01:01:11+00:00",
  "matchups": [
   {
    "id": "1v8",
@@ -717,11 +717,11 @@
      "player": "A. Jeanty",
      "pos": "RB",
      "slot": "RB",
-     "rem": 12.95,
+     "rem": 12.94,
      "state": "pending",
      "pts": 0.0,
-     "proj": 12.95,
-     "live": 12.95,
+     "proj": 12.94,
+     "live": 12.94,
      "game": "Sun 8:20 pm @ Cle"
     },
     {
@@ -807,11 +807,11 @@
      "player": "B. Bowers",
      "pos": "TE",
      "slot": "TE",
-     "rem": 13.67,
+     "rem": 13.71,
      "state": "pending",
      "pts": 0.0,
-     "proj": 13.67,
-     "live": 13.67,
+     "proj": 13.71,
+     "live": 13.71,
      "game": "Sun 8:20 pm @ Cle"
     },
     {
@@ -851,11 +851,11 @@
      "player": "DK Metcalf",
      "pos": "WR",
      "slot": "W/R/T",
-     "rem": 9.01,
+     "rem": 9.03,
      "state": "pending",
      "pts": 0.0,
-     "proj": 9.01,
-     "live": 9.01,
+     "proj": 9.03,
+     "live": 9.03,
      "game": "Fri 3:00 pm vs Den"
     },
     {
