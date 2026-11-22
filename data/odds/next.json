@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 12,
- "ts": "2026-11-22T07:47:43+00:00",
+ "ts": "2026-11-22T08:08:01+00:00",
  "matchups": [
   {
    "id": "1v8",
@@ -85,7 +85,7 @@
      "game": "Sun 1:00 pm vs NYG"
     },
     {
-     "player": "Houston",
+     "player": "Texans",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 8.39,
@@ -186,7 +186,7 @@
      "game": "Sun 1:00 pm vs Bal"
     },
     {
-     "player": "Jacksonville",
+     "player": "Jaguars",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 9.53,
@@ -541,7 +541,7 @@
      "game": "Sun 1:00 pm vs NYJ"
     },
     {
-     "player": "Carolina",
+     "player": "Panthers",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 5.95,
@@ -642,7 +642,7 @@
      "game": "Sun 1:00 pm vs Bal"
     },
     {
-     "player": "N. York",
+     "player": "Jets",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 9.57,
@@ -1181,7 +1181,7 @@
      "game": "Sun 1:00 pm vs NYJ"
     },
     {
-     "player": "Broncos",
+     "player": "Denver",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 9.13,
@@ -1282,7 +1282,7 @@
      "game": "Sun 8:20 pm @ Cle"
     },
     {
-     "player": "Chiefs",
+     "player": "K. City",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 5.09,
