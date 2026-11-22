@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 12,
- "ts": "2026-11-22T12:53:18+00:00",
+ "ts": "2026-11-22T13:13:38+00:00",
  "matchups": [
   {
    "id": "1v8",
@@ -1097,7 +1097,7 @@
    "leftScore": 0.0,
    "leftProj": 117.85,
    "rightScore": 0.0,
-   "rightProj": 84.92,
+   "rightProj": 84.99,
    "leftPct": 79,
    "leftRem": 9,
    "rightRem": 9,
@@ -1230,22 +1230,22 @@
      "player": "O. Hampton",
      "pos": "RB",
      "slot": "RB",
-     "rem": 11.56,
+     "rem": 11.61,
      "state": "pending",
      "pts": 0.0,
-     "proj": 11.56,
-     "live": 11.56,
+     "proj": 11.61,
+     "live": 11.61,
      "game": "Sun 4:05 pm vs NE"
     },
     {
      "player": "L. McConkey",
      "pos": "WR",
      "slot": "W/R/T",
-     "rem": 9.89,
+     "rem": 9.91,
      "state": "pending",
      "pts": 0.0,
-     "proj": 9.89,
-     "live": 9.89,
+     "proj": 9.91,
+     "live": 9.91,
      "game": "Sun 4:05 pm vs NE"
     },
     {
