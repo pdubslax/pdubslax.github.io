@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 12,
- "ts": "2026-11-22T17:18:33+00:00",
+ "ts": "2026-11-22T17:38:53+00:00",
  "matchups": [
   {
    "id": "1v8",
@@ -10,9 +10,9 @@
    "right": "I put a beer on her head",
    "rightRec": "4-6",
    "leftScore": 0.0,
-   "leftProj": 91.77,
+   "leftProj": 91.76,
    "rightScore": 0.0,
-   "rightProj": 125.79,
+   "rightProj": 125.78,
    "leftPct": 21,
    "leftRem": 9,
    "rightRem": 9,
@@ -110,11 +110,11 @@
      "player": "J. Lane",
      "pos": "WR",
      "slot": "WR",
-     "rem": 6.16,
+     "rem": 6.15,
      "state": "pending",
      "pts": 0.0,
-     "proj": 6.16,
-     "live": 6.16,
+     "proj": 6.15,
+     "live": 6.15,
      "game": "Sun 1:00 pm @ Hou"
     }
    ],
@@ -167,11 +167,11 @@
      "player": "C. Olave",
      "pos": "WR",
      "slot": "WR",
-     "rem": 14.4,
+     "rem": 14.39,
      "state": "pending",
      "pts": 0.0,
-     "proj": 14.4,
-     "live": 14.4,
+     "proj": 14.39,
+     "live": 14.39,
      "game": "Sun 1:00 pm @ Cin"
     },
     {
@@ -229,7 +229,7 @@
    "leftScore": 0.0,
    "leftProj": 107.96,
    "rightScore": 0.0,
-   "rightProj": 125.7,
+   "rightProj": 125.68,
    "leftPct": 35,
    "leftRem": 9,
    "rightRem": 9,
@@ -340,11 +340,11 @@
      "player": "T. Shough",
      "pos": "QB",
      "slot": "QB",
-     "rem": 20.73,
+     "rem": 20.71,
      "state": "pending",
      "pts": 0.0,
-     "proj": 20.73,
-     "live": 20.73,
+     "proj": 20.71,
+     "live": 20.71,
      "game": "Sun 1:00 pm @ Cin"
     },
     {
