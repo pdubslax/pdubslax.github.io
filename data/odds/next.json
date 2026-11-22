@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 12,
- "ts": "2026-11-22T15:36:54+00:00",
+ "ts": "2026-11-22T15:57:14+00:00",
  "matchups": [
   {
    "id": "1v8",
@@ -1097,8 +1097,8 @@
    "leftScore": 0.0,
    "leftProj": 117.85,
    "rightScore": 0.0,
-   "rightProj": 84.9,
-   "leftPct": 79,
+   "rightProj": 86.35,
+   "leftPct": 78,
    "leftRem": 9,
    "rightRem": 9,
    "shotgun": [],
@@ -1249,15 +1249,15 @@
      "game": "Sun 4:05 pm vs NE"
     },
     {
-     "player": "M. Gay",
+     "player": "C. Santos",
      "pos": "K",
      "slot": "K",
-     "rem": 8.26,
+     "rem": 9.71,
      "state": "pending",
      "pts": 0.0,
-     "proj": 8.26,
-     "live": 8.26,
-     "game": "Sun 8:20 pm @ Cle"
+     "proj": 9.71,
+     "live": 9.71,
+     "game": "Thu 1:00 pm @ Det"
     },
     {
      "player": "G. Bernard",
