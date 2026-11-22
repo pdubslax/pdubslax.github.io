@@ -235,6 +235,11 @@ async def odds_for(page, week, mid):
     pct = int(m.group(m.lastindex)) if m else None
     return pct, rem, body, rows
 
+# Yahoo prints kickoff times in the browser's own clock. A GitHub runner is on UTC, which turned Monday night's 8:15 PM kickoff into
+# "Tue 1:15 AM". Pin the browser to Eastern, the clock the NFL schedule is written in, and say so in the files ("tz") so the page
+# knows these times need no correcting.
+YAHOO_TZ, TZ_LABEL = "America/New_York", "ET"
+
 PREVIEW_V = 3  # bump to force a refresh of next.json after a format change
 
 async def preview_next(out_dir, nweek, max_age_min=20):
@@ -253,7 +258,7 @@ async def preview_next(out_dir, nweek, max_age_min=20):
     if not rows: print("no matchups listed yet for week", nweek, file=sys.stderr); return
     async with async_playwright() as p:
         browser = await p.chromium.launch()
-        ctx = await browser.new_context(user_agent=UA, viewport={"width": 1280, "height": 900})
+        ctx = await browser.new_context(user_agent=UA, viewport={"width": 1280, "height": 900}, timezone_id=YAHOO_TZ)
         page = await ctx.new_page()
         for row in rows:
             try:
@@ -265,7 +270,7 @@ async def preview_next(out_dir, nweek, max_age_min=20):
                 row["shotgun"] = shotgun_entries(rows_, row["left"], row["right"])
                 row["leftActive"] = active_starters(rows_, "L"); row["rightActive"] = active_starters(rows_, "R")
         await browser.close()
-    json.dump(dict(v=PREVIEW_V, week=nweek, ts=datetime.datetime.now(datetime.timezone.utc).isoformat(timespec="seconds"), matchups=rows, windows=nfl_windows(nweek)), open(path, "w"), ensure_ascii=False, indent=1)
+    json.dump(dict(v=PREVIEW_V, week=nweek, tz=TZ_LABEL, ts=datetime.datetime.now(datetime.timezone.utc).isoformat(timespec="seconds"), matchups=rows, windows=nfl_windows(nweek)), open(path, "w"), ensure_ascii=False, indent=1)
     print(f"next week {nweek}: {len(rows)} matchups previewed")
 
 def healed_pct(m):
@@ -329,7 +334,7 @@ async def main(out_dir):
     os.makedirs(out_dir, exist_ok=True)
     path = os.path.join(out_dir, f"week{week}.json")
     hist = json.load(open(path)) if os.path.exists(path) else {"week": week, "samples": []}
-    hist.update(meta)
+    hist.update(meta); hist["tz"] = TZ_LABEL
     # Standings entering the week. Refreshed every pass while the feed is exactly one week behind (stat corrections land midweek);
     # left alone once the feed has moved on, so a finished week keeps the base it was played from.
     try:
@@ -347,7 +352,7 @@ async def main(out_dir):
     windows = hist.get("windows")
     async with async_playwright() as p:
         browser = await p.chromium.launch()
-        ctx = await browser.new_context(user_agent=UA, viewport={"width": 1280, "height": 900})
+        ctx = await browser.new_context(user_agent=UA, viewport={"width": 1280, "height": 900}, timezone_id=YAHOO_TZ)
         page = await ctx.new_page()
         last_ms = {x["id"]: x for x in (hist["samples"][-1]["matchups"] if hist["samples"] else [])}
         for row in rows:

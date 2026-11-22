@@ -217,17 +217,34 @@ function heal(hist){
   }
   return hist;
 }
+// Kickoff times come from Yahoo in the sampler's clock. The sampler now runs on Eastern and marks its files tz "ET". Files without the
+// mark were sampled on UTC, which printed Monday night's 8:15 PM kickoff as "Tue 1:15 AM": move those back five hours to Eastern.
+const DOW = ['Sun','Mon','Tue','Wed','Thu','Fri','Sat'];
+function kickET(g){
+  const m = /^(Sun|Mon|Tue|Wed|Thu|Fri|Sat) (\d{1,2}):(\d{2}) ([AP]M)(.*)$/i.exec(g || ''); if (!m) return g;
+  let h = m[2] % 12 + (/pm/i.test(m[4]) ? 12 : 0) - 5, d = DOW.indexOf(m[1]); if (h < 0) { h += 24; d = (d + 6) % 7; }
+  return `${DOW[d]} ${h % 12 || 12}:${m[3]} ${h < 12 ? 'AM' : 'PM'}${m[5]}`;
+}
+function fixTimes(d){
+  if (!d || d.tz === 'ET') return d;
+  for (const s of [...(d.samples||[]), d.last, d.preview, d.matchups && d]) for (const m of (s && s.matchups) || [])
+    for (const k of ['leftActive', 'rightActive', 'shotgun']) for (const a of m[k] || []) if (a.game) a.game = kickET(a.game);
+  d.tz = 'ET'; return d;
+}
+// A kickoff time with its clock named: "Mon 8:15 PM ET vs CIN". Now and then Yahoo's page is read a beat before the opponent renders,
+// leaving a dangling "vs" or "@" for one sample: drop it rather than print half a matchup.
+const kick = g => (g || '').replace(/^((?:Sun|Mon|Tue|Wed|Thu|Fri|Sat) \d{1,2}:\d{2} [AP]M)/i, '$1 ET').replace(/ (vs|@)$/, '');
 // A downloaded week, in either form, as render() reads it: healed, with a samples list. The slim form carries the latest sample in full
 // plus, for the chart, every sample's time and each matchup's left-team odds (already healed by the sampler); the earlier samples are
 // rebuilt here with just those, which is all render() takes from them.
 function unpack(d){
-  heal(d); if (!d.series) return d;
+  heal(d); fixTimes(d); if (!d.series) return d;
   const {series, last, ...rest} = d, ids = Object.keys(series.pct);
   const samples = series.ts.map((t, i) => ({ts: t * 1000, matchups: ids.filter(id => series.pct[id][i] != null).map(id => ({id, leftPct: series.pct[id][i]}))}));
   if (last && samples.length) samples[samples.length-1] = last;
   return {...rest, samples};
 }
-function show(hist, nxt, sha){ latest = {hist: unpack(hist), nxt, sha: sha || (latest && latest.sha)}; renderView(); }
+function show(hist, nxt, sha){ latest = {hist: unpack(hist), nxt: fixTimes(nxt), sha: sha || (latest && latest.sha)}; renderView(); }
 // Decide what the board shows: a past week the viewer picked, the upcoming week once the current one is fully decided, or the live week.
 async function renderView(){
   if (!latest) return;
@@ -340,7 +357,7 @@ function render(hist, mode, curWeek){
   const secondHalf = g => /^(Half|3rd|4th|OT)/.test(g) || /^2nd ([01]:\d\d|2:00)\b/.test(g);
   const inPlay = x => x.state === 'final' || (x.state === 'live' && (x.reason === 'proj' || secondHalf(x.game || ''))) || (underway && (x.state === 'bye' || x.state === 'empty' || INACTIVE.includes(x.tag)));
   const shots = last.matchups.flatMap(m => (m.shotgun || []).filter(inPlay).map(x => ({...x, label: (firstName(m, x.manager===m.left?0:1) ? firstName(m, x.manager===m.left?0:1) + ' - ' : '') + x.manager}))).map(x => ({...x, locked: x.locked || weekDone || (INACTIVE.includes(x.tag) && (x.state === 'live' || x.state === 'final'))}));  // ruled out and the slot is locked: nothing can change
-  const line = x => `<li><span class="who">${esc(x.label)} <small>${esc(x.player)}${x.pos?' · '+esc(x.pos):''}${x.tag?' · '+esc(x.tag):''}${x.game&&x.state!=='final'?' · '+esc(x.game):''}${x.reason==='proj'&&x.live!=null?` · <em class="down">proj ${x.live.toFixed(1)}</em>`:` · <em class="down">${(x.pts||0).toFixed(1)}</em>`}</small></span></li>`;
+  const line = x => `<li><span class="who">${esc(x.label)} <small>${esc(x.player)}${x.pos?' · '+esc(x.pos):''}${x.tag?' · '+esc(x.tag):''}${x.game&&x.state!=='final'?' · '+esc(kick(x.game)):''}${x.reason==='proj'&&x.live!=null?` · <em class="down">proj ${x.live.toFixed(1)}</em>`:` · <em class="down">${(x.pts||0).toFixed(1)}</em>`}</small></span></li>`;
   shots.sort((a,b)=>a.pts-b.pts);
   const locked = shots.filter(x=>x.locked), risk = shots.filter(x=>!x.locked);
   const col = (title, chipCls, items, empty) => `<div class="col"><span class="lab"><span class="chip ${chipCls}">${title}</span></span>${items.length ? `<ul>${items.map(line).join('')}</ul>` : `<div class="none">${empty}</div>`}</div>`;
