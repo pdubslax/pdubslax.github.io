@@ -2,7 +2,7 @@
  "v": 3,
  "week": 12,
  "tz": "ET",
- "ts": "2026-11-22T21:50:08+00:00",
+ "ts": "2026-11-22T22:11:08+00:00",
  "matchups": [
   {
    "id": "1v8",
@@ -314,7 +314,7 @@
      "game": "Sun 1:00 pm @ Ind"
     },
     {
-     "player": "Cincinnati",
+     "player": "Bengals",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 8.24,
@@ -426,7 +426,7 @@
      "game": "Fri 3:00 pm @ Pit"
     },
     {
-     "player": "S. Francisco",
+     "player": "49ers",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 7.26,
@@ -759,7 +759,7 @@
      "game": "Thu 1:00 pm @ Det"
     },
     {
-     "player": "Detroit",
+     "player": "Lions",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 3.41,
@@ -849,7 +849,7 @@
      "game": "Fri 3:00 pm vs Den"
     },
     {
-     "player": "Chicago",
+     "player": "Bears",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 5.53,
