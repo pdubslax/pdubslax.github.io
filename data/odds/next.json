@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 12,
- "ts": "2026-11-22T01:21:27+00:00",
+ "ts": "2026-11-22T01:41:43+00:00",
  "matchups": [
   {
    "id": "1v8",
@@ -472,7 +472,7 @@
      "pts": 0.0,
      "proj": 21.35,
      "live": 21.35,
-     "game": "Thu 8:20 pm @ Buf"
+     "game": "Thu 8:20 pm @ Buf"
     },
     {
      "player": "D. Swift",
@@ -628,7 +628,7 @@
      "pts": 0.0,
      "proj": 10.3,
      "live": 10.3,
-     "game": "Thu 8:20 pm @ Buf"
+     "game": "Thu 8:20 pm @ Buf"
     },
     {
      "player": "K. Fairbairn",
@@ -779,7 +779,7 @@
      "pts": 0.0,
      "proj": 24.92,
      "live": 24.92,
-     "game": "Thu 8:20 pm vs KC"
+     "game": "Thu 8:20 pm vs KC"
     },
     {
      "player": "C. McCaffrey",
@@ -939,7 +939,7 @@
      "pts": 0.0,
      "proj": 11.85,
      "live": 11.85,
-     "game": "Thu 8:20 pm vs KC"
+     "game": "Thu 8:20 pm vs KC"
     },
     {
      "player": "B. Aubrey",
@@ -1051,7 +1051,7 @@
      "pts": 0.0,
      "proj": 9.76,
      "live": 9.76,
-     "game": "Thu 8:20 pm vs KC"
+     "game": "Thu 8:20 pm vs KC"
     },
     {
      "player": "K. Shakir",
@@ -1062,7 +1062,7 @@
      "pts": 0.0,
      "proj": 9.11,
      "live": 9.11,
-     "game": "Thu 8:20 pm vs KC"
+     "game": "Thu 8:20 pm vs KC"
     },
     {
      "player": "R. Dowdle",
@@ -1084,7 +1084,7 @@
      "pts": 0.0,
      "proj": 6.04,
      "live": 6.04,
-     "game": "Thu 8:20 pm vs KC"
+     "game": "Thu 8:20 pm vs KC"
     }
    ]
   },
@@ -1134,7 +1134,7 @@
      "pts": 0.0,
      "proj": 17.52,
      "live": 17.52,
-     "game": "Thu 8:20 pm vs KC"
+     "game": "Thu 8:20 pm vs KC"
     },
     {
      "player": "B. Hall",
@@ -1224,7 +1224,7 @@
      "pts": 0.0,
      "proj": 12.22,
      "live": 12.22,
-     "game": "Thu 8:20 pm @ Buf"
+     "game": "Thu 8:20 pm @ Buf"
     },
     {
      "player": "O. Hampton",
@@ -1290,7 +1290,7 @@
      "pts": 0.0,
      "proj": 5.09,
      "live": 5.09,
-     "game": "Thu 8:20 pm @ Buf"
+     "game": "Thu 8:20 pm @ Buf"
     },
     {
      "player": "J.K. Dobbins",
