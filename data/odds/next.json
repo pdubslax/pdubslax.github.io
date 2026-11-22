@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 12,
- "ts": "2026-11-22T07:27:25+00:00",
+ "ts": "2026-11-22T07:47:43+00:00",
  "matchups": [
   {
    "id": "1v8",
@@ -85,7 +85,7 @@
      "game": "Sun 1:00 pm vs NYG"
     },
     {
-     "player": "Texans",
+     "player": "Houston",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 8.39,
@@ -186,7 +186,7 @@
      "game": "Sun 1:00 pm vs Bal"
     },
     {
-     "player": "Jaguars",
+     "player": "Jacksonville",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 9.53,
@@ -541,7 +541,7 @@
      "game": "Sun 1:00 pm vs NYJ"
     },
     {
-     "player": "Panthers",
+     "player": "Carolina",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 5.95,
@@ -642,7 +642,7 @@
      "game": "Sun 1:00 pm vs Bal"
     },
     {
-     "player": "Jets",
+     "player": "N. York",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 9.57,
