@@ -1,7 +1,7 @@
 {
  "v": 3,
  "week": 12,
- "ts": "2026-11-22T18:41:16+00:00",
+ "ts": "2026-11-22T19:02:16+00:00",
  "matchups": [
   {
    "id": "1v8",
@@ -663,8 +663,8 @@
    "leftScore": 0.0,
    "leftProj": 122.75,
    "rightScore": 0.0,
-   "rightProj": 116.11,
-   "leftPct": 55,
+   "rightProj": 107.38,
+   "leftPct": 63,
    "leftRem": 9,
    "rightRem": 9,
    "shotgun": [],
@@ -804,17 +804,6 @@
      "game": "Sun 1:00 pm @ Mia"
     },
     {
-     "player": "B. Bowers",
-     "pos": "TE",
-     "slot": "TE",
-     "rem": 13.66,
-     "state": "pending",
-     "pts": 0.0,
-     "proj": 13.66,
-     "live": 13.66,
-     "game": "Sun 8:20 pm @ Cle"
-    },
-    {
      "player": "C. Tate",
      "pos": "WR",
      "slot": "WR",
@@ -868,6 +857,17 @@
      "proj": 5.57,
      "live": 5.57,
      "game": "Thu 1:00 pm @ Det"
+    },
+    {
+     "player": "E. Engram",
+     "pos": "TE",
+     "slot": "TE",
+     "rem": 4.93,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 4.93,
+     "live": 4.93,
+     "game": "Fri 3:00 pm @ Pit"
     }
    ]
   },
