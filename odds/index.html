@@ -125,8 +125,9 @@ footer{font-size:12.5px;color:var(--muted);border-top:1px solid var(--line);padd
 .stand .mv.up{color:var(--win)} .stand .mv.down{color:var(--lock)}
 .stand td.nm{font-weight:600;padding-right:6px} .stand th.nm{width:104px}  /* names are short: the spare width goes to the label gutter on the right */
 .stand .rec{width:56px;font-family:var(--mono)} .stand td.rec{font-weight:500}
-.stand .res{width:48px;font-family:var(--mono);font-size:12px}
+.stand .res{width:54px;font-family:var(--mono);font-size:12px}
 .stand td.res.W{color:var(--win)} .stand td.res.L{color:var(--lock)}
+.stand td.res .p{margin-left:4px;font-size:11px;opacity:.75}  /* win odds while the matchup is live: same color as the result, a step quieter */
 .stand .num{width:78px;text-align:right;font-family:var(--mono)} .stand td.num{font-size:12px} .stand th.num{padding-right:4px}
 /* Every number carries the same padding so the digits stay aligned; only the best and worst in a column get the tint. */
 .stand td.num span{padding:1px 4px;border-radius:3px}
@@ -145,7 +146,7 @@ footer{font-size:12.5px;color:var(--muted);border-top:1px solid var(--line);padd
 }
 .stand .cut + tr td{border-top:0}
 @media (max-width:680px){
-  .stand .rk{width:20px} .stand .mv{width:22px} .stand .rec{width:38px} .stand .res{width:36px} .stand .num{width:56px} .stand td.num{font-size:12px}
+  .stand .rk{width:20px} .stand .mv{width:22px} .stand .rec{width:38px} .stand .res{width:46px} .stand .num{width:54px} .stand td.num{font-size:12px}
   .stand th{letter-spacing:.04em} .stand th .lg{display:none}
 }
 .meta .crumbs a{color:var(--fav);text-decoration:none;font-weight:500}
@@ -297,12 +298,13 @@ const shortName = (m, side) => firstName(m, side) || (side===0 ? m.left : m.righ
 // projected final. The win goes to the higher projection, so record and points always agree. A finished game's projection is its score,
 // so the same sum gives the real standings once the week is over.
 function advance(base, matchups){
-  const T = {}; for (const k in base.teams) T[k] = {...base.teams[k], res: ''};
+  const T = {}; for (const k in base.teams) T[k] = {...base.teams[k], res: '', odds: null};
   for (const m of matchups) {
     const [a, b] = sideIds(m), A = T[a], B = T[b]; if (!A || !B) continue;
     const lp = m.leftProj, rp = m.rightProj; A.pf += lp; A.pa += rp; B.pf += rp; B.pa += lp;
     if (lp === rp && m.leftRem === 0 && m.rightRem === 0) { A.t++; B.t++; A.res = B.res = 'T'; }
     else { const leftWins = lp !== rp ? lp > rp : m.leftPct >= 50; (leftWins ? A : B).w++; (leftWins ? B : A).l++; A.res = leftWins ? 'W' : 'L'; B.res = leftWins ? 'L' : 'W'; }
+    if (m.leftPct != null) { A.odds = m.leftPct; B.odds = 100 - m.leftPct; }  // Yahoo's win odds, shown beside the projected result
   }
   return {through: base.through + 1, teams: T};
 }
@@ -463,9 +465,11 @@ function render(hist, mode, curWeek){
     const [pfMax, pfMin] = ext('pf'), [paMax, paMin] = ext('pa');
     const mark = (v, good, bad, what) => v === good ? ` class="hi" title="${what[0]}"` : v === bad ? ` class="lo" title="${what[1]}"` : '';
     const head = `<thead><tr><th class="rk">#</th><th class="mv"></th><th class="nm">Manager</th><th class="rec">Rec<span class="lg">ord</span></th><th class="res">Wk ${hist.week}</th><th class="num">PF</th><th class="num">PA</th><th class="tag"></th></tr></thead>`;
+    // A matchup still in play carries the team's own win odds next to its projected result; a decided one is just the W or L.
+    const live = t => t.res !== 'T' && t.odds != null && t.odds > 0 && t.odds < 100;
     // The arrow is the move from where the team stood entering the week.
     const row = (t, i) => { const mv = was[t.id] - (i + 1);
-      return `<tr><td class="rk">${i + 1}</td><td class="mv ${mv > 0 ? 'up' : mv < 0 ? 'down' : ''}">${mv > 0 ? '▲' + mv : mv < 0 ? '▼' + (-mv) : ''}</td><td class="nm">${esc(MANAGERS[t.id] || 'Team ' + t.id)}</td><td class="rec">${t.w}-${t.l}${t.t ? '-' + t.t : ''}</td><td class="res ${t.res}">${t.res}</td><td class="num"><span${mark(t.pf, pfMax, pfMin, ['Most points for', 'Fewest points for'])}>${Math.round(t.pf)}</span></td><td class="num"><span${mark(t.pa, paMin, paMax, ['Fewest points against', 'Most points against'])}>${Math.round(t.pa)}</span></td><td class="tag"></td></tr>`; };
+      return `<tr><td class="rk">${i + 1}</td><td class="mv ${mv > 0 ? 'up' : mv < 0 ? 'down' : ''}">${mv > 0 ? '▲' + mv : mv < 0 ? '▼' + (-mv) : ''}</td><td class="nm">${esc(MANAGERS[t.id] || 'Team ' + t.id)}</td><td class="rec">${t.w}-${t.l}${t.t ? '-' + t.t : ''}</td><td class="res ${t.res}"${live(t) ? ` title="Yahoo gives ${t.odds}% to win"` : ''}>${t.res}${live(t) ? `<span class="p">${t.odds}%</span>` : ''}</td><td class="num"><span${mark(t.pf, pfMax, pfMin, ['Most points for', 'Fewest points for'])}>${Math.round(t.pf)}</span></td><td class="num"><span${mark(t.pa, paMin, paMax, ['Fewest points against', 'Most points against'])}>${Math.round(t.pa)}</span></td><td class="tag"></td></tr>`; };
     // A labeled rule under the last team on the right side of each cutoff: the top two skip the first round, the top six make the playoffs.
     const cut = rank => rank === BYE_SPOTS ? `<tr class="cut"><td colspan="8"><span>First-round bye</span></td></tr>` : rank === PLAYOFF_SPOTS ? `<tr class="cut"><td colspan="8"><span>Playoff line</span></td></tr>` : '';
     const table = `<table>${head}<tbody>${now.map((t, i) => row(t, i) + cut(i + 1)).join('')}</tbody></table>`;
