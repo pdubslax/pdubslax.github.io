@@ -2,7 +2,7 @@
  "v": 3,
  "week": 12,
  "tz": "ET",
- "ts": "2026-11-22T20:05:08+00:00",
+ "ts": "2026-11-22T20:26:07+00:00",
  "matchups": [
   {
    "id": "1v8",
@@ -162,7 +162,7 @@
      "pts": 0.0,
      "proj": 14.44,
      "live": 14.44,
-     "game": "Fri 3:00 pm @ Pit"
+     "game": "Fri 3:00 pm @ Pit"
     },
     {
      "player": "C. Olave",
@@ -217,7 +217,7 @@
      "pts": 0.0,
      "proj": 8.67,
      "live": 8.67,
-     "game": "Fri 3:00 pm vs Den"
+     "game": "Fri 3:00 pm vs Den"
     }
    ]
   },
@@ -300,7 +300,7 @@
      "pts": 0.0,
      "proj": 10.17,
      "live": 10.17,
-     "game": "Fri 3:00 pm @ Pit"
+     "game": "Fri 3:00 pm @ Pit"
     },
     {
      "player": "D. Zvada",
@@ -423,7 +423,7 @@
      "pts": 0.0,
      "proj": 8.54,
      "live": 8.54,
-     "game": "Fri 3:00 pm @ Pit"
+     "game": "Fri 3:00 pm @ Pit"
     },
     {
      "player": "49ers",
@@ -596,7 +596,7 @@
      "pts": 0.0,
      "proj": 16.43,
      "live": 16.43,
-     "game": "Fri 3:00 pm vs Den"
+     "game": "Fri 3:00 pm vs Den"
     },
     {
      "player": "R. Odunze",
@@ -846,7 +846,7 @@
      "pts": 0.0,
      "proj": 9.13,
      "live": 9.13,
-     "game": "Fri 3:00 pm vs Den"
+     "game": "Fri 3:00 pm vs Den"
     },
     {
      "player": "Bears",
@@ -868,7 +868,7 @@
      "pts": 0.0,
      "proj": 4.93,
      "live": 4.93,
-     "game": "Fri 3:00 pm @ Pit"
+     "game": "Fri 3:00 pm @ Pit"
     }
    ]
   },
@@ -973,7 +973,7 @@
      "pts": 0.0,
      "proj": 6.42,
      "live": 6.42,
-     "game": "Fri 3:00 pm vs Den"
+     "game": "Fri 3:00 pm vs Den"
     },
     {
      "player": "Steelers",
@@ -984,7 +984,7 @@
      "pts": 0.0,
      "proj": 6.14,
      "live": 6.14,
-     "game": "Fri 3:00 pm vs Den"
+     "game": "Fri 3:00 pm vs Den"
     }
    ],
    "rightActive": [
@@ -1074,7 +1074,7 @@
      "pts": 0.0,
      "proj": 8.93,
      "live": 8.93,
-     "game": "Fri 3:00 pm vs Den"
+     "game": "Fri 3:00 pm vs Den"
     },
     {
      "player": "Bills",
@@ -1113,7 +1113,7 @@
      "pts": 0.0,
      "proj": 18.25,
      "live": 18.25,
-     "game": "Fri 3:00 pm @ Pit"
+     "game": "Fri 3:00 pm @ Pit"
     },
     {
      "player": "J. Jefferson",
@@ -1190,7 +1190,7 @@
      "pts": 0.0,
      "proj": 9.09,
      "live": 9.09,
-     "game": "Fri 3:00 pm @ Pit"
+     "game": "Fri 3:00 pm @ Pit"
     },
     {
      "player": "M. Gesicki",
@@ -1269,7 +1269,7 @@
      "pts": 0.0,
      "proj": 7.14,
      "live": 7.14,
-     "game": "Fri 3:00 pm vs Den"
+     "game": "Fri 3:00 pm vs Den"
     },
     {
      "player": "M. Mayer",
@@ -1302,7 +1302,7 @@
      "pts": 0.0,
      "proj": 4.66,
      "live": 4.66,
-     "game": "Fri 3:00 pm @ Pit"
+     "game": "Fri 3:00 pm @ Pit"
     }
    ]
   }
