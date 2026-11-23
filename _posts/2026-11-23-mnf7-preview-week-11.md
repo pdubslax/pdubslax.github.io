@@ -27,7 +27,7 @@ A weekly newsletter for members of the Harry Koch Memorial Cup Fantasy Football 
 
 
 
-**99% - 53.73 points: Chubb will Rise Again (5-5) vs Silly Shrek Squad (4-6)**  
+**✅ 99% - 53.73 points: Chubb will Rise Again (5-5) vs Silly Shrek Squad (4-6)**  
 
 
 
