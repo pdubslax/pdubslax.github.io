@@ -2,7 +2,7 @@
  "v": 3,
  "week": 12,
  "tz": "ET",
- "ts": "2026-11-23T08:19:33+00:00",
+ "ts": "2026-11-23T08:39:47+00:00",
  "matchups": [
   {
    "id": "1v8",
@@ -13,7 +13,7 @@
    "leftScore": 0.0,
    "leftProj": 111.06,
    "rightScore": 0.0,
-   "rightProj": 125.35,
+   "rightProj": 125.34,
    "leftPct": 38,
    "leftRem": 9,
    "rightRem": 9,
@@ -168,11 +168,11 @@
      "player": "C. Olave",
      "pos": "WR",
      "slot": "WR",
-     "rem": 14.38,
+     "rem": 14.37,
      "state": "pending",
      "pts": 0.0,
-     "proj": 14.38,
-     "live": 14.38,
+     "proj": 14.37,
+     "live": 14.37,
      "game": "Sun 1:00 pm @ Cin"
     },
     {
@@ -228,9 +228,9 @@
    "right": "Zen Buddha Boys 🪷💨",
    "rightRec": "4-6",
    "leftScore": 0.0,
-   "leftProj": 107.8,
+   "leftProj": 107.79,
    "rightScore": 0.0,
-   "rightProj": 125.67,
+   "rightProj": 125.7,
    "leftPct": 35,
    "leftRem": 9,
    "rightRem": 9,
@@ -314,7 +314,7 @@
      "game": "Sun 1:00 pm @ Ind"
     },
     {
-     "player": "Cincinnati",
+     "player": "Bengals",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 8.19,
@@ -328,11 +328,11 @@
      "player": "D. Samuel Sr.",
      "pos": "WR",
      "slot": "W/R/T",
-     "rem": 8.04,
+     "rem": 8.03,
      "state": "pending",
      "pts": 0.0,
-     "proj": 8.04,
-     "live": 8.04,
+     "proj": 8.03,
+     "live": 8.03,
      "game": "Sun 4:25 pm vs Sea"
     }
    ],
@@ -385,11 +385,11 @@
      "player": "O. Gordon II",
      "pos": "RB",
      "slot": "RB",
-     "rem": 14.39,
+     "rem": 14.42,
      "state": "pending",
      "pts": 0.0,
-     "proj": 14.39,
-     "live": 14.39,
+     "proj": 14.42,
+     "live": 14.42,
      "game": "Sun 1:00 pm vs NYJ"
     },
     {
@@ -426,7 +426,7 @@
      "game": "Fri 3:00 pm @ Pit"
     },
     {
-     "player": "S. Francisco",
+     "player": "49ers",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 7.32,
@@ -445,9 +445,9 @@
    "right": "James Ray Ervin Yonts",
    "rightRec": "6-4",
    "leftScore": 0.0,
-   "leftProj": 129.69,
+   "leftProj": 129.68,
    "rightScore": 0.0,
-   "rightProj": 124.06,
+   "rightProj": 124.07,
    "leftPct": 54,
    "leftRem": 9,
    "rightRem": 9,
@@ -523,11 +523,11 @@
      "player": "M. Evans",
      "pos": "WR",
      "slot": "W/R/T",
-     "rem": 10.96,
+     "rem": 10.95,
      "state": "pending",
      "pts": 0.0,
-     "proj": 10.96,
-     "live": 10.96,
+     "proj": 10.95,
+     "live": 10.95,
      "game": "Sun 4:25 pm vs Sea"
     },
     {
@@ -542,7 +542,7 @@
      "game": "Sun 1:00 pm vs Atl"
     },
     {
-     "player": "Carolina",
+     "player": "Panthers",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 5.94,
@@ -569,11 +569,11 @@
      "player": "B. Irving",
      "pos": "RB",
      "slot": "W/R/T",
-     "rem": 19.41,
+     "rem": 19.42,
      "state": "pending",
      "pts": 0.0,
-     "proj": 19.41,
-     "live": 19.41,
+     "proj": 19.42,
+     "live": 19.42,
      "game": "Mon 8:15 pm vs Car"
     },
     {
@@ -632,7 +632,7 @@
      "game": "Sun 1:00 pm vs Bal"
     },
     {
-     "player": "L. Angeles",
+     "player": "Chargers",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 8.17,
@@ -662,9 +662,9 @@
    "right": "Kiwis are better than mid",
    "rightRec": "7-3",
    "leftScore": 0.0,
-   "leftProj": 123.13,
+   "leftProj": 123.16,
    "rightScore": 0.0,
-   "rightProj": 107.6,
+   "rightProj": 107.55,
    "leftPct": 63,
    "leftRem": 9,
    "rightRem": 9,
@@ -685,11 +685,11 @@
      "player": "J. Chase",
      "pos": "WR",
      "slot": "WR",
-     "rem": 20.15,
+     "rem": 20.14,
      "state": "pending",
      "pts": 0.0,
-     "proj": 20.15,
-     "live": 20.15,
+     "proj": 20.14,
+     "live": 20.14,
      "game": "Sun 1:00 pm vs NO"
     },
     {
@@ -718,11 +718,11 @@
      "player": "A. Jeanty",
      "pos": "RB",
      "slot": "RB",
-     "rem": 12.93,
+     "rem": 12.97,
      "state": "pending",
      "pts": 0.0,
-     "proj": 12.93,
-     "live": 12.93,
+     "proj": 12.97,
+     "live": 12.97,
      "game": "Sun 8:20 pm @ Cle"
     },
     {
@@ -797,11 +797,11 @@
      "player": "G. Wilson",
      "pos": "WR",
      "slot": "WR",
-     "rem": 14.45,
+     "rem": 14.41,
      "state": "pending",
      "pts": 0.0,
-     "proj": 14.45,
-     "live": 14.45,
+     "proj": 14.41,
+     "live": 14.41,
      "game": "Sun 1:00 pm @ Mia"
     },
     {
@@ -841,11 +841,11 @@
      "player": "DK Metcalf",
      "pos": "WR",
      "slot": "W/R/T",
-     "rem": 8.98,
+     "rem": 8.97,
      "state": "pending",
      "pts": 0.0,
-     "proj": 8.98,
-     "live": 8.98,
+     "proj": 8.97,
+     "live": 8.97,
      "game": "Fri 3:00 pm vs Den"
     },
     {
@@ -881,7 +881,7 @@
    "leftScore": 0.0,
    "leftProj": 118.3,
    "rightScore": 0.0,
-   "rightProj": 115.21,
+   "rightProj": 115.22,
    "leftPct": 53,
    "leftRem": 9,
    "rightRem": 9,
@@ -1058,11 +1058,11 @@
      "player": "K. Shakir",
      "pos": "WR",
      "slot": "WR",
-     "rem": 9.11,
+     "rem": 9.12,
      "state": "pending",
      "pts": 0.0,
-     "proj": 9.11,
-     "live": 9.11,
+     "proj": 9.12,
+     "live": 9.12,
      "game": "Thu 8:20 pm vs KC"
     },
     {
@@ -1098,7 +1098,7 @@
    "leftScore": 0.0,
    "leftProj": 117.31,
    "rightScore": 0.0,
-   "rightProj": 85.97,
+   "rightProj": 85.91,
    "leftPct": 78,
    "leftRem": 9,
    "rightRem": 9,
@@ -1141,11 +1141,11 @@
      "player": "B. Hall",
      "pos": "RB",
      "slot": "RB",
-     "rem": 14.19,
+     "rem": 14.21,
      "state": "pending",
      "pts": 0.0,
-     "proj": 14.19,
-     "live": 14.19,
+     "proj": 14.21,
+     "live": 14.21,
      "game": "Sun 1:00 pm @ Mia"
     },
     {
@@ -1174,11 +1174,11 @@
      "player": "M. Washington",
      "pos": "WR",
      "slot": "W/R/T",
-     "rem": 9.62,
+     "rem": 9.6,
      "state": "pending",
      "pts": 0.0,
-     "proj": 9.62,
-     "live": 9.62,
+     "proj": 9.6,
+     "live": 9.6,
      "game": "Sun 1:00 pm vs NYJ"
     },
     {
@@ -1275,11 +1275,11 @@
      "player": "M. Mayer",
      "pos": "TE",
      "slot": "TE",
-     "rem": 6.22,
+     "rem": 6.16,
      "state": "pending",
      "pts": 0.0,
-     "proj": 6.22,
-     "live": 6.22,
+     "proj": 6.16,
+     "live": 6.16,
      "game": "Sun 8:20 pm @ Cle"
     },
     {
