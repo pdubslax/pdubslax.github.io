@@ -2,7 +2,7 @@
  "v": 3,
  "week": 12,
  "tz": "ET",
- "ts": "2026-11-23T19:11:53+00:00",
+ "ts": "2026-11-23T19:32:13+00:00",
  "matchups": [
   {
    "id": "1v8",
@@ -13,8 +13,8 @@
    "leftScore": 0.0,
    "leftProj": 111.24,
    "rightScore": 0.0,
-   "rightProj": 125.2,
-   "leftPct": 39,
+   "rightProj": 128.39,
+   "leftPct": 36,
    "leftRem": 9,
    "rightRem": 9,
    "shotgun": [],
@@ -176,15 +176,15 @@
      "game": "Sun 1:00 pm @ Cin"
     },
     {
-     "player": "D. Montgomery",
+     "player": "S. Barkley",
      "pos": "RB",
      "slot": "RB",
-     "rem": 10.49,
+     "rem": 13.68,
      "state": "pending",
      "pts": 0.0,
-     "proj": 10.49,
-     "live": 10.49,
-     "game": "Sun 1:00 pm vs Bal"
+     "proj": 13.68,
+     "live": 13.68,
+     "game": "Thu 4:30 pm @ Dal"
     },
     {
      "player": "Jaguars",
