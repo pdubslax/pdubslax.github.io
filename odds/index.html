@@ -233,7 +233,7 @@ function fixTimes(d){
 }
 // A kickoff time with its clock named: "Mon 8:15 PM ET vs CIN". Now and then Yahoo's page is read a beat before the opponent renders,
 // leaving a dangling "vs" or "@" for one sample: drop it rather than print half a matchup.
-const kick = g => (g || '').replace(/^((?:Sun|Mon|Tue|Wed|Thu|Fri|Sat) \d{1,2}:\d{2} [AP]M)/i, '$1 ET').replace(/ (vs|@)$/, '');
+const kick = g => (g || '').replace(/^((?:Sun|Mon|Tue|Wed|Thu|Fri|Sat) \d{1,2}:\d{2}) ([AP]M)/i, (_, t, ap) => `${t} ${ap.toUpperCase()} ET`).replace(/ (vs|@)$/, '');  // Yahoo writes "pm" on pages for a week that has not started
 // A downloaded week, in either form, as render() reads it: healed, with a samples list. The slim form carries the latest sample in full
 // plus, for the chart, every sample's time and each matchup's left-team odds (already healed by the sampler); the earlier samples are
 // rebuilt here with just those, which is all render() takes from them.
