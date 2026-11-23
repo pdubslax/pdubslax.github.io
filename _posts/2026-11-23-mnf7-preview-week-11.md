@@ -23,27 +23,27 @@ A weekly newsletter for members of the Harry Koch Memorial Cup Fantasy Football 
 
 ### Matchups
 
-**99% - 57.77 points: Chubb will Rise Again (5-5) vs Silly Shrek Squad (4-6)**  
-
-
-
 **✅ 100% - 56.59 points: James Ray Ervin Yonts (6-4) vs Kiwis are better than mid (7-3)**  
 
 
 
-**92% - 34.36 points: I put a beer on her head (4-6) vs Lover boy (5-5)**  
+**99% - 53.73 points: Chubb will Rise Again (5-5) vs Silly Shrek Squad (4-6)**  
 
 
 
-**✅ 99% - 34.01 points: MELONHEADS (daniel) (6-4) vs RosterMogged (5-5)**  
+**93% - 35.23 points: I put a beer on her head (4-6) vs Lover boy (5-5)**  
 
 
 
-**82% - 12.55 points: BDSM AI Stealth Founder (3-7) vs Tuten Brown (5-5)**  
+**✅ 99% - 34.11 points: MELONHEADS (daniel) (6-4) vs RosterMogged (5-5)**  
 
 
 
-**79% - 9.63 points: Robotripping Gardener (6-4) vs Zen Buddha Boys 🪷💨 (4-6)**  
+**82% - 12.56 points: BDSM AI Stealth Founder (3-7) vs Tuten Brown (5-5)**  
+
+
+
+**79% - 9.68 points: Robotripping Gardener (6-4) vs Zen Buddha Boys 🪷💨 (4-6)**  
 
 
 
