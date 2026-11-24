@@ -388,7 +388,7 @@ async def main(out_dir):
             # Guard against a misread percentage: a swing of 40+ points while scores and projections are unchanged is Yahoo's page
             # rendering mid-update, not a real move. Keep the previous reading instead.
             prev_m = next((x for x in (hist["samples"][-1]["matchups"] if hist["samples"] else []) if x["id"] == row["id"]), None)
-            if prev_m and prev_m.get("leftPct") is not None and abs(pct - prev_m["leftPct"]) >= 40 \
+            if prev_m and prev_m.get("leftPct") is not None and list(rem) != [0, 0] and abs(pct - prev_m["leftPct"]) >= 40 \
                and all(abs(row[k] - prev_m.get(k, row[k])) < 0.5 for k in ("leftScore", "rightScore", "leftProj", "rightProj")):
                 print(f"suspicious odds jump for {row['id']}: {prev_m['leftPct']} -> {pct} with no score change; keeping {prev_m['leftPct']}", file=sys.stderr)
                 pct = prev_m["leftPct"]; row["stale"] = True
@@ -398,9 +398,13 @@ async def main(out_dir):
     if len(good) < len(rows):
         print(f"WARNING: {len(rows)-len(good)} matchups missing odds", file=sys.stderr)
     all_done = bool(good) and all(r["leftRem"] == 0 and r["rightRem"] == 0 for r in good)
+    def state_of(ms): return {m["id"]: (round(m.get("leftScore") or 0, 2), round(m.get("rightScore") or 0, 2)) for m in ms}
     if all_done and hist["samples"]:
         last = hist["samples"][-1]["matchups"]
-        if all(r.get("leftRem") == 0 and r.get("rightRem") == 0 for r in last):
+        # A finished week is only left alone while its scores hold. Yahoo can show a game as over a beat before its last play is
+        # scored (a walk-off field goal moved a defense down a points-allowed tier and flipped a 0.22 point win into a 1.78 point
+        # loss after the closing sample), and stat corrections land for days. A moved score falls through and is recorded below.
+        if all(r.get("leftRem") == 0 and r.get("rightRem") == 0 for r in last) and state_of(last) == state_of(good):
             # Nothing to write, except the slim files the first time a sampler that knows about them finds a finished week.
             if not all(os.path.exists(os.path.join(out_dir, f)) for f in (f"week{week}.lite.json", "live.json")): write_slim(hist, out_dir)
             print("week already fully decided; no new sample"); return 0
@@ -415,7 +419,6 @@ async def main(out_dir):
     # Catch-up: if the sampler was down through a game (GitHub outage, broken chain), the first pass back finds scores, odds or
     # players-remaining that moved since the last sample. Record that so the week's finals land even when no window is open.
     # Scores only: odds and players-remaining also move with lineup changes between games, and those are not chart material.
-    def state_of(ms): return {m["id"]: (round(m.get("leftScore") or 0, 2), round(m.get("rightScore") or 0, 2)) for m in ms}
     moved = underway and bool(hist["samples"]) and state_of(hist["samples"][-1]["matchups"]) != state_of(good)
     recorded = any_live or last_had_live or moved or (in_window(windows=windows) and underway)
     if recorded:
