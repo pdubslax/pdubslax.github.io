@@ -2,7 +2,7 @@
  "v": 3,
  "week": 12,
  "tz": "ET",
- "ts": "2026-11-24T04:40:08+00:00",
+ "ts": "2026-11-24T05:20:10+00:00",
  "matchups": [
   {
    "id": "1v8",
@@ -11,7 +11,7 @@
    "right": "I put a beer on her head",
    "rightRec": "4-6",
    "leftScore": 0.0,
-   "leftProj": 111.28,
+   "leftProj": 111.31,
    "rightScore": 0.0,
    "rightProj": 126.44,
    "leftPct": 38,
@@ -34,11 +34,11 @@
      "player": "K. Cousins",
      "pos": "QB",
      "slot": "QB",
-     "rem": 20.13,
+     "rem": 20.16,
      "state": "pending",
      "pts": 0.0,
-     "proj": 20.13,
-     "live": 20.13,
+     "proj": 20.16,
+     "live": 20.16,
      "game": "Sun 1:00 pm vs Atl"
     },
     {
@@ -445,10 +445,10 @@
    "right": "James Ray Ervin Yonts",
    "rightRec": "6-4",
    "leftScore": 0.0,
-   "leftProj": 130.11,
+   "leftProj": 135.56,
    "rightScore": 0.0,
-   "rightProj": 132.09,
-   "leftPct": 49,
+   "rightProj": 132.06,
+   "leftPct": 53,
    "leftRem": 9,
    "rightRem": 9,
    "shotgun": [],
@@ -476,6 +476,17 @@
      "game": "Thu 8:20 pm @ Buf"
     },
     {
+     "player": "K. Williams",
+     "pos": "RB",
+     "slot": "W/R/T",
+     "rem": 16.27,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 16.27,
+     "live": 16.27,
+     "game": "Wed 8:00 pm vs GB"
+    },
+    {
      "player": "D. Swift",
      "pos": "RB",
      "slot": "RB",
@@ -498,17 +509,6 @@
      "game": "Sun 4:25 pm vs Was"
     },
     {
-     "player": "S. Diggs",
-     "pos": "WR",
-     "slot": "WR",
-     "rem": 12.77,
-     "state": "pending",
-     "pts": 0.0,
-     "proj": 12.77,
-     "live": 12.77,
-     "game": "Sun 4:25 pm @ Ari"
-    },
-    {
      "player": "T. McMillan",
      "pos": "WR",
      "slot": "WR",
@@ -522,7 +522,7 @@
     {
      "player": "M. Evans",
      "pos": "WR",
-     "slot": "W/R/T",
+     "slot": "WR",
      "rem": 11.04,
      "state": "pending",
      "pts": 0.0,
@@ -534,23 +534,23 @@
      "player": "W. Reichard",
      "pos": "K",
      "slot": "K",
-     "rem": 10.33,
+     "rem": 10.36,
      "state": "pending",
      "pts": 0.0,
-     "proj": 10.33,
-     "live": 10.33,
+     "proj": 10.36,
+     "live": 10.36,
      "game": "Sun 1:00 pm vs Atl"
     },
     {
-     "player": "Panthers",
+     "player": "Patriots",
      "pos": "DEF",
      "slot": "DEF",
-     "rem": 6.3,
+     "rem": 8.22,
      "state": "pending",
      "pts": 0.0,
-     "proj": 6.3,
-     "live": 6.3,
-     "game": "Mon 8:15 pm @ TB"
+     "proj": 8.22,
+     "live": 8.22,
+     "game": "Sun 4:05 pm @ LAC"
     }
    ],
    "rightActive": [
@@ -602,11 +602,11 @@
      "player": "D. London",
      "pos": "WR",
      "slot": "W/R/T",
-     "rem": 13.98,
+     "rem": 13.95,
      "state": "pending",
      "pts": 0.0,
-     "proj": 13.98,
-     "live": 13.98,
+     "proj": 13.95,
+     "live": 13.95,
      "game": "Sun 1:00 pm @ Min"
     },
     {
@@ -664,7 +664,7 @@
    "leftScore": 0.0,
    "leftProj": 122.76,
    "rightScore": 0.0,
-   "rightProj": 107.09,
+   "rightProj": 107.12,
    "leftPct": 63,
    "leftRem": 9,
    "rightRem": 9,
@@ -819,11 +819,11 @@
      "player": "A. Jones Sr.",
      "pos": "RB",
      "slot": "RB",
-     "rem": 10.78,
+     "rem": 10.81,
      "state": "pending",
      "pts": 0.0,
-     "proj": 10.78,
-     "live": 10.78,
+     "proj": 10.81,
+     "live": 10.81,
      "game": "Sun 1:00 pm vs Atl"
     },
     {
@@ -1096,7 +1096,7 @@
    "right": "RosterMogged",
    "rightRec": "5-5",
    "leftScore": 0.0,
-   "leftProj": 116.97,
+   "leftProj": 116.98,
    "rightScore": 0.0,
    "rightProj": 85.75,
    "leftPct": 78,
@@ -1119,11 +1119,11 @@
      "player": "J. Jefferson",
      "pos": "WR",
      "slot": "WR",
-     "rem": 17.69,
+     "rem": 17.7,
      "state": "pending",
      "pts": 0.0,
-     "proj": 17.69,
-     "live": 17.69,
+     "proj": 17.7,
+     "live": 17.7,
      "game": "Sun 1:00 pm vs Atl"
     },
     {
