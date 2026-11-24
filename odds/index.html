@@ -334,7 +334,12 @@ const dayOf = a => ((a.game||'').match(/^(Thu|Fri|Sat|Sun|Mon|Tue|Wed)/)||[])[1]
 function nextDay(matchups){ const ds = matchups.flatMap(m => [...(m.leftActive||[]), ...(m.rightActive||[])]).filter(a => a.state==='pending').map(dayOf).filter(Boolean); if (!ds.length) return null; const first = Math.min(...ds.map(d => DAYS[d])); return Object.keys(DAYS).find(k => DAYS[k] === first); }
 function render(hist, mode, curWeek){
   if(!hist.samples || !hist.samples.length){ document.getElementById('grid').innerHTML='<div class="empty">No samples yet this week. The sampler runs about once a minute during game windows.</div>'; return; }
-  const S = hist.samples; const last = S[S.length-1]; const first = S[0]; const prev = S.length>1 ? S[S.length-2] : null;
+  const S = hist.samples;
+  // Between game windows the sampler keeps reading Yahoo but only refreshes a preview snapshot (lineup and projection moves are not chart
+  // material). The board reads that snapshot when it is newer than the last recorded sample, so a player who came off IR on Monday
+  // afternoon shows up before kickoff; the charts keep to recorded samples.
+  const fresh = mode === 'live' && hist.preview && (hist.preview.matchups||[]).length === S[S.length-1].matchups.length && new Date(hist.preview.ts) > new Date(S[S.length-1].ts);
+  const last = fresh ? hist.preview : S[S.length-1];
   const fmtT = ts => new Date(ts).toLocaleString(undefined,{weekday:'short',hour:'numeric',minute:'2-digit'});
   const ago = ts => { const m = Math.round((Date.now()-new Date(ts))/60000); return m<1?'just now':m<60?m+' min ago':Math.round(m/60)+' h ago'; };
   const esc = s => s.replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
@@ -342,7 +347,7 @@ function render(hist, mode, curWeek){
   const weeks = []; for (let w = FIRST_WEEK; w <= topWeek; w++) weeks.push(w);
   // Breadcrumb: every week number, the one on screen in bold; identical in every mode (no 'current' or 'back' link).
   const crumbs = weeks.map(w => w === hist.week ? `<b>${w}</b>` : `<a href="#week${w}" data-week="${w}">${w}</a>`).join(' · ');
-  const status = mode === 'past' ? 'final' : mode === 'upcoming' ? `projections as of <b>${esc(fmtT(last.ts))}</b>` : `<span class="live"><i></i>last sample <b>${esc(fmtT(last.ts))}</b> (${ago(last.ts)})</span>`;
+  const status = mode === 'past' ? 'final' : mode === 'upcoming' ? `projections as of <b>${esc(fmtT(last.ts))}</b>` : `<span class="live"><i></i>${fresh ? 'last check' : 'last sample'} <b>${esc(fmtT(last.ts))}</b> (${ago(last.ts)})</span>`;
   document.getElementById('meta').innerHTML = `<span class="crumbs"><span class="wk">Week</span> ${crumbs}</span><span>${status}</span>`;
   // blowout ribbon: projected margin, biggest first
   const margins = last.matchups.map(m => { const l = m.leftProj>=m.rightProj; return {lead: shortName(m, l?0:1), trail: shortName(m, l?1:0), margin: Math.abs(m.leftProj-m.rightProj)}; }).sort((a,b)=>b.margin-a.margin).slice(0,3);
