@@ -27,15 +27,15 @@ A weekly newsletter for members of the Harry Koch Memorial Cup Fantasy Football 
 
 
 
-**✅ 99% - 53.73 points: Chubb will Rise Again (5-5) vs Silly Shrek Squad (4-6)**  
+**✅ 99% - 53.64 points: Chubb will Rise Again (5-5) vs Silly Shrek Squad (4-6)**  
 
 
 
-**93% - 35.23 points: I put a beer on her head (4-6) vs Lover boy (5-5)**  
+**93% - 35.16 points: I put a beer on her head (4-6) vs Lover boy (5-5)**  
 
 
 
-**✅ 99% - 34.11 points: MELONHEADS (daniel) (6-4) vs RosterMogged (5-5)**  
+**✅ 99% - 34.16 points: MELONHEADS (daniel) (6-4) vs RosterMogged (5-5)**  
 
 
 
@@ -43,7 +43,7 @@ A weekly newsletter for members of the Harry Koch Memorial Cup Fantasy Football 
 
 
 
-**79% - 9.68 points: Robotripping Gardener (6-4) vs Zen Buddha Boys 🪷💨 (4-6)**  
+**79% - 9.69 points: Robotripping Gardener (6-4) vs Zen Buddha Boys 🪷💨 (4-6)**  
 
 
 
