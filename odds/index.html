@@ -286,7 +286,13 @@ const decidedOf = m => { const lp = m.leftPct; const leftAhead = m.leftScore > m
   const remProj = side => ((side === 'left' ? m.leftActive : m.rightActive) || []).filter(a => a.state === 'live' || a.state === 'pending').reduce((s,a) => s + (a.rem || 0), 0);
   const deficit = Math.abs(m.leftScore - m.rightScore);
   const outOfReach = (lp >= 99 && leftAhead && deficit > 1.5 * remProj('right')) || (lp <= 1 && rightAhead && deficit > 1.5 * remProj('left'));
-  return (m.leftRem===0 && m.rightRem===0) || ((lp===100 || lp===0) && (m.leftRem===0 || m.rightRem===0)) || (lp>=99 && m.rightRem===0) || (lp<=1 && m.leftRem===0) || (leftAhead && m.rightRem===0) || (rightAhead && m.leftRem===0) || outOfReach; };
+  // Ahead with the other side finished is only over if the leader's own unfinished players cannot hand the lead back: a lost fumble is -2,
+  // an interception -1, and a defense slides down the points-allowed and yardage tiers all game. A lead inside that allowance stays live
+  // (a 0.2 point lead with a receiver still on the field is one fumble from flipping). Players the roster read missed count as 8 each.
+  const risk = (side, rem) => { const un = ((side === 'left' ? m.leftActive : m.rightActive) || []).filter(a => a.state === 'live' || a.state === 'pending');
+    return un.reduce((s,a) => s + (a.pos === 'DEF' ? 15 : a.pos === 'QB' ? 6 : a.pos === 'K' ? 2 : 4), 0) + 8 * Math.max(0, (rem || 0) - un.length); };
+  const safe = (leftAhead && m.rightRem===0 && deficit > risk('left', m.leftRem)) || (rightAhead && m.leftRem===0 && deficit > risk('right', m.rightRem));
+  return (m.leftRem===0 && m.rightRem===0) || ((lp===100 || lp===0) && (m.leftRem===0 || m.rightRem===0)) || (lp>=99 && m.rightRem===0) || (lp<=1 && m.leftRem===0) || safe || outOfReach; };
 async function load(){
   try {
     if (Date.now() > apiBlockedUntil) {
