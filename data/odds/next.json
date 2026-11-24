@@ -2,7 +2,7 @@
  "v": 3,
  "week": 12,
  "tz": "ET",
- "ts": "2026-11-24T03:45:03+00:00",
+ "ts": "2026-11-24T04:06:03+00:00",
  "matchups": [
   {
    "id": "1v8",
@@ -447,8 +447,8 @@
    "leftScore": 0.0,
    "leftProj": 130.11,
    "rightScore": 0.0,
-   "rightProj": 125.03,
-   "leftPct": 54,
+   "rightProj": 132.08,
+   "leftPct": 49,
    "leftRem": 9,
    "rightRem": 9,
    "shotgun": [],
@@ -568,7 +568,7 @@
     {
      "player": "B. Irving",
      "pos": "RB",
-     "slot": "W/R/T",
+     "slot": "RB",
      "rem": 19.48,
      "state": "pending",
      "pts": 0.0,
@@ -597,6 +597,17 @@
      "proj": 16.3,
      "live": 16.3,
      "game": "Fri 3:00 pm vs Den"
+    },
+    {
+     "player": "D. London",
+     "pos": "WR",
+     "slot": "W/R/T",
+     "rem": 13.98,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 13.98,
+     "live": 13.98,
+     "game": "Sun 1:00 pm @ Min"
     },
     {
      "player": "R. Odunze",
@@ -641,17 +652,6 @@
      "proj": 9.2,
      "live": 9.2,
      "game": "Sun 4:05 pm vs NE"
-    },
-    {
-     "player": "E. Johnson",
-     "pos": "RB",
-     "slot": "RB",
-     "rem": 6.93,
-     "state": "pending",
-     "pts": 0.0,
-     "proj": 6.93,
-     "live": 6.93,
-     "game": "Thu 8:20 pm @ Buf"
     }
    ]
   },
