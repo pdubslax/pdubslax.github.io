@@ -2,7 +2,7 @@
  "v": 3,
  "week": 12,
  "tz": "ET",
- "ts": "2026-11-24T21:09:09+00:00",
+ "ts": "2026-11-24T21:30:01+00:00",
  "matchups": [
   {
    "id": "1v8",
@@ -50,7 +50,7 @@
      "pts": 0.0,
      "proj": 15.38,
      "live": 15.38,
-     "game": "Wed 8:00 pm @ LAR"
+     "game": "Wed 8:00 pm @ LAR"
     },
     {
      "player": "T. Etienne Jr.",
@@ -484,7 +484,7 @@
      "pts": 0.0,
      "proj": 16.28,
      "live": 16.28,
-     "game": "Wed 8:00 pm vs GB"
+     "game": "Wed 8:00 pm vs GB"
     },
     {
      "player": "D. Swift",
@@ -550,7 +550,7 @@
      "pts": 0.0,
      "proj": 9.4,
      "live": 9.4,
-     "game": "Sun 4:05 pm @ LAC"
+     "game": "Sun 4:05 pm @ LAC"
     }
    ],
    "rightActive": [
@@ -984,7 +984,7 @@
      "pts": 0.0,
      "proj": 9.21,
      "live": 9.21,
-     "game": "Wed 8:00 pm @ LAR"
+     "game": "Wed 8:00 pm @ LAR"
     }
    ],
    "rightActive": [
@@ -1113,7 +1113,7 @@
      "pts": 0.0,
      "proj": 19.78,
      "live": 19.78,
-     "game": "Wed 8:00 pm @ LAR"
+     "game": "Wed 8:00 pm @ LAR"
     },
     {
      "player": "J. Cook III",
@@ -1157,7 +1157,7 @@
      "pts": 0.0,
      "proj": 13.05,
      "live": 13.05,
-     "game": "Wed 8:00 pm vs GB"
+     "game": "Wed 8:00 pm vs GB"
     },
     {
      "player": "J. Williams",
@@ -1236,7 +1236,7 @@
      "pts": 0.0,
      "proj": 11.61,
      "live": 11.61,
-     "game": "Sun 4:05 pm vs NE"
+     "game": "Sun 4:05 pm vs NE"
     },
     {
      "player": "R. Rice",
@@ -1258,7 +1258,7 @@
      "pts": 0.0,
      "proj": 10.48,
      "live": 10.48,
-     "game": "Sun 4:05 pm vs NE"
+     "game": "Sun 4:05 pm vs NE"
     },
     {
      "player": "C. Santos",
