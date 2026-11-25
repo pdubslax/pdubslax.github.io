@@ -2,7 +2,7 @@
  "v": 3,
  "week": 13,
  "tz": "ET",
- "ts": "2026-11-25T12:56:50+00:00",
+ "ts": "2026-11-25T13:17:08+00:00",
  "matchups": [
   {
    "id": "1v12",
@@ -328,7 +328,7 @@
      "game": "Sun 4:25 pm vs Car"
     },
     {
-     "player": "Bengals",
+     "player": "Cincinnati",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 9.66,
@@ -388,11 +388,11 @@
      "player": "J. Warren",
      "pos": "RB",
      "slot": "RB",
-     "rem": 15.8,
+     "rem": 15.91,
      "state": "pending",
      "pts": 0.0,
-     "proj": 15.8,
-     "live": 15.8,
+     "proj": 15.91,
+     "live": 15.91,
      "game": "Sun 8:20 pm vs Hou"
     },
     {
@@ -440,7 +440,7 @@
      "game": "Sun 8:20 pm @ Pit"
     },
     {
-     "player": "Commanders",
+     "player": "Washington",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 7.22,
@@ -1314,11 +1314,11 @@
      "player": "G. Bernard",
      "pos": "WR",
      "slot": "WR",
-     "rem": 6.93,
+     "rem": 6.97,
      "state": "pending",
      "pts": 0.0,
-     "proj": 6.93,
-     "live": 6.93,
+     "proj": 6.97,
+     "live": 6.97,
      "game": "Sun 8:20 pm vs Hou"
     },
     {
