@@ -2,7 +2,7 @@
  "v": 3,
  "week": 13,
  "tz": "ET",
- "ts": "2026-11-25T22:06:29+00:00",
+ "ts": "2026-11-25T22:26:50+00:00",
  "matchups": [
   {
    "id": "1v12",
@@ -77,11 +77,11 @@
      "player": "K. Cousins",
      "pos": "QB",
      "slot": "QB",
-     "rem": 18.9,
+     "rem": 18.96,
      "state": "pending",
      "pts": 0.0,
-     "proj": 18.9,
-     "live": 18.9,
+     "proj": 18.96,
+     "live": 18.96,
      "game": "Sun 4:25 pm vs Car"
     },
     {
@@ -121,11 +121,11 @@
      "player": "J. Coker",
      "pos": "WR",
      "slot": "W/R/T",
-     "rem": 10.6,
+     "rem": 10.56,
      "state": "pending",
      "pts": 0.0,
-     "proj": 10.6,
-     "live": 10.6,
+     "proj": 10.56,
+     "live": 10.56,
      "game": "Sun 4:25 pm @ Min"
     },
     {
@@ -189,11 +189,11 @@
      "player": "A. Jones Sr.",
      "pos": "RB",
      "slot": "RB",
-     "rem": 10.18,
+     "rem": 10.22,
      "state": "pending",
      "pts": 0.0,
-     "proj": 10.18,
-     "live": 10.18,
+     "proj": 10.22,
+     "live": 10.22,
      "game": "Sun 4:25 pm vs Car"
     },
     {
