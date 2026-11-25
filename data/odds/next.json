@@ -2,7 +2,7 @@
  "v": 3,
  "week": 13,
  "tz": "ET",
- "ts": "2026-11-25T13:37:27+00:00",
+ "ts": "2026-11-25T13:57:44+00:00",
  "matchups": [
   {
    "id": "1v12",
@@ -1004,7 +1004,7 @@
      "game": "Sun 4:25 pm @ NE"
     },
     {
-     "player": "Buffalo",
+     "player": "Bills",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 8.46,
@@ -1105,7 +1105,7 @@
      "game": "Sun 4:05 pm vs Mia"
     },
     {
-     "player": "S. Francisco",
+     "player": "49ers",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 8.3,
