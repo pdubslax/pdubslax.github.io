@@ -2,7 +2,7 @@
  "v": 3,
  "week": 13,
  "tz": "ET",
- "ts": "2026-11-25T16:19:59+00:00",
+ "ts": "2026-11-25T16:40:18+00:00",
  "matchups": [
   {
    "id": "1v12",
@@ -685,8 +685,8 @@
    "leftScore": 0.0,
    "leftProj": 101.4,
    "rightScore": 0.0,
-   "rightProj": 111.1,
-   "leftPct": 41,
+   "rightProj": 113.55,
+   "leftPct": 39,
    "leftRem": 8,
    "rightRem": 8,
    "shotgun": [
@@ -888,15 +888,15 @@
      "game": "Sun 1:00 pm @ Cle"
     },
     {
-     "player": "M. Gesicki",
+     "player": "D. Kincaid",
      "pos": "TE",
      "slot": "TE",
-     "rem": 6.51,
+     "rem": 8.96,
      "state": "pending",
      "pts": 0.0,
-     "proj": 6.51,
-     "live": 6.51,
-     "game": "Sun 1:00 pm @ Cle"
+     "proj": 8.96,
+     "live": 8.96,
+     "game": "Sun 4:25 pm @ NE"
     }
    ]
   },
