@@ -2,7 +2,7 @@
  "v": 3,
  "week": 13,
  "tz": "ET",
- "ts": "2026-11-25T09:32:48+00:00",
+ "ts": "2026-11-25T09:53:09+00:00",
  "matchups": [
   {
    "id": "1v12",
@@ -11,10 +11,10 @@
    "right": "Matt #2 Stephano",
    "rightRec": "7-4",
    "leftScore": 0.0,
-   "leftProj": 109.92,
+   "leftProj": 106.75,
    "rightScore": 0.0,
    "rightProj": 92.39,
-   "leftPct": 65,
+   "leftPct": 62,
    "leftRem": 8,
    "rightRem": 7,
    "shotgun": [
@@ -140,15 +140,15 @@
      "game": "Sun 1:00 pm @ Ten"
     },
     {
-     "player": "Texans",
+     "player": "Giants",
      "pos": "DEF",
      "slot": "DEF",
-     "rem": 8.08,
+     "rem": 4.91,
      "state": "pending",
      "pts": 0.0,
-     "proj": 8.08,
-     "live": 8.08,
-     "game": "Sun 8:20 pm @ Pit"
+     "proj": 4.91,
+     "live": 4.91,
+     "game": "Sun 1:00 pm vs SF"
     }
    ],
    "rightActive": [
@@ -461,10 +461,10 @@
    "leftScore": 0.0,
    "leftProj": 130.6,
    "rightScore": 0.0,
-   "rightProj": 88.88,
-   "leftPct": 81,
+   "rightProj": 83.32,
+   "leftPct": 84,
    "leftRem": 9,
-   "rightRem": 7,
+   "rightRem": 6,
    "shotgun": [
     {
      "player": "A. Jeanty",
@@ -489,6 +489,20 @@
      "tag": null,
      "state": "bye",
      "slot": "TE",
+     "manager": "Chubb will Rise Again",
+     "locked": false,
+     "live": 0.0,
+     "reason": "pts"
+    },
+    {
+     "player": "(Empty)",
+     "pos": "",
+     "team": "",
+     "pts": 0.0,
+     "game": "",
+     "tag": null,
+     "state": "empty",
+     "slot": "DEF",
      "manager": "Chubb will Rise Again",
      "locked": false,
      "live": 0.0,
@@ -662,17 +676,6 @@
      "proj": 8.13,
      "live": 8.13,
      "game": "Thu 8:15 pm @ LAR"
-    },
-    {
-     "player": "Lions",
-     "pos": "DEF",
-     "slot": "DEF",
-     "rem": 5.56,
-     "state": "pending",
-     "pts": 0.0,
-     "proj": 5.56,
-     "live": 5.56,
-     "game": "Sun 1:00 pm @ Atl"
     }
    ]
   },
