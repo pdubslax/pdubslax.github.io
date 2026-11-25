@@ -2,7 +2,7 @@
  "v": 3,
  "week": 13,
  "tz": "ET",
- "ts": "2026-11-25T17:20:57+00:00",
+ "ts": "2026-11-25T17:42:04+00:00",
  "matchups": [
   {
    "id": "1v12",
@@ -909,8 +909,8 @@
    "leftScore": 0.0,
    "leftProj": 128.99,
    "rightScore": 0.0,
-   "rightProj": 124.56,
-   "leftPct": 54,
+   "rightProj": 127.24,
+   "leftPct": 51,
    "leftRem": 9,
    "rightRem": 9,
    "shotgun": [],
@@ -1017,15 +1017,15 @@
    ],
    "rightActive": [
     {
-     "player": "T. Shough",
+     "player": "C. Williams",
      "pos": "QB",
      "slot": "QB",
-     "rem": 19.71,
+     "rem": 22.39,
      "state": "pending",
      "pts": 0.0,
-     "proj": 19.71,
-     "live": 19.71,
-     "game": "Sun 1:00 pm vs GB"
+     "proj": 22.39,
+     "live": 22.39,
+     "game": "Sun 1:00 pm vs Jax"
     },
     {
      "player": "A. St. Brown",
