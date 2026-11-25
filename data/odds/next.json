@@ -2,7 +2,7 @@
  "v": 3,
  "week": 13,
  "tz": "ET",
- "ts": "2026-11-25T13:17:08+00:00",
+ "ts": "2026-11-25T13:37:27+00:00",
  "matchups": [
   {
    "id": "1v12",
@@ -13,7 +13,7 @@
    "leftScore": 0.0,
    "leftProj": 106.75,
    "rightScore": 0.0,
-   "rightProj": 92.35,
+   "rightProj": 92.41,
    "leftPct": 62,
    "leftRem": 8,
    "rightRem": 7,
@@ -211,11 +211,11 @@
      "player": "DK Metcalf",
      "pos": "WR",
      "slot": "W/R/T",
-     "rem": 9.06,
+     "rem": 9.12,
      "state": "pending",
      "pts": 0.0,
-     "proj": 9.06,
-     "live": 9.06,
+     "proj": 9.12,
+     "live": 9.12,
      "game": "Sun 8:20 pm vs Hou"
     },
     {
@@ -240,7 +240,7 @@
    "leftScore": 0.0,
    "leftProj": 100.22,
    "rightScore": 0.0,
-   "rightProj": 121.95,
+   "rightProj": 122.06,
    "leftPct": 32,
    "leftRem": 8,
    "rightRem": 9,
@@ -328,7 +328,7 @@
      "game": "Sun 4:25 pm vs Car"
     },
     {
-     "player": "Cincinnati",
+     "player": "Bengals",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 9.66,
@@ -440,7 +440,7 @@
      "game": "Sun 8:20 pm @ Pit"
     },
     {
-     "player": "Washington",
+     "player": "Commanders",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 7.22,
@@ -1004,7 +1004,7 @@
      "game": "Sun 4:25 pm @ NE"
     },
     {
-     "player": "Bills",
+     "player": "Buffalo",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 8.46,
@@ -1105,7 +1105,7 @@
      "game": "Sun 4:05 pm vs Mia"
     },
     {
-     "player": "49ers",
+     "player": "S. Francisco",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 8.3,
@@ -1126,7 +1126,7 @@
    "leftScore": 0.0,
    "leftProj": 119.79,
    "rightScore": 0.0,
-   "rightProj": 104.66,
+   "rightProj": 104.7,
    "leftPct": 63,
    "leftRem": 9,
    "rightRem": 9,
