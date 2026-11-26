@@ -111,8 +111,20 @@ def scoreboard(week=None):
     t = text(raw)
     i = t.find(f"Week {week} Matchups"); j = t.find("Standings", i)
     rows = []
-    rx = r"View Matchup (.*?) (\d+)-(\d+)-\d+ \| \w+ ([\d.]+) ([\d.]+) vs ([\d.]+) ([\d.]+) (.*?) (\d+)-(\d+)-\d+ \|"
-    for (a, b), m in zip(pairs, re.finditer(rx, t[i:j])):
+    # One chunk of text per matchup, read on its own and paired with its link by position. A team's score can be negative (a
+    # defense that finishes below zero before anyone else has played put Matt #2 at -2.75 on Thanksgiving 2026). The pattern used
+    # to accept digits only and ran over the whole list, so that matchup did not match, its text was swallowed into the next
+    # team's name, and every matchup after it was filed under the wrong id: five matchups on the page, two of them showing one
+    # matchup's odds against another's scores. Now a chunk that does not parse is skipped alone and the rest keep their ids.
+    num = r"(-?\d+(?:\.\d+)?)"
+    rx = rf"(.*?) (\d+)-(\d+)-\d+ \| \w+ {num} {num} vs {num} {num} (.*?) (\d+)-(\d+)-\d+ \|"
+    chunks = t[i:j].split("View Matchup ")[1:]
+    if len(chunks) != len(pairs):
+        raise RuntimeError(f"scoreboard week {week}: {len(pairs)} matchup links but {len(chunks)} matchup blocks")
+    for (a, b), chunk in zip(pairs, chunks):
+        m = re.match(rx, chunk)
+        if not m:
+            print(f"scoreboard week {week}: could not read matchup {a}v{b}: {chunk[:120]!r}", file=sys.stderr); continue
         n1, w1, l1, c1, p1, c2, p2, n2, w2, l2 = m.groups()
         rows.append(dict(id=f"{a}v{b}", left=n1, leftRec=f"{w1}-{l1}", right=n2, rightRec=f"{w2}-{l2}",
                          leftScore=float(c1), leftProj=float(p1), rightScore=float(c2), rightProj=float(p2)))
