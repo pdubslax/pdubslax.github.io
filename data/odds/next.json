@@ -2,7 +2,7 @@
  "v": 3,
  "week": 13,
  "tz": "ET",
- "ts": "2026-11-26T02:59:10+00:00",
+ "ts": "2026-11-26T03:20:09+00:00",
  "matchups": [
   {
    "id": "1v12",
@@ -241,7 +241,7 @@
    "right": "James Ray Ervin Yonts",
    "rightRec": "7-4",
    "leftScore": 0.0,
-   "leftProj": 99.88,
+   "leftProj": 99.81,
    "rightScore": 0.0,
    "rightProj": 124.11,
    "leftPct": 30,
@@ -290,11 +290,11 @@
      "player": "C. Brown",
      "pos": "RB",
      "slot": "RB",
-     "rem": 13.9,
+     "rem": 13.88,
      "state": "pending",
      "pts": 0.0,
-     "proj": 13.9,
-     "live": 13.9,
+     "proj": 13.88,
+     "live": 13.88,
      "game": "Sun 1:00 pm @ Cle"
     },
     {
@@ -334,11 +334,11 @@
      "player": "Bengals",
      "pos": "DEF",
      "slot": "DEF",
-     "rem": 9.73,
+     "rem": 9.68,
      "state": "pending",
      "pts": 0.0,
-     "proj": 9.73,
-     "live": 9.73,
+     "proj": 9.68,
+     "live": 9.68,
      "game": "Sun 1:00 pm @ Cle"
     },
     {
@@ -464,8 +464,8 @@
    "leftScore": 0.0,
    "leftProj": 129.93,
    "rightScore": 0.0,
-   "rightProj": 87.45,
-   "leftPct": 81,
+   "rightProj": 87.38,
+   "leftPct": 82,
    "leftRem": 9,
    "rightRem": 7,
    "shotgun": [
@@ -615,11 +615,11 @@
      "player": "J. Chase",
      "pos": "WR",
      "slot": "WR",
-     "rem": 17.01,
+     "rem": 16.94,
      "state": "pending",
      "pts": 0.0,
-     "proj": 17.01,
-     "live": 17.01,
+     "proj": 16.94,
+     "live": 16.94,
      "game": "Sun 1:00 pm @ Cle"
     },
     {
@@ -688,8 +688,8 @@
    "leftScore": 0.0,
    "leftProj": 100.88,
    "rightScore": 0.0,
-   "rightProj": 113.66,
-   "leftPct": 38,
+   "rightProj": 113.62,
+   "leftPct": 39,
    "leftRem": 8,
    "rightRem": 8,
    "shotgun": [
@@ -883,11 +883,11 @@
      "player": "E. McPherson",
      "pos": "K",
      "slot": "K",
-     "rem": 9.91,
+     "rem": 9.87,
      "state": "pending",
      "pts": 0.0,
-     "proj": 9.91,
-     "live": 9.91,
+     "proj": 9.87,
+     "live": 9.87,
      "game": "Sun 1:00 pm @ Cle"
     },
     {
@@ -1127,7 +1127,7 @@
    "right": "RosterMogged",
    "rightRec": "5-6",
    "leftScore": 0.0,
-   "leftProj": 119.24,
+   "leftProj": 119.06,
    "rightScore": 0.0,
    "rightProj": 100.12,
    "leftPct": 67,
@@ -1139,11 +1139,11 @@
      "player": "J. Burrow",
      "pos": "QB",
      "slot": "QB",
-     "rem": 23.4,
+     "rem": 23.28,
      "state": "pending",
      "pts": 0.0,
-     "proj": 23.4,
-     "live": 23.4,
+     "proj": 23.28,
+     "live": 23.28,
      "game": "Sun 1:00 pm @ Cle"
     },
     {
@@ -1172,11 +1172,11 @@
      "player": "T. Higgins",
      "pos": "WR",
      "slot": "W/R/T",
-     "rem": 14.34,
+     "rem": 14.28,
      "state": "pending",
      "pts": 0.0,
-     "proj": 14.34,
-     "live": 14.34,
+     "proj": 14.28,
+     "live": 14.28,
      "game": "Sun 1:00 pm @ Cle"
     },
     {
