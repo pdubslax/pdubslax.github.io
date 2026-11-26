@@ -2,7 +2,7 @@
  "v": 3,
  "week": 13,
  "tz": "ET",
- "ts": "2026-11-26T11:39:25+00:00",
+ "ts": "2026-11-26T11:59:45+00:00",
  "matchups": [
   {
    "id": "1v12",
@@ -1224,7 +1224,7 @@
      "game": "Sun 1:00 pm @ Ten"
     },
     {
-     "player": "Jaguars",
+     "player": "Jacksonville",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 5.27,
@@ -1325,7 +1325,7 @@
      "game": "Thu 8:15 pm vs KC"
     },
     {
-     "player": "Chiefs",
+     "player": "K. City",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 5.41,
