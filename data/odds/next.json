@@ -2,7 +2,7 @@
  "v": 3,
  "week": 13,
  "tz": "ET",
- "ts": "2026-11-26T15:03:35+00:00",
+ "ts": "2026-11-26T15:23:56+00:00",
  "matchups": [
   {
    "id": "1v12",
@@ -143,7 +143,7 @@
      "game": "Sun 1:00 pm @ Ten"
     },
     {
-     "player": "Giants",
+     "player": "N. York",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 4.58,
@@ -222,7 +222,7 @@
      "game": "Sun 8:20 pm vs Hou"
     },
     {
-     "player": "Bears",
+     "player": "Chicago",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 6.28,
@@ -331,7 +331,7 @@
      "game": "Sun 4:05 pm vs Mia"
     },
     {
-     "player": "Bengals",
+     "player": "Cincinnati",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 9.68,
@@ -443,7 +443,7 @@
      "game": "Sun 8:20 pm @ Pit"
     },
     {
-     "player": "Commanders",
+     "player": "Washington",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 7.49,
@@ -801,7 +801,7 @@
      "game": "Mon 8:15 pm @ Sea"
     },
     {
-     "player": "Minnesota",
+     "player": "Vikings",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 9.0,
@@ -847,7 +847,7 @@
      "game": "Sun 4:25 pm vs Car"
     },
     {
-     "player": "Denver",
+     "player": "Broncos",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 12.78,
@@ -996,7 +996,7 @@
      "game": "Sun 4:25 pm @ NE"
     },
     {
-     "player": "Bills",
+     "player": "Buffalo",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 9.83,
@@ -1108,7 +1108,7 @@
      "game": "Sun 4:05 pm vs Mia"
     },
     {
-     "player": "49ers",
+     "player": "S. Francisco",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 9.3,
