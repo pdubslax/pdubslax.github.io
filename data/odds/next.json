@@ -2,7 +2,7 @@
  "v": 3,
  "week": 13,
  "tz": "ET",
- "ts": "2026-11-26T06:33:39+00:00",
+ "ts": "2026-11-26T06:53:59+00:00",
  "matchups": [
   {
    "id": "1v12",
@@ -290,22 +290,22 @@
      "player": "C. Brown",
      "pos": "RB",
      "slot": "RB",
-     "rem": 13.88,
+     "rem": 13.91,
      "state": "pending",
      "pts": 0.0,
-     "proj": 13.88,
-     "live": 13.88,
+     "proj": 13.91,
+     "live": 13.91,
      "game": "Sun 1:00 pm @ Cle"
     },
     {
      "player": "I. Likely",
      "pos": "TE",
      "slot": "TE",
-     "rem": 11.67,
+     "rem": 11.81,
      "state": "pending",
      "pts": 0.0,
-     "proj": 11.67,
-     "live": 11.67,
+     "proj": 11.81,
+     "live": 11.81,
      "game": "Sun 1:00 pm vs SF"
     },
     {
@@ -323,22 +323,22 @@
      "player": "J. Waddle",
      "pos": "WR",
      "slot": "WR",
-     "rem": 10.9,
+     "rem": 10.86,
      "state": "pending",
      "pts": 0.0,
-     "proj": 10.9,
-     "live": 10.9,
+     "proj": 10.86,
+     "live": 10.86,
      "game": "Sun 4:05 pm vs Mia"
     },
     {
      "player": "Bengals",
      "pos": "DEF",
      "slot": "DEF",
-     "rem": 9.68,
+     "rem": 9.73,
      "state": "pending",
      "pts": 0.0,
-     "proj": 9.68,
-     "live": 9.68,
+     "proj": 9.73,
+     "live": 9.73,
      "game": "Sun 1:00 pm @ Cle"
     },
     {
