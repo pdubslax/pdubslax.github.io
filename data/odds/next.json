@@ -2,7 +2,7 @@
  "v": 3,
  "week": 13,
  "tz": "ET",
- "ts": "2026-11-25T23:49:08+00:00",
+ "ts": "2026-11-26T00:09:32+00:00",
  "matchups": [
   {
    "id": "1v12",
@@ -1124,10 +1124,10 @@
    "right": "RosterMogged",
    "rightRec": "5-6",
    "leftScore": 0.0,
-   "leftProj": 118.2,
+   "leftProj": 119.4,
    "rightScore": 0.0,
-   "rightProj": 102.75,
-   "leftPct": 64,
+   "rightProj": 100.02,
+   "leftPct": 67,
    "leftRem": 9,
    "rightRem": 9,
    "shotgun": [],
@@ -1199,6 +1199,17 @@
      "game": "Sun 4:05 pm @ Ari"
     },
     {
+     "player": "C. McLaughlin",
+     "pos": "K",
+     "slot": "K",
+     "rem": 9.66,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 9.66,
+     "live": 9.66,
+     "game": "Sun 1:00 pm vs LAC"
+    },
+    {
      "player": "C. Okonkwo",
      "pos": "TE",
      "slot": "TE",
@@ -1208,17 +1219,6 @@
      "proj": 8.93,
      "live": 8.93,
      "game": "Sun 1:00 pm @ Ten"
-    },
-    {
-     "player": "C. Boswell",
-     "pos": "K",
-     "slot": "K",
-     "rem": 8.46,
-     "state": "pending",
-     "pts": 0.0,
-     "proj": 8.46,
-     "live": 8.46,
-     "game": "Sun 8:20 pm vs Hou"
     },
     {
      "player": "Jaguars",
@@ -1245,15 +1245,15 @@
      "game": "Sun 1:00 pm @ NYG"
     },
     {
-     "player": "K. Walker III",
+     "player": "Z. Charbonnet",
      "pos": "RB",
      "slot": "RB",
-     "rem": 18.12,
+     "rem": 15.28,
      "state": "pending",
      "pts": 0.0,
-     "proj": 18.12,
-     "live": 18.12,
-     "game": "Thu 8:15 pm @ LAR"
+     "proj": 15.28,
+     "live": 15.28,
+     "game": "Mon 8:15 pm vs Dal"
     },
     {
      "player": "R. Rice",
@@ -1300,26 +1300,26 @@
      "game": "Sun 1:00 pm vs Jax"
     },
     {
-     "player": "K. Pitts Sr.",
-     "pos": "TE",
-     "slot": "TE",
-     "rem": 8.43,
-     "state": "pending",
-     "pts": 0.0,
-     "proj": 8.43,
-     "live": 8.43,
-     "game": "Sun 1:00 pm vs Det"
-    },
-    {
-     "player": "G. Bernard",
+     "player": "K. Mumpfield",
      "pos": "WR",
      "slot": "WR",
-     "rem": 6.96,
+     "rem": 8.21,
      "state": "pending",
      "pts": 0.0,
-     "proj": 6.96,
-     "live": 6.96,
-     "game": "Sun 8:20 pm vs Hou"
+     "proj": 8.21,
+     "live": 8.21,
+     "game": "Thu 8:15 pm vs KC"
+    },
+    {
+     "player": "T. Higbee",
+     "pos": "TE",
+     "slot": "TE",
+     "rem": 7.29,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 7.29,
+     "live": 7.29,
+     "game": "Thu 8:15 pm vs KC"
     },
     {
      "player": "Chiefs",
