@@ -2,7 +2,7 @@
  "v": 3,
  "week": 13,
  "tz": "ET",
- "ts": "2026-11-26T10:58:45+00:00",
+ "ts": "2026-11-26T11:19:04+00:00",
  "matchups": [
   {
    "id": "1v12",
@@ -13,7 +13,7 @@
    "leftScore": 0.0,
    "leftProj": 97.4,
    "rightScore": 0.0,
-   "rightProj": 92.57,
+   "rightProj": 92.58,
    "leftPct": 54,
    "leftRem": 7,
    "rightRem": 7,
@@ -214,11 +214,11 @@
      "player": "DK Metcalf",
      "pos": "WR",
      "slot": "W/R/T",
-     "rem": 8.7,
+     "rem": 8.71,
      "state": "pending",
      "pts": 0.0,
-     "proj": 8.7,
-     "live": 8.7,
+     "proj": 8.71,
+     "live": 8.71,
      "game": "Sun 8:20 pm vs Hou"
     },
     {
@@ -243,7 +243,7 @@
    "leftScore": 0.0,
    "leftProj": 99.98,
    "rightScore": 0.0,
-   "rightProj": 123.95,
+   "rightProj": 123.99,
    "leftPct": 30,
    "leftRem": 8,
    "rightRem": 9,
@@ -402,11 +402,11 @@
      "player": "J. Warren",
      "pos": "RB",
      "slot": "RB",
-     "rem": 15.73,
+     "rem": 15.75,
      "state": "pending",
      "pts": 0.0,
-     "proj": 15.73,
-     "live": 15.73,
+     "proj": 15.75,
+     "live": 15.75,
      "game": "Sun 8:20 pm vs Hou"
     },
     {
@@ -435,11 +435,11 @@
      "player": "K. Fairbairn",
      "pos": "K",
      "slot": "K",
-     "rem": 9.43,
+     "rem": 9.45,
      "state": "pending",
      "pts": 0.0,
-     "proj": 9.43,
-     "live": 9.43,
+     "proj": 9.45,
+     "live": 9.45,
      "game": "Sun 8:20 pm @ Pit"
     },
     {
@@ -464,7 +464,7 @@
    "leftScore": 0.0,
    "leftProj": 129.93,
    "rightScore": 0.0,
-   "rightProj": 87.45,
+   "rightProj": 87.51,
    "leftPct": 81,
    "leftRem": 9,
    "rightRem": 7,
@@ -604,11 +604,11 @@
      "player": "C.J. Stroud",
      "pos": "QB",
      "slot": "QB",
-     "rem": 20.84,
+     "rem": 20.9,
      "state": "pending",
      "pts": 0.0,
-     "proj": 20.84,
-     "live": 20.84,
+     "proj": 20.9,
+     "live": 20.9,
      "game": "Sun 8:20 pm @ Pit"
     },
     {
@@ -801,7 +801,7 @@
      "game": "Mon 8:15 pm @ Sea"
     },
     {
-     "player": "Vikings",
+     "player": "Minnesota",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 9.0,
@@ -847,7 +847,7 @@
      "game": "Sun 4:25 pm vs Car"
     },
     {
-     "player": "Broncos",
+     "player": "Denver",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 12.78,
@@ -912,7 +912,7 @@
    "leftScore": 0.0,
    "leftProj": 129.1,
    "rightScore": 0.0,
-   "rightProj": 127.27,
+   "rightProj": 127.3,
    "leftPct": 51,
    "leftRem": 9,
    "rightRem": 9,
@@ -1067,11 +1067,11 @@
      "player": "N. Collins",
      "pos": "WR",
      "slot": "WR",
-     "rem": 13.88,
+     "rem": 13.91,
      "state": "pending",
      "pts": 0.0,
-     "proj": 13.88,
-     "live": 13.88,
+     "proj": 13.91,
+     "live": 13.91,
      "game": "Sun 8:20 pm @ Pit"
     },
     {
@@ -1224,7 +1224,7 @@
      "game": "Sun 1:00 pm @ Ten"
     },
     {
-     "player": "Jaguars",
+     "player": "Jacksonville",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 5.27,
@@ -1325,7 +1325,7 @@
      "game": "Thu 8:15 pm vs KC"
     },
     {
-     "player": "Chiefs",
+     "player": "K. City",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 5.41,
