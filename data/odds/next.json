@@ -2,7 +2,7 @@
  "v": 3,
  "week": 13,
  "tz": "ET",
- "ts": "2026-11-27T03:33:38+00:00",
+ "ts": "2026-11-27T03:54:36+00:00",
  "matchups": [
   {
    "id": "1v12",
@@ -588,7 +588,7 @@
      "game": "Sun 4:25 pm vs Car"
     },
     {
-     "player": "Patriots",
+     "player": "N. England",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 3.71,
@@ -667,7 +667,7 @@
      "game": "Thu 8:15 pm @ LAR"
     },
     {
-     "player": "Cowboys",
+     "player": "Dallas",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 4.35,
@@ -801,7 +801,7 @@
      "game": "Mon 8:15 pm @ Sea"
     },
     {
-     "player": "Vikings",
+     "player": "Minnesota",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 9.0,
@@ -847,7 +847,7 @@
      "game": "Sun 4:25 pm vs Car"
     },
     {
-     "player": "Broncos",
+     "player": "Denver",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 12.78,
@@ -1224,7 +1224,7 @@
      "game": "Sun 1:00 pm @ Ten"
     },
     {
-     "player": "Jaguars",
+     "player": "Jacksonville",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 5.27,
@@ -1325,7 +1325,7 @@
      "game": "Thu 8:15 pm vs KC"
     },
     {
-     "player": "Chiefs",
+     "player": "K. City",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 5.41,
