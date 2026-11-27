@@ -2,7 +2,7 @@
  "v": 3,
  "week": 13,
  "tz": "ET",
- "ts": "2026-11-27T21:56:21+00:00",
+ "ts": "2026-11-27T22:17:21+00:00",
  "matchups": [
   {
    "id": "1v12",
@@ -11,7 +11,7 @@
    "right": "Matt #2 Stephano",
    "rightRec": "7-4",
    "leftScore": 0.0,
-   "leftProj": 102.92,
+   "leftProj": 103.06,
    "rightScore": 0.0,
    "rightProj": 92.23,
    "leftPct": 59,
@@ -88,33 +88,33 @@
      "player": "M. Golden",
      "pos": "WR",
      "slot": "WR",
-     "rem": 17.11,
+     "rem": 17.17,
      "state": "pending",
      "pts": 0.0,
-     "proj": 17.11,
-     "live": 17.11,
+     "proj": 17.17,
+     "live": 17.17,
      "game": "Sun 1:00 pm @ NO"
     },
     {
      "player": "T. Etienne Jr.",
      "pos": "RB",
      "slot": "RB",
-     "rem": 11.1,
+     "rem": 11.12,
      "state": "pending",
      "pts": 0.0,
-     "proj": 11.1,
-     "live": 11.1,
+     "proj": 11.12,
+     "live": 11.12,
      "game": "Sun 1:00 pm vs GB"
     },
     {
      "player": "S. LaPorta",
      "pos": "TE",
      "slot": "TE",
-     "rem": 10.67,
+     "rem": 10.73,
      "state": "pending",
      "pts": 0.0,
-     "proj": 10.67,
-     "live": 10.67,
+     "proj": 10.73,
+     "live": 10.73,
      "game": "Sun 1:00 pm @ Atl"
     },
     {
@@ -238,9 +238,9 @@
    "right": "James Ray Ervin Yonts",
    "rightRec": "7-4",
    "leftScore": 0.0,
-   "leftProj": 100.16,
+   "leftProj": 100.23,
    "rightScore": 0.0,
-   "rightProj": 123.97,
+   "rightProj": 124.06,
    "leftPct": 31,
    "leftRem": 8,
    "rightRem": 9,
@@ -276,11 +276,11 @@
      "player": "C. Watson",
      "pos": "WR",
      "slot": "WR",
-     "rem": 16.57,
+     "rem": 16.64,
      "state": "pending",
      "pts": 0.0,
-     "proj": 16.57,
-     "live": 16.57,
+     "proj": 16.64,
+     "live": 16.64,
      "game": "Sun 1:00 pm @ NO"
     },
     {
@@ -374,6 +374,17 @@
      "game": "Mon 8:15 pm @ Sea"
     },
     {
+     "player": "D. London",
+     "pos": "WR",
+     "slot": "WR",
+     "rem": 16.37,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 16.37,
+     "live": 16.37,
+     "game": "Sun 1:00 pm vs Det"
+    },
+    {
      "player": "C. Lamb",
      "pos": "WR",
      "slot": "WR",
@@ -383,17 +394,6 @@
      "proj": 16.36,
      "live": 16.36,
      "game": "Mon 8:15 pm @ Sea"
-    },
-    {
-     "player": "D. London",
-     "pos": "WR",
-     "slot": "WR",
-     "rem": 16.28,
-     "state": "pending",
-     "pts": 0.0,
-     "proj": 16.28,
-     "live": 16.28,
-     "game": "Sun 1:00 pm vs Det"
     },
     {
      "player": "J. Warren",
@@ -459,7 +459,7 @@
    "right": "Chubb will Rise Again",
    "rightRec": "6-5",
    "leftScore": 0.0,
-   "leftProj": 129.81,
+   "leftProj": 129.88,
    "rightScore": 0.0,
    "rightProj": 76.16,
    "leftPct": 88,
@@ -500,11 +500,11 @@
      "player": "J. Gibbs",
      "pos": "RB",
      "slot": "RB",
-     "rem": 26.44,
+     "rem": 26.51,
      "state": "pending",
      "pts": 0.0,
-     "proj": 26.44,
-     "live": 26.44,
+     "proj": 26.51,
+     "live": 26.51,
      "game": "Sun 1:00 pm @ Atl"
     },
     {
@@ -683,10 +683,10 @@
    "right": "I think we have corum",
    "rightRec": "5-6",
    "leftScore": 0.0,
-   "leftProj": 100.9,
+   "leftProj": 100.95,
    "rightScore": 0.0,
-   "rightProj": 113.6,
-   "leftPct": 39,
+   "rightProj": 113.79,
+   "leftPct": 38,
    "leftRem": 8,
    "rightRem": 8,
    "shotgun": [
@@ -768,11 +768,11 @@
      "player": "T. Kraft",
      "pos": "TE",
      "slot": "TE",
-     "rem": 10.44,
+     "rem": 10.49,
      "state": "pending",
      "pts": 0.0,
-     "proj": 10.44,
-     "live": 10.44,
+     "proj": 10.49,
+     "live": 10.49,
      "game": "Sun 1:00 pm @ NO"
     },
     {
@@ -814,11 +814,11 @@
      "player": "J. Love",
      "pos": "QB",
      "slot": "QB",
-     "rem": 23.02,
+     "rem": 23.13,
      "state": "pending",
      "pts": 0.0,
-     "proj": 23.02,
-     "live": 23.02,
+     "proj": 23.13,
+     "live": 23.13,
      "game": "Sun 1:00 pm @ NO"
     },
     {
@@ -855,6 +855,17 @@
      "game": "Sun 4:05 pm vs Mia"
     },
     {
+     "player": "J. Williams",
+     "pos": "WR",
+     "slot": "WR",
+     "rem": 12.18,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 12.18,
+     "live": 12.18,
+     "game": "Sun 1:00 pm @ Atl"
+    },
+    {
      "player": "B. Corum",
      "pos": "RB",
      "slot": "W/R/T",
@@ -864,17 +875,6 @@
      "proj": 12.12,
      "live": 12.12,
      "game": "Thu 8:15 pm vs KC"
-    },
-    {
-     "player": "J. Williams",
-     "pos": "WR",
-     "slot": "WR",
-     "rem": 12.1,
-     "state": "pending",
-     "pts": 0.0,
-     "proj": 12.1,
-     "live": 12.1,
-     "game": "Sun 1:00 pm @ Atl"
     },
     {
      "player": "E. McPherson",
@@ -907,9 +907,9 @@
    "right": "Zen Buddha Boys 🪷💨",
    "rightRec": "4-7",
    "leftScore": 0.0,
-   "leftProj": 128.95,
+   "leftProj": 129.02,
    "rightScore": 0.0,
-   "rightProj": 127.68,
+   "rightProj": 127.79,
    "leftPct": 51,
    "leftRem": 9,
    "rightRem": 9,
@@ -930,11 +930,11 @@
      "player": "B. Robinson",
      "pos": "RB",
      "slot": "RB",
-     "rem": 21.81,
+     "rem": 21.88,
      "state": "pending",
      "pts": 0.0,
-     "proj": 21.81,
-     "live": 21.81,
+     "proj": 21.88,
+     "live": 21.88,
      "game": "Sun 1:00 pm vs Det"
     },
     {
@@ -1031,11 +1031,11 @@
      "player": "A. St. Brown",
      "pos": "WR",
      "slot": "WR",
-     "rem": 18.0,
+     "rem": 18.11,
      "state": "pending",
      "pts": 0.0,
-     "proj": 18.0,
-     "live": 18.0,
+     "proj": 18.11,
+     "live": 18.11,
      "game": "Sun 1:00 pm @ Atl"
     },
     {
@@ -1124,7 +1124,7 @@
    "right": "RosterMogged",
    "rightRec": "5-6",
    "leftScore": 0.0,
-   "leftProj": 118.28,
+   "leftProj": 118.34,
    "rightScore": 0.0,
    "rightProj": 99.98,
    "leftPct": 66,
@@ -1158,11 +1158,11 @@
      "player": "C. Olave",
      "pos": "WR",
      "slot": "W/R/T",
-     "rem": 14.59,
+     "rem": 14.65,
      "state": "pending",
      "pts": 0.0,
-     "proj": 14.59,
-     "live": 14.59,
+     "proj": 14.65,
+     "live": 14.65,
      "game": "Sun 1:00 pm vs GB"
     },
     {
