@@ -2,7 +2,7 @@
  "v": 3,
  "week": 13,
  "tz": "ET",
- "ts": "2026-11-27T18:30:20+00:00",
+ "ts": "2026-11-27T18:50:39+00:00",
  "matchups": [
   {
    "id": "1v12",
@@ -1130,7 +1130,7 @@
    "leftProj": 117.96,
    "rightScore": 0.0,
    "rightProj": 99.77,
-   "leftPct": 67,
+   "leftPct": 66,
    "leftRem": 9,
    "rightRem": 9,
    "shotgun": [],
@@ -1139,22 +1139,22 @@
      "player": "J. Burrow",
      "pos": "QB",
      "slot": "QB",
-     "rem": 23.25,
+     "rem": 22.78,
      "state": "pending",
      "pts": 0.0,
-     "proj": 23.25,
-     "live": 23.25,
+     "proj": 22.78,
+     "live": 22.78,
      "game": "Sun 1:00 pm @ Cle"
     },
     {
      "player": "J. Coleman",
      "pos": "RB",
      "slot": "RB",
-     "rem": 15.56,
+     "rem": 15.5,
      "state": "pending",
      "pts": 0.0,
-     "proj": 15.56,
-     "live": 15.56,
+     "proj": 15.5,
+     "live": 15.5,
      "game": "Sun 4:05 pm vs Mia"
     },
     {
@@ -1169,17 +1169,6 @@
      "game": "Sun 1:00 pm vs GB"
     },
     {
-     "player": "T. Higgins",
-     "pos": "WR",
-     "slot": "WR",
-     "rem": 14.25,
-     "state": "pending",
-     "pts": 0.0,
-     "proj": 14.25,
-     "live": 14.25,
-     "game": "Sun 1:00 pm @ Cle"
-    },
-    {
      "player": "S. Barkley",
      "pos": "RB",
      "slot": "RB",
@@ -1189,6 +1178,17 @@
      "proj": 13.8,
      "live": 13.8,
      "game": "Sun 4:05 pm @ Ari"
+    },
+    {
+     "player": "T. Higgins",
+     "pos": "WR",
+     "slot": "WR",
+     "rem": 13.76,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 13.76,
+     "live": 13.76,
+     "game": "Sun 1:00 pm @ Cle"
     },
     {
      "player": "M. Nabers",
