@@ -2,7 +2,7 @@
  "v": 3,
  "week": 13,
  "tz": "ET",
- "ts": "2026-11-27T23:36:13+00:00",
+ "ts": "2026-11-27T23:56:38+00:00",
  "matchups": [
   {
    "id": "1v12",
@@ -941,11 +941,11 @@
      "player": "C. Skattebo",
      "pos": "RB",
      "slot": "RB",
-     "rem": 14.25,
+     "rem": 14.23,
      "state": "pending",
      "pts": 0.0,
-     "proj": 14.25,
-     "live": 14.25,
+     "proj": 14.23,
+     "live": 14.23,
      "game": "Sun 1:00 pm vs SF"
     },
     {
@@ -974,11 +974,11 @@
      "player": "G. Kittle",
      "pos": "TE",
      "slot": "TE",
-     "rem": 11.22,
+     "rem": 11.2,
      "state": "pending",
      "pts": 0.0,
-     "proj": 11.22,
-     "live": 11.22,
+     "proj": 11.2,
+     "live": 11.2,
      "game": "Sun 1:00 pm @ NYG"
     },
     {
@@ -1108,11 +1108,11 @@
      "player": "49ers",
      "pos": "DEF",
      "slot": "DEF",
-     "rem": 8.68,
+     "rem": 8.66,
      "state": "pending",
      "pts": 0.0,
-     "proj": 8.68,
-     "live": 8.68,
+     "proj": 8.66,
+     "live": 8.66,
      "game": "Sun 1:00 pm @ NYG"
     }
    ]
@@ -1180,11 +1180,11 @@
      "player": "M. Nabers",
      "pos": "WR",
      "slot": "WR",
-     "rem": 13.88,
+     "rem": 13.86,
      "state": "pending",
      "pts": 0.0,
-     "proj": 13.88,
-     "live": 13.88,
+     "proj": 13.86,
+     "live": 13.86,
      "game": "Sun 1:00 pm vs SF"
     },
     {
@@ -1237,11 +1237,11 @@
      "player": "B. Purdy",
      "pos": "QB",
      "slot": "QB",
-     "rem": 22.98,
+     "rem": 22.92,
      "state": "pending",
      "pts": 0.0,
-     "proj": 22.98,
-     "live": 22.98,
+     "proj": 22.92,
+     "live": 22.92,
      "game": "Sun 1:00 pm @ NYG"
     },
     {
