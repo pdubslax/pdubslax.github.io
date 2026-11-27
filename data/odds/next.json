@@ -2,7 +2,7 @@
  "v": 3,
  "week": 13,
  "tz": "ET",
- "ts": "2026-11-27T15:26:15+00:00",
+ "ts": "2026-11-27T15:46:37+00:00",
  "matchups": [
   {
    "id": "1v12",
@@ -241,9 +241,9 @@
    "right": "James Ray Ervin Yonts",
    "rightRec": "7-4",
    "leftScore": 0.0,
-   "leftProj": 99.66,
+   "leftProj": 99.61,
    "rightScore": 0.0,
-   "rightProj": 124.2,
+   "rightProj": 124.19,
    "leftPct": 30,
    "leftRem": 8,
    "rightRem": 9,
@@ -323,11 +323,11 @@
      "player": "J. Waddle",
      "pos": "WR",
      "slot": "WR",
-     "rem": 10.86,
+     "rem": 10.81,
      "state": "pending",
      "pts": 0.0,
-     "proj": 10.86,
-     "live": 10.86,
+     "proj": 10.81,
+     "live": 10.81,
      "game": "Sun 4:05 pm vs Mia"
     },
     {
@@ -424,11 +424,11 @@
      "player": "T. Kelce",
      "pos": "TE",
      "slot": "TE",
-     "rem": 10.61,
+     "rem": 10.6,
      "state": "pending",
      "pts": 0.0,
-     "proj": 10.61,
-     "live": 10.61,
+     "proj": 10.6,
+     "live": 10.6,
      "game": "Thu 8:15 pm @ LAR"
     },
     {
@@ -462,12 +462,12 @@
    "right": "Chubb will Rise Again",
    "rightRec": "6-5",
    "leftScore": 0.0,
-   "leftProj": 129.71,
+   "leftProj": 129.7,
    "rightScore": 0.0,
-   "rightProj": 87.46,
-   "leftPct": 81,
+   "rightProj": 72.97,
+   "leftPct": 90,
    "leftRem": 9,
-   "rightRem": 7,
+   "rightRem": 6,
    "shotgun": [
     {
      "player": "A. Jeanty",
@@ -496,6 +496,20 @@
      "locked": false,
      "live": 0.0,
      "reason": "pts"
+    },
+    {
+     "player": "A. Mitchell",
+     "pos": "WR",
+     "team": "NYJ",
+     "pts": 0.0,
+     "game": "Bye",
+     "tag": null,
+     "state": "bye",
+     "slot": "W/R/T",
+     "manager": "Chubb will Rise Again",
+     "locked": false,
+     "live": 0.0,
+     "reason": "pts"
     }
    ],
    "leftActive": [
@@ -514,11 +528,11 @@
      "player": "P. Mahomes",
      "pos": "QB",
      "slot": "QB",
-     "rem": 20.9,
+     "rem": 20.89,
      "state": "pending",
      "pts": 0.0,
-     "proj": 20.9,
-     "live": 20.9,
+     "proj": 20.89,
+     "live": 20.89,
      "game": "Thu 8:15 pm @ LAR"
     },
     {
@@ -621,17 +635,6 @@
      "proj": 16.91,
      "live": 16.91,
      "game": "Sun 1:00 pm @ Cle"
-    },
-    {
-     "player": "P. Washington",
-     "pos": "WR",
-     "slot": "W/R/T",
-     "rem": 14.49,
-     "state": "pending",
-     "pts": 0.0,
-     "proj": 14.49,
-     "live": 14.49,
-     "game": "Sun 1:00 pm @ Chi"
     },
     {
      "player": "J. Williams",
@@ -1127,9 +1130,9 @@
    "right": "RosterMogged",
    "rightRec": "5-6",
    "leftScore": 0.0,
-   "leftProj": 119.07,
+   "leftProj": 119.0,
    "rightScore": 0.0,
-   "rightProj": 99.86,
+   "rightProj": 99.85,
    "leftPct": 67,
    "leftRem": 9,
    "rightRem": 9,
@@ -1150,11 +1153,11 @@
      "player": "J. Coleman",
      "pos": "RB",
      "slot": "RB",
-     "rem": 15.63,
+     "rem": 15.56,
      "state": "pending",
      "pts": 0.0,
-     "proj": 15.63,
-     "live": 15.63,
+     "proj": 15.56,
+     "live": 15.56,
      "game": "Sun 4:05 pm vs Mia"
     },
     {
@@ -1262,11 +1265,11 @@
      "player": "R. Rice",
      "pos": "WR",
      "slot": "WR",
-     "rem": 11.63,
+     "rem": 11.62,
      "state": "pending",
      "pts": 0.0,
-     "proj": 11.63,
-     "live": 11.63,
+     "proj": 11.62,
+     "live": 11.62,
      "game": "Thu 8:15 pm @ LAR"
     },
     {
