@@ -2,7 +2,7 @@
  "v": 3,
  "week": 13,
  "tz": "ET",
- "ts": "2026-11-27T15:46:37+00:00",
+ "ts": "2026-11-27T16:06:59+00:00",
  "matchups": [
   {
    "id": "1v12",
@@ -464,10 +464,10 @@
    "leftScore": 0.0,
    "leftProj": 129.7,
    "rightScore": 0.0,
-   "rightProj": 72.97,
-   "leftPct": 90,
+   "rightProj": 76.84,
+   "leftPct": 88,
    "leftRem": 9,
-   "rightRem": 6,
+   "rightRem": 7,
    "shotgun": [
     {
      "player": "A. Jeanty",
@@ -492,20 +492,6 @@
      "tag": null,
      "state": "bye",
      "slot": "TE",
-     "manager": "Chubb will Rise Again",
-     "locked": false,
-     "live": 0.0,
-     "reason": "pts"
-    },
-    {
-     "player": "A. Mitchell",
-     "pos": "WR",
-     "team": "NYJ",
-     "pts": 0.0,
-     "game": "Bye",
-     "tag": null,
-     "state": "bye",
-     "slot": "W/R/T",
      "manager": "Chubb will Rise Again",
      "locked": false,
      "live": 0.0,
@@ -679,6 +665,17 @@
      "proj": 4.38,
      "live": 4.38,
      "game": "Mon 8:15 pm @ Sea"
+    },
+    {
+     "player": "J. Cameron",
+     "pos": "WR",
+     "slot": "W/R/T",
+     "rem": 3.87,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 3.87,
+     "live": 3.87,
+     "game": "Sun 1:00 pm @ Chi"
     }
    ]
   },
