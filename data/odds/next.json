@@ -2,7 +2,7 @@
  "v": 3,
  "week": 13,
  "tz": "ET",
- "ts": "2026-11-27T22:59:08+00:00",
+ "ts": "2026-11-27T23:36:13+00:00",
  "matchups": [
   {
    "id": "1v12",
@@ -11,9 +11,9 @@
    "right": "Matt #2 Stephano",
    "rightRec": "7-4",
    "leftScore": 0.0,
-   "leftProj": 103.09,
+   "leftProj": 103.1,
    "rightScore": 0.0,
-   "rightProj": 92.18,
+   "rightProj": 92.22,
    "leftPct": 59,
    "leftRem": 8,
    "rightRem": 7,
@@ -143,11 +143,11 @@
      "player": "Giants",
      "pos": "DEF",
      "slot": "DEF",
-     "rem": 4.58,
+     "rem": 4.59,
      "state": "pending",
      "pts": 0.0,
-     "proj": 4.58,
-     "live": 4.58,
+     "proj": 4.59,
+     "live": 4.59,
      "game": "Sun 1:00 pm vs SF"
     }
    ],
@@ -167,11 +167,11 @@
      "player": "C. McCaffrey",
      "pos": "RB",
      "slot": "RB",
-     "rem": 19.19,
+     "rem": 19.21,
      "state": "pending",
      "pts": 0.0,
-     "proj": 19.19,
-     "live": 19.19,
+     "proj": 19.21,
+     "live": 19.21,
      "game": "Sun 1:00 pm @ NYG"
     },
     {
@@ -200,11 +200,11 @@
      "player": "E. Pineiro",
      "pos": "K",
      "slot": "K",
-     "rem": 9.51,
+     "rem": 9.53,
      "state": "pending",
      "pts": 0.0,
-     "proj": 9.51,
-     "live": 9.51,
+     "proj": 9.53,
+     "live": 9.53,
      "game": "Sun 1:00 pm @ NYG"
     },
     {
@@ -238,7 +238,7 @@
    "right": "James Ray Ervin Yonts",
    "rightRec": "7-4",
    "leftScore": 0.0,
-   "leftProj": 99.79,
+   "leftProj": 99.84,
    "rightScore": 0.0,
    "rightProj": 124.19,
    "leftPct": 30,
@@ -298,11 +298,11 @@
      "player": "I. Likely",
      "pos": "TE",
      "slot": "TE",
-     "rem": 11.76,
+     "rem": 11.79,
      "state": "pending",
      "pts": 0.0,
-     "proj": 11.76,
-     "live": 11.76,
+     "proj": 11.79,
+     "live": 11.79,
      "game": "Sun 1:00 pm vs SF"
     },
     {
@@ -342,11 +342,11 @@
      "player": "D. Zvada",
      "pos": "K",
      "slot": "K",
-     "rem": 8.36,
+     "rem": 8.38,
      "state": "pending",
      "pts": 0.0,
-     "proj": 8.36,
-     "live": 8.36,
+     "proj": 8.38,
+     "live": 8.38,
      "game": "Sun 1:00 pm vs SF"
     }
    ],
@@ -459,7 +459,7 @@
    "right": "Chubb will Rise Again",
    "rightRec": "6-5",
    "leftScore": 0.0,
-   "leftProj": 129.47,
+   "leftProj": 129.52,
    "rightScore": 0.0,
    "rightProj": 76.77,
    "leftPct": 88,
@@ -511,11 +511,11 @@
      "player": "P. Mahomes",
      "pos": "QB",
      "slot": "QB",
-     "rem": 20.78,
+     "rem": 20.79,
      "state": "pending",
      "pts": 0.0,
-     "proj": 20.78,
-     "live": 20.78,
+     "proj": 20.79,
+     "live": 20.79,
      "game": "Thu 8:15 pm @ LAR"
     },
     {
@@ -566,11 +566,11 @@
      "player": "M. Evans",
      "pos": "WR",
      "slot": "WR",
-     "rem": 12.51,
+     "rem": 12.55,
      "state": "pending",
      "pts": 0.0,
-     "proj": 12.51,
-     "live": 12.51,
+     "proj": 12.55,
+     "live": 12.55,
      "game": "Sun 1:00 pm @ NYG"
     },
     {
@@ -907,9 +907,9 @@
    "right": "Zen Buddha Boys 🪷💨",
    "rightRec": "4-7",
    "leftScore": 0.0,
-   "leftProj": 128.78,
+   "leftProj": 128.82,
    "rightScore": 0.0,
-   "rightProj": 127.79,
+   "rightProj": 127.15,
    "leftPct": 51,
    "leftRem": 9,
    "rightRem": 9,
@@ -941,11 +941,11 @@
      "player": "C. Skattebo",
      "pos": "RB",
      "slot": "RB",
-     "rem": 14.22,
+     "rem": 14.25,
      "state": "pending",
      "pts": 0.0,
-     "proj": 14.22,
-     "live": 14.22,
+     "proj": 14.25,
+     "live": 14.25,
      "game": "Sun 1:00 pm vs SF"
     },
     {
@@ -974,11 +974,11 @@
      "player": "G. Kittle",
      "pos": "TE",
      "slot": "TE",
-     "rem": 11.17,
+     "rem": 11.22,
      "state": "pending",
      "pts": 0.0,
-     "proj": 11.17,
-     "live": 11.17,
+     "proj": 11.22,
+     "live": 11.22,
      "game": "Sun 1:00 pm @ NYG"
     },
     {
@@ -1108,11 +1108,11 @@
      "player": "49ers",
      "pos": "DEF",
      "slot": "DEF",
-     "rem": 9.3,
+     "rem": 8.68,
      "state": "pending",
      "pts": 0.0,
-     "proj": 9.3,
-     "live": 9.3,
+     "proj": 8.68,
+     "live": 8.68,
      "game": "Sun 1:00 pm @ NYG"
     }
    ]
@@ -1124,9 +1124,9 @@
    "right": "RosterMogged",
    "rightRec": "5-6",
    "leftScore": 0.0,
-   "leftProj": 119.52,
+   "leftProj": 119.55,
    "rightScore": 0.0,
-   "rightProj": 100.05,
+   "rightProj": 100.11,
    "leftPct": 67,
    "leftRem": 9,
    "rightRem": 9,
@@ -1177,6 +1177,17 @@
      "game": "Sun 1:00 pm @ Cle"
     },
     {
+     "player": "M. Nabers",
+     "pos": "WR",
+     "slot": "WR",
+     "rem": 13.88,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 13.88,
+     "live": 13.88,
+     "game": "Sun 1:00 pm vs SF"
+    },
+    {
      "player": "S. Barkley",
      "pos": "RB",
      "slot": "RB",
@@ -1186,17 +1197,6 @@
      "proj": 13.84,
      "live": 13.84,
      "game": "Sun 4:05 pm @ Ari"
-    },
-    {
-     "player": "M. Nabers",
-     "pos": "WR",
-     "slot": "WR",
-     "rem": 13.83,
-     "state": "pending",
-     "pts": 0.0,
-     "proj": 13.83,
-     "live": 13.83,
-     "game": "Sun 1:00 pm vs SF"
     },
     {
      "player": "C. McLaughlin",
@@ -1237,11 +1237,11 @@
      "player": "B. Purdy",
      "pos": "QB",
      "slot": "QB",
-     "rem": 22.86,
+     "rem": 22.98,
      "state": "pending",
      "pts": 0.0,
-     "proj": 22.86,
-     "live": 22.86,
+     "proj": 22.98,
+     "live": 22.98,
      "game": "Sun 1:00 pm @ NYG"
     },
     {
