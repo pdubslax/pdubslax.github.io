@@ -2,7 +2,7 @@
  "v": 3,
  "week": 13,
  "tz": "ET",
- "ts": "2026-11-27T07:37:59+00:00",
+ "ts": "2026-11-27T07:58:16+00:00",
  "matchups": [
   {
    "id": "1v12",
@@ -996,7 +996,7 @@
      "game": "Sun 4:25 pm @ NE"
     },
     {
-     "player": "Bills",
+     "player": "Buffalo",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 9.79,
@@ -1108,7 +1108,7 @@
      "game": "Sun 4:05 pm vs Mia"
     },
     {
-     "player": "49ers",
+     "player": "S. Francisco",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 9.3,
@@ -1224,7 +1224,7 @@
      "game": "Sun 1:00 pm @ Ten"
     },
     {
-     "player": "Jaguars",
+     "player": "Jacksonville",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 5.27,
@@ -1325,7 +1325,7 @@
      "game": "Thu 8:15 pm vs KC"
     },
     {
-     "player": "Chiefs",
+     "player": "K. City",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 5.41,
