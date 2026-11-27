@@ -2,7 +2,7 @@
  "v": 3,
  "week": 13,
  "tz": "ET",
- "ts": "2026-11-27T00:03:53+00:00",
+ "ts": "2026-11-27T00:24:54+00:00",
  "matchups": [
   {
    "id": "1v12",
@@ -569,22 +569,22 @@
      "player": "T. McMillan",
      "pos": "WR",
      "slot": "WR",
-     "rem": 12.58,
+     "rem": 12.62,
      "state": "pending",
      "pts": 0.0,
-     "proj": 12.58,
-     "live": 12.58,
+     "proj": 12.62,
+     "live": 12.62,
      "game": "Sun 4:25 pm @ Min"
     },
     {
      "player": "W. Reichard",
      "pos": "K",
      "slot": "K",
-     "rem": 10.19,
+     "rem": 10.14,
      "state": "pending",
      "pts": 0.0,
-     "proj": 10.19,
-     "live": 10.19,
+     "proj": 10.14,
+     "live": 10.14,
      "game": "Sun 4:25 pm vs Car"
     },
     {
