@@ -2,7 +2,7 @@
  "v": 3,
  "week": 13,
  "tz": "ET",
- "ts": "2026-11-27T12:02:08+00:00",
+ "ts": "2026-11-27T12:22:24+00:00",
  "matchups": [
   {
    "id": "1v12",
@@ -801,7 +801,7 @@
      "game": "Mon 8:15 pm @ Sea"
     },
     {
-     "player": "Vikings",
+     "player": "Minnesota",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 9.05,
@@ -847,7 +847,7 @@
      "game": "Sun 4:25 pm vs Car"
     },
     {
-     "player": "Broncos",
+     "player": "Denver",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 12.78,
