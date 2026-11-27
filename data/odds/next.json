@@ -2,7 +2,7 @@
  "v": 3,
  "week": 13,
  "tz": "ET",
- "ts": "2026-11-27T18:50:39+00:00",
+ "ts": "2026-11-27T19:10:57+00:00",
  "matchups": [
   {
    "id": "1v12",
@@ -102,22 +102,22 @@
      "player": "M. Golden",
      "pos": "WR",
      "slot": "WR",
-     "rem": 17.11,
+     "rem": 17.08,
      "state": "pending",
      "pts": 0.0,
-     "proj": 17.11,
-     "live": 17.11,
+     "proj": 17.08,
+     "live": 17.08,
      "game": "Sun 1:00 pm @ NO"
     },
     {
      "player": "T. Etienne Jr.",
      "pos": "RB",
      "slot": "RB",
-     "rem": 11.1,
+     "rem": 11.15,
      "state": "pending",
      "pts": 0.0,
-     "proj": 11.1,
-     "live": 11.1,
+     "proj": 11.15,
+     "live": 11.15,
      "game": "Sun 1:00 pm vs GB"
     },
     {
@@ -279,11 +279,11 @@
      "player": "C. Watson",
      "pos": "WR",
      "slot": "WR",
-     "rem": 16.57,
+     "rem": 16.54,
      "state": "pending",
      "pts": 0.0,
-     "proj": 16.57,
-     "live": 16.57,
+     "proj": 16.54,
+     "live": 16.54,
      "game": "Sun 1:00 pm @ NO"
     },
     {
@@ -771,11 +771,11 @@
      "player": "T. Kraft",
      "pos": "TE",
      "slot": "TE",
-     "rem": 10.44,
+     "rem": 10.43,
      "state": "pending",
      "pts": 0.0,
-     "proj": 10.44,
-     "live": 10.44,
+     "proj": 10.43,
+     "live": 10.43,
      "game": "Sun 1:00 pm @ NO"
     },
     {
@@ -817,11 +817,11 @@
      "player": "J. Love",
      "pos": "QB",
      "slot": "QB",
-     "rem": 23.02,
+     "rem": 22.94,
      "state": "pending",
      "pts": 0.0,
-     "proj": 23.02,
-     "live": 23.02,
+     "proj": 22.94,
+     "live": 22.94,
      "game": "Sun 1:00 pm @ NO"
     },
     {
@@ -1161,11 +1161,11 @@
      "player": "C. Olave",
      "pos": "WR",
      "slot": "W/R/T",
-     "rem": 14.59,
+     "rem": 14.63,
      "state": "pending",
      "pts": 0.0,
-     "proj": 14.59,
-     "live": 14.59,
+     "proj": 14.63,
+     "live": 14.63,
      "game": "Sun 1:00 pm vs GB"
     },
     {
