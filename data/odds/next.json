@@ -2,7 +2,7 @@
  "v": 3,
  "week": 13,
  "tz": "ET",
- "ts": "2026-11-27T17:48:49+00:00",
+ "ts": "2026-11-27T18:09:13+00:00",
  "matchups": [
   {
    "id": "1v12",
@@ -462,7 +462,7 @@
    "right": "Chubb will Rise Again",
    "rightRec": "6-5",
    "leftScore": 0.0,
-   "leftProj": 129.71,
+   "leftProj": 129.75,
    "rightScore": 0.0,
    "rightProj": 76.76,
    "leftPct": 88,
@@ -547,11 +547,11 @@
      "player": "T. McBride",
      "pos": "TE",
      "slot": "TE",
-     "rem": 13.99,
+     "rem": 14.03,
      "state": "pending",
      "pts": 0.0,
-     "proj": 13.99,
-     "live": 13.99,
+     "proj": 14.03,
+     "live": 14.03,
      "game": "Sun 4:05 pm vs Phi"
     },
     {
