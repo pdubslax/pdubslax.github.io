@@ -2,7 +2,7 @@
  "v": 3,
  "week": 13,
  "tz": "ET",
- "ts": "2026-11-27T08:39:32+00:00",
+ "ts": "2026-11-27T08:59:47+00:00",
  "matchups": [
   {
    "id": "1v12",
@@ -143,7 +143,7 @@
      "game": "Sun 1:00 pm @ Ten"
     },
     {
-     "player": "N. York",
+     "player": "Giants",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 4.58,
@@ -222,7 +222,7 @@
      "game": "Sun 8:20 pm vs Hou"
     },
     {
-     "player": "Chicago",
+     "player": "Bears",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 6.26,
@@ -331,7 +331,7 @@
      "game": "Sun 4:05 pm vs Mia"
     },
     {
-     "player": "Cincinnati",
+     "player": "Bengals",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 9.68,
@@ -443,7 +443,7 @@
      "game": "Sun 8:20 pm @ Pit"
     },
     {
-     "player": "Washington",
+     "player": "Commanders",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 7.49,
