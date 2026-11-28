@@ -2,7 +2,7 @@
  "v": 3,
  "week": 13,
  "tz": "ET",
- "ts": "2026-11-28T04:43:16+00:00",
+ "ts": "2026-11-28T05:03:34+00:00",
  "matchups": [
   {
    "id": "1v12",
@@ -459,9 +459,9 @@
    "right": "Chubb will Rise Again",
    "rightRec": "6-5",
    "leftScore": 0.0,
-   "leftProj": 129.42,
+   "leftProj": 129.43,
    "rightScore": 0.0,
-   "rightProj": 76.85,
+   "rightProj": 76.86,
    "leftPct": 88,
    "leftRem": 9,
    "rightRem": 7,
@@ -511,11 +511,11 @@
      "player": "P. Mahomes",
      "pos": "QB",
      "slot": "QB",
-     "rem": 20.79,
+     "rem": 20.8,
      "state": "pending",
      "pts": 0.0,
-     "proj": 20.79,
-     "live": 20.79,
+     "proj": 20.8,
+     "live": 20.8,
      "game": "Thu 8:15 pm @ LAR"
     },
     {
@@ -645,11 +645,11 @@
      "player": "J. Downs",
      "pos": "WR",
      "slot": "WR",
-     "rem": 8.08,
+     "rem": 8.09,
      "state": "pending",
      "pts": 0.0,
-     "proj": 8.08,
-     "live": 8.08,
+     "proj": 8.09,
+     "live": 8.09,
      "game": "Thu 8:15 pm @ LAR"
     },
     {
