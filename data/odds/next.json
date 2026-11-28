@@ -2,7 +2,7 @@
  "v": 3,
  "week": 13,
  "tz": "ET",
- "ts": "2026-11-28T12:51:48+00:00",
+ "ts": "2026-11-28T13:12:04+00:00",
  "matchups": [
   {
    "id": "1v12",
@@ -11,9 +11,9 @@
    "right": "Matt #2 Stephano",
    "rightRec": "7-4",
    "leftScore": 0.0,
-   "leftProj": 103.07,
+   "leftProj": 103.06,
    "rightScore": 0.0,
-   "rightProj": 92.26,
+   "rightProj": 92.24,
    "leftPct": 59,
    "leftRem": 8,
    "rightRem": 7,
@@ -132,11 +132,11 @@
      "player": "C. Rodriguez Jr.",
      "pos": "RB",
      "slot": "RB",
-     "rem": 5.5,
+     "rem": 5.49,
      "state": "pending",
      "pts": 0.0,
-     "proj": 5.5,
-     "live": 5.5,
+     "proj": 5.49,
+     "live": 5.49,
      "game": "Sun 1:00 pm @ Chi"
     },
     {
@@ -222,11 +222,11 @@
      "player": "Bears",
      "pos": "DEF",
      "slot": "DEF",
-     "rem": 6.3,
+     "rem": 6.28,
      "state": "pending",
      "pts": 0.0,
-     "proj": 6.3,
-     "live": 6.3,
+     "proj": 6.28,
+     "live": 6.28,
      "game": "Sun 1:00 pm vs Jax"
     }
    ]
@@ -240,7 +240,7 @@
    "leftScore": 0.0,
    "leftProj": 99.7,
    "rightScore": 0.0,
-   "rightProj": 124.19,
+   "rightProj": 124.16,
    "leftPct": 30,
    "leftRem": 8,
    "rightRem": 9,
@@ -410,11 +410,11 @@
      "player": "R. Odunze",
      "pos": "WR",
      "slot": "W/R/T",
-     "rem": 10.79,
+     "rem": 10.76,
      "state": "pending",
      "pts": 0.0,
-     "proj": 10.79,
-     "live": 10.79,
+     "proj": 10.76,
+     "live": 10.76,
      "game": "Sun 1:00 pm vs Jax"
     },
     {
@@ -459,9 +459,9 @@
    "right": "Chubb will Rise Again",
    "rightRec": "6-5",
    "leftScore": 0.0,
-   "leftProj": 129.41,
+   "leftProj": 129.38,
    "rightScore": 0.0,
-   "rightProj": 76.73,
+   "rightProj": 76.69,
    "leftPct": 88,
    "leftRem": 9,
    "rightRem": 7,
@@ -533,11 +533,11 @@
      "player": "D. Swift",
      "pos": "RB",
      "slot": "RB",
-     "rem": 14.2,
+     "rem": 14.17,
      "state": "pending",
      "pts": 0.0,
-     "proj": 14.2,
-     "live": 14.2,
+     "proj": 14.17,
+     "live": 14.17,
      "game": "Sun 1:00 pm vs Jax"
     },
     {
@@ -634,11 +634,11 @@
      "player": "C. Little",
      "pos": "K",
      "slot": "K",
-     "rem": 9.35,
+     "rem": 9.32,
      "state": "pending",
      "pts": 0.0,
-     "proj": 9.35,
-     "live": 9.35,
+     "proj": 9.32,
+     "live": 9.32,
      "game": "Sun 1:00 pm @ Chi"
     },
     {
@@ -667,11 +667,11 @@
      "player": "J. Cameron",
      "pos": "WR",
      "slot": "W/R/T",
-     "rem": 3.87,
+     "rem": 3.86,
      "state": "pending",
      "pts": 0.0,
-     "proj": 3.87,
-     "live": 3.87,
+     "proj": 3.86,
+     "live": 3.86,
      "game": "Sun 1:00 pm @ Chi"
     }
    ]
@@ -683,7 +683,7 @@
    "right": "I think we have corum",
    "rightRec": "5-6",
    "leftScore": 0.0,
-   "leftProj": 93.46,
+   "leftProj": 93.37,
    "rightScore": 0.0,
    "rightProj": 113.46,
    "leftPct": 32,
@@ -724,22 +724,22 @@
      "player": "T. Lawrence",
      "pos": "QB",
      "slot": "QB",
-     "rem": 21.27,
+     "rem": 21.21,
      "state": "pending",
      "pts": 0.0,
-     "proj": 21.27,
-     "live": 21.27,
+     "proj": 21.21,
+     "live": 21.21,
      "game": "Sun 1:00 pm @ Chi"
     },
     {
      "player": "L. Burden III",
      "pos": "WR",
      "slot": "WR",
-     "rem": 13.76,
+     "rem": 13.73,
      "state": "pending",
      "pts": 0.0,
-     "proj": 13.76,
-     "live": 13.76,
+     "proj": 13.73,
+     "live": 13.73,
      "game": "Sun 1:00 pm vs Jax"
     },
     {
@@ -909,7 +909,7 @@
    "leftScore": 0.0,
    "leftProj": 128.83,
    "rightScore": 0.0,
-   "rightProj": 127.92,
+   "rightProj": 127.84,
    "leftPct": 51,
    "leftRem": 9,
    "rightRem": 9,
@@ -993,7 +993,7 @@
      "game": "Sun 4:25 pm @ NE"
     },
     {
-     "player": "Bills",
+     "player": "Buffalo",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 9.83,
@@ -1020,11 +1020,11 @@
      "player": "C. Williams",
      "pos": "QB",
      "slot": "QB",
-     "rem": 22.44,
+     "rem": 22.38,
      "state": "pending",
      "pts": 0.0,
-     "proj": 22.44,
-     "live": 22.44,
+     "proj": 22.38,
+     "live": 22.38,
      "game": "Sun 1:00 pm vs Jax"
     },
     {
@@ -1086,11 +1086,11 @@
      "player": "C. Loveland",
      "pos": "TE",
      "slot": "TE",
-     "rem": 10.23,
+     "rem": 10.21,
      "state": "pending",
      "pts": 0.0,
-     "proj": 10.23,
-     "live": 10.23,
+     "proj": 10.21,
+     "live": 10.21,
      "game": "Sun 1:00 pm vs Jax"
     },
     {
@@ -1105,7 +1105,7 @@
      "game": "Sun 4:05 pm vs Mia"
     },
     {
-     "player": "49ers",
+     "player": "S. Francisco",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 9.3,
@@ -1124,9 +1124,9 @@
    "right": "RosterMogged",
    "rightRec": "5-6",
    "leftScore": 0.0,
-   "leftProj": 119.18,
+   "leftProj": 119.16,
    "rightScore": 0.0,
-   "rightProj": 100.06,
+   "rightProj": 100.04,
    "leftPct": 67,
    "leftRem": 9,
    "rightRem": 9,
@@ -1221,14 +1221,14 @@
      "game": "Sun 1:00 pm @ Ten"
     },
     {
-     "player": "Jaguars",
+     "player": "Jacksonville",
      "pos": "DEF",
      "slot": "DEF",
-     "rem": 5.27,
+     "rem": 5.25,
      "state": "pending",
      "pts": 0.0,
-     "proj": 5.27,
-     "live": 5.27,
+     "proj": 5.25,
+     "live": 5.25,
      "game": "Sun 1:00 pm @ Chi"
     }
    ],
@@ -1292,11 +1292,11 @@
      "player": "C. Santos",
      "pos": "K",
      "slot": "K",
-     "rem": 9.3,
+     "rem": 9.28,
      "state": "pending",
      "pts": 0.0,
-     "proj": 9.3,
-     "live": 9.3,
+     "proj": 9.28,
+     "live": 9.28,
      "game": "Sun 1:00 pm vs Jax"
     },
     {
@@ -1322,7 +1322,7 @@
      "game": "Thu 8:15 pm vs KC"
     },
     {
-     "player": "Chiefs",
+     "player": "K. City",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 5.37,
