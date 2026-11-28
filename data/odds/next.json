@@ -2,7 +2,7 @@
  "v": 3,
  "week": 13,
  "tz": "ET",
- "ts": "2026-11-28T11:51:01+00:00",
+ "ts": "2026-11-28T12:11:18+00:00",
  "matchups": [
   {
    "id": "1v12",
@@ -11,7 +11,7 @@
    "right": "Matt #2 Stephano",
    "rightRec": "7-4",
    "leftScore": 0.0,
-   "leftProj": 103.07,
+   "leftProj": 103.03,
    "rightScore": 0.0,
    "rightProj": 92.8,
    "leftPct": 59,
@@ -110,11 +110,11 @@
      "player": "S. LaPorta",
      "pos": "TE",
      "slot": "TE",
-     "rem": 10.71,
+     "rem": 10.67,
      "state": "pending",
      "pts": 0.0,
-     "proj": 10.71,
-     "live": 10.71,
+     "proj": 10.67,
+     "live": 10.67,
      "game": "Sun 1:00 pm @ Atl"
     },
     {
@@ -240,7 +240,7 @@
    "leftScore": 0.0,
    "leftProj": 99.19,
    "rightScore": 0.0,
-   "rightProj": 124.25,
+   "rightProj": 124.19,
    "leftPct": 30,
    "leftRem": 8,
    "rightRem": 9,
@@ -388,11 +388,11 @@
      "player": "D. London",
      "pos": "WR",
      "slot": "WR",
-     "rem": 16.34,
+     "rem": 16.28,
      "state": "pending",
      "pts": 0.0,
-     "proj": 16.34,
-     "live": 16.34,
+     "proj": 16.28,
+     "live": 16.28,
      "game": "Sun 1:00 pm vs Det"
     },
     {
@@ -459,7 +459,7 @@
    "right": "Chubb will Rise Again",
    "rightRec": "6-5",
    "leftScore": 0.0,
-   "leftProj": 128.74,
+   "leftProj": 128.69,
    "rightScore": 0.0,
    "rightProj": 76.73,
    "leftPct": 88,
@@ -500,11 +500,11 @@
      "player": "J. Gibbs",
      "pos": "RB",
      "slot": "RB",
-     "rem": 26.49,
+     "rem": 26.44,
      "state": "pending",
      "pts": 0.0,
-     "proj": 26.49,
-     "live": 26.49,
+     "proj": 26.44,
+     "live": 26.44,
      "game": "Sun 1:00 pm @ Atl"
     },
     {
@@ -685,7 +685,7 @@
    "leftScore": 0.0,
    "leftProj": 93.46,
    "rightScore": 0.0,
-   "rightProj": 113.46,
+   "rightProj": 113.4,
    "leftPct": 32,
    "leftRem": 8,
    "rightRem": 8,
@@ -855,17 +855,6 @@
      "game": "Sun 4:05 pm vs Mia"
     },
     {
-     "player": "J. Williams",
-     "pos": "WR",
-     "slot": "WR",
-     "rem": 12.16,
-     "state": "pending",
-     "pts": 0.0,
-     "proj": 12.16,
-     "live": 12.16,
-     "game": "Sun 1:00 pm @ Atl"
-    },
-    {
      "player": "B. Corum",
      "pos": "RB",
      "slot": "W/R/T",
@@ -875,6 +864,17 @@
      "proj": 12.12,
      "live": 12.12,
      "game": "Thu 8:15 pm vs KC"
+    },
+    {
+     "player": "J. Williams",
+     "pos": "WR",
+     "slot": "WR",
+     "rem": 12.1,
+     "state": "pending",
+     "pts": 0.0,
+     "proj": 12.1,
+     "live": 12.1,
+     "game": "Sun 1:00 pm @ Atl"
     },
     {
      "player": "E. McPherson",
@@ -907,9 +907,9 @@
    "right": "Zen Buddha Boys 🪷💨",
    "rightRec": "4-7",
    "leftScore": 0.0,
-   "leftProj": 128.65,
+   "leftProj": 128.6,
    "rightScore": 0.0,
-   "rightProj": 127.86,
+   "rightProj": 127.79,
    "leftPct": 51,
    "leftRem": 9,
    "rightRem": 9,
@@ -930,11 +930,11 @@
      "player": "B. Robinson",
      "pos": "RB",
      "slot": "RB",
-     "rem": 21.86,
+     "rem": 21.81,
      "state": "pending",
      "pts": 0.0,
-     "proj": 21.86,
-     "live": 21.86,
+     "proj": 21.81,
+     "live": 21.81,
      "game": "Sun 1:00 pm vs Det"
     },
     {
@@ -1031,11 +1031,11 @@
      "player": "A. St. Brown",
      "pos": "WR",
      "slot": "WR",
-     "rem": 18.07,
+     "rem": 18.0,
      "state": "pending",
      "pts": 0.0,
-     "proj": 18.07,
-     "live": 18.07,
+     "proj": 18.0,
+     "live": 18.0,
      "game": "Sun 1:00 pm @ Atl"
     },
     {
