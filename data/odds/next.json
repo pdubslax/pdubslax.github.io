@@ -2,7 +2,7 @@
  "v": 3,
  "week": 13,
  "tz": "ET",
- "ts": "2026-11-28T14:33:05+00:00",
+ "ts": "2026-11-28T14:54:25+00:00",
  "matchups": [
   {
    "id": "1v12",
@@ -787,7 +787,7 @@
      "game": "Mon 8:15 pm @ Sea"
     },
     {
-     "player": "Minnesota",
+     "player": "Vikings",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 9.0,
@@ -844,7 +844,7 @@
      "game": "Sun 4:25 pm vs Car"
     },
     {
-     "player": "Denver",
+     "player": "Broncos",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 12.76,
@@ -993,7 +993,7 @@
      "game": "Sun 4:25 pm @ NE"
     },
     {
-     "player": "Buffalo",
+     "player": "Bills",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 9.83,
@@ -1105,7 +1105,7 @@
      "game": "Sun 4:05 pm vs Mia"
     },
     {
-     "player": "S. Francisco",
+     "player": "49ers",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 9.3,
@@ -1221,7 +1221,7 @@
      "game": "Sun 1:00 pm @ Ten"
     },
     {
-     "player": "Jacksonville",
+     "player": "Jaguars",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 5.27,
@@ -1322,7 +1322,7 @@
      "game": "Thu 8:15 pm vs KC"
     },
     {
-     "player": "K. City",
+     "player": "Chiefs",
      "pos": "DEF",
      "slot": "DEF",
      "rem": 5.37,
